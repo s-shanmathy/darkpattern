@@ -1,2 +1,8 @@
 web_data filter=lfs diff=lfs merge=lfs -text
+distilroberta filter=lfs diff=lfs merge=lfs -text
+distilroberta/** filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
 *.safetensors filter=lfs diff=lfs merge=lfs -text
+distilroberta/distilroberta_darkpattern_detection/model.safetensors filter=lfs diff=lfs merge=lfs -text

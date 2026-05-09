@@ -1,21 +1,3 @@
-{
-  "manifest_version": 3,
-  "name": "Dark Pattern Detector",
-  "version": "1.0",
-  "description": "Scans web pages in real-time to highlight dark patterns.",
-  "permissions": [
-    "activeTab",
-    "scripting"
-  ],
-  "action": {
-    "default_popup": "popup.html",
-    "default_title": "Dark Pattern Detector"
-  },
-  "content_scripts": [
-    {
-      "matches": ["<all_urls>"],
-      "js": ["content.js"],
-      "css": ["styles.css"]
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c89bd69671447ee83b93f72868660f1b3efc22e73798c13f78a3d6604107ec3
+size 445
