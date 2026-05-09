@@ -1,0 +1,1018 @@
+{
+    "title": "SMMRY - Summarize articles, text, websites, essays and documents",
+    "url": "smmry.com",
+    "full_url": "https://smmry.com/",
+    "images": [
+        {
+            "alt": "SMMRY - Summarize Everything",
+            "location": {
+                "x": 224,
+                "y": 28
+            },
+            "size": {
+                "height": 110,
+                "width": 575
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 544,
+                "y": 153
+            },
+            "size": {
+                "height": 23,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 28,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 28,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 28,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 308,
+                "y": 450
+            },
+            "size": {
+                "height": 35,
+                "width": 146
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "file",
+            "location": {
+                "x": -1776,
+                "y": 450
+            },
+            "size": {
+                "height": 142,
+                "width": 2232
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 462,
+                "y": 450
+            },
+            "size": {
+                "height": 35,
+                "width": 255
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 306,
+                "y": 490
+            },
+            "size": {
+                "height": 28,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 548,
+                "y": 490
+            },
+            "size": {
+                "height": 40,
+                "width": 170
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": -100,
+                "y": 0
+            },
+            "size": {
+                "height": 22,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            152,
+            56,
+            151
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "desc": "Summarize articles, text, websites, essays and documents for free with SMMRY",
+    "navbar": "SMMRY",
+    "text": "Summarize my text in sentences.\nSMMRY summarizes text to save you time.\n\nPaste an article, text or essay in this box and hit summarize; we'll return a shortened copy for you to read.\n\nYou can also summarize PDF and TXT documents by uploading a file or summarize online articles and webpages by pasting the URL below...\n\n\n\n\n\n\n\n\n\n\nSMMRY|ABOUT|API|PARTNER|BOOKMARK WIDGET|CONTACT\nREGISTER|LOGIN\n\n© 2022 Smmry.com",
+    "font": "Verdana, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "reCAPTCHA",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "AddThis utility frame",
+            "location": {
+                "x": 8,
+                "y": -9999
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "recaptcha challenge expires in two minutes",
+            "location": {
+                "x": 1,
+                "y": -9999
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

@@ -1,0 +1,80 @@
+{
+    "title": "Welcome to Sitecore",
+    "url": "seaworldcares.com",
+    "full_url": "https://seaworldcares.com/",
+    "images": [
+        {
+            "alt": "Sitecore",
+            "location": {
+                "x": 20,
+                "y": 20
+            },
+            "size": {
+                "height": 18,
+                "width": 65
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            20,
+            20,
+            20
+        ],
+        [
+            192,
+            192,
+            192
+        ]
+    ],
+    "text": "Test 3 Column Offers Module 3 Column v2.1\nFrom a single connected platform that also integrates with other customer-facing platforms, to a single view of the customer in a big data marketing repository, to completely eliminating much of the complexity that has previously held marketers back, the latest version of Sitecore makes customer experience highly achievable. Learn how the latest version of Sitecore gives marketers the complete data, integrated tools, and automation capabilities to engage customers throughout an iterative lifecycle – the technology foundation absolutely necessary to win customers for life.  SeaWorld\nFor further information, please go to the Sitecore Documentation site\n© 2022 Sitecore\nTest 3 Column Offers Module 3 Column v2.1\nFrom a single connected platform that also integrates with other customer-facing platforms, to a single view of the customer in a big data marketing repository, to completely eliminating much of the complexity that has previously held marketers back, the latest version of Sitecore makes customer experience highly achievable. Learn how the latest version of Sitecore gives marketers the complete data, integrated tools, and automation capabilities to engage customers throughout an iterative lifecycle – the technology foundation absolutely necessary to win customers for life.  SeaWorld\nFor further information, please go to the Sitecore Documentation site",
+    "font": "\"Open Sans\", Arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

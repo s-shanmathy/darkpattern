@@ -1,0 +1,742 @@
+{
+    "title": "MacRumors: Apple News and Rumors",
+    "url": "macrumors.com",
+    "full_url": "https://www.macrumors.com/",
+    "images": [
+        {
+            "alt": "Mac Rumors",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 71,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mac Rumors",
+            "location": {
+                "x": 20,
+                "y": 10
+            },
+            "size": {
+                "height": 71,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MacRumors",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Apple car wheel icon feature yellow",
+            "location": {
+                "x": 20,
+                "y": 287
+            },
+            "size": {
+                "height": 150,
+                "width": 251
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Accessories Deals 2022 Hero",
+            "location": {
+                "x": 281,
+                "y": 287
+            },
+            "size": {
+                "height": 150,
+                "width": 251
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple car wheel icon feature blue",
+            "location": {
+                "x": 542,
+                "y": 287
+            },
+            "size": {
+                "height": 150,
+                "width": 251
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "introducing apple music sing",
+            "location": {
+                "x": 803,
+                "y": 287
+            },
+            "size": {
+                "height": 150,
+                "width": 251
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "kardiamobile alivecor",
+            "location": {
+                "x": 36,
+                "y": 850
+            },
+            "size": {
+                "height": 326,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple car wheel icon feature yellow",
+            "location": {
+                "x": 36,
+                "y": 1928
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ipad magic keyboard holiday",
+            "location": {
+                "x": 36,
+                "y": 2778
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "m1 4nm feature2",
+            "location": {
+                "x": 36,
+                "y": 3814
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Accessories Deals 2022 Hero",
+            "location": {
+                "x": 36,
+                "y": 4686
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple car wheel icon feature blue",
+            "location": {
+                "x": 36,
+                "y": 5721
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iOS App Store General Feature JoeBlue",
+            "location": {
+                "x": 36,
+                "y": 6593
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "apple music sing",
+            "location": {
+                "x": 36,
+                "y": 7480
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "introducing apple music sing",
+            "location": {
+                "x": 36,
+                "y": 8227
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple vs Microsoft feature",
+            "location": {
+                "x": 36,
+                "y": 9157
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pixelmator Pro 3",
+            "location": {
+                "x": 36,
+                "y": 9946
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "homepod mini denmark 1",
+            "location": {
+                "x": 36,
+                "y": 10856
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google Logo Feature Slack",
+            "location": {
+                "x": 36,
+                "y": 11643
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "airtag 1",
+            "location": {
+                "x": 36,
+                "y": 12532
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ipad mini trademark specimen",
+            "location": {
+                "x": 36,
+                "y": 13341
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple EU Self Service repair iPhone big",
+            "location": {
+                "x": 36,
+                "y": 14209
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "homepod mini colors",
+            "location": {
+                "x": 36,
+                "y": 15018
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "atlanta apple store",
+            "location": {
+                "x": 36,
+                "y": 15968
+            },
+            "size": {
+                "height": 581,
+                "width": 581
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iPhone 14 Pro Display Two Times Brighter Feature",
+            "location": {
+                "x": 668,
+                "y": 993
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "macos ventura upcoming square",
+            "location": {
+                "x": 668,
+                "y": 1084
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ios 16 1 square sidebar",
+            "location": {
+                "x": 668,
+                "y": 1168
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "watchOS 9 header",
+            "location": {
+                "x": 668,
+                "y": 1277
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "macbook pro 16 upcoming square",
+            "location": {
+                "x": 668,
+                "y": 2104
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mac Mini top down",
+            "location": {
+                "x": 668,
+                "y": 2196
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mac pro tower close up",
+            "location": {
+                "x": 668,
+                "y": 2279
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iMac Pro 2022 27 and 24 iMac",
+            "location": {
+                "x": 668,
+                "y": 2363
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iphone x speakerphone call handsfree",
+            "location": {
+                "x": 668,
+                "y": 6373
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "apple logo backlit mac",
+            "location": {
+                "x": 668,
+                "y": 6462
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ios 16 2 beta notifiation center",
+            "location": {
+                "x": 668,
+                "y": 6545
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "messages lock screen",
+            "location": {
+                "x": 668,
+                "y": 6634
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "tim cook spring loaded event",
+            "location": {
+                "x": 668,
+                "y": 6722
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search Site...",
+            "type": "text",
+            "location": {
+                "x": 1009,
+                "y": 95
+            },
+            "size": {
+                "height": 32,
+                "width": 37
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 32,
+                "width": 37
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            25,
+            25,
+            25
+        ],
+        [
+            20,
+            38,
+            59
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "Apple News and Rumors",
+    "navbar": "Front Page\nRoundups\nGuides\nHow Tos\nReviews\nBuyer's Guide\nForums\nSearch\nApple Black FridayiPadOS 16macOS Ventura14 & 16\" MacBook ProiOS 16iPad ProiPhone 14iPhone 14 ProApple Watch Series 8Apple Watch UltraApple TViPad13\" MacBook ProAirPods 3Apple Pro Display XDRHomePod miniMac ProMacBook AirmacOS MontereyiPadOS 15iPhone 13iPhone 13 ProAirPods MaxAirPods ProApple DealsApple GlassesApple Studio DisplayApple Watch SEMac StudioMac miniiMaciPad Air iPad miniiPhone 12iPhone SEwatchOS 9iPhone 15Apple CarCarPlayApple Pay\nAll >",
+    "text": "Got a tip for us?Let us know\nPodcast\nInstagram\nFacebook\nTwitter\nMastodon\nYouTube\nNotifications\nRSS\nNewsletter\nFront Page\nRoundups\nGuides\nHow Tos\nReviews\nBuyer's Guide\nForums\nSearch\nApple Black FridayiPadOS 16macOS Ventura14 & 16\" MacBook ProiOS 16iPad ProiPhone 14iPhone 14 ProApple Watch Series 8Apple Watch UltraApple TViPad13\" MacBook ProAirPods 3Apple Pro Display XDRHomePod miniMac ProMacBook AirmacOS MontereyiPadOS 15iPhone 13iPhone 13 ProAirPods MaxAirPods ProApple DealsApple GlassesApple Studio DisplayApple Watch SEMac StudioMac miniiMaciPad Air iPad miniiPhone 12iPhone SEwatchOS 9iPhone 15Apple CarCarPlayApple Pay\nAll >\nApple to Charge Under $100,000 for Apple Car, Launch Planned for 2026\nWrap Up Your Holiday Shopping With Our Exclusive Apple Accessory Sales at Nomad, Satechi, Twelve South, and More\nApple Car Project Scaled Back and Delayed, Won't Feature Full Self-Driving Capabilities\nApple Music Adding a Karaoke Experience With Apple Music Sing\nAAA game price increase\nIf your on the fence: This is why I chose the M2 MBA over 14\" or 16\" M1 MBP\nI ditched my iPad and used Microsoft Surface 3 for a month\nGetting out of the ecosystem\nApple Scores Win in AliveCor Legal Battle With USPTO Invalidating Several Patents\nTuesday December 6, 2022 4:51 pm PST by Juli Clover\nThe United States Patent and Trademark Office's Patent Trial and Appeal Board today invalidated a trio of AliveCor patents that AliveCor used in a complaint with the International Trade Commission, which is a win for Apple. The patents all related to heart rate monitoring technology used in AliveCor products.\n\nAliveCor in April 2021 filed a complaint with the ITC alleging that Apple had infringed on several of its patents with the Apple Watch, and an ITC judge ultimately ruled in AliveCor's favor in June. The ITC at the time issued an initial determination that Apple infringed on AliveCor patent technology, which Apple is now appealing. If a final ruling determines Apple infringed on the patents, the ITC could issue an import ban on the Apple Watch.\nApple asked for a review of the claims in three of the patents that AliveCor was using against it, and the USPTO's Appeals Board found that multiple claims in U.S. Patent No. , U.S. Patent No. , and U.S. Patent No. are \"held to be unpatenable.\"\nShow Full Article\n9 comments\nApple to Charge Under $100,000 for Apple Car, Launch Planned for 2026\nTuesday December 6, 2022 2:31 pm PST by Juli Clover\nApple is aiming to launch an Apple-branded consumer-oriented vehicle by 2026, and its goal is to hit a price point under $100,000 to make the car appeal to a wider range of customers, reports Bloomberg.\n\nApple initially planned to design a car that might look similar to Canoo's , where passengers could face one another in a limousine-style car with no steering wheel or pedals, but the project has been scaled back. The vehicle will now have a more traditional design with a driver's seat, steering wheel, and pedals, and , but the car will be able to use a self-driving mode on highways.\n\nApple's main competitor will likely be Tesla, a brand that features electric vehicles with some self-driving functionality. Tesla vehicles are priced starting at around $47,000, but can go up to over $100,000. If the base is priced at or around $100,000, it will compete with Tesla's higher-end Model S.\nShow Full Article\n184 comments\nDeals: Apple's Magic Keyboard for 11-Inch iPad Pro and iPad Air Drops to $209.99 ($89 Off)\nTuesday December 6, 2022 1:30 pm PST by Eric Slivka\nApple's Magic Keyboard for the 11-inch iPad Pro and iPad Air is seeing big discounts at Amazon today and is now available for $209.99, down from $299.00. The keyboard is available in both black and white at this price, although Amazon is showing limited stock of the white version and delivery of both models won't be until just a few days before Christmas.\n\nShow Full Article\n24 comments\nTim Cook Confirms Apple Will Buy TSMC Chips Manufactured in Arizona\nTuesday December 6, 2022 12:51 pm PST by Juli Clover\nApple CEO Tim Cook today confirmed that Apple plans to purchase chips from U.S.-based TSMC factories that are being constructed in Arizona, reports CNBC.\n\nCook was in Arizona at the announcement of TSMC's investment in the state, which was also attended by U.S. President Joe Biden. \"And now, thanks to the hard work of so many people, these chips can be proudly stamped Made in America,\" said Cook. \"This is an incredibly significant moment.\"\nShow Full Article\n81 comments\nWrap Up Your Holiday Shopping With Our Exclusive Apple Accessory Sales at Nomad, Satechi, Twelve South, and More\nTuesday December 6, 2022 12:27 pm PST by Mitchel Broussard\nWe're right in the middle of the holiday shopping season, so in an effort to help our readers with any last-minute present shopping we've accumulated a list of exclusive sales from companies including Nomad, Satechi, Pad & Quill, Twelve South, and 1Password. Additionally, we're tracking a notable sitewide discount from ZAGG below.\n\n\n\n\nAt , you can get 20 percent off your entire order with the promo code MacRumors20. This promo code will last through December 25 for users in the United States.\n\n\nAt , our readers have a chance to save on Apple accessories all the way through Christmas day. With our exclusive discount code you can save an extra 15 percent sitewide on Pad & Quill, including accessories for iPhone, Apple Watch, iPad, and MacBook.\n\n\nPopular password management service is offering our readers a chance to get their first full year of 1Password Individual at half the price. This offer is only available to new customers, and no promo code is needed. You can simply find the offer waiting for new customers to create an account .\n\nOn , you can get 25 percent off up to three items sitewide, including from ZAGG itself, Mophie, InvisibleShield, and Gear4. This sale has discounts on screen protectors, portable batteries, battery cases, charging cables, and more.\nShow Full Article\n7 comments\nApple Car Project Scaled Back and Delayed, Won't Feature Full Self-Driving Capabilities\nTuesday December 6, 2022 11:05 am PST by Juli Clover\nApple has scaled back its Apple Car project and the company no longer plans to release a fully self-driving vehicle, reports Bloomberg.\n\nApple wanted to create a self-driving car without a steering wheel or pedals, but has decided that such a plan is not feasible at the current time. The vehicle will have guided driving features that work on highways, but it will not be able to operate entirely on its own at all times.\nShow Full Article\n170 comments\nApple Announces App Store Changes, Including Expanded Pricing Up to $10,000\nTuesday December 6, 2022 10:00 am PST by Joe Rossignol\nApple today announced it is providing developers with an additional 700 price points for App Store apps, allowing apps to be priced as low as 29 cents, or as high as $10,000. Developers who want to price their app above $1,000 must submit a request to Apple to help prevent meaninglessly expensive apps from being released on the App Store.\n\nIn total, developers will have the ability to select from 900 price points, with the 100 highest price points available upon request only. The new price points will increase incrementally, including every 10 cents up to $10, every 50 cents between $10 and $50, and so forth. Rounded price endings will also be available (such as $0.90 or $1.00), along with prices that begin with two repeating digits (such as ₩110,000 in South Korea.)\n\nShow Full Article\n103 comments\nApple Music Sing Limited to Latest Apple TV, Not Coming to Older Models\nTuesday December 6, 2022 8:13 am PST by Sami Fathi\nApple earlier today announced a new feature coming to Apple Music that will allow users to sing along to their favorite songs, either alone or with friends and family. The new feature will be a perfect fit ahead of the holidays and parties; unfortunately, there is one big catch.\n\n‌Apple Music‌ Sing will only work with the latest 4K model, which was announced in October, according to Apple's earlier today. The limitation will mean customers of older ‌Apple TV‌ models will miss out on the new feature. ‌Apple Music‌ Sing will also be available on the 11 and later and the third-generation and later.\nShow Full Article\n129 comments\nApple Music Adding a Karaoke Experience With Apple Music Sing\nTuesday December 6, 2022 7:09 am PST by Sami Fathi\nApple today announced Apple Music Sing, a new feature in ‌Apple Music‌ that lets users sing their favorite songs with adjustable vocals and more.\n\n‌Apple Music‌ Sing will utilize ‌Apple Music‌'s real-time lyrics to allow users to sing to their favorite songs using adjustable vocals, background vocals, and duet view to allow more than one singer.\n\nShow Full Article\n87 comments\nMicrosoft Considering Building All-In-One App for Search, Shopping, Messaging, and More\nTuesday December 6, 2022 6:41 am PST by Sami Fathi\nMicrosoft is looking to build a \"super app\" that incorporates a messaging platform, shopping, web search, and news into a single app, an apparent attempt to go after Apple and Google's app store platforms.\n\nAccording to a report today by , Microsoft has been in the early stages of building a \"super app\" at the direction of the company's CEO Satya Nadella. Nadella has reportedly instructed teams at Microsoft to better integrate Bing, the company's search engine, into other services and apps, such as Microsoft Teams and Outlook, as a groundwork for the \"super app.\"\n\n\nShow Full Article\n116 comments\nPixelmator Pro 3.2 for Mac Introduces Video Editing Support\nTuesday December 6, 2022 6:00 am PST by Tim Hardwick\nPixelmator 3.2 \"Lumière\" went live on the Mac App Store today, and the latest major update to the popular image editing app brings the ability to edit videos, along with other notable feature additions.\n\nVersion 3.2 of the app lets users make quick edits to videos, such as trimming, cropping, and color adjustment, and lets users combine them with text, images, and shapes, apply masks, and more, without leaving Pixelmator Pro.\n\nShow Full Article\n31 comments\nHomePod Mini Coming to Denmark in the Spring, Says Apple\nTuesday December 6, 2022 3:58 am PST by Tim Hardwick\nAfter publishing a series of press releases today announcing HomePod mini availability in several additional countries later this month, Apple has updated its Danish regional store to indicate the smart speaker will launch in Denmark in spring 2023, priced at 899 Krone.\n\nDenmark was originally expected to see a local ‌HomePod mini‌ launch in tandem with Finland, Norway, and Sweden, based on the fact that on HomePod was to support those countries' respective languages.\nShow Full Article\n54 comments\nGoogle Search Brings Continuous Scrolling to Desktop Users in the US\nTuesday December 6, 2022 3:01 am PST by Tim Hardwick\nGoogle search queries on desktop will now return results in a continuous scroll instead of being divided into several pages, the company announced today (via The Verge).\n\nThe change is reminiscent of the way modern social media feeds work, although Google's version isn't quite the \"infinite scroll\" that social network users will be familiar with. Google says a search will now return six pages of results in a single scroll, before offering users a \"See more\" button to show additional results.\n\nGoogle says the change is rolling out first for English searches originating in the US. The company added continuous scroll to its namesake mobile app in , so it's likely the feature will expand to other countries and languages in future.\nShow Full Article\n60 comments\nApple Sued by Women After Exes Use AirTags to Stalk Them\nTuesday December 6, 2022 2:30 am PST by Sami Fathi\nApple is facing a lawsuit in federal court in San Francisco by two women, one of which claims her ex-boyfriend used an AirTag to track her without her consent, reports Bloomberg.\n\nSince their release in April 2021, the use of Apple's has raised concerns among privacy groups and law enforcement that the trackers could be used for illegal tracking. Apple has built several safeguards to protect against unwanted tracking, but according to the new lawsuit, those safeguards are \"inadequate.\"\n\nShow Full Article\n139 comments\nApple to Obsolete All iPad Mini 3 Cellular and Wi-Fi Models in Coming Weeks\nTuesday December 6, 2022 1:41 am PST by Sami Fathi\nApple will label Wi-Fi-only and cellular models of the third-generation iPad mini as obsolete products in a few weeks, according to a memo sent out earlier today obtained by MacRumors.\n\nCurrently, only a specific cellular variant of the ‌iPad mini‌ 3 is marked as obsolete, but this will soon change. The third-generation ‌iPad mini‌ kept the same design as its predecessor but included improved performance thanks to the A7 chip and a home button.\nShow Full Article\n25 comments\nApple Launches Self Service Repair Program in Europe\nTuesday December 6, 2022 1:11 am PST by Tim Hardwick\nApple today announced it has launched its self-service repair program in Europe, extending the program beyond the United States for the first time.\n\nCustomers in Belgium, France, Germany, Italy, Poland, Spain, Sweden, and the UK can now purchase genuine Apple parts, and consult repair manuals, through the Apple . Apple says customers who wish to complete their own repairs will be able to perform many of the most common repairs for the and lineups, and Mac notebooks with Apple silicon.\nShow Full Article\n30 comments\nHomePod Mini Launches in Finland, Norway, and Sweden on December 13 [Updated]\nTuesday December 6, 2022 1:05 am PST by Tim Hardwick\nThe HomePod mini will be available in Finland, Norway, and Sweden from Tuesday, December 13, Apple has announced via press releases.\n\nPriced at 1,249 Norwegian Krone/Swedish Krone and 109 euros, the ‌HomePod mini‌ will be available in white, blue, orange, yellow and space gray.\nShow Full Article\n29 comments\nApple Illegally Interrogated and Coerced Employees Trying to Unionize in Atlanta, Says U.S. Labor Board\nMonday December 5, 2022 5:03 pm PST by Juli Clover\nApple violated federal law by holding mandatory anti-union meetings and interrogating and coercing employees at an Atlanta retail location, according a ruling from the National Labor Relations Board (NLRB) that was shared by Bloomberg.\n\nBack in May, employees at the Cumberland Mall retail location planned to hold a union election in June, with the Communication Workers of America (CWA) organizing the store. The CWA withdrew its request to hold an election, of \"repeated violations\" that made a \"free and fair election impossible.\"\nShow Full Article\n86 comments\nNewer Posts\nArchives\nOlder Posts\nGuides\n12 Time-Saving iPhone Tips\nA selection of quick iOS tips that will make you a lot more time-efficient in the long run.\n50 macOS Ventura Features\n50 features and changes you might have missed in macOS Ventura.\niOS 16.1 Features\nApple on October 24 released iOS 16.1, delivering iCloud Shared Photo Library, Live Activities, Matter smart home support, and more.\n20 Features You May Have Missed in watchOS 9\nDiscover more things your Apple Watch can do since the latest software update.\n• iPhone 13 vs. iPhone 14\n• iPhone 13 Pro vs. iPhone 14 Pro\n• 14\" MacBook Pro vs. 16\" MacBook Pro\n• Apple M2 Chip\n• M1 Pro vs. M1 Max\n• AirPods 3 vs. AirPods Pro 2\n• One AirPod Not Working?\nSee more guides\nUpcoming\nMacBook Pro Early 2023\nNew 14\" and 16\" models with M2 Pro and M2 Max chip options as the most significant changes.\nMac mini Early 2023\nNew high-end model will move from Intel to Apple silicon.\nMac Pro 2023\nApple's most powerful Mac will finally shift to Apple silicon.\niMac Pro 2023?\nApple is working on a redesigned version of the larger-screened iMac that could bring back the \"iMac Pro\" name.\n• Apple Glasses\n• iPhone 15\nSee full product calendar\nRecent Comments\nMac Rumors Articles\n• Tim Cook Confirms Apple Will Buy TSMC Chips Manufactured in Arizona (81)\n• Apple to Charge Under $100,000 for Apple Car, Launch Planned for 2026 (184)\n• Deals: Apple's Magic Keyboard for 11-Inch iPad Pro and iPad Air Drops to $209.99 ($89 Off) (24)\n• Apple Car Project Scaled Back and Delayed, Won't Feature Full Self-Driving Capabilities (170)\n• Wrap Up Your Holiday Shopping With Our Exclusive Apple Accessory Sales at Nomad, Satechi, Twelve South, and More (7)\nMac Notebooks\n• New MBP M1 Max with a Keyboard Backlight Problem (1)\n• Overclocking Macbook Pro (71)\n• How to change text style (1)\n• In your opinion is the slower SSD controversy in the base M2 Air overblown? (278)\n• Core Duo/Core 2 Duo MacBook CPU Upgrading (42)\nMac Desktops\n• Dismantling/Refurbishing own Mac Pro (0)\n• AMD Radeon RX 6800 XT / 6900 XT for macOS? (1316)\n• Mac Pro 8.1 - WHAT IF... (250)\n• What does your home office look like?! :) Mac Pro 7.1 but everyone welcome to share! (176)\n• Ventura on unsupported iMac gets always stuck at setup (2)\nmacOS Monterey\n• SIP difference using OCLP 0.4.11 and 0.5.1 (11)\n• macOS 12 Monterey on Unsupported Macs Thread (8111)\n• Force click stops working and requires quitting Safari (4)\n• Safari unable to restore tabs? (2)\n• Does Monterey Have a Bug with Mounting External Drives & Images? (136)\nMac Apps and Mac App Store\n• Is there a Photos extension that would enable me to use the 'Big Date' Theme like iPhoto used to have? (0)\n• Messages App (Mac) (9)\n• An app to take handwritten notes and store/edit them as files (2)\n• Pages, Numbers and Keynote: Code Signature Invalid (29)\n• Claris (FileMaker) regains senses. Will offer freemium version of FileMaker Pro (now Claris Pro) (7)\niPhone\n• Mint Mobile and eSim with 14 PM (8)\n• Weird behaviour when tapping on right side of screen (0)\n• iPhone 15 Pro 20x optical zoom (2)\n• I can not share my location with anyone greyed out (0)\n• Battery Replacement (7)\niPad\n• I ditched my iPad and used Microsoft Surface 3 for a month (149)\n• Buying a 10th gen iPad? (63)\n• Is the iPP 11” screen….not very good? (1)\n• iPad Stage Manager (218)\n• Moron of the decade award goes to me! (39)\niOS 15 and iPadOS\n• Bluetooth never autoconnects on iPhone 12 since iOS 15 (21)\n• iOS 15.1 stuck on apple logo after installing on iPhone 13 Pro Max! (5)\n• Best Ad Blocker Safari Extension? (181)\n• why are you staying with iOS 15? (10)\n• Issue with tags in Notes (0)\nApple Watch\n• What would you choose? Series 7 Stainless Steel or Series 8 Aluminium (13)\n• Returned my Ultra Today (6)\n• Hermès Edition Owners Thread (10137)\n• Is there really no way to make this simple notification setup work? (1)\n• Creating my Apple Watch Pro (44)\nApple TV and Home Theater\n• Inconsistent volume across apps (12)\n• Need Help: New Apple 4K TV 2022 Screen Saver freezes the tv and I have to reboot the Apple TV (3)\n• how to set up Apple Tv with my TV+remote and external passive speakers? (8)\n• Nintendo Switch Pro Controller for Apple Arcade (2)\n• Apple TV 4K (2022) + Bose 900 Sound bar + Older TV (0)\nOther Mac Topics\n• Just bought my first Mac…any tips and tricks for it? (14)\n• How to increase font size? (15)\n• Safari very unstable and icon bounces and does not load (1)\n• Best way to transfer files to new MBA (11)\n• Life span of a Macbook (43)\nCommunity\n• FIFA World Cup - Qatar 2022 (503)\n• Mathematics Question (8)\n• How to Remove Sticker Residue on Aluminum MacBook? (2)\n• What are you listening to? Part III (15666)\n• Andor (StarWars Disney 2022-) (27)\nSite Comments\n• Trophy points.......? (5)\n• The constant stream of price deals... (2)\n• Why does MR report on Twitter's company drama? (35)\n• Can we raise the post count to start new threads? (19)\n• Forum comment privileges (4)\nOther Stories\nHow to Disable Ability to Return Missed Calls When iPhone Is Locked\n6 hours ago by Tim Hardwick\nHow to Change Your Mac's Startup Disk\n6 hours ago by Tim Hardwick\nHow to Disable Access to Notification Center When Your iPhone Is Locked\n6 hours ago by Tim Hardwick\nHow to Disable the Ability to 'Reply With Message' When Your iPhone Is Locked\n6 hours ago by Tim Hardwick\n8 Exciting Things Coming From Apple in 2023\n16 hours ago by Sami Fathi\n MacRumors attracts a broad audience of both consumers and professionals interested in the latest technologies and products. We also boast an active community focused on purchasing decisions and technical aspects of the iPhone, iPod, iPad, and Mac platforms.\n\nAbout MacRumors.com\n\nAdvertise on MacRumors\n\n\nOur Staff\nArnold Kim\nEditorial Director\nEmail • Twitter\nEric Slivka\nEditor in Chief\nEmail • Twitter\nJuli Clover\nSenior Editor\nEmail • Twitter\nJoe Rossignol\nSenior News Reporter\nEmail • Twitter\nMitchel Broussard\nDeals Editor\nEmail • Twitter\nTim Hardwick\nSenior Editor\nEmail • Twitter\nHartley Charlton\nSenior Editor\nEmail • Twitter\nSami Fathi\nEditor\nEmail • Twitter\nMarianne Schultz\nProject Manager\nEmail • Twitter\nDan Barbera\nVideo Content Producer\nEmail • Twitter\nRyan Barrieau\nGraphic Designer\nEmail •Twitter\nChris Jenkins\nContributing Writer\nEmail • Twitter\nSteve Moser\nContributing Writer\nEmail • Twitter\nFrank McShan\nContributing Writer\nEmail • Twitter\nRelated Links\nTouch Arcade\n‘Genshin Impact’ Version 3.3 Update Now Available on iOS, Android, PS5, PS4, and PC\nSwitchArcade Round-Up: Reviews Featuring ‘Siralim Ultimate’ and ‘Astronite’, Plus the Latest Releases and Sales\n‘Pulstar ACA NEOGEO’ Review – Kiss Your Thumbs Good-Bye\n‘The Witcher: Monster Slayer’ Shutting Down in June 2023, Game Being Pulled Next Month\nGet Your Hands on the Power Cosmic in the New Season of ‘Marvel Snap’\nSwitchArcade Round-Up: Reviews Featuring ‘Romancing SaGa’ and ‘Front Mission’, Plus the Latest Releases and Sales\nBest iPhone Game Updates: ‘Fire Emblem Heroes’, ‘Marvel Snap’, ‘LEGO Brawls’, ‘Tiny Tower’, and More\n‘The Binding of Isaac: Repentance’ for iOS Teased for 2023 Release, Controller Support Confirmed\nYouTube\niPhone 15 Ultra: DO NOT Buy an iPhone 14 Yet!!!\nNothing Ear (Stick) Review: Better Deal Than AirPods?\nHow to get \"Spotify Wrapped\" For Apple Music! (Replay '22)\nWhat's On My iPhone 14 Pro Max!\nHow and Why We Use Our Apple Devices\nCopyright © 2000-2022 MacRumors.com, LLC.\nPrivacy / DMCA contact / Affiliate and FTC Disclosure\n\nAccessibility Statement\n\n[ Featured On/Off ] [ Full Articles On/Off ] [ Fluid | Fluid HD ] [ Auto | Light | Dark ]\nInformation from your device can be used to personalize your ad experience.\nDo not sell my personal information.",
+    "font": "Verdana, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 60,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 957,
+                "y": 97
+            },
+            "size": {
+                "height": 28,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 28,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

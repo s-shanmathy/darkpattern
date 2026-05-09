@@ -1,0 +1,520 @@
+{
+    "title": "Excellence Through Quality | ASQ",
+    "url": "asq.org",
+    "full_url": "https://asq.org/",
+    "images": [
+        {
+            "alt": "ASQ logo",
+            "location": {
+                "x": 124,
+                "y": 80
+            },
+            "size": {
+                "height": 98,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A group of quality professionals",
+            "location": {
+                "x": 14,
+                "y": 1753
+            },
+            "size": {
+                "height": 130,
+                "width": 346
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Working on tablet",
+            "location": {
+                "x": 321,
+                "y": 1753
+            },
+            "size": {
+                "height": 130,
+                "width": 346
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man thinking ",
+            "location": {
+                "x": 629,
+                "y": 1752
+            },
+            "size": {
+                "height": 137,
+                "width": 346
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ASQ_certification",
+            "location": {
+                "x": 14,
+                "y": 2354
+            },
+            "size": {
+                "height": 130,
+                "width": 346
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man in Business Suit ",
+            "location": {
+                "x": 321,
+                "y": 2354
+            },
+            "size": {
+                "height": 130,
+                "width": 346
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "silhouettes at a table ",
+            "location": {
+                "x": 629,
+                "y": 2354
+            },
+            "size": {
+                "height": 130,
+                "width": 346
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ASQ logo",
+            "location": {
+                "x": 66,
+                "y": 3909
+            },
+            "size": {
+                "height": 132,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dot image pixel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "User Name",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Password",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search ASQ",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "User Name",
+            "type": "text",
+            "location": {
+                "x": 711,
+                "y": 656
+            },
+            "size": {
+                "height": 53,
+                "width": 197
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Password",
+            "type": "password",
+            "location": {
+                "x": 711,
+                "y": 762
+            },
+            "size": {
+                "height": 53,
+                "width": 197
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            145,
+            183,
+            94
+        ],
+        [
+            48,
+            106,
+            176
+        ]
+    ],
+    "desc": "ASQ is a global leader in quality and consists of a community of passionate people who use their tools, ideas and expertise to make our world better.",
+    "navbar": "Hello, Guest Login Cart 0 CONTACT US BECOME A MEMBER",
+    "text": "Hello, Guest Login Cart 0 CONTACT US BECOME A MEMBER\nMENU\n2023 LEAN AND SIX SIGMA CONFERENCE\nRegistration is open! Lean and Six Sigma tools are increasingly employed by organizations seeking to achieve—and sustain—continuous improvement throughout the enterprise. At the 2023 Lean and Six Sigma Conference, attendees will learn how to apply lean and Six Sigma tools to solve current and emerging challenges.\nREGISTER NOW\n\n\nGo to slide 1\nGo to slide 2\nGo to slide 3\nGo to slide 4\nGo to slide 5\nGo to slide 6\nWHAT DO YOU WANT TO DO?\nBUILD MY EXPERTISE\nINDIVIDUALS\nDEVELOP MY ORGANIZATION\nORGANIZATIONS\nLEARN\nASQConnEx\nQuality Resources\nLearning\nQuality Tools\nSpecialized Credentials\nBooks & Standards\nLearn About Quality\nQuality Progress\nASQ TV\nASQ Research\nCERTIFY\nCertifications\nExplore Your Certification Career Path\nCertification Preparation\nCONNECT\nmyASQ Online Community\nCareer Center\nPlan Your Career\nEvents\nLive Chat with ASQ\nBlogs\nGlobal\nMember Leader myASQ Community (login required)\nContribute\nLOGIN\nFORGOT USER NAME?\nFORGOT PASSWORD?\nLOGIN REGISTER\nWhy Become an ASQ Member?\nBECOME A MEMBER\nLean and Six Sigma Conference\nAt the 2023 Lean and Six Sigma Conference, attendees will learn how to apply lean and Six Sigma tools to solve current and emerging challenges.\nAttend a Virtual Course\nAttend an interactive, instructor-led class in real-time via your internet-enabled device.\nStay Connected with myASQ\nShare, learn, and network with leaders and peers of the quality community. Gain access to relevant solutions, meaningful connections, and interaction with like-minded individuals.\nWant to Get ASQ Certified?\nASQ Certifications are designed to help you advance your career, improve your organization, and prepare you to be a more accomplished and effective quality-focused professional. Find out which Certification is right for you!\nAll-New Root Cause Analysis E-learning\nGet to the root of the problem with ASQ’s reimagined Root Cause Analysis e-learning! Reduce costly defects and prevent recurrence by upskilling process improvement methodology and critical thinking.\nHave a Standards Question?\nAsk the Experts! Submit your technical questions about an international or American national standard to our panel of seasoned quality professionals.\nExplore. Engage. Experience.\nFeatured Advertisers\nAbout ASQ\nCareer Center\nCommunity Guidelines\nContact Us\nAdvertisers & Sponsors\nNewsroom\nPrivacy & Legal\nPublish with ASQ\nBook/Publications Returns\nCourse Cancelations/Refunds\nSite Map\nWith members and customers in over 130 countries, ASQ brings together the people, ideas and tools that make our world work better.\n\nASQ celebrates the unique perspectives of our community of members, staff and those served by our society. Collectively, we are the voice of quality, and we increase the use and impact of quality in response to the diverse needs in the world.\n© 2023 American Society for Quality. All rights reserved.\n;;",
+    "font": "Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://home-c36.nice-incontact.com/inContact/ChatClient/ChatClient.aspx?poc=ace345e2-df3f-4346-bde7-2858d3c6a8d5&bu=4600779",
+            "location": {
+                "x": 1000,
+                "y": 30
+            },
+            "size": {
+                "height": 894,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://home-c36.nice-incontact.com/inContact/ChatClient/chatButton.html",
+            "location": {
+                "x": 820,
+                "y": 920
+            },
+            "size": {
+                "height": 80,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 25,
+                "width": 52
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Go to slide 1",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 427,
+                "y": 489
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Go to slide 2",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 457,
+                "y": 489
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Go to slide 3",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 487,
+                "y": 489
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Go to slide 4",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 517,
+                "y": 489
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Go to slide 5",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 547,
+                "y": 489
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Go to slide 6",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 577,
+                "y": 489
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "LOGIN",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 711,
+                "y": 868
+            },
+            "size": {
+                "height": 43,
+                "width": 86
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 25,
+                "width": 52
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

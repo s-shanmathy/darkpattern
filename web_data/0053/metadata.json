@@ -1,0 +1,630 @@
+{
+    "title": "Cybersecurity News, Insights and Analysis | SecurityWeek",
+    "url": "securityweek.com",
+    "full_url": "https://www.securityweek.com/",
+    "images": [
+        {
+            "alt": "Cybersecurity News, Insights and Analysis | SecurityWeek",
+            "location": {
+                "x": 13,
+                "y": 29
+            },
+            "size": {
+                "height": 84,
+                "width": 450
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Agentless CNAAP and XDR for $1",
+            "location": {
+                "x": 143,
+                "y": 123
+            },
+            "size": {
+                "height": 188,
+                "width": 728
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "rss icon",
+            "location": {
+                "x": 655,
+                "y": 398
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "long dotted",
+            "location": {
+                "x": 18,
+                "y": 645
+            },
+            "size": {
+                "height": 8,
+                "width": 678
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "rss icon",
+            "location": {
+                "x": 656,
+                "y": 666
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Derek Manky's picture",
+            "location": {
+                "x": 300,
+                "y": 700
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Galina Antova's picture",
+            "location": {
+                "x": 300,
+                "y": 859
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ryan Naraine's picture",
+            "location": {
+                "x": 300,
+                "y": 1032
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Torsten George's picture",
+            "location": {
+                "x": 300,
+                "y": 1206
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Landon Winkelvoss's picture",
+            "location": {
+                "x": 300,
+                "y": 1365
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marc Solomon's picture",
+            "location": {
+                "x": 300,
+                "y": 1538
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jeff Orloff's picture",
+            "location": {
+                "x": 300,
+                "y": 1712
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Derek Manky's picture",
+            "location": {
+                "x": 300,
+                "y": 1871
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Joshua Goldfarb's picture",
+            "location": {
+                "x": 300,
+                "y": 2044
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gordon Lawson's picture",
+            "location": {
+                "x": 300,
+                "y": 2204
+            },
+            "size": {
+                "height": 104,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SecurityWeek News on Twitter",
+            "location": {
+                "x": 745,
+                "y": 562
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SecurityWeek on Facebook",
+            "location": {
+                "x": 802,
+                "y": 562
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Join our Group on LinkedIn",
+            "location": {
+                "x": 854,
+                "y": 562
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Subscribe via RSS",
+            "location": {
+                "x": 911,
+                "y": 562
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wired Business Media",
+            "location": {
+                "x": 33,
+                "y": 2602
+            },
+            "size": {
+                "height": 25,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter the terms you wish to search for.",
+            "type": "text",
+            "location": {
+                "x": 711,
+                "y": 407
+            },
+            "size": {
+                "height": 31,
+                "width": 208
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 923,
+                "y": 407
+            },
+            "size": {
+                "height": 30,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 712,
+                "y": 523
+            },
+            "size": {
+                "height": 20,
+                "width": 186
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 908,
+                "y": 520
+            },
+            "size": {
+                "height": 25,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            51,
+            51,
+            51
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "SecurityWeek provides cybersecurity news and information to global enterprises, with expert insights and analysis for IT security professionals.",
+    "navbar": "Malware & Threats\nCybercrime\nMobile & Wireless\nRisk & Compliance\nSecurity Architecture\nSecurity Strategy\nICS/OT\nIoT Security",
+    "text": "SECURITYWEEK NETWORK:\nCybersecurity News\nWebcasts\nVirtual Events\nSecurity Experts:\nWRITE FOR US\nSubscribe\n2022 CISO Forum\nICS Cyber Security Conference\nContact\nMalware & Threats\nCybercrime\nMobile & Wireless\nRisk & Compliance\nSecurity Architecture\nSecurity Strategy\nICS/OT\nIoT Security\nCISO Forum Video: What's Going on With Cybersecurity VC Investments?\nPrev\nNext\nIT SECURITY NEWS HEADLINES\nPredictions 2023: Big Tech's Coming Security Shopping Spree\nZoho Urges ManageEngine Users to Patch Serious SQL Injection Vulnerability\n16 Car Makers and Their Vehicles Hacked via Telematics, APIs, Infrastructure\nBurger Chain Five Guys Discloses Data Breach Impacting Job Applicants\nSlack Says Hackers Stole Private Source Code Repositories\nMORE SECURITY HEADLINES\nDatabase Containing 235 Million Twitter User Records Available for Free\nA database containing 235 million unique records of Twitter users is now available for free on the web. [Read More]\nPlay Ransomware Group Used New Exploitation Method in Rackspace Attack\nThe recent ransomware attack targeting Rackspace was conducted by the Play group using a new exploitation method named OWASSRF. [Read More]\nMeta Hit With 390 Million Euro Fine Over EU Data Breaches\nMeta was slapped with fines totaling 390 million euros ($413 million) for breaching EU personal data laws on Facebook and Instagram. [Read More]\nAndroid's First Security Updates for 2023 Patch 60 Vulnerabilities\nGoogle this week announced the first security updates for Android for 2023, which resolve a total of 60 vulnerabilities. [Read More]\nNIST Finalizes Cybersecurity Guidance for Ground Segment of Space Operations\nNIST has released the final version of its guidance on applying the Cybersecurity Framework to the ground segment of space operations, specifically satellite command and control. [Read More]\nWabtec Says Personal Information Compromised in Ransomware Attack\nRail company Wabtec has confirmed that personal information was stolen in a ransomware attack last year. [Read More]\nHigh-Severity Command Injection Flaws Found in Fortinet's FortiTester, FortiADC\nFortinet has released patches for multiple vulnerabilities across its product portfolio and warned of a high-severity command injection bug in FortiADC. [Read More]\nHacker Selling Data Allegedly Stolen From Volvo Cars Following Ransomware Attack\nA hacker is offering to sell data allegedly stolen from Volvo Cars following an Endurance ransomware attack. [Read More]\nResearcher Says Google Paid $100k Bug Bounty for Smart Speaker Vulnerabilities\nSecurity researcher Matt Kunze says he received a $107,500 bug bounty reward for Google Home smart speaker vulnerabilities. [Read More]\nCritical Vulnerabilities Patched in Synology Routers\nSynology has patched several critical vulnerabilities in its routers, including flaws likely exploited recently at the Pwn2Own hacking contest. [Read More]\n  1 of 2325 ››\nSECURITYWEEK EXPERTS\nVirtual Insanity: Protecting the Immersive Online World\nDerek Manky - Cybercrime\nAs a result of the intersection of humans and technology, many social engineering attacks aimed at exploiting unsophisticated users are also likely to occur.\nRead full story\nThe Impact of Geopolitics on CPS Security\nGalina Antova - ICS/OT\nWhile the need to secure cyber-physical systems (CPS) is nothing new, the pandemic has escalated it in ways none of us could have anticipated or prepared for out of the gate.\nRead full story\nThe Five Stories That Shaped Cybersecurity in 2022\nRyan Naraine - Risk Management\nIn this review of the top stories of 2022, SecurityWeek editors take a closer look at the five big stories that shaped 2022 and what they might mean for the future of securing data at scale.\nRead full story\nIs Enterprise VPN on Life Support or Ripe for Reinvention?\nTorsten George - Network Security\nAre traditional VPNs really “dead” as some industry analysts and pundits claim? Or do they simply need a refresh akin to the introduction of next-gen firewalls?\nRead full story\nMapping Threat Intelligence to the NIST Compliance Framework\nLandon Winkelvoss - Risk Management\nEnhancing cybersecurity and compliance programs with actionable intelligence that complements and adds insight can easily justify the investment and growth of threat intelligence programs.\nRead full story\nRemoving the Barriers to Security Automation Implementation\nMarc Solomon - Incident Response\nWhen implementing security automation, organizations should starting with an open architecture, focusing on getting the right data for analytics and applying automation methodically in smaller chunks.\nRead full story\nThree Ways to Improve Defense Readiness Using MITRE D3FEND\nJeff Orloff - Network Security\nThe MITRE D3FEND framework is only as effective as the planning that goes into making sure it is properly aligned with the top threats facing the organization.\nRead full story\nWipers Are Widening: Here's Why That Matters\nDerek Manky - Malware\nWhile the number of detections has been lower so far than other types of cyberattacks, the very nature of wipers and how they’re used makes them very dangerous.\nRead full story\nDon't Let Your Career Go the Way of Entertainment 720\nJoshua Goldfarb - Management & Strategy\nI believe that as security and fraud professionals, we can learn an important career lesson from fictional company Entertainment 720.\nRead full story\nDigesting CISA's Cross-Sector Cybersecurity Performance Goals\nGordon Lawson - Compliance\nBasic cyber hygiene may seem rudimentary, but as highlighted in CISA’s four key challenges above, it is something organizations of all sizes struggle with.\nRead full story\n  1 of 264 ››\nGET THE DAILY BRIEFING\n\n      Most Recent\nMost Read\nPredictions 2023: Big Tech's Coming Security Shopping Spree\nZoho Urges ManageEngine Users to Patch Serious SQL Injection Vulnerability\n16 Car Makers and Their Vehicles Hacked via Telematics, APIs, Infrastructure\nBurger Chain Five Guys Discloses Data Breach Impacting Job Applicants\nSlack Says Hackers Stole Private Source Code Repositories\nDatabase Containing 235 Million Twitter User Records Available for Free\nPlay Ransomware Group Used New Exploitation Method in Rackspace Attack\nMeta Hit With 390 Million Euro Fine Over EU Data Breaches\nAndroid's First Security Updates for 2023 Patch 60 Vulnerabilities\nVirtual Insanity: Protecting the Immersive Online World\nSECURITYWEEK PODCAST\nPopular Topics\nCybersecurity News\nIT Security News\nRisk Management\nCybercrime\nCloud Security\nApplication Security\nSmart Device Security\nSecurity Community\nVirtual Cybersecurity Events\nWebcast Library\nCISO Forum\nICS Cyber Security Conference\nIT Security Newsletters\nStay Intouch\nTwitter\nFacebook\nLinkedIn Group\nCyber Weapon Discussion Group\nRSS Feed\nSubmit Tip\nSecurity Intelligence Group\nAbout SecurityWeek\nTeam\nAdvertising\nEvent Sponsorships\nWriting Opportunities\nFeedback\nContact Us\nCopyright © 2023 Wired Business Media. All Rights Reserved. Privacy Policy\nClose This Window",
+    "font": "Verdana, Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 705,
+                "y": 626
+            },
+            "size": {
+                "height": 600,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "SecurityWeek Podcast ",
+            "src": "https://podcast.securityweek.com/9743?artist=&client_source=large_player&iframe=true&limit=5&referrer=https://podcast.securityweek.com/9743.js?artist=&container_id=buzzsprout-large-player-limit-5&limit=5&player=large",
+            "location": {
+                "x": 704,
+                "y": 1710
+            },
+            "size": {
+                "height": 375,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://b9d68efa056c71f8c5a0aa9b1d93807e.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.securityweek.com/ad.html",
+            "location": {
+                "x": 192,
+                "y": 262
+            },
+            "size": {
+                "height": 480,
+                "width": 640
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

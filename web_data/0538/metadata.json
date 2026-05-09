@@ -1,0 +1,133 @@
+{
+    "title": "CODEDEC – Learn Coding From The Begining",
+    "url": "codedec.com",
+    "full_url": "https://codedec.com/",
+    "images": [
+        {
+            "alt": "CODEDEC",
+            "location": {
+                "x": 20,
+                "y": 49
+            },
+            "size": {
+                "height": 41,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CODEDEC",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Ezoic",
+            "location": {
+                "x": 354,
+                "y": 2254
+            },
+            "size": {
+                "height": 16,
+                "width": 62
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            244,
+            246,
+            252
+        ],
+        [
+            73,
+            117,
+            250
+        ]
+    ],
+    "navbar": "HOME\nMYSQL\nJAVA\nSPECFLOW\nJAVA WEB APP\nTESTNG\nPUPPETEER\nPYTHON\nPYTHON PROGRAMS\nMERN\nJS",
+    "text": "Skip to content\nHOME\nMYSQL\nJAVA\nSPECFLOW\nJAVA WEB APP\nTESTNG\nPUPPETEER\nPYTHON\nPYTHON PROGRAMS\nMERN\nJS\nAngularJS\nC Tutorial\nC++ Program\nCSS Tutorial\nDjango\nDS Tutorial\nHibernate\nHTML Tutorial\nHTML, CSS Projects\nJava\nJava Programs\nJava Script\nJava Web App\nJSP Tutorial\nJunit Tutorial\nMERN\nMySql\nPuppeteer\nPyTest\nPython\nPython Programs\nReactJS App Dev\nReactJs Tutorial\nSelenium In C#\nSelenium In Java\nServlet\nSpecflow\nSpring Boot\nSpring Boot & RestAPI\nSpring Tutorial\nTestcafe Tutorial\nTesting\nTestNG\nreport this ad\nCopyright © 2022 CODEDEC | All Rights Reserved.\nAbout Us\nPrivacy Policy\nDisclaimer\nContact Us\nJoin Internship\nx",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "javascript:false",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://googleads.g.doubleclick.net/pagead/html/r20221206/r20190131/zrt_lookup.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

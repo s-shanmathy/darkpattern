@@ -1,0 +1,1644 @@
+{
+    "title": "Yummly: Personalized Recipe Recommendations and Search",
+    "url": "yummly.com",
+    "full_url": "https://www.yummly.com/",
+    "images": [
+        {
+            "alt": "Yummly Home",
+            "location": {
+                "x": 65,
+                "y": 73
+            },
+            "size": {
+                "height": 31,
+                "width": 79
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iPhone",
+            "location": {
+                "x": 36,
+                "y": 578
+            },
+            "size": {
+                "height": 40,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Android",
+            "location": {
+                "x": 36,
+                "y": 628
+            },
+            "size": {
+                "height": 40,
+                "width": 136
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dish",
+            "location": {
+                "x": 216,
+                "y": 0
+            },
+            "size": {
+                "height": 563,
+                "width": 793
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Onboarding",
+            "location": {
+                "x": 156,
+                "y": -125
+            },
+            "size": {
+                "height": 322,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Onboarding",
+            "location": {
+                "x": 723,
+                "y": 0
+            },
+            "size": {
+                "height": 167,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Onboarding",
+            "location": {
+                "x": 851,
+                "y": 80
+            },
+            "size": {
+                "height": 100,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Meal Planner",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "thermo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "iphone",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "steak",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Editors Choice",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Star Ratings",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Marble Background",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Phone Frame",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Phone Frame",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Spaghetti Plate",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Spaghetti Plate",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Meal Planner",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Meal Planner",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "thermo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "iphone",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "steak",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Baked Burgers Recipe",
+            "location": {
+                "x": 280,
+                "y": 911
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Baked Burgers Recipe",
+            "location": {
+                "x": 280,
+                "y": 911
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Asian Recipes Recipe",
+            "location": {
+                "x": 516,
+                "y": 911
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Asian Recipes Recipe",
+            "location": {
+                "x": 516,
+                "y": 911
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "How to Make Perfect Potato Latkes Recipe",
+            "location": {
+                "x": 715,
+                "y": 911
+            },
+            "size": {
+                "height": 220,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Make Perfect Potato Latkes Recipe",
+            "location": {
+                "x": 752,
+                "y": 911
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Tofu Tacos Recipe",
+            "location": {
+                "x": 280,
+                "y": 1286
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mexican Ground Beef Casserole with Rice (Beef Mince!) Recipe",
+            "location": {
+                "x": 516,
+                "y": 1286
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Cut a Pomegranate the Satisfying Way Recipe",
+            "location": {
+                "x": 715,
+                "y": 1286
+            },
+            "size": {
+                "height": 220,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3-Ingredient Instant Pot Ribs Recipe",
+            "location": {
+                "x": 280,
+                "y": 1661
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "One Pot Cajun Chicken and Sausage Alfredo Pasta Recipe",
+            "location": {
+                "x": 516,
+                "y": 1661
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Crispy Vegetable Spring Rolls Recipe",
+            "location": {
+                "x": 752,
+                "y": 1661
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Orange Chicken Recipe",
+            "location": {
+                "x": 280,
+                "y": 2036
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Seared Tuna Steaks with Lemon Caper Sauce Recipe",
+            "location": {
+                "x": 516,
+                "y": 2036
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Our Best Family-Friendly Weeknight Dinners Recipe",
+            "location": {
+                "x": 715,
+                "y": 2036
+            },
+            "size": {
+                "height": 220,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sweet Potato Pie Recipe",
+            "location": {
+                "x": 280,
+                "y": 2411
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Creole Gumbo Recipe",
+            "location": {
+                "x": 516,
+                "y": 2411
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Orecchiette with Broccoli Rabe and Sweet Italian Sausage Recipe",
+            "location": {
+                "x": 752,
+                "y": 2411
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vietnamese Shrimp and Vegetable Summer Rolls Recipe",
+            "location": {
+                "x": 280,
+                "y": 2786
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Good Cooking Choices: Tips for Avoiding Food Waste Recipe",
+            "location": {
+                "x": 479,
+                "y": 2786
+            },
+            "size": {
+                "height": 220,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Peanut Butter Chocolate Mousse Pie Recipe",
+            "location": {
+                "x": 752,
+                "y": 2786
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Baileys Irish Cream Chocolate Chip Cookies Recipe",
+            "location": {
+                "x": 280,
+                "y": 3161
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fried Chicken Recipe",
+            "location": {
+                "x": 516,
+                "y": 3161
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Parker House Rolls Recipe",
+            "location": {
+                "x": 752,
+                "y": 3161
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lemon Muddy Buddies Recipe",
+            "location": {
+                "x": 280,
+                "y": 3536
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Rum Cake Recipe",
+            "location": {
+                "x": 516,
+                "y": 3536
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Orange Chestnut Salad Recipe",
+            "location": {
+                "x": 752,
+                "y": 3536
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Small Batch Triple Coconut Loaf Cake Recipe",
+            "location": {
+                "x": 280,
+                "y": 3911
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "5-Ingredient Baked Pear Recipe Perfect for Chilly Afternoons Recipe",
+            "location": {
+                "x": 516,
+                "y": 3911
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Cake with Caramel Sauce Recipe",
+            "location": {
+                "x": 752,
+                "y": 3911
+            },
+            "size": {
+                "height": 220,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            248,
+            248,
+            248
+        ],
+        [
+            247,
+            247,
+            247
+        ]
+    ],
+    "desc": "The smart cooking sidekick that learns what you like and customizes the experience to your personal tastes, nutritional needs, skill level, and more.",
+    "navbar": "Sign Up / Log In\nMy Feed\nArticles\nMeal Planning GuidesNEW\nMeal Planner\nPantry-Ready Recipes\nBrowse\nPro Recipes\nGuided Recipes\nHanukkahNEW\nChristmasNEW\nSMART THERMOMETER\nSAVED RECIPES\nNEW COLLECTION\nAll Yums\nBreakfasts\nDesserts\nDinners\nDrinks\nSides\n...\nMORE\nPrivacyTermsInterest-Based AdsDo Not Sell My Personal Information\nAbout\nCareers\nContact Us\nFAQs\nBookmarklet\nYum Button\nPrivacy\nTerms\nInterest-Based Ads\nCopyright\nDo Not Sell My Personal Information\nSitemap\n®/™©2022 Yummly. All rights reserved.\nPart of the Whirlpool Corp. family of brands\nSearch 2M+ recipes\nPERSONALIZE YOUR EXPERIENCE\nWhat are your favorite cuisines?\nAMERICAN\nKID-FRIENDLY\nITALIAN\nASIAN\nMEXICAN\nSOUTHERN & SOUL FOOD\nNext\nDon't Personalize My Recommendations\nJust For You\nYour Dinner Inspiration\nBaked Burgers\nCOOK THE STORY\n3k\nSEARCH\nAsian Recipes\nARTICLE\nHow to Make Perfect Potato Latkes\nYUMMLY\nYour Dinner Inspiration\nTofu Tacos\nPLANT BASED ON A BUDGET\n3k\nYour Dinner Inspiration\nMexican Ground Beef Casserole with Rice (Beef mince!)\nRECIPETIN EATS\n5k\nARTICLE\nHow to Cut a Pomegranate the Satisfying Way\nYUMMLY\nYour Dinner Inspiration\n3-Ingredient Instant Pot Ribs\nMOM ADVICE\n2k\nYour Dinner Inspiration\nOne Pot Cajun Chicken and Sausage Alfredo Pasta\nNO. 2 PENCIL\n4k\nYummly Original\nCrispy Vegetable Spring Rolls\nYUMMLY\n61\nPro\nOrange Chicken\nCHEF JET TILA\n33k\nYummly Original\nSeared Tuna Steaks with Lemon Caper Sauce\nYUMMLY\n49\nARTICLE\nOur Best Family-Friendly Weeknight Dinners\nYUMMLY\nYummly Original\nSweet Potato Pie\nYUMMLY\n41\nYummly Original\nCreole Gumbo\nYUMMLY\n48\nPro\nOrecchiette with Broccoli Rabe and Sweet Italian Sausage\nCHEF DANIEL HOLZMAN\n17k\nYummly Original\nVietnamese Shrimp and Vegetable Summer Rolls\nYUMMLY\n37\nARTICLE\nGood Cooking Choices: Tips for Avoiding Food Waste\nYUMMLY\nTrending This Week\nPeanut Butter Chocolate Mousse Pie\nKITCHENAID\n2k\nTrending This Week\nBaileys Irish Cream Chocolate Chip Cookies\nBAKER BY NATURE\n5k\nPro\nFried Chicken\nCHEF CARLA HALL\n22k\nTrending This Week\nParker House Rolls\nBUNNY'S WARM OVEN\n2k\nTrending This Week\nLemon Muddy Buddies\nI HEART NAP TIME\n11k\nTrending This Week\nApple Rum Cake\nLEMONS FOR LULU\n2k\nPro\nOrange Chestnut Salad\nALI ROSEN\n6k\nBased On Your Preferences\nSmall Batch Triple Coconut Loaf Cake\nI AM A FOOD BLOG\n6k\nBased On Your Preferences\n5-Ingredient Baked Pear Recipe Perfect for Chilly Afternoons\nSPOONUNIVERSITY.COM\n8k\nBased On Your Preferences\nApple Cake with Caramel Sauce\nYOUR HOMEBASED MOM\n8k",
+    "text": "Sign Up / Log In\nMy Feed\nArticles\nMeal Planning GuidesNEW\nMeal Planner\nPantry-Ready Recipes\nBrowse\nPro Recipes\nGuided Recipes\nHanukkahNEW\nChristmasNEW\nSMART THERMOMETER\nSAVED RECIPES\nNEW COLLECTION\nAll Yums\nBreakfasts\nDesserts\nDinners\nDrinks\nSides\n...\nMORE\nPrivacyTermsInterest-Based AdsDo Not Sell My Personal Information\nAbout\nCareers\nContact Us\nFAQs\nBookmarklet\nYum Button\nPrivacy\nTerms\nInterest-Based Ads\nCopyright\nDo Not Sell My Personal Information\nSitemap\n®/™©2022 Yummly. All rights reserved.\nPart of the Whirlpool Corp. family of brands\nSearch 2M+ recipes\nPERSONALIZE YOUR EXPERIENCE\nWhat are your favorite cuisines?\nAMERICAN\nKID-FRIENDLY\nITALIAN\nASIAN\nMEXICAN\nSOUTHERN & SOUL FOOD\nNext\nDon't Personalize My Recommendations\nJust For You\nYour Dinner Inspiration\nBaked Burgers\nCOOK THE STORY\n3k\nSEARCH\nAsian Recipes\nARTICLE\nHow to Make Perfect Potato Latkes\nYUMMLY\nYour Dinner Inspiration\nTofu Tacos\nPLANT BASED ON A BUDGET\n3k\nYour Dinner Inspiration\nMexican Ground Beef Casserole with Rice (Beef mince!)\nRECIPETIN EATS\n5k\nARTICLE\nHow to Cut a Pomegranate the Satisfying Way\nYUMMLY\nYour Dinner Inspiration\n3-Ingredient Instant Pot Ribs\nMOM ADVICE\n2k\nYour Dinner Inspiration\nOne Pot Cajun Chicken and Sausage Alfredo Pasta\nNO. 2 PENCIL\n4k\nYummly Original\nCrispy Vegetable Spring Rolls\nYUMMLY\n61\nPro\nOrange Chicken\nCHEF JET TILA\n33k\nYummly Original\nSeared Tuna Steaks with Lemon Caper Sauce\nYUMMLY\n49\nARTICLE\nOur Best Family-Friendly Weeknight Dinners\nYUMMLY\nYummly Original\nSweet Potato Pie\nYUMMLY\n41\nYummly Original\nCreole Gumbo\nYUMMLY\n48\nPro\nOrecchiette with Broccoli Rabe and Sweet Italian Sausage\nCHEF DANIEL HOLZMAN\n17k\nYummly Original\nVietnamese Shrimp and Vegetable Summer Rolls\nYUMMLY\n37\nARTICLE\nGood Cooking Choices: Tips for Avoiding Food Waste\nYUMMLY\nTrending This Week\nPeanut Butter Chocolate Mousse Pie\nKITCHENAID\n2k\nTrending This Week\nBaileys Irish Cream Chocolate Chip Cookies\nBAKER BY NATURE\n5k\nPro\nFried Chicken\nCHEF CARLA HALL\n22k\nTrending This Week\nParker House Rolls\nBUNNY'S WARM OVEN\n2k\nTrending This Week\nLemon Muddy Buddies\nI HEART NAP TIME\n11k\nTrending This Week\nApple Rum Cake\nLEMONS FOR LULU\n2k\nPro\nOrange Chestnut Salad\nALI ROSEN\n6k\nBased On Your Preferences\nSmall Batch Triple Coconut Loaf Cake\nI AM A FOOD BLOG\n6k\nBased On Your Preferences\n5-Ingredient Baked Pear Recipe Perfect for Chilly Afternoons\nSPOONUNIVERSITY.COM\n8k\nBased On Your Preferences\nApple Cake with Caramel Sauce\nYOUR HOMEBASED MOM\n8k",
+    "font": "europa-regularregular, sans-serif",
+    "buttons": [
+        {
+            "text": "...\nMORE",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 80,
+                "y": 717
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Do Not Sell My Personal Information",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 6,
+                "y": 808
+            },
+            "size": {
+                "height": 24,
+                "width": 197
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Do Not Sell My Personal Information",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 36,
+                "y": 450
+            },
+            "size": {
+                "height": 56,
+                "width": 144
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Search 2M+ recipes",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 312,
+                "y": 28
+            },
+            "size": {
+                "height": 57,
+                "width": 600
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 257,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 943,
+                "y": 323
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1050,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1761,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1843,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2554,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2636,
+                "y": 390
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3347,
+                "y": 390
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3429,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4140,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5015,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5726,
+                "y": 348
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(58, 150, 145, 1)",
+            "location": {
+                "x": 544,
+                "y": 476
+            },
+            "size": {
+                "height": 40,
+                "width": 136
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 1143
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 1518
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "5k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 694,
+                "y": 1518
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 1893
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "4k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 694,
+                "y": 1893
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "61",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 930,
+                "y": 1893
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "33k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 2268
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "49",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 694,
+                "y": 2268
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "41",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 2643
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "48",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 694,
+                "y": 2643
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "17k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 930,
+                "y": 2643
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "37",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 3018
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 930,
+                "y": 3018
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "5k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 3393
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "22k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 694,
+                "y": 3393
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 930,
+                "y": 3393
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "11k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 3768
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 694,
+                "y": 3768
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 930,
+                "y": 3768
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 458,
+                "y": 4143
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "8k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 694,
+                "y": 4143
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "8k",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 930,
+                "y": 4143
+            },
+            "size": {
+                "height": 62,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 1239,
+                "y": 30
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 1129,
+                "y": 62
+            },
+            "size": {
+                "height": 32,
+                "width": 134
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 1129,
+                "y": 62
+            },
+            "size": {
+                "height": 32,
+                "width": 134
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 1279,
+                "y": 30
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 1319,
+                "y": 30
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

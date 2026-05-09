@@ -1,0 +1,644 @@
+{
+    "title": "bumGenius",
+    "url": "bumgenius.com",
+    "full_url": "https://www.bumgenius.com/",
+    "images": [
+        {
+            "alt": "Money Back 30 day Guarantee",
+            "location": {
+                "x": 794,
+                "y": 226
+            },
+            "size": {
+                "height": 66,
+                "width": 66
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Money Back 30 day Guarantee",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1009,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 0,
+                "y": 360
+            },
+            "size": {
+                "height": 520,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 24,
+                "y": 358
+            },
+            "size": {
+                "height": 520,
+                "width": 962
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "20 cents per diaper",
+            "location": {
+                "x": 108,
+                "y": 986
+            },
+            "size": {
+                "height": 152,
+                "width": 152
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CottonBabies",
+            "location": {
+                "x": 244,
+                "y": 986
+            },
+            "size": {
+                "height": 200,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "6600 diaper changes",
+            "location": {
+                "x": 428,
+                "y": 986
+            },
+            "size": {
+                "height": 152,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CottonBabies",
+            "location": {
+                "x": 565,
+                "y": 986
+            },
+            "size": {
+                "height": 200,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "over $1000 total",
+            "location": {
+                "x": 749,
+                "y": 986
+            },
+            "size": {
+                "height": 152,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 512,
+                "y": 1436
+            },
+            "size": {
+                "height": 270,
+                "width": 404
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 103,
+                "y": 1989
+            },
+            "size": {
+                "height": 452,
+                "width": 850
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 512,
+                "y": 2603
+            },
+            "size": {
+                "height": 218,
+                "width": 404
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 127,
+                "y": 3093
+            },
+            "size": {
+                "height": 144,
+                "width": 236
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 399,
+                "y": 3093
+            },
+            "size": {
+                "height": 144,
+                "width": 236
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 672,
+                "y": 3093
+            },
+            "size": {
+                "height": 144,
+                "width": 236
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 8,
+                "y": 3775
+            },
+            "size": {
+                "height": 236,
+                "width": 236
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 260,
+                "y": 3775
+            },
+            "size": {
+                "height": 236,
+                "width": 236
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 512,
+                "y": 3775
+            },
+            "size": {
+                "height": 236,
+                "width": 236
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 765,
+                "y": 3775
+            },
+            "size": {
+                "height": 236,
+                "width": 236
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 0,
+                "y": 4097
+            },
+            "size": {
+                "height": 200,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "null",
+            "location": {
+                "x": 180,
+                "y": 4097
+            },
+            "size": {
+                "height": 203,
+                "width": 650
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 170,
+                "y": 188
+            },
+            "size": {
+                "height": 45,
+                "width": 405
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email Address",
+            "type": "email",
+            "location": {
+                "x": 410,
+                "y": 4217
+            },
+            "size": {
+                "height": 40,
+                "width": 168
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "location": {
+                "x": 693,
+                "y": 4452
+            },
+            "size": {
+                "height": 30,
+                "width": 129
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            62,
+            119
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "desc": "bumGenius is the leading cloth diaper brand! Shop bumGenius Freetime, Original Pocket Diaper 5.0, Elemental, Littles, Big & Bigger",
+    "navbar": "DIAPER PACKAGES\nELEMENTAL\nFREETIME\nORIGINAL 5.0\nLITTLES\nADULT DIAPERS\nACCESSORIES\nWHOLESALE",
+    "text": " Spending over $100? Free USA shipping.\n314-892-1855\nWarranty Registration\nSpending over $100?Free USA shipping.\nDIAPER PACKAGES\nELEMENTAL\nFREETIME\nORIGINAL 5.0\nLITTLES\nADULT DIAPERS\nACCESSORIES\nWHOLESALE\nStart Saving Money on Diaper Changes Today!\nFind out more about keeping money in your pocket with cloth diapers!\nGET STARTED\nDiaper Costs Add Up\n20¢ per diaper\nAverage cost per disposable diaper\n6,600 diaper changes\nApproximate amount; from 0-2 years\n≥$1,000 total\nSave more with every cloth diaper change\nLEARN MORE\nChange Cost to Savings\nwith Cloth Diapers\nCloth diapers are simple\nCloth diapers are affordable\nJust wash, wear and repeat\nLEARN MORE\nBuy Diapers Once\nConvenient, always enough diapers on hand & no trips to the store in the middle of the night!\nI'M READY\nBonus: They are Cute &\nReduce Landfill Waste\nOne baby using disposable diapers contributes up to one ton of landfill waste!\nLEARN MORE\nEasy Options\nBuy diapers all at once or build your set while you're waiting for baby to arrive.\nCute colors and prints to fit your family's style.\nOriginal 5.0\nOne-Size (8-35 lbs*)\nStretchy Tabs\nWaterproof Outer Cover\nDurable Plastic Snaps\nGentle Elastic\nFreetime\nOne-Size (8-35 lbs*)\nStretchy Tabs\nWaterproof Outer Cover\nDurable Plastic Snaps\nGentle Elastic\nAll-in-One Diaper\nNo Stuffing\nElemental\nOne-Size (8-35 lbs*)\nStretchy Tabs\nWaterproof Outer Cover\nDurable Plastic Snaps\nGentle Elastic\nAll-in-One Diaper\nNo Stuffing\n100% Organic Cotton\nSHOP CLOTH!\n#bumGenius Cloth Diapering\nFollow us on Instagram @bumgenius\nWant to know more about Cloth Diapering Savings?\nSign up for emails & receive our FREE Ultimate Cloth Diapering ebook\nGO\nNewsletter Sign Up\nNew products, coupons, and exclusive sales available when you sign up for our email newsletter.\nGet to Know Us\nInformation\nAbout Us\nContact Us\nMedia\nSupport\nShipping\nAccessibility Policy\nPrivacy Policy\nRefund Policy\nTerms of Service\n© 2022 Cotton Babies, Inc. bumGenius, the Flip Diapering System, Econobum, Elemental Joy, Elemum, MilkDaze, and Hemp Babies are products of Cotton Babies, Inc.16105 Swingley Ridge Rd, PO Box 630, Chesterfield, MO 63006 - 314.892.1855Privacy Policy | Shop: bumgenius\nBy using this site you agree to the use of cookies.\n    Ok",
+    "font": "\"PT Sans\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": -9999,
+                "y": -9999
+            },
+            "size": {
+                "height": 10,
+                "width": 1600
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "about:blank",
+            "location": {
+                "x": 835,
+                "y": 750
+            },
+            "size": {
+                "height": 68,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 61, 121, 1)",
+            "location": {
+                "x": 574,
+                "y": 188
+            },
+            "size": {
+                "height": 45,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "GET STARTED",
+            "bg-color": "rgba(141, 198, 55, 1)",
+            "location": {
+                "x": 387,
+                "y": 706
+            },
+            "size": {
+                "height": 51,
+                "width": 179
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "LEARN MORE",
+            "bg-color": "rgba(141, 198, 55, 1)",
+            "location": {
+                "x": 422,
+                "y": 1229
+            },
+            "size": {
+                "height": 48,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "LEARN MORE",
+            "bg-color": "rgba(141, 198, 55, 1)",
+            "location": {
+                "x": 275,
+                "y": 1783
+            },
+            "size": {
+                "height": 48,
+                "width": 165
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "I'M READY",
+            "bg-color": "rgba(141, 198, 55, 1)",
+            "location": {
+                "x": 576,
+                "y": 2176
+            },
+            "size": {
+                "height": 45,
+                "width": 134
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "LEARN MORE",
+            "bg-color": "rgba(141, 198, 55, 1)",
+            "location": {
+                "x": 254,
+                "y": 2787
+            },
+            "size": {
+                "height": 48,
+                "width": 165
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SHOP CLOTH!",
+            "bg-color": "rgba(141, 198, 55, 1)",
+            "location": {
+                "x": 422,
+                "y": 3531
+            },
+            "size": {
+                "height": 48,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "GO",
+            "bg-color": "rgba(141, 198, 54, 1)",
+            "location": {
+                "x": 570,
+                "y": 4217
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 61, 121, 1)",
+            "location": {
+                "x": 822,
+                "y": 4452
+            },
+            "size": {
+                "height": 30,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

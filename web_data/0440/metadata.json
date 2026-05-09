@@ -1,0 +1,326 @@
+{
+    "title": "Alignable: The Small Business Network",
+    "url": "alignable.com",
+    "full_url": "https://www.alignable.com/",
+    "images": [
+        {
+            "alt": "Jane and Ramon",
+            "location": {
+                "x": 504,
+                "y": 84
+            },
+            "size": {
+                "height": 340,
+                "width": 353
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jane and Ramon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Jane and Ramon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Wall Street Journal",
+            "location": {
+                "x": 41,
+                "y": 446
+            },
+            "size": {
+                "height": 40,
+                "width": 276
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Forbes",
+            "location": {
+                "x": 329,
+                "y": 446
+            },
+            "size": {
+                "height": 40,
+                "width": 118
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fast Company",
+            "location": {
+                "x": 459,
+                "y": 446
+            },
+            "size": {
+                "height": 40,
+                "width": 197
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TechCrunch",
+            "location": {
+                "x": 668,
+                "y": 446
+            },
+            "size": {
+                "height": 40,
+                "width": 202
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Huffington Post",
+            "location": {
+                "x": 882,
+                "y": 446
+            },
+            "size": {
+                "height": 40,
+                "width": 86
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Alignable",
+            "location": {
+                "x": 215,
+                "y": 3894
+            },
+            "size": {
+                "height": 42,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 682,
+                "y": 3894
+            },
+            "size": {
+                "height": 23,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 723,
+                "y": 3894
+            },
+            "size": {
+                "height": 23,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 764,
+                "y": 3894
+            },
+            "size": {
+                "height": 23,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your email",
+            "type": "email",
+            "location": {
+                "x": 152,
+                "y": 220
+            },
+            "size": {
+                "height": 48,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 344,
+                "y": 220
+            },
+            "size": {
+                "height": 48,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            241,
+            243,
+            247
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "Alignable is where small business owners build trusted relationships and generate referrals. Join for free and increase word-of-mouth for your business.",
+    "navbar": "",
+    "text": "Sign Up\nBuild Your Network. Build Your Business.\nBy submitting, you agree to the Alignable terms of use\nJane and Ramon grew their businesses by growing their relationship on Alignable.\n“34 requests for quotes and 14 sales in my first 3 days on Alignable!”\nDanielle Cuddie\nVelocity Printing\n“Great resource for small businesses to network and get referrals”\nFelix L. Griffin\nLord & Griffin IT Solutions\n“Alignable is a fantastic way to promote your business”\nWouter Schipper\nChef Lekker Catering\nSee what others have to say\nWhy Use Alignable?\nGet More Referrals\nFrom small business owners like you\nIncrease Visibility\nGet found and be seen by future customers\nBuild Trusted Relationships\nWith partners, prospects, and local leaders\nGet Expert Advice\nFrom small business leaders and top brands\nPromote Your Business\nFeature your services, products, and events\nConnect With Peers\nIn your industry, in your area, or nation-wide\nThree Steps to Success on Alignable\nWith over 7 million business owners, you can reach more customers, and get trusted referrals from your peers.\nBuild Your Business Profile\nTell us about your business and the types of customers you want referrals to.\nGrow Your Network\nWord-of-mouth referrals can come from anywhere. Connect with other businesses to boost your reach.\nRefer, Recommend, Respond, Repeat\nBuild relationships that lead to more customers by helping other businesses grow.\nBusiness Owner Forum\nSee your local forum\nQ&A\nAsk for advice and contribute to business owner discussions\nIndustry\nGet suggestions from industry peers to help you find the best solutions\nLocal\nDiscuss what's happening in your local business community\nAlignable's SMB Brand Ratings & Trust Index\nWith over 46,000 ratings from business owners, see which brands you can trust.\nSee brand ratings\nSeattle and 35,000+ communities are networking on Alignable!\nCedar Rapids, IA\nCalgary, AB\nPortland, ME\nTampa, FL\nBoston, MA\nNew York, NY\nBoulder, CO\nLas Vegas, NV\nDanville, KY\nJacksonville, FL\nHouston, TX\nSan Diego, CA\nAtlanta, GA\nDallas, TX\nScottsdale, AZ\nLafayette, LA\nActon, MA\nNaples, FL\nCharlottesville, VA\nToronto, ON\nChicago, IL\nPhoenix, AZ\nSan Antonio, TX\nPhiladelphia, PA\nCharlotte, NC\nTake me to Seattle\nSMB Snapshot: Quick Q&As To Drive Your Day\nWhat do you feel has been your biggest challenge(s) in both hiring and retaining employees?\nWhat should I look for when hiring a web designer/developer?\nDoes anyone leave voice messages when calling potential clients?\nBest Drug-Free Way to Reduce Workplace Anxiety\nYour Top 4 Hiring Concerns and How to Solve Them\nHow 11 Small Businesses Are Bouncing Back Stronger\nTop Questions and Answers From Small Businesses\nAbout\nTestimonials\nAbout Us\nPress\nCareers\nBlog\nSupport\nTerms of Service\nPrivacy Policy\nCode of Conduct\nVisitor Cookie Policy\nHelp Center\n2021 Alignable, Inc. All rights reserved.",
+    "font": "Proxima-Nova, helvetica, arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

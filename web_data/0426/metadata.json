@@ -1,0 +1,115 @@
+{
+    "title": "Wizarding News­™ from HPANA - Harry Potter, Fantastic Beasts and More",
+    "url": "hpana.com",
+    "full_url": "https://hpana.com/",
+    "images": [
+        {
+            "alt": "HPANA",
+            "location": {
+                "x": 40,
+                "y": 17
+            },
+            "size": {
+                "height": 30,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HPANA",
+            "location": {
+                "x": 109,
+                "y": 130
+            },
+            "size": {
+                "height": 233,
+                "width": 791
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "J.K. Rowling's Fan Site Award for HPANA",
+            "location": {
+                "x": 476,
+                "y": 2198
+            },
+            "size": {
+                "height": 64,
+                "width": 58
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            197,
+            197,
+            197
+        ],
+        [
+            252,
+            251,
+            252
+        ],
+        [
+            247,
+            248,
+            249
+        ]
+    ],
+    "desc": "Complete news coverage from top fan and official sources, featuring exclusive pictures, videos, interviews and more. Endorsed by J.K. Rowling.",
+    "navbar": "Home\nRandom\nAbout\nContact\nThe feed that started it all Support HPANA for free",
+    "text": "Home\nRandom\nAbout\nContact\nThe feed that started it all Support HPANA for free\n\nGet the very latest news on our Twitter\nRead a random Potter news story from our archives\nWe completely disavow and disapprove of JK Rowling's transphobic bigotry.\nToday, December 8 in Harry Potter History:\n2009\n'Harry Potter: The Exhibition' moving to Canada in 2010\n5,139 total views\n2008\n'Beedle the Bard' to become a movie?\n6,321 total views\n2006\nRowling on Forbes Top-Earning Authors list\nFirst look at Harry action figure\n19,115 total views\n2005\nJulie Walters returning to Potter\nFry, Rowling BBC4 radio interview press release\nGRAMMY nomination for Jim Dale\n28,069 total views\n2004\nEarly-bird discounts for HP Fan Trips end soon\n'Candle for Care' a time to share\n10,414 total views\n\n\nOriginal material copyright © 2002-2022 HPANA. All rights reserved.\n\nThe WIZARDING WORLD franchise, its related characters, names and indicia are trademarks of and © Warner Bros. Entertainment Inc. WIZARDING WORLD publishing and theatrical stage rights © J.K. Rowling. Materials from the HARRY POTTER™ and FANTASTIC BEASTS™ series of films are © Warner Bros. Entertainment and displayed here under the fair use doctrine for news coverage, analysis, and noncommercial transformative artistic expression. Other rights may be reserved by WIZARDING WORLD DIGITAL LLC.\n\nWIZARDING NEWS™ and HPANA™ are service marks of an independently operated fan site, not affiliated with nor sponsored by any franchise owner, subsidiary, or licensee.",
+    "font": "\"open sans\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

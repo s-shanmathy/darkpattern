@@ -1,0 +1,582 @@
+{
+    "title": "Justia :: Free Law & Legal Information for Lawyers, Students, Business and the Public",
+    "url": "justia.com",
+    "full_url": "https://www.justia.com/",
+    "images": [
+        {
+            "alt": "Justia",
+            "location": {
+                "x": 20,
+                "y": 15
+            },
+            "size": {
+                "height": 36,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "search",
+            "location": {
+                "x": 783,
+                "y": 23
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "My Account",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "search",
+            "location": {
+                "x": 784,
+                "y": 22
+            },
+            "size": {
+                "height": 22,
+                "width": 22
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Justia Connect thumbnail",
+            "location": {
+                "x": 51,
+                "y": 2301
+            },
+            "size": {
+                "height": 107,
+                "width": 179
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jury Rules for NCAA in Brain Injury Case Involving College Football Player",
+            "location": {
+                "x": 51,
+                "y": 2598
+            },
+            "size": {
+                "height": 107,
+                "width": 179
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Michael C. Dorf",
+            "location": {
+                "x": 888,
+                "y": 546
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jon May",
+            "location": {
+                "x": 888,
+                "y": 1037
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Timothy Healy",
+            "location": {
+                "x": 680,
+                "y": 1628
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Renee F Lee",
+            "location": {
+                "x": 680,
+                "y": 1852
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Carrie Fulton-Brown",
+            "location": {
+                "x": 680,
+                "y": 2077
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Richard John Davies",
+            "location": {
+                "x": 680,
+                "y": 2301
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Jonathan Sooriash",
+            "location": {
+                "x": 680,
+                "y": 2526
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Trish K. Murphy",
+            "location": {
+                "x": 680,
+                "y": 2751
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PRO label",
+            "location": {
+                "x": 890,
+                "y": 2941
+            },
+            "size": {
+                "height": 13,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Karol Dezwager Brown",
+            "location": {
+                "x": 680,
+                "y": 2975
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 437,
+                "y": 4435
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 472,
+                "y": 4435
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 507,
+                "y": 4435
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Justia",
+            "location": {
+                "x": 542,
+                "y": 4435
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 553,
+                "y": 15
+            },
+            "size": {
+                "height": 36,
+                "width": 224
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Legal Issue or Lawyer Name",
+            "type": "text",
+            "location": {
+                "x": 700,
+                "y": 1299
+            },
+            "size": {
+                "height": 39,
+                "width": 258
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "City, State",
+            "type": "text",
+            "location": {
+                "x": 700,
+                "y": 1344
+            },
+            "size": {
+                "height": 39,
+                "width": 164
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 868,
+                "y": 1344
+            },
+            "size": {
+                "height": 39,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            48,
+            108
+        ],
+        [
+            237,
+            237,
+            237
+        ]
+    ],
+    "desc": "Justia provides free case law, codes, regulations and legal information for lawyers, business, students and consumers world wide.",
+    "navbar": "Log In\nSign Up",
+    "text": "Log In\nSign Up\nFind a Lawyer Ask a Lawyer Research the Law Law Schools Laws & Regs Newsletters Marketing Solutions\nLegal Guides\nInjury Law\nCar Accidents, Medical Malpractice...\nFamily Law\nDivorce, Child Custody and Support, Adoption...\nEstate Planning\nTrusts, Wills, Probate, Guardianships...\nHome Ownership\nBuying a Home, Mortgages and Refinancing...\nIntellectual Property\nCopyright, Patent, Trademarks...\nEmployment & Labor\nDiscrimination, Sexual Harassment, Wages...\nCriminal Law\nDrunk Driving, Drug Crimes, Sex Crimes...\nBusiness Law\nStarting a Business, Managing a Business...\nImmigration\nWork Visas, Green Cards, Citizenship,...\nBankruptcy\nChapter 7, Chapter 13, Business Bankruptcy...\nLegal Research & Law Practice\nLaws: Cases & Codes\nUS Constitution, US Laws, State Laws...\nUS Courts\nUSSC, Fed Courts, State Courts...\nLaw Schools\nLaw Reviews, Outlines, Law Prof Blogs...\nLaw Blogs\nBusiness Law, Family Law, Podcasts...\n50-State Surveys\nAbortion Laws by State...\nUS Federal Government\nExecutive, Congress, Courts...\nUS States\nCalifornia, Florida, New York, Texas...\nLegal Forms\nUS Federal, US States, Biz Contracts...\nExperts & Expert Witnesses\nAccident Reconstruction, Medical Experts\nLegal News\nCompany Profiles, Federal Dockets...\nLawyers, Legal Aid & Pro Bono Services\nPersonal Injury\nMedical Malpractice, Workers' Comp...\nCriminal Law\nDUI/DWI, Traffic Tickets, White Collar...\nFamily Law\nDivorce, Domestic Violence, Immigration...\nBusiness Law\nBankruptcy, Employment, Securities...\nTax Law\nEstate Planning, Probate, Investor Fraud...\nCalifornia\nLos Angeles, San Diego, San Francisco...\nNew York\nNew York City, Bronx, Brooklyn...\nTexas\nAustin, Dallas, Houston, San Antonio...\nOther US States\nFlorida, Illinois, Ohio, Pennsylvania...\nOther US Cities\nAtlanta, Chicago, Miami, Philadelphia...\nLatin America\nMexico\nBaja California, Distrito Federal, Coahuila, Estado de México, Jalisco, Nuevo León...\nCentral America & Caribbean\nBelize, Costa Rica, Cuba, Dominican Republic, El Salvador, Guatemala, Honduras, Nicaragua, Panama\nSouth America\nArgentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, Venezuela\nCases in the News - Documents\nApple Lawsuits - Antitrust, patent and other lawsuits involving Apple, including Apple e-books antitrust litigation.\nCamp Lejeune Lawsuits - Injury lawsuits based on contaminated water at a military base.\nFacebook Lawsuits - Copyright, patent, contract and other lawsuits involving Facebook.\nGoogle Lawsuits - Copyright, patent, contract and other lawsuits involving Google.\nTesla Motors Lawsuits - Securities, patent, personal injury and other lawsuits involving Tesla Motors.\nExplore the membership connecting legal professionals with resources and benefits to achieve their professional and practice-growth goals. Free Justia Connect Basic Memberships unlock access to core program features, while upgraded Justia Connect Pro Memberships offer expanded benefits.\nVisit Justia Connect\nNovember 28, 2022\nJury Rules for NCAA in Brain Injury Case Involving College Football Player\nThe widow of a USC linebacker who had suffered from chronic traumatic encephalopathy (CTE) failed to prove that his death resulted from his repeated head injuries while playing football. Read More.\nPublic Interest and Pro Bono Projects\nStanford Copyright and Fair Use Center\nThis site contains a wealth of primary and secondary copyright and fair use resources including sample copyright and fair use guidelines for librarians.\nCOVID-19 Laws and Legal Resources Center\nOur COVID-19 center describes the changes to laws and procedures caused by the coronavirus pandemic. These involve issues related to employment, housing, small businesses, taxes, immigration, bankruptcy, and more.\nSupreme Court Center\nJustia provides a searchable and browsable database of all US Supreme Court decisions since the 1790s, as well as links to related sources. We also sponsor the Oyez Project, a multimedia archive that contains audio of Supreme Court oral arguments.\nLGBTQ Legal Resource Center\nJustia's LGBTQ Legal Resource Center provides up-to-date information about legal issues uniquely or disproportionately affecting LGBTQ individuals in areas including family law, employment law, immigration, housing, military service, juvenile law, and other topics.\nConsumer & Business Legal Forms\nThese surveys provide links to forms and resources in areas such as divorce and family law, estate planning, real estate, bankruptcy, immigration, intellectual property, and business formation and incorporation. Many forms are available at no cost. The surveys also describe key laws and procedures that govern these issues in each state.\nSports Law Center\nOur recently updated Sports Law center provides information on issues such as contracts, endorsements, collective bargaining, and doping regulations. We also cover rules specific to college sports, such as Title IX and the new state laws on monetizing the name, image, and likeness rights of student-athletes.\nJustia Connect\nLawyers, access your free Justia Connect membership dashboard.\nLog In\nUnfamiliar with Justia Connect?\nLearn More ›\nToday on Verdict\nCan SCOTUS Prevent Free Speech from Swallowing Anti-discrimination Law?\nCornell Law professor Michael C. Dorf explains the options available to the U.S. Supreme Court as it considers 303 Creative LLC v. Elenis, which presents a clash between a Colorado law forbidding places of public accommodation from discriminating based on sexual orientation and a conservative Christian web designer’s objection to creating material that, she says, tacitly expresses approval of same-sex marriage.\nWhy the United States Faces an Uphill Battle Convicting Donald Trump for Unlawfully Removing Government Documents From the White House and Concealing Them at Mar-a-Lago\nAttorney Jon May discusses what offenses former President Donald Trump is likely to be charged with, and why the government may fail to convict him for any of those offenses.\nFind a Lawyer\nLawyers - Get Listed Now!\nGet a free directory profile listing\nSPONSORED LISTINGS\nTimothy Healy\nPREMIUM\n(425) 657-5006\nBellevue, WA\nCriminal Law, Domestic Violence, Juvenile Law\nWebsite\nEmail\nProfile\nRenee F Lee\nPREMIUM\n(425) 645-0433\nEverett, WA\nFamily Law, Arbitration & Mediation, Divorce\nWebsite\nEmail\nProfile\nCarrie Fulton-Brown\nPREMIUM\n(425) 657-5006\nBellevue, WA\nCriminal Law, Domestic Violence\nWebsite\nEmail\nProfile\nRichard John Davies\nPREMIUM\n(206) 957-3344\nSeattle, WA\nMaritime Law, Construction Law, Personal Injury, Products Liability, Insurance Claims\nWebsite\nEmail\nProfile\nJonathan Sooriash\nPREMIUM\n(888) 619-0084\nLos Angeles, CA\nTax Law\nWebsite\nEmail\nProfile\nTrish K. Murphy\nPREMIUM\n(206) 812-4840\nSeattle, WA\nEmployment Law\nWebsite\nEmail\nProfile\nKarol Dezwager Brown\nBellevue, WA\n(425) 250-8110\nImmigration Law, International Law\nWebsite\nEmail\nProfile\nAsk a Lawyer\nQuestion:\nAdd details\n120\nAsk Question\nJustia Legal Resources\nFind A Lawyer\nBankruptcy Lawyers\nBusiness Lawyers\nCriminal Lawyers\nEmployment Lawyers\nEstate Planning Lawyers\nFamily Lawyers\nPersonal Injury Lawyers\nMore...\nIndividuals\nBankruptcy\nCriminal\nDivorce\nDUI\nEstate Planning\nFamily Law\nPersonal Injury\nMore...\nBusiness\nBusiness Formation\nBusiness Operations\nEmployment\nIntellectual Property\nInternational Trade\nReal Estate\nTax Law\nMore...\nLaw Students\nLaw Schools\nAdmissions\nFinancial Aid\nCourse Outlines\nLaw Journals\nBlogs\nEmployment\nMore...\nUS Federal Law\nUS Constitution\nUS Code\nRegulations\nSupreme Court\nCircuit Courts\nDistrict Courts\nDockets & Filings\nMore...\nUS State Law\nState Constitutions\nState Codes\nState Case Law\nCalifornia\nFlorida\nNew York\nTexas\nMore...\nOther Databases\nCOVID-19 Resources\nLegal Blogs\nBusiness Forms\nProduct Recalls\nPatents\nTrademarks\nCountries\nMore...\nMarketing Solutions\nJustia Connect Membership\nJustia Lawyer Directory\nJustia Premium Placements\nJustia Elevate (SEO, Websites)\nJustia Amplify (PPC, GBP)\nJustia Onward Blog\nTestimonials\nMore...\n© 2022 Justia\nJustia Connect\nLegal Portal\nCompany\nHelp\nTerms of Service\nPrivacy Policy\nMarketing Solutions",
+    "font": "Arial, Helvetica, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 777,
+                "y": 15
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Ask Question",
+            "bg-color": "rgba(6, 53, 122, 1)",
+            "location": {
+                "x": 827,
+                "y": 3374
+            },
+            "size": {
+                "height": 35,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

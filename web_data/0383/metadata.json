@@ -1,0 +1,2131 @@
+{
+    "title": "HarperCollins Publishers: World-Leading Book Publisher",
+    "url": "harpercollins.com",
+    "full_url": "https://www.harpercollins.com/",
+    "images": [
+        {
+            "alt": "nav logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "cart",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "account icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "search icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "submit",
+            "location": {
+                "x": 576,
+                "y": 34
+            },
+            "size": {
+                "height": 25,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cart",
+            "location": {
+                "x": 860,
+                "y": 35
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "account",
+            "location": {
+                "x": 924,
+                "y": 35
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BillboardOverlayBestAmerica",
+            "location": {
+                "x": -2727,
+                "y": 258
+            },
+            "size": {
+                "height": 174,
+                "width": 410
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "BillboardOverlayHoliday2022.2",
+            "location": {
+                "x": -1718,
+                "y": 258
+            },
+            "size": {
+                "height": 174,
+                "width": 410
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "BillboardOverlayImaniPerry3",
+            "location": {
+                "x": -709,
+                "y": 258
+            },
+            "size": {
+                "height": 174,
+                "width": 410
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "BillboardOverlayHoliday Romance",
+            "location": {
+                "x": 300,
+                "y": 258
+            },
+            "size": {
+                "height": 174,
+                "width": 410
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "left-arrow",
+            "location": {
+                "x": 25,
+                "y": 845
+            },
+            "size": {
+                "height": 60,
+                "width": 38
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Coastline Is an Immeasurable Thing",
+            "location": {
+                "x": -1207,
+                "y": 718
+            },
+            "size": {
+                "height": 164,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Dressmakers of Prospect Heights",
+            "location": {
+                "x": -1068,
+                "y": 718
+            },
+            "size": {
+                "height": 164,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "And Yet",
+            "location": {
+                "x": -930,
+                "y": 718
+            },
+            "size": {
+                "height": 163,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "One Jump at a Time",
+            "location": {
+                "x": -801,
+                "y": 718
+            },
+            "size": {
+                "height": 179,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "We All Want Impossible Things",
+            "location": {
+                "x": -663,
+                "y": 718
+            },
+            "size": {
+                "height": 179,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Now Is Not the Time to Panic",
+            "location": {
+                "x": -524,
+                "y": 718
+            },
+            "size": {
+                "height": 179,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Elizabeth Taylor",
+            "location": {
+                "x": -376,
+                "y": 732
+            },
+            "size": {
+                "height": 0,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Boy, the Mole, the Fox and the Horse: The Animated Story",
+            "location": {
+                "x": -237,
+                "y": 718
+            },
+            "size": {
+                "height": 120,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "You Got Anything Stronger?",
+            "location": {
+                "x": -99,
+                "y": 718
+            },
+            "size": {
+                "height": 163,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Last Invitation",
+            "location": {
+                "x": 40,
+                "y": 718
+            },
+            "size": {
+                "height": 163,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Seamstress of Sardinia",
+            "location": {
+                "x": 178,
+                "y": 718
+            },
+            "size": {
+                "height": 165,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Galatea",
+            "location": {
+                "x": 317,
+                "y": 718
+            },
+            "size": {
+                "height": 159,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Thousand Heartbeats",
+            "location": {
+                "x": 455,
+                "y": 718
+            },
+            "size": {
+                "height": 164,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Coastline Is an Immeasurable Thing",
+            "location": {
+                "x": 594,
+                "y": 718
+            },
+            "size": {
+                "height": 164,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Dressmakers of Prospect Heights",
+            "location": {
+                "x": 732,
+                "y": 718
+            },
+            "size": {
+                "height": 164,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "And Yet",
+            "location": {
+                "x": 871,
+                "y": 718
+            },
+            "size": {
+                "height": 163,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "One Jump at a Time",
+            "location": {
+                "x": 999,
+                "y": 718
+            },
+            "size": {
+                "height": 179,
+                "width": 119
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "right arrow",
+            "location": {
+                "x": 947,
+                "y": 845
+            },
+            "size": {
+                "height": 60,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "left-arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Nine Liars",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Stacey's Remarkable Books",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Scatterlings",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Ms. Demeanor",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Hello Grief",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The January 6 Report",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Never Forget Our People Were Always Free",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Small World",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Devil's Ransom",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Daughters of Victory",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "right arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "left-arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Last Folk Hero",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cinema Speculation",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Demon Copperhead",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Whiteout",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "These Precious Days",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Babel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Live Wire",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Mosquito Bowl",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Weight of Blood",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Vanderbilt",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "right arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "left-arrow",
+            "location": {
+                "x": 23,
+                "y": 2078
+            },
+            "size": {
+                "height": 60,
+                "width": 38
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MicrosoftTeams image_3",
+            "location": {
+                "x": 99,
+                "y": 2012
+            },
+            "size": {
+                "height": 190,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MicrosoftTeams image_3",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 190,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Tile1_HolidayRoma",
+            "location": {
+                "x": 379,
+                "y": 2012
+            },
+            "size": {
+                "height": 190,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tile_Cookbooks2",
+            "location": {
+                "x": 660,
+                "y": 2012
+            },
+            "size": {
+                "height": 190,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MicrosoftTeams image_3",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 190,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "right-arrow",
+            "location": {
+                "x": 948,
+                "y": 2078
+            },
+            "size": {
+                "height": 60,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "trophy-solid.svg",
+            "location": {
+                "x": 40,
+                "y": 3634
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "certificate-solid.svg",
+            "location": {
+                "x": 280,
+                "y": 3634
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "star-solid.svg",
+            "location": {
+                "x": 520,
+                "y": 3634
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "bullhorn-solid.svg",
+            "location": {
+                "x": 760,
+                "y": 3634
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "headphones-solid.svg",
+            "location": {
+                "x": 40,
+                "y": 3669
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "child-solid.svg",
+            "location": {
+                "x": 280,
+                "y": 3669
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "pencil-alt-solid.svg",
+            "location": {
+                "x": 520,
+                "y": 3669
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "tags-solid.svg",
+            "location": {
+                "x": 760,
+                "y": 3669
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "edit-solid.svg",
+            "location": {
+                "x": 40,
+                "y": 3704
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "suitcase-solid.svg",
+            "location": {
+                "x": 280,
+                "y": 3704
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "utensils-solid.svg",
+            "location": {
+                "x": 520,
+                "y": 3704
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "twitch-brands.svg",
+            "location": {
+                "x": 760,
+                "y": 3704
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "clock-regular.svg",
+            "location": {
+                "x": 40,
+                "y": 3739
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "puzzle-piece-solid.svg",
+            "location": {
+                "x": 280,
+                "y": 3739
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sun.svg",
+            "location": {
+                "x": 520,
+                "y": 3739
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "heart-solid.svg",
+            "location": {
+                "x": 760,
+                "y": 3739
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "space-shuttle-solid.svg",
+            "location": {
+                "x": 40,
+                "y": 3774
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "lightbulb-regular.svg",
+            "location": {
+                "x": 280,
+                "y": 3774
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "list-alt-regular.svg",
+            "location": {
+                "x": 520,
+                "y": 3774
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "coffee-solid.svg",
+            "location": {
+                "x": 760,
+                "y": 3774
+            },
+            "size": {
+                "height": 10,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "left-arrow",
+            "location": {
+                "x": 23,
+                "y": 3844
+            },
+            "size": {
+                "height": 60,
+                "width": 38
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "right-arrow",
+            "location": {
+                "x": 948,
+                "y": 3844
+            },
+            "size": {
+                "height": 60,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New week, new books! ➡️ to see must-reads in fiction, memoir, fantasy, and more.\n\n@hkdimon @freeblac on Instagram",
+            "location": {
+                "x": 41,
+                "y": 4271
+            },
+            "size": {
+                "height": 288,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "This holiday, gift our library of illustrated @minalimadesign classics! With stunning artwork and in on Instagram",
+            "location": {
+                "x": 360,
+                "y": 4271
+            },
+            "size": {
+                "height": 288,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Behind the Crown has arrived! 👑 A breathtaking collection of photographs capturing the modern Briti on Instagram",
+            "location": {
+                "x": 680,
+                "y": 4271
+            },
+            "size": {
+                "height": 288,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Happy December! If you're looking for the perfect book to cuddle up with while you sip some cocoa, l on Instagram",
+            "location": {
+                "x": 41,
+                "y": 4591
+            },
+            "size": {
+                "height": 288,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Behold these gorgeous box sets—perfect for gifting!\n \n📚 Books featured:\n• The Divergent 4-Book Box  on Instagram",
+            "location": {
+                "x": 360,
+                "y": 4591
+            },
+            "size": {
+                "height": 288,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "✨ Demon Copperhead by @barbara.kingsolver is one of The New York Times Book Review’s ‘10 Best Books  on Instagram",
+            "location": {
+                "x": 680,
+                "y": 4591
+            },
+            "size": {
+                "height": 288,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New week, new books! ➡️ to see must-reads in fiction, memoir, fantasy, and more.\n\n@hkdimon @freeblac",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "instagram profile picture",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "previous image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "next image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "This holiday, gift our library of illustrated @minalimadesign classics! With stunning artwork and in",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "instagram profile picture",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "previous image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "next image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Behind the Crown has arrived! 👑 A breathtaking collection of photographs capturing the modern Briti",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "instagram profile picture",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "previous image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "next image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Happy December! If you're looking for the perfect book to cuddle up with while you sip some cocoa, l",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "instagram profile picture",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "previous image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "next image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Behold these gorgeous box sets—perfect for gifting!\n \n📚 Books featured:\n• The Divergent 4-Book Box ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "instagram profile picture",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "previous image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "next image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "instagram profile picture",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "previous image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "next image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Footer Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 605,
+                "y": 31
+            },
+            "size": {
+                "height": 31,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            117,
+            182
+        ],
+        [
+            235,
+            176,
+            68
+        ]
+    ],
+    "desc": "Publishing great authors since 1817. Discover thousands of books and authors, plus get exclusives on new releases, bestsellers, and more, at harpercollins.com.",
+    "navbar": "",
+    "text": "harper logo\n0\nBooks\nAuthors\nEvents\nKids & Teens\nChristian\nRomance\nAbout\nSign up for Bookperk—daily bookish finds, fantastic deals, giveaways, and more!\nTo ensure delivery by 12/24, all orders must be placed by 12/14 at 4pm EST. U.S. deliveries only.\nLearn More\nJUST RELEASED\nCOMING SOON\nBESTSELLERS\nYou Got Anything Stronger?\nGabrielle Union\nThe Last Invitation\nby Darby Kane\nThe Seamstress of Sardinia\nby Bianca Pitzorno\nGalatea\nby Madeline Miller\nA Thousand Heartbeats\nby Kiera Cass\nA Coastline Is an Immeasurable Thing\nby Mary-Alice Daniel\nThe Dressmakers of Prospect Heights\nby Kitty Zeldis\nMeet Our \nAuthors\nAuthors & their work are at the center of everything we do.\nR. F. Kuang\nKevin Wilson\nWanda M. Morris\nBarbara Kingsolver\nAnthony Horowitz\nTiffany D. Jackson\nAuthors A-Z\nUpcoming Events\nDEC\n08\nTHU\nThe Dressmakers of Prospect Heights by Kitty Zeldis\nBank Square Books; Bookstore\n12:00 pm EST\nLearn More\nDEC\n08\nTHU\nThe Escape Artist by Jonathan Freedland\nSmithsonian Associates; Speaking Event\n12:00 pm ET\nLearn More\nDEC\n08\nTHU\nThe Last of the Seven by Steven Hartov\nPoisoned Pen; Bookstore\n7:00 pm MT\nDEC\n08\nTHU\nThe Poison Season by Mara Rutherford\nMcnally Jackson; Bookstore\n7:00 pm ET\nLearn More\nView More Events\nStay in Touch with Us!\nBe the first to know about new releases,\nauthor news, exclusives, and more!\nSIGN UP NOW\nBROWSE AND SHOP\nAdult Bestsellers\nChildren's Bestsellers\nNew Releases\nComing Soon\nAudiobooks\nBooks for Kids\nBooks for Tweens\nDeals\nBiography & Memoir\nBusiness\nCookbooks\nFiction\nHistory\nMystery\nReligion & Inspiration\nRomance\nScience Fiction & Fantasy\nSelf-Improvement\nReading Guides\nBook Clubs\nROLL CALL\nAre you an educator?\nAre you a librarian?\nAre you a childrens librarian or educator?\nAre you a book club?\n@HarperCollins on Instagram\nConnect with Us\nCONTACT US\nABOUT US\nFOR READERS\nFOR AUTHORS\nMEDIA\nSERVICES\nSALES & RIGHTS\nGLOSE APP\nGLOBAL DIVISIONS\nCopyright © 2022 HarperCollins Publishers All rights reserved.\nTerms of Use Terms of Sale Your Ad Choices Privacy Policy California Privacy Policy Do Not Sell My Personal Information",
+    "font": "Muli, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Optimizely Internal Frame",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 583
+            },
+            "size": {
+                "height": 259,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 568,
+                "y": 31
+            },
+            "size": {
+                "height": 31,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "CONTACT US",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5120
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "ABOUT US",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5161
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "FOR READERS",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5202
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "FOR AUTHORS",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5243
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "MEDIA",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5284
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SERVICES",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5325
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SALES & RIGHTS",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5366
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "GLOSE APP",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5407
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "GLOBAL DIVISIONS",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 5448
+            },
+            "size": {
+                "height": 41,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

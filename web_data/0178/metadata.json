@@ -1,0 +1,99 @@
+{
+    "title": "Instagram",
+    "url": "instagram.com",
+    "full_url": "https://www.instagram.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 578,
+                "y": 218
+            },
+            "size": {
+                "height": 36,
+                "width": 258
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 578,
+                "y": 262
+            },
+            "size": {
+                "height": 36,
+                "width": 258
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            250,
+            250
+        ],
+        [
+            232,
+            232,
+            232
+        ]
+    ],
+    "desc": "Create an account or log in to Instagram - A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family.",
+    "navbar": "",
+    "text": "Meta\nAbout\nBlog\nJobs\nHelp\nAPI\nPrivacy\nTerms\nTop Accounts\nHashtags\nLocations\nInstagram Lite\nContact Uploading & Non-Users\nEnglish\nAfrikaans\nČeština\nDansk\nDeutsch\nΕλληνικά\nEnglish\nEnglish (UK)\nEspañol (España)\nEspañol\nSuomi\nFrançais\nBahasa Indonesia\nItaliano\n日本語\n한국어\nBahasa Melayu\nNorsk\nNederlands\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nРусский\nSvenska\nภาษาไทย\nFilipino\nTürkçe\n中文(简体)\n中文(台灣)\nবাংলা\nગુજરાતી\nहिन्दी\nHrvatski\nMagyar\nಕನ್ನಡ\nമലയാളം\nमराठी\nनेपाली\nਪੰਜਾਬੀ\nසිංහල\nSlovenčina\nதமிழ்\nతెలుగు\nTiếng Việt\n中文(香港)\nБългарски\nFrançais (Canada)\nRomână\nСрпски\nУкраїнська\n© 2022 Instagram from Meta",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "Log in",
+            "bg-color": "rgba(0, 149, 246, 0.3)",
+            "location": {
+                "x": 577,
+                "y": 314
+            },
+            "size": {
+                "height": 30,
+                "width": 268
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Log in with Facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 577,
+                "y": 402
+            },
+            "size": {
+                "height": 20,
+                "width": 268
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

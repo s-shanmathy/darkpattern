@@ -1,0 +1,981 @@
+{
+    "title": "Smash Balloon: #1 Social Media Feeds Plugin for WordPress",
+    "url": "smashballoon.com",
+    "full_url": "https://smashballoon.com/",
+    "images": [
+        {
+            "alt": "Smash Balloon",
+            "location": {
+                "x": -308,
+                "y": 180
+            },
+            "size": {
+                "height": 380,
+                "width": 380
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Smash Balloon",
+            "location": {
+                "x": 982,
+                "y": 200
+            },
+            "size": {
+                "height": 380,
+                "width": 282
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Smash Balloon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 62,
+                "y": 736
+            },
+            "size": {
+                "height": 24,
+                "width": 75
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 392,
+                "y": 731
+            },
+            "size": {
+                "height": 33,
+                "width": 75
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 722,
+                "y": 741
+            },
+            "size": {
+                "height": 14,
+                "width": 75
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 62,
+                "y": 789
+            },
+            "size": {
+                "height": 41,
+                "width": 75
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 392,
+                "y": 799
+            },
+            "size": {
+                "height": 20,
+                "width": 75
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 722,
+                "y": 786
+            },
+            "size": {
+                "height": 45,
+                "width": 75
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook Feed Pro",
+            "location": {
+                "x": 20,
+                "y": 1023
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram Feed Pro",
+            "location": {
+                "x": 251,
+                "y": 1023
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter Feed Pro",
+            "location": {
+                "x": 511,
+                "y": 1023
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTube Feed Pro",
+            "location": {
+                "x": 734,
+                "y": 1023
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "social wall",
+            "location": {
+                "x": 525,
+                "y": 1519
+            },
+            "size": {
+                "height": 256,
+                "width": 436
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "social wall",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 266,
+                "width": 283
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "5-star",
+            "location": {
+                "x": 393,
+                "y": 1983
+            },
+            "size": {
+                "height": 32,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Reviewed platform",
+            "location": {
+                "x": 545,
+                "y": 2374
+            },
+            "size": {
+                "height": 23,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Easily Setup Custom Social Feeds in WordPress (no code required)",
+            "location": {
+                "x": 20,
+                "y": 2903
+            },
+            "size": {
+                "height": 316,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Customize Your Social Media Feed Design to Match Your Brand",
+            "location": {
+                "x": 514,
+                "y": 3390
+            },
+            "size": {
+                "height": 317,
+                "width": 475
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Always Reliable Feed Backup and Issue Alerts",
+            "location": {
+                "x": 20,
+                "y": 3845
+            },
+            "size": {
+                "height": 317,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Page Speed Optimized for Minimal Load Times",
+            "location": {
+                "x": 514,
+                "y": 4323
+            },
+            "size": {
+                "height": 317,
+                "width": 475
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Multiple Feeds, SEO Friendly, and No Limitations",
+            "location": {
+                "x": 20,
+                "y": 4778
+            },
+            "size": {
+                "height": 317,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Leverage Social Proof to Boost Engagement, Subscribers, and Sales",
+            "location": {
+                "x": 514,
+                "y": 5233
+            },
+            "size": {
+                "height": 317,
+                "width": 475
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Easily enable GDPR compliance",
+            "location": {
+                "x": 20,
+                "y": 5767
+            },
+            "size": {
+                "height": 317,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Smash Balloon Difference",
+            "location": {
+                "x": 504,
+                "y": 6415
+            },
+            "size": {
+                "height": 297,
+                "width": 485
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "5 stars",
+            "location": {
+                "x": 325,
+                "y": 7177
+            },
+            "size": {
+                "height": 17,
+                "width": 105
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 572,
+                "y": 7175
+            },
+            "size": {
+                "height": 22,
+                "width": 22
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 62,
+                "y": 7317
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 130,
+                "y": 7323
+            },
+            "size": {
+                "height": 16,
+                "width": 105
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "@bidonme",
+            "location": {
+                "x": 62,
+                "y": 7647
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 62,
+                "y": 7753
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 130,
+                "y": 7759
+            },
+            "size": {
+                "height": 16,
+                "width": 105
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "@fowlerj",
+            "location": {
+                "x": 62,
+                "y": 8164
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 385,
+                "y": 7317
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 453,
+                "y": 7323
+            },
+            "size": {
+                "height": 16,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "@siverfox",
+            "location": {
+                "x": 385,
+                "y": 7755
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 385,
+                "y": 7861
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "@QuarryAndCastle",
+            "location": {
+                "x": 385,
+                "y": 8273
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 708,
+                "y": 7317
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 776,
+                "y": 7323
+            },
+            "size": {
+                "height": 16,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "@dcpw",
+            "location": {
+                "x": 708,
+                "y": 7565
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WordPress",
+            "location": {
+                "x": 708,
+                "y": 7671
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "@apiscera",
+            "location": {
+                "x": 708,
+                "y": 7919
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Get More Facebook Followers for Business",
+            "location": {
+                "x": 20,
+                "y": 9516
+            },
+            "size": {
+                "height": 138,
+                "width": 285
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Embed a YouTube Playlist on Your Divi Website",
+            "location": {
+                "x": 343,
+                "y": 9516
+            },
+            "size": {
+                "height": 138,
+                "width": 285
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Fix Instagram Embed Not Working (1)",
+            "location": {
+                "x": 667,
+                "y": 9516
+            },
+            "size": {
+                "height": 138,
+                "width": 285
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 51,
+                "y": 10083
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "instagram",
+            "location": {
+                "x": 297,
+                "y": 10083
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 542,
+                "y": 10083
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "youtube",
+            "location": {
+                "x": 788,
+                "y": 10083
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "social wall",
+            "location": {
+                "x": 56,
+                "y": 10435
+            },
+            "size": {
+                "height": 208,
+                "width": 322
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Trusted and Verified by",
+            "location": {
+                "x": 604,
+                "y": 11412
+            },
+            "size": {
+                "height": 41,
+                "width": 385
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Trusted and Verified by",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 163,
+                "width": 116
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            0,
+            34,
+            109
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            253,
+            84,
+            82
+        ]
+    ],
+    "desc": "Fully customizable social media feed plugins for WordPress. Display your Facebook, Instagram, Twitter, and YouTube feeds - Trusted by 1.75 million users.",
+    "navbar": "Plugins\n\nFeatures\nPricing\nSupport\nBlog\nLogin\nGet Started",
+    "text": "Plugins\n\nFeatures\nPricing\nSupport\nBlog\nLogin\nGet Started\n\nEasy, Fast, and Reliable Social Media Feeds for WordPress\nJoin 1,750,000+ Professionals Who Use Smash Balloon to Easily Display Social Media Content in WordPress\nGet Started Now\nInstagram Feed\nFacebook Feed\nTwitter Feed\nYouTube Feed\nFB Group Support\nAggregate Socials\nTRUSTED BY\nFacebook Feed Pro\nSeamlessly integrate Facebook content into your website\nGet Started\nSee Demo\nInstagram Feed Pro\nDisplay completely customizable Instagram feeds on your website\nGet Started\nSee Demo\nTwitter Feed Pro\nSeamlessly integrate Twitter content into your website\nGet Started\nSee Demo\nYouTube Feed Pro\nDisplay completely customizable YouTube feeds on your website\nGet Started\nSee Demo\nBest Deal\nGet all plugins in our All Access Bundle\nOur All Access Bundle gives you unlimited access to all of our plugins, and also includes our Social Wall aggregator plugin which combines all your channels into one engaging social media wall.\nGet Started\nSee Demo\n\"Loving the @smashballoon plugins for displaying @instagram and @twitter posts – been looking for something like this for a while and nothing has ever really worked as well as this. Highly recommended for anyone looking to share their social media posts on @wordpress\"\nQuarry & Castle\nFrom Twitter\nFEATURES\nWhy over 1.75 Million users our plugins… and you will too.\nEasily Setup Custom Social Feeds in WordPress (no code required)\nNo more paying developers to figure things out. Our plugins are designed to be super simple, and allow you to go from installing the plugin to adding a feed in just a few seconds.\nIntuitive & easy to use\nNo coding required\nGutenberg Editor Support\nCustomize Your Social Media Feed Design to Match Your Brand\nStop spending hours customizing your feeds. Our custom social media feeds look beautiful right out of the box because we automatically use your WordPress theme fonts and styles.\nAuto-inherits styles from your theme\nTons of built-in styling and layout options\nQuick and easy customization\nAlways Reliable Feed Backup and Issue Alerts\nNever worry about your feed going down again. Unlike other WordPress social media feeds plugin, Smash Balloon is always reliable due to our intelligent feed caching, robust backup system, and smart issue reporting alerts.\nRobust backup caching system\nSmart issue reporting and email alerts\nFeed stays up even if social media is down\nPage Speed Optimized for Minimal Load Times\nMost social media plugins slow down your website, due to making a lot of external requests and loading unoptimized images. Smash Balloon plugins are built from the ground up to solve this problem.\nMinimizes external requests\nOptimizes and stores images locally\nLightning fast load times\nMultiple Feeds, SEO Friendly, and No Limitations\nAll social media feed content is 100% SEO friendly. Unlike other plugins, we don’t use iframes. Instead we embed the content directly on your web page which helps improve your SEO rankings.\nDisplay multiple feeds across your site\nBoost SEO with dynamically embedded content\nNo restrictions on the number of social media channels\nLeverage Social Proof to Boost Engagement, Subscribers, and Sales\nOur goal is to help you grow your business by leveraging social media. We make it easy for visitors to engage with your content, follow you on social media, and for you to leverage social proof to increase your conversions.\nLeverage testimonials and reviews to boost conversions\nDrive sales with Shoppable feeds\nIncrease engagement and get more followers\nEasily enable GDPR compliance\nOur plugins automatically integrate with many of the most popular GDPR consent plugins, allowing for a 1-click easy GDPR configuration to display compliant versions of your feeds with no third-party requests.\n1-click integration with popular GDPR consent plugins\nPrevents all third-party requests until visitor consents\nUtilizes local images\nThe Smash Balloon Difference\nAt Smash Balloon, we’re not just a WordPress plugin company. We’re a customer service company. We understand that part of what you’re investing in when you buy our products is the service behind them. This is why we put our customers first in everything we do.\nFrom going above and beyond in every support interaction, closely monitoring for social media changes so we can release updates at lightning speed, to providing creative workarounds for social media restrictions or bugs that affect users.\nWhat our users say about us\nRated 4.9/5 on\nWordPress\nInstalled On Over 100 Sites… Flawless. This is one of the best plugins I have ever purchased. It works every time, only time there is any issue is because facebook made changes and there is always a quick fix. Never needed support for this plugin.\nBidonme\n(@bidonme)\nStellar service, great plugin. The customer service was incredible. So polite and helpful at the same time. The plugin is great. It is very fast. It shaved ~2 seconds off our page load time. For us the configurability and the light-weight were what sold us. The customer support just knocked it out of the ball park. Highly recommended!\n@fowlerj\nProbably the best plugin I have ever used! So easy to configure and set up. Joel in the support team was fabulous at getting the issue with my theme resolved (it is a custom theme I inherited and had been incorrectly configured) but the team quickly identified my issue and help me to fix my theme. I can’t speak highly enough of this plugin.\n@siverfox\nLoving the @smashballoon plugins for displaying @instagram and @twitter posts – been looking for something like this for a while and nothing has ever really worked as well as this. Highly recommended for anyone looking to share their social media posts on @wordpress… pic.twitter.com/x3yJ1EZ7OX\nQuarry & Castle\n(@QuarryAndCastle)\nI have been using the Instagram Pro plugin from SmashBalloon for a year or two and have nothing but praise for the plugin and the company.\n@dcpw\nThe guys @smashballoon are the bomb! thank you! I've been looking for an Instagram plugin like yours forever! Thank you Thank you Thank you!\nApis Cera\n(@apiscera)\nFrequently Asked Questions\nWho should use Smash Balloon plugins?\nSmash Balloon plugins are perfect for business owners, marketers, bloggers, influencers, agencies, and basically anyone else who wants to integrate social media content into their website to help grow their following, increase conversions, save time, or engage more with their users.\nDo I need coding skills or a developer app?\nWill Smash Balloon plugins slow down my site?\nDo Smash Balloon plugins work on non-WordPress sites?\nCan I use Smash Balloon plugins on client sites?\nFrom the Blog\nHow to Get More Facebook Followers [12 Proven Ways]\nHow to Embed a YouTube Playlist on Your Divi Website\nHow to Fix Instagram Embed Not Working [Easy Way]\nView All Blog Posts\nLearn more about our products\nFacebook Feed Pro\nSeamlessly integrate Facebook content into your website.\nLearn More\nView Demo\nInstagram Feed Pro\nDisplay completely customizable Instagram feeds on your website.\nLearn More\nView Demo\nTwitter Feed Pro\nSeamlessly integrate Twitter content into your website.\nLearn More\nView Demo\nYouTube Feed Pro\nDisplay completely customizable YouTube feeds on your website.\nLearn More\nView Demo\nSocial Wall\nUse our Social Wall aggregator plugin to combine all your channels into one engaging social media wall.\nLearn More\nView Demo\nCompany\nTeam\nContact\nCareers\nAffiliates\nTestimonials\nProducts\nFacebook Feed\nInstagram Feed\nTwitter Feed\nYouTube Feed\nSocial Wall\nAll Access Bundle\nFeatures\nFeed Creation Wizard\nFeed Customizer\nDowntime Prevention\nSpeed Optimizer\nSEO Booster\nGDPR Compliant\nResources\nSupport\nMy Account\nDocumentation\nPricing\nBlog\nNewsletter\nGo Shopping\nMake a Website\nStart a Blog\nConnect with Us\nOur Brands\nWPForms OptinMonster MonsterInsights AffiliateWP All in One SEO RafflePress PushEngage SearchWP Easy Digital Downloads SeedProd WP Simple Pay\nCopyright © 2013 - 2022 Smash Balloon LLC.\nSmash Balloon is a trademark of Smash Balloon LLC.\nTerms & Conditions\nWebsite Privacy Policy\nApp Privacy Policy\nSmash Balloon Coupon",
+    "font": "GeneralSans-Medium, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 20,
+                "y": 2168
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 933,
+                "y": 2168
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(243, 244, 245, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(243, 244, 245, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

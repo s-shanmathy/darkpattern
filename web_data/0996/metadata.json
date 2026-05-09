@@ -1,0 +1,565 @@
+{
+    "title": "UltrabookReview.com - Ultrabook & Laptop Reviews 2022, Comparisons and News",
+    "url": "ultrabookreview.com",
+    "full_url": "https://www.ultrabookreview.com/",
+    "images": [
+        {
+            "alt": "ultrabook",
+            "location": {
+                "x": 0,
+                "y": 101
+            },
+            "size": {
+                "height": 350,
+                "width": 479
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "14 15 inch laptop",
+            "location": {
+                "x": 479,
+                "y": 101
+            },
+            "size": {
+                "height": 174,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "best gaming laptop",
+            "location": {
+                "x": 749,
+                "y": 101
+            },
+            "size": {
+                "height": 174,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "budget ultrabooks",
+            "location": {
+                "x": 479,
+                "y": 276
+            },
+            "size": {
+                "height": 174,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "best 2 in 1",
+            "location": {
+                "x": 749,
+                "y": 276
+            },
+            "size": {
+                "height": 174,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "top 11.6 inch ultrabooks",
+            "location": {
+                "x": 419,
+                "y": 662
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "best chromebooks",
+            "location": {
+                "x": 419,
+                "y": 992
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "evo laptops badge thumb",
+            "location": {
+                "x": 419,
+                "y": 1323
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "lenovo legion 5i thumb",
+            "location": {
+                "x": 419,
+                "y": 1653
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "asus tuf dash thumb",
+            "location": {
+                "x": 419,
+                "y": 1984
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ultrabook",
+            "location": {
+                "x": 419,
+                "y": 2279
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "14 15 inch laptop",
+            "location": {
+                "x": 419,
+                "y": 2609
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "best gaming laptop",
+            "location": {
+                "x": 419,
+                "y": 2940
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ultra deals",
+            "location": {
+                "x": 419,
+                "y": 3271
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dell xps13 plus thumb",
+            "location": {
+                "x": 419,
+                "y": 3602
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "lg gram17 thumb",
+            "location": {
+                "x": 419,
+                "y": 3932
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "amd ryzen 9 laptops",
+            "location": {
+                "x": 419,
+                "y": 4263
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dell inspiron 16 thumb",
+            "location": {
+                "x": 419,
+                "y": 4594
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "asus zephyus m16 thumb",
+            "location": {
+                "x": 419,
+                "y": 4888
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "budget ultrabooks",
+            "location": {
+                "x": 419,
+                "y": 5219
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dell xps 15 9520 THUMB",
+            "location": {
+                "x": 419,
+                "y": 5550
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "amd ryzen7 6800 intel corei7 12700h thumb",
+            "location": {
+                "x": 419,
+                "y": 5880
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "fanless laptops",
+            "location": {
+                "x": 419,
+                "y": 6211
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "asus zenbook s13 thumb 1",
+            "location": {
+                "x": 419,
+                "y": 6542
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "hp pavilion thumb",
+            "location": {
+                "x": 419,
+                "y": 6872
+            },
+            "size": {
+                "height": 155,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "lenovo legion 5i thumb",
+            "location": {
+                "x": 679,
+                "y": 1302
+            },
+            "size": {
+                "height": 220,
+                "width": 340
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "best chromebooks",
+            "location": {
+                "x": 699,
+                "y": 1927
+            },
+            "size": {
+                "height": 194,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Best Gaming laptops",
+            "location": {
+                "x": 699,
+                "y": 2961
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Best Ultrabooks",
+            "location": {
+                "x": 699,
+                "y": 3115
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "search",
+            "location": {
+                "x": 888,
+                "y": 56
+            },
+            "size": {
+                "height": 40,
+                "width": 121
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            18,
+            18,
+            18
+        ],
+        [
+            17,
+            17,
+            17
+        ]
+    ],
+    "desc": "The latest updates on ultrabooks and portable thin-and-light laptops from our thorough ultrabook reviews, videos, comparisons, and guides. With some fresh news on top.",
+    "navbar": "Real notebook reviews and analysis by real people",
+    "text": "Real notebook reviews and analysis by real people\nHOME\nABOUT\nANALYSIS & NEWS\nREVIEWS\nGUIDES\nBEST ULTRABOOK AND PORTABLE LIGHTWEIGHT LAPTOP IN 2022\n201\nTHE BEST 14 AND 15-INCH PORTABLE LAPTOPS & ULTRABOOKS OF 2022\n140\nBEST GAMING ULTRABOOK (THIN-AND-LIGHT GAMING LAPTOP) IN 2022\n220\nBEST BUDGET LAPTOP UNDER $1000 IN 2022 (FOR GAMING, STUDENTS)\n121\nBEST 2-IN-1 LAPTOP AND ULTRABOOK IN 2022 – PER OUR DETAILED REVIEWS\n236\nBest small laptops (11 and 10-inch mini laptops) in 2022\n65\nThese days the are many good thin, light, and fast ultraportable laptops, but for those of you for whom the size and portability of your computer matter more than other aspects, a mini laptop with an 11-inch, 10-inch, or even smaller display size might...\nBest Chromebooks of 2022 – comparisons, reviews, buying guide\n42\nChromebooks are snappy, easy to use, and inexpensive computers designed for everyday use and Internet-based activities such as browsing, email, text-editing, Youtube, Netflix, light gaming, and the likes. Many options start at under $300 these days and for that kind of money you’ll get...\nIntel Evo laptops in 2022 – complete list, features, and expectations\n13\nThis article explains what “Intel Evo” means and lists all the important Intel Evo certified laptops currently available in stores. With modern laptops getting better and better over the years, Intel is constantly trying to differentiate and emphasize its top-tier designs from the mass-market...\nLenovo Legion 5i review (2022 Gen 7 model – i7-12700H, RTX 3060)\n11\nThis is our detailed review of the mid-2022 7th-generation update of the Lenovo Legion 5 series, in the Legion 5i variant built on 12th-gen Intel hardware and Nvidia RTX 3000 graphics. The Legion 5s are Lenovo’s offer in the mid-tier gaming segment, where most...\nAsus TUF Dash F15 review (2022 FX517ZM model – Core i7-12650H, RTX 3060)\n22\nThis article is my detailed review of the Asus TUF Dash F15 2022 generation, a portable and excellently priced RTX 3060 laptop meant for all-purpose daily use and gaming/school work. Last year Asus launched a controversial TUF Dash series of all-purpose laptops, 15-inch computers...\nBest ultrabook and portable lightweight laptop in 2022\n201\nHere at Ultrabookreview.com, we’ve reviewed hundreds of ultrabooks and portable lightweight laptops over the last 15 years, of all kinds and from all brands. In this guide, I’ll tell you which are our favorite ultrabooks right now and explain why, in order to help...\nThe best 14 and 15-inch portable laptops & ultrabooks of 2022\n140\nWhile you’ll find many excellent compact ultrabooks out there, some of you still favor full-size 15-inch or 14-inch laptops with larger screens and enough power to smoothly handle daily tasks, workloads, and even games. However, I’m pretty sure you wouldn’t say no to a...\nBest gaming ultrabook (thin-and-light gaming laptop) in 2022\n220\nHere at Ultrabookreview.com, we’ve been testing and reviewing thin-and-light gaming laptops for 15 years now, of all kinds and from all major brands. Our experience allows us to help you choose the best portable gaming laptop (or gaming ultrabook) for your needs and budget,...\nBest Deals on ultrabooks & portable laptops – 2022 Holidays\n26\nThis article gathers the best deals I was able to find online for the 2022 holiday season, past the Black Friday and Cyber Monday days, mostly for ultrabooks, portable laptops, and a few other types of accessories and electronics. I’m constantly updating the list,...\nDell XPS 13 Plus review (XPS 9320 2022 model, with OLED)\n50\nThe new Dell XPS 13 Plus 9320 is certainly an intriguing device to me, especially with the way it looks.  Yet again, Dell has managed to push the limits with this model.  Several years ago, they were the first to introduce a near bezel-less...\nLG Gram 17 review (2022 Gram 17 17Z90Q model- 12th gen Core i7-1260P)\n16\nThis is my detailed review of the LG Gram 17 series, a premium ultrabook with a full-size 17-inch display. There aren’t many such laptops out there, designed to bundle a large display in a portable and lightweight format. In fact, the Gram 17 is...\nComplete list of AMD Ryzen 9 laptops (6900HX, 6900HS)- with reviews\n24\nThis article explains the specs and performance of the existing AMD Ryzen 9 mobile platforms and provides a detailed list of all the AMD Ryzen 9 laptops available in stores as of late 2022. While the AMD Zen 2 architecture brought Ryzen 9 processors...\nDell Inspiron 16 review (Inspiron 16 5625 model, with AMD Ryzen 7)\n7\nI was especially interested in seeing what Dell managed to improve with the new Dell Inspiron 16, after testing and liking the AMD Inspiron model last year. Especially since they jumped on the 16:10 bandwagon and swapped out that 15” screen for a larger...\nAsus ROG Zephyrus M16 review (2022 GU603ZW model)\n42\nLast year Asus launched the ROG Zephyrus M16 series as an Intel-exclusive thin-and-light all-purpose laptop with a 16-inch 16:10 display. It shared many traits with the popular Zephyrus G15 lineup, but the Intel Tiger Lake hardware did not impress in either performance or efficiency,...\nBest budget laptop under $1000 in 2022 (for gaming, students)\n121\nLooking for a good-value laptop and don’t plan to spend an arm and a leg for it? This article gathers the best budget laptops and ultrabooks that you can get for under 1000 USD (or EUR), based on our 15+ years of experience in...\nDell XPS 15 9520 review (2022 model, Intel 12th gen laptop)\n42\nA new year, a new Dell XPS 15 generation. I bought the mid-2022 Dell XPS 15 9520 a few weeks ago, and have been using it ever since in order to gather my thoughts and impressions on this 2022 update, and share them with...\nAMD Ryzen 7 6800H vs Intel Core i7-12700H benchmarks comparison, w/ RTX 3060\n33\nThis article is going to help you decide between the two mainstream hardware platforms available for performance/gaming laptops in 2022 and later into 2023, the AMD Ryzen 7 6800H (Rembrandt platform) on one side, and the Intel Core i7-12700H (12th-gen Alder Lake platform) on...\nFanless laptops (completely silent) in 2022 – the best options\n113\nIn this article, we’re discussing fanless laptops and silent Windows ultrabooks and Chromebooks, or in other words, laptops with passive cooling solutions, without a fan that spins and makes noise. You’ll find quite a few different laptops without a fan available in stores, and...\nAsus ZenBook S 13 OLED review (UM5302TA model- AMD Ryzen 7 6800U, OLED)\n22\nThis article is my detailed review of the 2022 ZenBook S 13 OLED series, in the UM5302TA configuration built on an AMD Ryzen 7 6800U hardware platform. In very few words, this laptop is a highly portable 13-inch ultrabook that doesn’t compromise on anything...\nHP Pavilion Aero 13 review – an excellent budget ultrabook (AMD Ryzen)\n4\nThis article is my detailed review of HP Pavilion Aero 13, an ultra-compact sub 1 kilo (2.2 lbs) laptop with a 13-inch 16:10 matte screen, uncompromised IO and inputs, snappy hardware, and a highly competitive price tag. Many years ago, Ultrabookreview.com started due to...\nPage 1 of 45\n1\n2\n3\n4\n5\nNext ›\nLast »\nCATEGORIES\nMain topics\nComparisons Chromebooks Tops General info Latest News Quick look Reviews\nScreen size\n12- inch 13 inch 14 inch 15+ inch\nBrand\nAcer Apple Asus Dell Gigabyte HP Huawei Lenovo LG Microsoft MSI Razer Samsung Sony Toshiba\nLATEST REVIEWS\nBy Andrei Girbea\nLenovo Legion 5i review (2022 Gen 7 model – i7-12700H, RTX 3060)\n11\nAndrei Girbea | November 22, 2022\nAsus TUF Dash F15 review (2022 FX517ZM model – Core i7-12650H, RTX 3060)\nAndrei Girbea | November 16, 2022\nLG Gram 17 review (2022 Gram 17 17Z90Q model- 12th gen Core i7-1260P)\nDerek Sullivan | October 13, 2022\nDell Inspiron 16 review (Inspiron 16 5625 model, with AMD Ryzen 7)\nAndrei Girbea | November 22, 2022\nAsus ROG Zephyrus M16 review (2022 GU603ZW model)\nCOMPARISONS AND TOPS\nBest Chromebooks of 2022 – comparisons, reviews, buying guide\nAndrei Girbea | November 18, 2022\nChromebooks are snappy, easy to use, and inexpensive computers designed for everyday use and Internet-based activities such as browsing, email, text-editing, Youtube, Netflix, light gaming, and the likes. Many...\n42\nBest Deals on ultrabooks & portable laptops – 2022 Holidays\nAMD Ryzen 7 6800H vs Intel Core i7-12700H benchmarks comparison, w/ RTX 3060\nFanless laptops (completely silent) in 2022 – the best options\nAMD Ryzen 9 6900HX vs Intel Core i9-12900H benchmarks comparison\nRECOMMENDED POSTS\nCopyright © 2008-2023 Ultrabookreview.com\nAbout\nTerms, Disclaimer and Privacy Policy\nContact\nSay Thanks!\nChange Ad Consent",
+    "font": "Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

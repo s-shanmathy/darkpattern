@@ -1,0 +1,760 @@
+{
+    "title": "9to5Mac - Apple News & Mac Rumors Breaking All Day",
+    "url": "9to5mac.com",
+    "full_url": "https://9to5mac.com/",
+    "images": [
+        {
+            "alt": "9to5mac daily podcast",
+            "location": {
+                "x": 24,
+                "y": 1876
+            },
+            "size": {
+                "height": 540,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Watch Series 8 vs 7 guide",
+            "location": {
+                "x": 24,
+                "y": 3247
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tim Cook arizona",
+            "location": {
+                "x": 24,
+                "y": 4856
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Car design Project Titan",
+            "location": {
+                "x": 24,
+                "y": 7128
+            },
+            "size": {
+                "height": 538,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "app store prices",
+            "location": {
+                "x": 24,
+                "y": 8319
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Find My Mac app",
+            "location": {
+                "x": 24,
+                "y": 9327
+            },
+            "size": {
+                "height": 540,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iPad pricing | iPad 10 shown",
+            "location": {
+                "x": 24,
+                "y": 10504
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TSMC Arizona chip plants | Sunrise over Phoenix, Arizona",
+            "location": {
+                "x": 24,
+                "y": 11375
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Music Sing ",
+            "location": {
+                "x": 24,
+                "y": 12445
+            },
+            "size": {
+                "height": 524,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carrot Weather mini-games and more",
+            "location": {
+                "x": 24,
+                "y": 13723
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple anti-union | Group of protestors outside a store",
+            "location": {
+                "x": 24,
+                "y": 14594
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "microsoft super app iphone",
+            "location": {
+                "x": 24,
+                "y": 15664
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HomePod mini countries",
+            "location": {
+                "x": 24,
+                "y": 16806
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AirTag stalking | AirTag and FindMy app",
+            "location": {
+                "x": 24,
+                "y": 17694
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Self Service Repair | iPhone repair in progress",
+            "location": {
+                "x": 24,
+                "y": 18738
+            },
+            "size": {
+                "height": 480,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "9to5mac daily podcast",
+            "location": {
+                "x": 24,
+                "y": 20634
+            },
+            "size": {
+                "height": 540,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "St. Louis ",
+            "location": {
+                "x": 24,
+                "y": 21955
+            },
+            "size": {
+                "height": 531,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Customize iPhone always-on display",
+            "location": {
+                "x": 24,
+                "y": 22903
+            },
+            "size": {
+                "height": 540,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Powered by WordPress VIP",
+            "location": {
+                "x": 411,
+                "y": 23799
+            },
+            "size": {
+                "height": 26,
+                "width": 187
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "search",
+            "type": "search",
+            "location": {
+                "x": 980,
+                "y": 21
+            },
+            "size": {
+                "height": 28,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            5,
+            78,
+            122
+        ],
+        [
+            28,
+            72,
+            65
+        ]
+    ],
+    "desc": "News and reviews for Apple products, apps, and rumors. We provide breaking coverage for the iPhone, iPad, and all things Mac!",
+    "text": "Switch site\nExclusives\nStore\niPhone\nMac\nWatch\niPad\nMusic\nTV\nGuides\nMore social networks\nToggle dark mode\nSearch\nSearch\nToggle search\n9TO5TOYS\n9TO5GOOGLE\nELECTREK\nDRONEDJ\nSPACE EXPLORED\nApple unveils 'Apple Music Sing' karaoke feature\nApple Car slated for 2026 release\nHow to customize iPhone always-on in iOS 16.2\nVote for your favorite Apple product of 2022\nTODAY\nPopular Copilot budgeting and finance app now available on the Mac\nChance Miller\n- Dec. 6th 2022 6:33 pm PT\n@ChanceHMiller\nAPPS\n2 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nOne of the most popular budgeting and financial planning apps for iPhone, dubbed Copilot, is expanding to the Mac for the first time. Copilot combines in-depth reporting and personalization to help you budget and track your finances, with “hyper-personalized finance data insights powered by machine learning.”\nEXPAND FULL STORY\n9to5Mac Daily: December 6, 2022 – ‘Apple Music Sing’ debuts, more\nSeth Kurkowski\n- Dec. 6th 2022 2:03 pm PT\n@SethKurk\n9TO5MAC PODCAST NETWORK 9TO5MAC DAILY PODCAST\n0 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nListen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Chargeasap: The world’s first and smallest 270W USB-C GaN Charger–   Chargeasap Zeus– is available now with early bird pricing for a limited time.\nEXPAND FULL STORY\nApple Watch Series 8 vs Series 7 and earlier: What’s the best holiday choice?\nMichael Potuck\n- Dec. 6th 2022 1:49 pm PT\n@michaelpotuck\nHOW-TO APPLE WATCH SERIES 7 APPLE WATCH SERIES 8\n26 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nThe 2022 Apple Watch lineup features three distinct wearables. While much remains the same between Series 8 and previous models, there are some differences worth considering. Read on for Apple Watch Series 8 vs 7 and earlier to help deicde what’s the best pick for you or someone you’re shopping for.\nEXPAND FULL STORY\n9TO5GOOGLE \nGoogle redesign simplifies ‘Collections’ homepage of bookmarks\nThere’s a ridiculously simple trick to immediately get Pixel Watch updates\nSearching for Stadia: Shadow is an entirely different path to cloud gaming, for better or…\nGoogle TV showcases Zooey Deschanel’s watchlist in latest ‘Watch with Me’ installment\nNext\nTested: Arc Pulse iPhone 14 Pro case puts form over function with stunning aluminum design\nfrom 9to5Toys - Dec. 6th 2022 12:56 pm PT\nWe’ve been reviewing a collection of iPhone cases since the new 14 series launched earlier this fall, and today we’re checking out one of the more unique covers to hit the market. Sporting a minimalistic design that wraps your iPhone 14 Pro/Max in a polished aluminum case, the new Arc Pulse bumper case arrives as a more daring take on protecting Apple’s latest smartphone.\nTim Cook introduces TSMC Arizona factory: ‘These chips can be proudly stamped Made in America’\nChance Miller\n- Dec. 6th 2022 12:31 pm PT\n@ChanceHMiller\nAAPL COMPANY\n13 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nAs expected, Apple CEO Tim Cook paid a visit to Arizona today, where he toured the upcoming TSMC semiconductor plant alongside President Joe Biden. During remarks at the event, Cook confirmed that TSMC will manufacture chips for Apple at this new TSMC plant, saying that the chips will be “proudly stamped ‘Made in America’.”\nEXPAND FULL STORY\nHands-on: HyperPack Pro backpack with Apple Find My compatibility [Video]\nSponsored Post\n- Dec. 6th 2022 12:28 pm PT\nSPONSORED POST NEWS\n4 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nHyper may be best known for their USB-C hubs and charging solutions for Apple devices, but now they’ve launched a backpack perfect for all your tech while on the go. The HyperPack Pro includes built-in Find My support to always keep track of your valuable gear and cable routing to ensure all your devices – from your MacBook, iPad, and iPhone all the way down to your AirPods – will remained charged up while out and about.\nEXPAND FULL STORY\nBEST APPLE DEALS FROM 9TO5TOYS \nPut Apple’s compact iPad mini 6 under the tree with $99 in savings, now dropping to $400\nGift an iPhone 13/mini at all-time lows from $540 in Woot’s latest Apple refurb sale…\nApple’s new 10.9-inch iPad undercuts Black Friday pricing with drop to $399 (All-time low)\nApple’s latest iPad Air 5 has never sold for less with $99 discounts to new lows from $500\nNext\nApple Car on track for 2026 release, under $100K price, custom chip, and no full self-driving at launch\nMichael Potuck\n- Dec. 6th 2022 11:17 am PT\n@michaelpotuck\nAPPLE CAR PROJECT TITAN\n72 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nOver the last couple of years, we’ve heard different estimates of when Apple Car might finally make it to market which have ranged from 2024 to 2028. Now the latest report predicts a debut in 2026 with a custom Apple Silicon chip, no self-driving, and a price tag under $100,000.\nEXPAND FULL STORY\nDocuments iOS app gets all-new Action Menu that dynamically adapts based on file types\nMichael Potuck - Dec. 6th 2022 10:46 am PT\nThe popular Documents iOS app by Readdle has received a valuable update today. The main new feature is an overhauled Action Menu that makes it more seamless than ever to organize, copy/move, rename, and edit your various files by dynamically changing the buttons based on what type of file you’re looking at.\nApp Store subscriptions can now cost up to $10,000 (or as low as 29¢)\nChance Miller\n- Dec. 6th 2022 10:00 am PT\n@ChanceHMiller\nAPP STORE\n5 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nApple is making good on one of its recent promises to developers. Starting today, App Store developers now have over 700 different new price points from which to choose for their apps. This brings the total number of price point options to 900, with options ranging from as low as $0.29 all the way up to $10,000.\nEXPAND FULL STORY\nDRONEDJ \nPotensic releases Atom SE sub-250 drone just in time for the holidays\nAltitude Angel integrates UTM tech into Saab’s Digital Towers\nLilium inks VIP eVTOL deal for future AAM operation in the UK\nUS-made E400 mapping drone integrates EO/IR camera\nNext\nFind My app in macOS 13.1 adds a missing feature from iPhone to find lost AirTags\nChance Miller\n- Dec. 6th 2022 9:48 am PT\n@ChanceHMiller\nFIND MY MACOS VENTURA\n2 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nThe latest macOS Ventura 13.1 beta makes a useful enhancement to the Find My app. With this update, you can now use the Find My app on your Mac to ping nearby accessories for the first time. This behavior was previously only available in the Find My apps on iPhone, iPad, and Apple Watch.\nEXPAND FULL STORY\nDeals: 10.9-inch iPad hit all-time lows from $399, iPhone 13/mini refurb from $540, more\nRikka Altland\n- Dec. 6th 2022 9:03 am PT\n@rikkaaltland\nDEALS 9TO5TOYS 9TO5TOYS LUNCH BREAK\n0 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nAll of Tuesday’s best discounts are now live and headlined by an all-time low discount on Apple’s new 2022 10.9-inch iPad. That’s alongside the best prices yet on iPhone 13/mini from $540, as well as DJI’s OM 5 iPhone gimbal at $129. Hit the jump for all that and more in the latest 9to5Toys Lunch Break.\nEXPAND FULL STORY\nTSMC Arizona chip plants see investment tripled, but will never make A-series or M-series chips\nBen Lovejoy\n- Dec. 6th 2022 7:17 am PT\n@benlovejoy\nAAPL COMPANY TIM COOK TSMC\n12 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nLater today, Apple CEO Tim Cook will be attending a celebratory event for the upcoming TSMC Arizona chip plants in Arizona. We’re now learning a little more about the company’s plans, including a tripling of the original investment.\nHowever, it’s becoming even clearer that US-made chips are never going to rival those TSMC makes in its home country, Taiwan …\nEXPAND FULL STORY\n9TO5TOYS \nSave 30% on Govee’s 32.8-foot roll of Smart RGBIC LED Strip Light in return to low of $35\nSkytech’s regularly $2,700 Chronos RTX 3080 Gaming Desktop falls $489 to new low of $2,211\nSave $1,500 on Samsung’s The Premiere 4K UST Smart Laser Projector in return to low of …\nBeyerdynamic Xelento Remote 2nd Gen Review: What does $1,000 get you? [Video]\nNext\nApple reveals new karaoke-like ‘Apple Music Sing’ feature launching this month\nChance Miller\n- Dec. 6th 2022 7:06 am PT\n@ChanceHMiller\nAPPLE MUSIC\n24 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nApple Music is expanding on its popular real-time lyrics feature with an all-new karaoke-style mode. Called Apple Music Sing, this new feature “allows users to sing along to their favorite songs with adjustable vocals and real-time lyrics.” Apple Music Sing is integrated directly into the Music app, making it “fun and easy for anyone to participate.”\nApple Music Sing is a new way to hum, rap, jam, or sing along with millions of your favorite songs. Newly enhanced beat-by-beat lyrics make it even easier to follow along with the music. Fully adjustable vocals let you duet with the original artist, sing solo, or mix it up.\nEXPAND FULL STORY\nCarrot Weather gets mini-games, Live Activities support for all precipitation, Layout redesign, more\nMichael Potuck\n- Dec. 6th 2022 7:00 am PT\n@michaelpotuck\nAPPS & UPDATES CARROT WEATHER\n1 Comment\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nFollowing up after launching support for Live Activities on the Lock Screen and the iPhone 14 Pro’s Dynamic Island, Carrot Weather has received its latest update today. The release includes a new mini-games experience, a major update to the Layout screen, Live Activities support for all precipitation, and more.\nEXPAND FULL STORY\nApple anti-union tactics used in Atlanta were illegal, says US labor board prosecutor\nBen Lovejoy\n- Dec. 6th 2022 6:35 am PT\n@benlovejoy\nAAPL COMPANY APPLE RETAIL UNIONIZATION\n18 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nThe National Labor Relations Board’s Atlanta regional director has concluded that Apple anti-union tactics deployed in the Atlanta store broke the law. The company’s actions led to a planned unionization bid being abandoned after what was described as “intense union-busting” by Apple.\nThe next stage in the National Labor Relations Board investigation will be for a panel of NLRB judges to rule on the matter …\nEXPAND FULL STORY\nSPACE EXPLORED \n‘Oumuamua is now on its way out of the Solar System [Update]\nWhen is the next Rocket Lab launch?\nSpace Explored Podcast 56: Artemis 1 launch, SpaceX throws away a booster, more\nUpdate: SpaceX Starlink service restored\nNext\nMicrosoft mulls ‘super app’ for iPhone as it fails to outbid Google for default search deal\nChance Miller\n- Dec. 6th 2022 6:34 am PT\n@ChanceHMiller\nAAPL COMPANY MICROSOFT\n13 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nMicrosoft wants to ramp up its mobile efforts with a new “super app” for iPhone that would combine a number of different features into a single app. According to The Information, Microsoft’s hope is that such an app would help it break further into mobile search, which is currently dominated by Apple and Google.\nEXPAND FULL STORY\nHomePod mini countries will soon include Finland, Norway, Sweden, South Africa, more\nBen Lovejoy\n- Dec. 6th 2022 5:40 am PT\n@benlovejoy\nHOMEPOD MINI\n0 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nIn a series of local press releases, Apple has announced a new set of HomePod mini countries, as the slow global rollout continues. This follows hints back in July.\nFinland, Norway, and Sweden will each get the smart speaker on December 13. South Africa will be next in line, from December 19. Apple has said that other countries will follow next year …\nEXPAND FULL STORY\nApple sued over AirTag stalking; police sued for illegal search based on Find My app\nBen Lovejoy\n- Dec. 6th 2022 4:56 am PT\n@benlovejoy\nAIRTAG FIND MY\n17 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nApple is being sued by two women over AirTag stalking, with the company accused of making it too easy for exes to track their movements. The case could form the basis of a class action lawsuit.\nIn a separate case, police are being sued for conducting an alleged illegal search after they raided a property based on an iPhone (very vaguely) located using the Find My app …\nEXPAND FULL STORY\nELECTREK \nQuick Charge Podcast: December 6, 2022\nTesla says it is adding radar in its cars next month amid self-driving suite concerns\nUltra-exclusive yacht club invites commercial electric boats to compete in 2023 race\nElon Musk tells Biden Tesla is opening its Supercharger network, but how?\nNext\nApple Self Service Repair launches in UK, Germany, and six other countries\nBen Lovejoy\n- Dec. 6th 2022 4:12 am PT\n@benlovejoy\nMAC AAPL COMPANY IPHONE RIGHT TO REPAIR\n3 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nThe Apple Self Service Repair program has now launched in eight more countries, following the initial US-only debut back in April.\nThe program lets customers access repair manuals, purchase genuine Apple parts, and rent the tools needed to carry out DIY repairs …\nEXPAND FULL STORY\nDECEMBER 5\nGoogle Lens replaces Google Translate’s camera mode on Android and iOS\nfrom 9to5Google - Dec. 5th 2022 9:25 pm PT\nBack in September, Google previewed a new AR Translate feature for Lens that takes advantage of the technology behind the Pixel’s Magic Eraser. Ahead of that, Google Translate has replaced its built-in translation camera with Google Lens.\nEufy will add a disclosure to its app following security concerns but still denies glaring security holes\nfrom 9to5Google - Dec. 5th 2022 4:47 pm PT\nRecently it was revealed that Anker’s Eufy was sending data from its cameras to the cloud, despite advertising the opposite. Now, Eufy has updated its app to with a disclosure more clearly explaining that it is sending data to the cloud when certain settings are enabled.\n9TO5GOOGLE \nGoogle redesign simplifies ‘Collections’ homepage of bookmarks\nThere’s a ridiculously simple trick to immediately get Pixel Watch updates\nSearching for Stadia: Shadow is an entirely different path to cloud gaming, for better or…\nGoogle TV showcases Zooey Deschanel’s watchlist in latest ‘Watch with Me’ installment\nNext\n9to5Mac Daily: December 5, 2022 – Apple advertising, the latest on Sunday Ticket\nSeth Kurkowski\n- Dec. 5th 2022 2:13 pm PT\n@SethKurk\n9TO5MAC PODCAST NETWORK 9TO5MAC DAILY PODCAST\n0 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nListen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\nSponsored by Chargeasap: The world’s first and smallest 270W USB-C GaN Charger–   Chargeasap Zeus– is available now with early bird pricing for a limited time.\nEXPAND FULL STORY\nSt. Louis Apple Store employees explain U-turn on unionization effort\nMichael Potuck\n- Dec. 5th 2022 2:11 pm PT\n@michaelpotuck\nAPPLE RETAIL UNIONIZATION\n21 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nApple employees at the St. Louis Galleria store were the latest to move toward unionization last month. However, one week after submitting interest to the National Labor Relations Board (NLRB), the group abandoned the plan. An initial announcement from the IAM cited “increased hostility” from Apple as the reason for the U-turn, however, now the Apple employees themselves have spoken up about why the majority changed their minds.\nEXPAND FULL STORY\nHow to customize your iPhone 14 Pro always-on display in iOS 16.2\nMichael Potuck\n- Dec. 5th 2022 1:40 pm PT\n@michaelpotuck\nHOW-TO IPHONE 14 PRO ALWAYS-ON DISPLAY\n7 Comments\nFacebook\nTwitter\nPinterest\nLinkedIn\nReddit\nApple introduced its first smartphone with an always-on display with the iPhone 14 Pro. Now with the upcoming iOS 16.2 release, users will get flexibility with the feature to make it more subtle. Here’s how to customize iPhone always-on display.\nEXPAND FULL STORY\nBEST APPLE DEALS FROM 9TO5TOYS \nPut Apple’s compact iPad mini 6 under the tree with $99 in savings, now dropping to $400\nGift an iPhone 13/mini at all-time lows from $540 in Woot’s latest Apple refurb sale…\nApple’s new 10.9-inch iPad undercuts Black Friday pricing with drop to $399 (All-time low)\nApple’s latest iPad Air 5 has never sold for less with $99 discounts to new lows from $500\nNext",
+    "font": "Roboto, sans-serif",
+    "buttons": [
+        {
+            "text": "Switch site",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 218,
+                "y": 12
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(13, 77, 124, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 45,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(13, 77, 124, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 45,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 17,
+                "width": 45
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "More social networks",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 692,
+                "y": 0
+            },
+            "size": {
+                "height": 70,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Toggle dark mode",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 886,
+                "y": 0
+            },
+            "size": {
+                "height": 70,
+                "width": 53
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 940,
+                "y": 24
+            },
+            "size": {
+                "height": 25,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Toggle search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 940,
+                "y": 0
+            },
+            "size": {
+                "height": 70,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 4284
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 6868
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 9077
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 12185
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 15404
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 18478
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 20374
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 23706
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

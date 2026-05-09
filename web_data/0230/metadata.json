@@ -1,0 +1,486 @@
+{
+    "title": "Justia Virtual Chase",
+    "url": "virtualchase.com",
+    "full_url": "https://virtualchase.justia.com/",
+    "images": [
+        {
+            "alt": "Justia",
+            "location": {
+                "x": 20,
+                "y": 15
+            },
+            "size": {
+                "height": 36,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Justia Virtual Chase",
+            "location": {
+                "x": 230,
+                "y": 22
+            },
+            "size": {
+                "height": 26,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "My Account",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Profile picture of Carrie Fulton-Brown",
+            "location": {
+                "x": 680,
+                "y": 1230
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Vanessa Micol Vanderbrug",
+            "location": {
+                "x": 680,
+                "y": 1455
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Kirk Bernard",
+            "location": {
+                "x": 680,
+                "y": 1679
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Anthony Martin Urie",
+            "location": {
+                "x": 680,
+                "y": 1904
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Timothy Healy",
+            "location": {
+                "x": 680,
+                "y": 2129
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Renee F Lee",
+            "location": {
+                "x": 680,
+                "y": 2353
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PRO label",
+            "location": {
+                "x": 890,
+                "y": 2544
+            },
+            "size": {
+                "height": 13,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile picture of Karol Dezwager Brown",
+            "location": {
+                "x": 680,
+                "y": 2578
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 437,
+                "y": 3559
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 472,
+                "y": 3559
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 507,
+                "y": 3559
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Justia",
+            "location": {
+                "x": 542,
+                "y": 3559
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Legal Issue or Lawyer Name",
+            "type": "text",
+            "location": {
+                "x": 700,
+                "y": 902
+            },
+            "size": {
+                "height": 39,
+                "width": 258
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "City, State",
+            "type": "text",
+            "location": {
+                "x": 700,
+                "y": 946
+            },
+            "size": {
+                "height": 39,
+                "width": 164
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 868,
+                "y": 946
+            },
+            "size": {
+                "height": 39,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            239,
+            239,
+            239
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            55,
+            120
+        ]
+    ],
+    "navbar": "Log In\nSign Up",
+    "text": "Log In\nSign Up\nFind a Lawyer Ask a Lawyer Research the Law Law Schools Laws & Regs Newsletters Marketing Solutions\nJustia Virtual Chase\nResearch & Libraries\nLaw Librarian Community\nAssociations, Blogs, Tweeters ...\nLaw Libraries\nCalifornia, New York, Florida ...\nAbout\nLegal Research\nLegal Subjects, US Federal, US States ...\nOther Resources\nBusiness Research, Information Quality ...\nConnect with Justia\nFollow VirtualChase\nFan Justia\nAsk a Lawyer\nQuestion:\nAdd details\n120\nAsk Question\nFind a Lawyer\nLawyers - Get Listed Now!\nGet a free directory profile listing\nSPONSORED LISTINGS\nCarrie Fulton-Brown\nPREMIUM\n(425) 657-5006\nBellevue, WA\nCriminal Law, Domestic Violence\nWebsite\nEmail\nProfile\nVanessa Micol Vanderbrug\nPREMIUM\n(800) 805-5028\nSeattle, WA\nEmployment Law, Personal Injury, Gov & Administrative Law\nWebsite\nEmail\nProfile\nKirk Bernard\nPREMIUM\n(425) 533-0341\nBellevue, WA\nPersonal Injury, Business Law\nWebsite\nEmail\nProfile\nAnthony Martin Urie\nPREMIUM\n(206) 542-4066\nShoreline, WA\nMaritime Law, Personal Injury, Insurance Claims\nWebsite\nEmail\nProfile\nTimothy Healy\nPREMIUM\n(425) 657-5006\nBellevue, WA\nCriminal Law, Domestic Violence, Juvenile Law\nWebsite\nEmail\nProfile\nRenee F Lee\nPREMIUM\n(425) 645-0433\nEverett, WA\nFamily Law, Arbitration & Mediation, Divorce\nWebsite\nEmail\nProfile\nKarol Dezwager Brown\nBellevue, WA\n(425) 250-8110\nImmigration Law, International Law\nWebsite\nEmail\nProfile\nJustia Legal Resources\nFind A Lawyer\nBankruptcy Lawyers\nBusiness Lawyers\nCriminal Lawyers\nEmployment Lawyers\nEstate Planning Lawyers\nFamily Lawyers\nPersonal Injury Lawyers\nMore...\nIndividuals\nBankruptcy\nCriminal\nDivorce\nDUI\nEstate Planning\nFamily Law\nPersonal Injury\nMore...\nBusiness\nBusiness Formation\nBusiness Operations\nEmployment\nIntellectual Property\nInternational Trade\nReal Estate\nTax Law\nMore...\nLaw Students\nLaw Schools\nAdmissions\nFinancial Aid\nCourse Outlines\nLaw Journals\nBlogs\nEmployment\nMore...\nUS Federal Law\nUS Constitution\nUS Code\nRegulations\nSupreme Court\nCircuit Courts\nDistrict Courts\nDockets & Filings\nMore...\nUS State Law\nState Constitutions\nState Codes\nState Case Law\nCalifornia\nFlorida\nNew York\nTexas\nMore...\nOther Databases\nCOVID-19 Resources\nLegal Blogs\nBusiness Forms\nProduct Recalls\nPatents\nTrademarks\nCountries\nMore...\nMarketing Solutions\nJustia Connect Membership\nJustia Lawyer Directory\nJustia Premium Placements\nJustia Elevate (SEO, Websites)\nJustia Amplify (PPC, GBP)\nJustia Onward Blog\nTestimonials\nMore...\n© 2021 Justia\nJustia Connect\nLegal Portal\nCompany\nHelp\nTerms of Service\nPrivacy Policy\nMarketing Solutions",
+    "font": "Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 669,
+                "y": 320
+            },
+            "size": {
+                "height": 170,
+                "width": 302
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Ask Question",
+            "bg-color": "rgba(6, 53, 122, 1)",
+            "location": {
+                "x": 827,
+                "y": 747
+            },
+            "size": {
+                "height": 35,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

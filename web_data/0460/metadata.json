@@ -1,0 +1,662 @@
+{
+    "title": "Mondly - Learn languages online for free",
+    "url": "mondly.com",
+    "full_url": "https://www.mondly.com/",
+    "images": [
+        {
+            "alt": "Mondly",
+            "location": {
+                "x": 55,
+                "y": 13
+            },
+            "size": {
+                "height": 50,
+                "width": 149
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "App of the Year",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Apps We Love",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Editors' Choice",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "App of the Year",
+            "location": {
+                "x": 262,
+                "y": 558
+            },
+            "size": {
+                "height": 88,
+                "width": 108
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apps We Love",
+            "location": {
+                "x": 450,
+                "y": 558
+            },
+            "size": {
+                "height": 88,
+                "width": 108
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Editors' Choice",
+            "location": {
+                "x": 639,
+                "y": 558
+            },
+            "size": {
+                "height": 88,
+                "width": 108
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondly languages app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1009,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly languages app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly languages app",
+            "location": {
+                "x": 165,
+                "y": 932
+            },
+            "size": {
+                "height": 366,
+                "width": 678
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "App of the Year",
+            "location": {
+                "x": 167,
+                "y": 2740
+            },
+            "size": {
+                "height": 160,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apps We Love",
+            "location": {
+                "x": 642,
+                "y": 2740
+            },
+            "size": {
+                "height": 160,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Editors' Choice",
+            "location": {
+                "x": 167,
+                "y": 3008
+            },
+            "size": {
+                "height": 160,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "App of the Day",
+            "location": {
+                "x": 642,
+                "y": 3008
+            },
+            "size": {
+                "height": 160,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondly main app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly main app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly main app",
+            "location": {
+                "x": 81,
+                "y": 3885
+            },
+            "size": {
+                "height": 589,
+                "width": 848
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondly main app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly Kids app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly Kids app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly Kids app",
+            "location": {
+                "x": 81,
+                "y": 4702
+            },
+            "size": {
+                "height": 589,
+                "width": 848
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondly Kids app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly AR app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly AR app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly AR app",
+            "location": {
+                "x": 81,
+                "y": 5492
+            },
+            "size": {
+                "height": 589,
+                "width": 848
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondly AR app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly VR app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly VR app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly VR app",
+            "location": {
+                "x": 81,
+                "y": 6281
+            },
+            "size": {
+                "height": 589,
+                "width": 848
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondly VR app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 873,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly for Businesses",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 848,
+                "width": 848
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mondly for Businesses",
+            "location": {
+                "x": 165,
+                "y": 7294
+            },
+            "size": {
+                "height": 358,
+                "width": 678
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondly CARES",
+            "location": {
+                "x": 81,
+                "y": 8408
+            },
+            "size": {
+                "height": 309,
+                "width": 411
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondly CARES",
+            "location": {
+                "x": 517,
+                "y": 8408
+            },
+            "size": {
+                "height": 309,
+                "width": 411
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            63,
+            137
+        ],
+        [
+            255,
+            84,
+            27
+        ]
+    ],
+    "desc": "Learn languages online for free with Mondly by Pearson, the language learning app loved by millions of people worldwide. Immersive, interactive, and fun. Start learning today!",
+    "navbar": "",
+    "text": "Play your way to a new language\nJoin over 100 million people learning 41 languages\n\n\n\nI speak\nEnglish\nI want to learn\nSelect language\nStart Learning\nApp of the Year\nFacebook\nApps We Love\nApple App Store\nEditors' Choice\nGoogle Play\nStart learning languages for free\nFun, easy and effective language courses designed by language experts.\nLearn 41 languages from your native language.\nAnytime, anywhere, on any device.\n1 000 000+ Ratings\nMondly was named \"Editors' Choice\" in Google Play and \"Best New App\" by Apple.\nMondly by Pearson is changing the way people learn new languages\nmore than 1000 language combinations so you can learn from your native language\n50 topics to prepare you for the most common situations\n36 vocabulary builders to install words fast\n41 real conversations to give you fluency\ngrammar features & conjugation tables to shortcut your progress\nquick Daily Lessons for constant improvement\nLoved by learners, supported by experts.\nHere's what millions of learners say about their journey to fluency with Mondly.\nEmiliano M.\n“Love that there’s a free new lesson every day. I’m learning so much with Mondly!”\nDave B.\nEnglish\nRomanian\n“Learning feels like playing a game, very addictive. Thank you Mondly.”\nCala S.\nItalian\nTurkish\n“I learned more in a few lessons than in years of grade school.”\nEmiliano M.\nSpanish\n“Love that there’s a free new lesson every day. I’m learning so much\nApp of the Year\nApps We Love\nEditors' Choice\nApp of the Day\n“A practical approach to language learning likely to be widely adopted.”\n“The closest thing to a classroom education”\n“Mondly is like having a private tutor”\n“The new way to learn languages”\nDiscover the full power of Mondly by Pearson.\nWorld-class experts worked with award-winning technologies to create the language learning experiences of the future: Mondly, Mondly Kids, Mondly AR and Mondly VR.\nMondly\nSpeak new languages like you never knew you could. Train with 40 practical topics designed to get you fluent fast, easily and effectively.\nDiscover more\nMondly Kids\nKids have so much fun \"playing\" Mondly Kids that they forget they're learning a new language.\nDiscover more\nMondly AR\nEnjoy the immersive experience of learning a new language in Augmented Reality.\nDiscover more\nMondly VR\nExperience the most advanced method to learn languages from the comfort of your couch.\nDiscover more\nMondlyWORKS\nThe future of language learning software for businesses\nIncrease customer satisfaction\nAttract and retain top talent\nBoost productivity and internal collaboration\nDiscover MondlyWORKS\nHelping those who need it most\nMondly CARES\nUniversal access to education helps people thrive. This is why we are committed to making language learning accessible to everyone regardless of age, gender, race or income.\nMondly EDU\nWe at Mondly believe that education can change the world for the better. This is why we pledged to give students the tools to succeed and the opportunity to learn in ways they never could have imagined.\nMondly\nAbout us\nCareers\nMondly Blog\nPress\nLearn More\nLearn English\nLearn French\nLearn Spanish\nLearn German\nLearn Russian\nLearn Italian\nLearn Portuguese\nLearn Turkish\nLearn Chinese\nLearn Arabic\nLearn Japanese\nProducts\nMondly\nMondly for Businesses\nMondly Kids\nMondly VR\nMondly AR\nSupport\nContact\nPrivacy\nTerms\nAffiliate Program\nSite language\nRomânăFrançaisEspañolDeutschРусскийItaliano中文עבריתČeština日本語Portuguêsاللغة العربيةहिन्दीPolskiTürkçe\n© 2022 ATi Studios. All rights reserved.\nWe use cookies to give you the best possible experience on our website. By continuing to browse this website, you give consent for cookies to be used. For more details please read our Cookie Policy.",
+    "font": "\"Proxima Soft\", Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 5,
+                "width": 5
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 130,
+                "y": 191
+            },
+            "size": {
+                "height": 460,
+                "width": 750
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "×",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 850,
+                "y": 201
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

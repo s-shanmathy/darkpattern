@@ -1,0 +1,787 @@
+{
+    "title": "#1 Password Manager & Vault App with Single-Sign On & MFA Solutions | LastPass",
+    "url": "lastpass.com",
+    "full_url": "https://www.lastpass.com/",
+    "images": [
+        {
+            "alt": "nav-plan-premium-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "nav-plan-family-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "nav-plan-teams-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "nav-plan-enterprise-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "icon_nav_enterprise-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "icon_nav-sso-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "nav-plan-mfa-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "icon_nav_default_call-us-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "img-icon-scroll-light-anim-svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "img_icon_illustrative_login-secure-password-login-credentials_teal_top-left-svg",
+            "location": {
+                "x": 154,
+                "y": 846
+            },
+            "size": {
+                "height": 92,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "imgiconillustrativebiometricauthenticationfingerprintgreentoprightsvg",
+            "location": {
+                "x": 458,
+                "y": 846
+            },
+            "size": {
+                "height": 92,
+                "width": 92
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img_icon_illustrative_update-secure-info_yellow_bottom-right-svg",
+            "location": {
+                "x": 763,
+                "y": 846
+            },
+            "size": {
+                "height": 92,
+                "width": 92
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img_icon_illustrative_document-folder-notes-information-records_blue_bottom-left-svg",
+            "location": {
+                "x": 154,
+                "y": 1142
+            },
+            "size": {
+                "height": 92,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img_icon_illustrative_share-password-secure_yellow_top-left-svg",
+            "location": {
+                "x": 458,
+                "y": 1142
+            },
+            "size": {
+                "height": 92,
+                "width": 92
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img_icon_illustrative_dark-web-guy-spy-suspicious-visibility-watching_teal_top-right-svg",
+            "location": {
+                "x": 763,
+                "y": 1142
+            },
+            "size": {
+                "height": 92,
+                "width": 92
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "illustrationfullbleedvaultsyncsacrossalldeviceshome2xpng",
+            "location": {
+                "x": 16,
+                "y": 1664
+            },
+            "size": {
+                "height": 439,
+                "width": 977
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "imgbadgeg2top5020222xpng",
+            "location": {
+                "x": 364,
+                "y": 2419
+            },
+            "size": {
+                "height": 72,
+                "width": 72
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "star-svg",
+            "location": {
+                "x": 625,
+                "y": 2446
+            },
+            "size": {
+                "height": 23,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "icontrustchannelpro20212xpng",
+            "location": {
+                "x": 780,
+                "y": 2419
+            },
+            "size": {
+                "height": 72,
+                "width": 72
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "imgbadgemoneybest20222xpng",
+            "location": {
+                "x": 364,
+                "y": 2651
+            },
+            "size": {
+                "height": 72,
+                "width": 72
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "imgbadgecyberdefencemagazinewinner2xpng",
+            "location": {
+                "x": 564,
+                "y": 2651
+            },
+            "size": {
+                "height": 72,
+                "width": 89
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "imgbadgecybersecuritybreakthrough20212xpng",
+            "location": {
+                "x": 782,
+                "y": 2651
+            },
+            "size": {
+                "height": 72,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "icontrustexpertinsights20222xpng",
+            "location": {
+                "x": 468,
+                "y": 2882
+            },
+            "size": {
+                "height": 72,
+                "width": 72
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img_logo_patagonia-svg",
+            "location": {
+                "x": 136,
+                "y": 3094
+            },
+            "size": {
+                "height": 47,
+                "width": 184
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img_logo_hollard-svg",
+            "location": {
+                "x": 320,
+                "y": 3094
+            },
+            "size": {
+                "height": 47,
+                "width": 184
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "influitive",
+            "location": {
+                "x": 504,
+                "y": 3094
+            },
+            "size": {
+                "height": 47,
+                "width": 184
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img_logo_yelp-svg",
+            "location": {
+                "x": 688,
+                "y": 3094
+            },
+            "size": {
+                "height": 47,
+                "width": 184
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            237,
+            238,
+            240
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            238,
+            239,
+            241
+        ]
+    ],
+    "desc": "Go beyond saving passwords with the best password manager! Generate strong passwords and store them in a secure vault. Now with single-sign on (SSO) and adaptive MFA solutions that integrate with over 1,200 apps.",
+    "navbar": "",
+    "text": "Get LastPass Free\nPassword Management from Anywhere\nLife is happening online. Work. Play. Family and friends. LastPass puts your digital life at your fingertips, simply and securely.\nPersonal\nSecure every one of your passwords and store them across all of your devices.\nBusiness\nProtect every access point while seamlessly connecting employees to their work.\nAuto-pilot for all your passwords\nLastPass removes obstacles, letting you get back to the things you love most.\nLog in and go\nOnce you save a password in LastPass, you'll always have it when you need it; logging in is fast and easy.\nPasswordless login\nGain instant access to your LastPass vault by using the LastPass Authenticator instead of your master password.\nGenerate strong passwords\nThe built-in password generator creates long, randomized passwords that protect against hacking.\nStore digital records\nInsurance cards, memberships, Wi-Fi passwords... keep all your notes safe and easy to find.\nShare effortlessly\nSome things shouldn't be sent in a text. Conveniently and safely share passwords and notes with anyone.\nDark web monitoring\nStop worrying about data breaches. Get alerts if your personal information is at risk.\nPeace of mind everywhere you go\nSave a password once, and it’s instantly available on a single device type for Free. With Premium, LastPass goes everywhere you do, across all your devices.\nTrusted by millions, recognized by experts\n33+ million\nPeople secure passwords with LastPass\nBest Software Awards for Best Security Product\nG2\n4.5\nChrome Web Store and App Store rating\nBased on 75,000 reviews\nBest Password Management/IAM\nChannelPro Readers’ Choice\n100,000+\nBusinesses choose LastPass\nBest for Ease of Use Password Manager\nMoney.com\nMost Innovative in Multi-Factor Authentication\nCyber Defense Magazine\nPassword Management Solution of the Year\nCyberSecurity Breakthrough\nBest-Of Business Password Management\nExpert Insights\nPersonal\nUpgrade to get access to LastPass across all device types along with dark web monitoring, a personalized security dashboard & score, and emergency access.\nPremium For Families\nBusiness\nSimply connect employees to their work, lives, and families while maintaining security. From anywhere, for any business.\nFor Business For Enterprise\nChoose a plan that works for you\nSingle Users & Families\nBusiness\nFree\n$0\nGet Started for Free\nIncludes 30-day trial of Premium\nUnlimited passwords\nAccess on one device type – computer or mobile\n\n30-day Premium trial\nSave and autofill passwords\nOne-to-one sharing\n\nPasswordless login\nPassword generator\nPremium\n$3.00\nper month\nbilled annually\nStart 30-day Free Trial\nBuy Premium\nIncludes all Free features\nAccess on all devices\nOne-to-many sharing\n\n1 GB encrypted file storage\nSecurity dashboard\nDark web monitoring\nEmergency access\nPersonal customer support\nBest Value\nFamilies\n$4.00\nper month\nbilled annually\nStart 30-day Free Trial\nBuy Families\nIncludes all Premium features\n6 individual, encrypted vaults\nFamily manager dashboard to manage users and security\nGroup and share items in folders\n\nIndividual encrypted storages\nPersonal security dashboards and notifications\n*Monthly pricing is billed annually.\nFollow us on:\nLASTPASS\nHome Page\nDownload\nPricing\nHow It Works\nFamilies\nPremium vs Free\nFEATURES\nAutofill\nPassword Vault\nDigital Wallet\nPassword Manager\nPassword Generator\nDark Web Monitoring\nLastPass Authenticator\nFamily Manager Dashboard\nFOR BUSINESS\nTeams\nBusiness\nEnterprise\nMulti-Factor Authentication\nSingle-Sign On\nSecurity\nBusiness Resources\nAdmin Login\nROI Calculator\nRESOURCES\nMy Account\nSupport\nBlog\nPartners\nCommunity\nSecurity & Privacy\nPrivacy Policy\nTerms of Service\nCookie Preferences\nCOMPANY\nAbout Us\nJobs\nPartners\nNewsroom\nContact Us\nPRODUCTS\nCommunication & Collaboration\nRemote Access & Support\nView All Products\nGET LASTPASS\nMac\nWindows\nLinux\nChrome\nFirefox\nSafari\nOpera\nMicrosoft Edge\nEnglish\n© 2022 LastPass US LP. All rights reserved.",
+    "font": "acumin-pro, Arial, Helvetica, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Single Users & Families",
+            "bg-color": "rgba(252, 240, 239, 1)",
+            "location": {
+                "x": 319,
+                "y": 3843
+            },
+            "size": {
+                "height": 50,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Business",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 559,
+                "y": 3843
+            },
+            "size": {
+                "height": 50,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Get Started for Free",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 128,
+                "y": 4148
+            },
+            "size": {
+                "height": 40,
+                "width": 320
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Start 30-day Free Trial",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 560,
+                "y": 4148
+            },
+            "size": {
+                "height": 40,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Start 30-day Free Trial",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 344,
+                "y": 4835
+            },
+            "size": {
+                "height": 40,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "English",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 32,
+                "y": 5899
+            },
+            "size": {
+                "height": 30,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

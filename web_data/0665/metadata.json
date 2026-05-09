@@ -1,0 +1,47 @@
+{
+    "title": "Snap Inc.",
+    "url": "snap.com",
+    "full_url": "https://snap.com/en-US",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            251,
+            66
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "Snap Inc. is a camera company. Our products empower people to express themselves, live in the moment, learn about the world, and have fun together.",
+    "navbar": "Home",
+    "text": "Home\nCareers\nNews\nSafety & Impact\nInvestors\nAdvertisers\nSnap Inc. is a technology company. \n\nWe believe the camera presents the greatest opportunity to improve the way people live and communicate. \n\nWe contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.\n© 2022 Snap Inc.\nCitizenSnap\nPrivacy Policy\nTerms of Service\nOther Terms & Policies\nBahasa Indonesia\nBahasa Melayu\nDansk\nDeutsch (Deutschland)\nEnglish (UK)\nEnglish (US)\nEspañol\nEspañol (Argentine)\nEspañol (España)\nEspañol (México)\nFilipino (Philippines)\nFrançais (France)\nItaliano\nNederlands (Nederland)\nNorsk (bokmål)\nPolski\nPortuguês (Brasil)\nPortuguês (Portugal)\nRomână\nSuomi\nSvenska\nTiếng Việt\nTürkçe\nΕλληνικά\nРусский\nاردو\nالعربية\nमराठी\nहिन्दी\nবাংলা (ভারত)\nবাংলা(বাংলাদেশ)\nਪੰਜਾਬੀ\nગુજરાતી\nதமிழ்\nతెలుగు\nಕನ್ನಡ (India)\nമലയാളം\nภาษาไทย (ประเทศไทย)\n中文简体\n中文繁體\n日本語\n한국어 (韩国)",
+    "font": "Graphik, Helvetica, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 60,
+                "y": 17
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

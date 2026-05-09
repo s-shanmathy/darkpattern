@@ -1,0 +1,65 @@
+{
+    "title": "Free Website Builder. Create Your Own Website by Yourself!",
+    "url": "ucoz.com",
+    "full_url": "https://www.ucoz.com/",
+    "images": [
+        {
+            "alt": "UCOZ",
+            "location": {
+                "x": 342,
+                "y": 1015
+            },
+            "size": {
+                "height": 90,
+                "width": 340
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            249,
+            249,
+            251
+        ],
+        [
+            65,
+            135,
+            243
+        ],
+        [
+            29,
+            190,
+            118
+        ]
+    ],
+    "desc": "How to make your own website? By yourself! With the uCoz website builder it's easy and virtually free.",
+    "navbar": "",
+    "text": "uCoz\nEnglish\n  Log in\nChoose a website builder that suits your needs:\nPersonal\nCreate a website\non uCoz\nBusiness\nStart working\nwith uKit\nCustom Website\nOrder Now\nwith Divly\nLearn more",
+    "font": "Nunito, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "English\n ",
+            "bg-color": "rgba(250, 250, 252, 1)",
+            "location": {
+                "x": 754,
+                "y": 16
+            },
+            "size": {
+                "height": 37,
+                "width": 97
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

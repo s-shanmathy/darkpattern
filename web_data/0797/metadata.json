@@ -1,0 +1,591 @@
+{
+    "title": "Home Page | W. W. Norton & Company",
+    "url": "wwnorton.com",
+    "full_url": "https://wwnorton.com/",
+    "images": [
+        {
+            "alt": "Home Page",
+            "location": {
+                "x": -148,
+                "y": 11
+            },
+            "size": {
+                "height": 1600,
+                "width": 1480
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Seven Moons of Maali Almeida",
+            "location": {
+                "x": 100,
+                "y": 743
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "We the People 14e",
+            "location": {
+                "x": 280,
+                "y": 743
+            },
+            "size": {
+                "height": 225,
+                "width": 151
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Grimkes",
+            "location": {
+                "x": 461,
+                "y": 743
+            },
+            "size": {
+                "height": 225,
+                "width": 149
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Victory. Stand!",
+            "location": {
+                "x": 640,
+                "y": 743
+            },
+            "size": {
+                "height": 225,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Essential Book of Vegan Bakes",
+            "location": {
+                "x": 824,
+                "y": 743
+            },
+            "size": {
+                "height": 225,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The History of White People",
+            "location": {
+                "x": 100,
+                "y": 1983
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Color of Law",
+            "location": {
+                "x": 280,
+                "y": 1983
+            },
+            "size": {
+                "height": 225,
+                "width": 143
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Race in America",
+            "location": {
+                "x": 453,
+                "y": 1983
+            },
+            "size": {
+                "height": 225,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Norton Anthology of African American Literature",
+            "location": {
+                "x": 663,
+                "y": 1983
+            },
+            "size": {
+                "height": 225,
+                "width": 146
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Colony in a Nation",
+            "location": {
+                "x": 839,
+                "y": 1983
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "seagull",
+            "location": {
+                "x": 334,
+                "y": 2460
+            },
+            "size": {
+                "height": 107,
+                "width": 340
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Norton Professional Books logo",
+            "location": {
+                "x": 115,
+                "y": 3140
+            },
+            "size": {
+                "height": 118,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Countryman Press logo",
+            "location": {
+                "x": 363,
+                "y": 3139
+            },
+            "size": {
+                "height": 120,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Liveright logo",
+            "location": {
+                "x": 546,
+                "y": 3147
+            },
+            "size": {
+                "height": 104,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Young Readers",
+            "location": {
+                "x": 724,
+                "y": 3150
+            },
+            "size": {
+                "height": 98,
+                "width": 168
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 850,
+                "y": 3963
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 900,
+                "y": 3963
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram",
+            "location": {
+                "x": 950,
+                "y": 3963
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "SEARCH",
+            "type": "search",
+            "location": {
+                "x": 581,
+                "y": 18
+            },
+            "size": {
+                "height": 40,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your email address",
+            "type": "email",
+            "location": {
+                "x": 282,
+                "y": 3951
+            },
+            "size": {
+                "height": 44,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            251,
+            252,
+            252
+        ],
+        [
+            45,
+            69,
+            91
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "",
+    "navbar": "",
+    "text": "READER\nSTUDENT\nEDUCATOR\nLOG IN0 ITEMS\nW • W • NORTON & COMPANY INDEPENDENT & EMPLOYEE-OWNED\nIndependent since 1923,\nNorton publishes books that educate, inspire, and endure.\nShop Books\nShop Textbooks\nNEW & FORTHCOMING\nNext\nA MESSAGE TO OUR READERS\n\"True community is based upon equality, mutuality, and reciprocity. It affirms the richness of individual diversity as well as the common human ties that bind us together.\"\n—Pauli Murray\nLiterature, poetry, memoir, biography, history, composition, sociology, psychology, economics—all offer vivid revelations, lived experiences, and essential perspectives on the racial injustices we must fully own and\nthe true community we must bravely build.\nThrough reading, we seek understanding; through understanding, we seek justice. \nAs a company, we recommit ourselves to this crucial work.  \nBlack stories matter. Black Lives Matter.\nBOOKS ON RACIAL AND SOCIAL JUSTICE\nNext\nBOOKS THAT LIVE\nW. W. Norton publishes 400 books annually through its trade, college, and professional departments. As the largest independent and employee-owned publisher, Norton is proud to publish “books that live.”\n\nLearn More\nAFFILIATED IMPRINTS\n\n\n\n\nLearn More\nDISTRIBUTION PARTNERS\nNorton is proud to distribute books from numerous esteemed, independent publishers.\n\nLearn More\nWe use cookies to deliver the best experience. By using our site, you agree to our cookie policy. \nLearn More\nSIGN UP FOR NEWSLETTER\nSend\nBy signing up you agree to W. W. Norton's privacy policy and terms of use.\nCONNECT WITH US\nWHO WE ARECAREERSHELPACCESSIBILITYPRIVACY POLICYTERMS OF USECONTACT US\nCopyright © W. W. Norton & Company, Inc. 2022",
+    "font": "\"Gotham A\", \"Gotham B\", Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 731,
+                "y": 18
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "LOG IN",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 776,
+                "y": 19
+            },
+            "size": {
+                "height": 38,
+                "width": 94
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "0 ITEMS",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 875,
+                "y": 19
+            },
+            "size": {
+                "height": 38,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Shop Books",
+            "bg-color": "rgba(25, 126, 128, 1)",
+            "location": {
+                "x": 540,
+                "y": 385
+            },
+            "size": {
+                "height": 44,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Shop Textbooks",
+            "bg-color": "rgba(25, 126, 128, 1)",
+            "location": {
+                "x": 702,
+                "y": 385
+            },
+            "size": {
+                "height": 44,
+                "width": 187
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 849,
+                "y": 833
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 849,
+                "y": 2073
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Learn More",
+            "bg-color": "rgba(25, 126, 128, 1)",
+            "location": {
+                "x": 431,
+                "y": 2788
+            },
+            "size": {
+                "height": 44,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Learn More",
+            "bg-color": "rgba(25, 126, 128, 1)",
+            "location": {
+                "x": 431,
+                "y": 3378
+            },
+            "size": {
+                "height": 44,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Learn More",
+            "bg-color": "rgba(25, 126, 128, 1)",
+            "location": {
+                "x": 431,
+                "y": 3801
+            },
+            "size": {
+                "height": 44,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Send",
+            "bg-color": "rgba(100, 197, 198, 1)",
+            "location": {
+                "x": 582,
+                "y": 3951
+            },
+            "size": {
+                "height": 44,
+                "width": 52
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

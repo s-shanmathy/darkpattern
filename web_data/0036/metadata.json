@@ -1,0 +1,36 @@
+{
+    "title": "Contact Support",
+    "url": "4g89.com",
+    "full_url": "https://4g89.com/cgi-sys/suspendedpage.cgi",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "text": "",
+    "font": "Times",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 900,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

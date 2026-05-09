@@ -1,0 +1,851 @@
+{
+    "title": "electroSome - Electronics Tutorials, Projects and Products",
+    "url": "electrosome.com",
+    "full_url": "https://electrosome.com/",
+    "images": [
+        {
+            "alt": "electroSome",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 243,
+                "width": 170
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "electroSome",
+            "location": {
+                "x": 40,
+                "y": 32
+            },
+            "size": {
+                "height": 43,
+                "width": 170
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "JLCPCB",
+            "location": {
+                "x": 35,
+                "y": 219
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "USB Network Gate - Logo",
+            "location": {
+                "x": 402,
+                "y": 219
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "STM32F103C8T6 Board - ST-Link-V2 Programing - Circuit Diagram",
+            "location": {
+                "x": 586,
+                "y": 219
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interfacing HC-05 Bluetooth Module with Arduino Uno - Practical Implementation",
+            "location": {
+                "x": 769,
+                "y": 219
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "DHT11 Temperature and Humidity Sensor Module",
+            "location": {
+                "x": 953,
+                "y": 219
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "STM32F103C8T6 Board - ST-Link-V2 Programing - Circuit Diagram",
+            "location": {
+                "x": 35,
+                "y": 1019
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interfacing HC-05 Bluetooth Module with Arduino Uno - Practical Implementation",
+            "location": {
+                "x": 219,
+                "y": 1019
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DHT11 Temperature and Humidity Sensor Module",
+            "location": {
+                "x": 402,
+                "y": 1019
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "L298N Motor Driver Module",
+            "location": {
+                "x": 586,
+                "y": 1019
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tilt Sensor",
+            "location": {
+                "x": 769,
+                "y": 1019
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Servo Motor",
+            "location": {
+                "x": 953,
+                "y": 1019
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Home Automation using ESP8266 and Telegram Bot - Practical Implementation",
+            "location": {
+                "x": 402,
+                "y": 1820
+            },
+            "size": {
+                "height": 107,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PIC Microcontroller - SPI",
+            "location": {
+                "x": 35,
+                "y": 2573
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "I²C Bus Logo",
+            "location": {
+                "x": 219,
+                "y": 2573
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Analog to Digital Converter",
+            "location": {
+                "x": 402,
+                "y": 2573
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PWM - Pulse Width Modulation",
+            "location": {
+                "x": 586,
+                "y": 2573
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interfacing Moisture Sensor with Arduino",
+            "location": {
+                "x": 35,
+                "y": 3531
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LED Control Using IR Receiver - Practical Implementation",
+            "location": {
+                "x": 402,
+                "y": 3531
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "STM32F103C8T6 Board - ST-Link-V2 Programing - Circuit Diagram",
+            "location": {
+                "x": 35,
+                "y": 4514
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Flash Magic Tool",
+            "location": {
+                "x": 402,
+                "y": 4514
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Keil - Product Downloads",
+            "location": {
+                "x": 586,
+                "y": 4514
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sending Email from ESP8266 - Practical Implementation",
+            "location": {
+                "x": 35,
+                "y": 5532
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Home Automation using ESP8266 and Telegram Bot - Practical Implementation",
+            "location": {
+                "x": 219,
+                "y": 5532
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Updating Sensor Data to Google Spreadsheet using ESP8266 - Circuit Diagram",
+            "location": {
+                "x": 402,
+                "y": 5532
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Home Automation using ESP8266 & Blynk App - Practical Implementation",
+            "location": {
+                "x": 586,
+                "y": 5532
+            },
+            "size": {
+                "height": 92,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "JLCPCB",
+            "location": {
+                "x": 769,
+                "y": 215
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "USB Network Gate - Logo",
+            "location": {
+                "x": 769,
+                "y": 397
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "STM32F103C8T6 Board - ST-Link-V2 Programing - Circuit Diagram",
+            "location": {
+                "x": 769,
+                "y": 488
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interfacing HC-05 Bluetooth Module with Arduino Uno - Practical Implementation",
+            "location": {
+                "x": 769,
+                "y": 611
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DHT11 Temperature and Humidity Sensor Module",
+            "location": {
+                "x": 769,
+                "y": 716
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search…",
+            "type": "text",
+            "location": {
+                "x": 307,
+                "y": 33
+            },
+            "size": {
+                "height": 40,
+                "width": 318
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search…",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            248,
+            249,
+            251
+        ],
+        [
+            254,
+            254,
+            254
+        ]
+    ],
+    "desc": "electroSome is a technical organisation which aims to provide technical support for electronics engineers through projects, circuits, tutorials and products",
+    "navbar": "About Us\nContact Us\nHOME\nPROJECTS\nTUTORIALS\nVIDEOS\nCONTACT US\nFORUMS\nREGISTER\nLOG IN\nRecent Articles\n07\nSep\nPCB Manufacturing Simplified by JLCPCB\nDuring the beginning of my electronics engineering journey I used to make PCBs at home using toner transfer method. Later...\nRead More\n18\nMay\nInterfacing Relay with Arduino Uno\nIn this tutorial, we are going to interface a 5V Relay module with Arduino Uno to control high power devices....\nRead More\n28\nOct\nRemote Debugging of Embedded Systems\nMost of us are working from home during this COVID-19 pandemic situation. I have personally struggled to debug some of...\nRead More\n04\nSep\nGetting Started with STM32 ARM Cortex-M Microcontroller using Keil IDE\nIn this tutorial we will learn how to blink an LED using STM32 ARM Cortex-M microcontroller STM32F103C8T6 and Keil IDE....\nRead More\nRecent Tutorials\n04\nSep\nGetting Started with STM32 ARM Cortex-M Microcontroller using Keil IDE\nIn this tutorial we will learn how to blink an LED using STM32 ARM Cortex-M microcontroller STM32F103C8T6 and Keil IDE....\nRead More\n27\nJun\nInterfacing HC-05 Bluetooth Module with Arduino Uno\nIn this tutorial, I will explain about Interfacing HC-05 Bluetooth Module with Arduino Uno. HC-05 uses bluetooth classic and can...\nRead More\n28\nMay\nInterfacing DHT11 Temperature and Humidity Sensor with Arduino Uno\nIn this tutorial we will learn about Interfacing DHT11 Temperature and Humidity sensor with Arduino Uno. The term DHT is...\nRead More\n21\nMay\nInterfacing L298N Motor Driver with Arduino Uno\nIn this tutorial we will learn how to interface L298N motror driver with Arduino Uno. You might be thinking why...\nRead More\nRecent Projects\n11\nApr\nDigital Alarm Clock using PIC Microcontroller and DS3234 RTC\nHere is a digital alarm clock made using PIC 18F4520 Microcontroller and DS3234 RTC (Real Time Clock). This project is...\nRead More\n17\nJan\nSending E-mail from ESP8266 – IoT Project\nThe scope of the IoT applications is growing from controlling appliances to monitoring devices (like sensors) and sending e-mails. So here...\nRead More\n21\nDec\nControlling LED using ESP8266 and Telegram Bot – IoT Project\nIn this project we will control an LED which is connected to ESP8266 with a Telegram bot. Hope you know...\nRead More\n28\nNov\nUpdating Sensor Data to Google Spreadsheet using ESP8266 – IoT Project\nIn IoT applications, the monitored sensor data needs to be recorded. This data logging is important for data analytics. So...\nRead More\nPIC Microcontroller Tutorials\nSPI Communication with PIC Microcontroller – MPLAB XC8\nMay 1, 2017 | Ligo George | MPLAB XC8, PIC Microcontroller, Tutorials | 16F877A, MPLAB, PIC, SPI, XC8 | 2 Comments\nSPI (Serial Peripheral Interface) is a full duplex synchronous serial communication interface used for short distance communications. It is usually...\nRead More\nI²C Communication with PIC Microcontroller – MPLAB XC8\nApril 11, 2016 | Ligo George | MPLAB XC8, PIC Microcontroller, Tutorials | 16F877A, I²C, MPLAB, MPLAB IDE, MPLAB X IDE, PIC, XC8 | 69 Comments\nI2C or IIC or I2C stands for Inter-Integrated Circuit. It is a very popular multi-master, multi-slave serial communication interface developed by...\nRead More\nUsing ADC of PIC Microcontroller – MPLAB XC8\nNovember 12, 2015 | Ligo George | MPLAB XC8, PIC Microcontroller, Tutorials | 16F877A, Microcontroller, MPLAB, MPLAB XC8, PIC, Proteus, Tutorials, XC8 | 28 Comments\nIn this tutorial we will learn, how to use the ADC module of a PIC Microcontroller using MPLAB XC8 compiler....\nRead More\nGenerating PWM with PIC Microcontroller – MPLAB XC8\nMay 21, 2015 | Ligo George | MPLAB XC8, PIC Microcontroller, Tutorials | 16F877A, CCP, Microcontroller, MPLAB, MPLAB IDE, MPLAB XC8, PIC, PWM, XC8 | 32 Comments\nPulse Width Modulation (PWM) is the one of the simple and most commonly used technique to produce analog voltages from...\nRead More\nArduino Projects\nInterfacing Soil Moisture Sensor with Arduino\nMarch 17, 2018 | Basamma B | Arduino, Arduino, Embedded, Projects, Tutorials | Arduino, Arduino Uno, LM393 Comparator, LM393 Op-Amp, Sensor, Soil Moisture Sensor | 0 Comments\nIntroduction In this article, we are going to interface a Soil Moisture Sensor with Arduino Uno. We will measure the moisture...\nRead More\nInterfacing Rain Sensor with Arduino\nMarch 15, 2018 | Basamma B | Arduino, Arduino, Embedded, Projects, Tutorials | Arduino, Arduino Uno, LM393 Comparator, LM393 Op-Amp, Op-Amp, Rain Sensor | 2 Comments\nIn this article we are going to explain about interfacing Rain Sensor with Arduino. The rain sensor module is an...\nRead More\nControlling LED’s using IR Remote Control – Arduino Project\nFebruary 23, 2018 | Ali Hamza | Arduino, Embedded, Projects | IR Receiver, IR Sensor, IR Transceiver, LED Control, Remote, Sensor | 0 Comments\nThis article allows you to turn ON and OFF LED's using a cheap IR remote control. Here we used an available IR...\nRead More\nControlling of DC Motors using MPU-6050\nFebruary 1, 2018 | Ali Hamza | Arduino, Embedded, Projects | Accelerometer, Arduino, Arduino Uno, Gyrometer, L293D, MPU-6050, Sensors | 0 Comments\nIn this project, we are going to control the speed of 2 DC motors using the MPU-6050. MPU-6050 is an...\nRead More\nARM Tutorials\nGetting Started with STM32 ARM Cortex-M Microcontroller using Keil IDE\nSeptember 4, 2020 | Rani Chowdary | ARM, ARM Cortex-M, STM32, Tutorials | ARM, ARM Cortex-M, Keil IDE, STM32, STM32F103C8T6 | 0 Comments\nIn this tutorial we will learn how to blink an LED using STM32 ARM Cortex-M microcontroller STM32F103C8T6 and Keil IDE....\nRead More\nBlinking LED using LPC2148 – ARM Microcontroller Tutorial – Part 3\nFebruary 15, 2020 | Ligo George | ARM, ARM7, Tutorials | ARM, ARM7, Keil, Keil C, LPC2148 | 0 Comments\nHello World In this tutorial we will learn how to start programming an ARM microcontroller. This is a hello world project...\nRead More\nFlashing LPC2148 – ARM Microcontroller Tutorial – Part 2\nJanuary 15, 2020 | Ligo George | ARM, ARM7, Tutorials | ARM, ARM7, Flash Magic, LPC2148, Microcontroller | 0 Comments\nIn this tutorial we will learn how to flash an LPC2148 microcontroller using on-chip serial (UART) ISP bootloader with Flash...\nRead More\nInstalling Keil IDE – ARM Microcontroller Tutorial – Part 1\nOctober 8, 2019 | Ligo George | ARM, ARM7, Tutorials | ARM, ARM7, Keil, Microcontroller | 0 Comments\nThis is our first part of ARM microcontroller tutorial. In this article we will see how to setup development environment...\nRead More\nIoT Projects\nSending E-mail from ESP8266 – IoT Project\nJanuary 17, 2019 | Basamma B | Electronics, Embedded, ESP8266, IoT, Projects | API, Arduino, base64encode, Email Sending, ESP8266, IoT, IoT Project, SMTP Server | 3 Comments\nThe scope of the IoT applications is growing from controlling appliances to monitoring devices (like sensors) and sending e-mails. So here...\nRead More\nControlling LED using ESP8266 and Telegram Bot – IoT Project\nDecember 21, 2018 | Basamma B | Embedded, ESP8266, IoT, Projects | ESP8266, Home Automation, IoT, Telegram Bot | 1 Comment\nIn this project we will control an LED which is connected to ESP8266 with a Telegram bot. Hope you know...\nRead More\nUpdating Sensor Data to Google Spreadsheet using ESP8266 – IoT Project\nNovember 28, 2018 | Basamma B | Embedded, ESP8266, IoT, Projects | API, Arduino, ESP8266, IoT | 5 Comments\nIn IoT applications, the monitored sensor data needs to be recorded. This data logging is important for data analytics. So...\nRead More\nHome Automation using ESP8266 & Blynk App – IoT\nOctober 3, 2018 | Basamma B | Embedded, ESP8266, IoT, Projects | Blynk App, ESP8266, Home Automation, IoT | 1 Comment\nA home automation system is an automating the bulk of electronic and electrical tasks within a home. It uses a combination of hardware...\nRead More\nRECENT POSTS\nPCB Manufacturing Simplified by JLCPCB\nSeptember 7, 2021\nInterfacing Relay with Arduino Uno\nMay 18, 2021\nRemote Debugging of Embedded Systems\nOctober 28, 2020\nGetting Started with STM32 ARM Cortex-M Microcontroller using Keil IDE\nSeptember 4, 2020\nInterfacing HC-05 Bluetooth Module with Arduino Uno\nJune 27, 2020\nInterfacing DHT11 Temperature and Humidity Sensor with Arduino Uno\nMay 28, 2020\nFOLLOW US\nFacebook Youtube\nCATEGORIES\nElectronics\n555 Circuits\nBasic Electronics\nOpamp\nElectronics News\nIC\nPower Supply\nSensors\nWhat is Inside?\nFeatured\nMobiles\nNews\nProcessors\nProjects\nEmbedded\nArduino\nAVR Microcontroller\nESP8266\nPIC Microcontroller\nHobby Circuits\nIoT\nPromotional\nSoftwares\nTablets\nTechnology Transfer\nTutorials\n8051 Microcontroller\n8085\nArduino\nARM\nARM Cortex-M\nSTM32\nARM7\nATMEL AVR\nCloudX\nESP8266\nMATLAB\nOpenWrt\nPCB Designing\nDipTrace\nOrCad\nPIC Microcontroller\nCCS C Compiler\nHi-Tech C\nMikroC\nMPLAB XC8\nPython\nRaspberry Pi\nPython Rpi\nSCILAB\nTAGS\n16F877A 555 8051 MICROCONTROLLER ANDROID ARDUINO ARDUINO UNO ARM ATMEGA32 ATMEL AVR DC MOTOR DHT22 ELECTRONICS EMBEDDED ESP8266 HC-SR04 HI-TECH C IOT L293D LCD LED MATLAB MICROCONTROLLER MIKROC MOBILE MOTOR MPLAB MPLAB XC8 PCB PIC PROTEUS PYTHON RASPBERRY PI SAMSUNG SENSOR SENSORS SERVO MOTOR SMARTPHONE TABLET TEMPERATURE TRANSISTOR TRANSISTORS TUTORIALS ULTRASONIC XC8\nRECENT COMMENTS\nB K.Leelesh on Digital Clock using PIC Microcontroller and DS1307 RTC\nBenUs on Transformerless Capacitor Dropper Power Supply\nChapkins on Digital Alarm Clock using PIC Microcontroller and DS3234 RTC\nEMPERO MAN on Automatic School / College Bell using PIC Microcontroller\nIan Turnbull on Access Raspberry Pi directly from Windows PC\nFOLLOW US\nFacebook Twitter Youtube\n© Copyright 2021. All Rights Reserved.",
+    "text": "About Us\nContact Us\nHOME\nPROJECTS\nTUTORIALS\nVIDEOS\nCONTACT US\nFORUMS\nREGISTER\nLOG IN\nRecent Articles\n07\nSep\nPCB Manufacturing Simplified by JLCPCB\nDuring the beginning of my electronics engineering journey I used to make PCBs at home using toner transfer method. Later...\nRead More\n18\nMay\nInterfacing Relay with Arduino Uno\nIn this tutorial, we are going to interface a 5V Relay module with Arduino Uno to control high power devices....\nRead More\n28\nOct\nRemote Debugging of Embedded Systems\nMost of us are working from home during this COVID-19 pandemic situation. I have personally struggled to debug some of...\nRead More\n04\nSep\nGetting Started with STM32 ARM Cortex-M Microcontroller using Keil IDE\nIn this tutorial we will learn how to blink an LED using STM32 ARM Cortex-M microcontroller STM32F103C8T6 and Keil IDE....\nRead More\nRecent Tutorials\n04\nSep\nGetting Started with STM32 ARM Cortex-M Microcontroller using Keil IDE\nIn this tutorial we will learn how to blink an LED using STM32 ARM Cortex-M microcontroller STM32F103C8T6 and Keil IDE....\nRead More\n27\nJun\nInterfacing HC-05 Bluetooth Module with Arduino Uno\nIn this tutorial, I will explain about Interfacing HC-05 Bluetooth Module with Arduino Uno. HC-05 uses bluetooth classic and can...\nRead More\n28\nMay\nInterfacing DHT11 Temperature and Humidity Sensor with Arduino Uno\nIn this tutorial we will learn about Interfacing DHT11 Temperature and Humidity sensor with Arduino Uno. The term DHT is...\nRead More\n21\nMay\nInterfacing L298N Motor Driver with Arduino Uno\nIn this tutorial we will learn how to interface L298N motror driver with Arduino Uno. You might be thinking why...\nRead More\nRecent Projects\n11\nApr\nDigital Alarm Clock using PIC Microcontroller and DS3234 RTC\nHere is a digital alarm clock made using PIC 18F4520 Microcontroller and DS3234 RTC (Real Time Clock). This project is...\nRead More\n17\nJan\nSending E-mail from ESP8266 – IoT Project\nThe scope of the IoT applications is growing from controlling appliances to monitoring devices (like sensors) and sending e-mails. So here...\nRead More\n21\nDec\nControlling LED using ESP8266 and Telegram Bot – IoT Project\nIn this project we will control an LED which is connected to ESP8266 with a Telegram bot. Hope you know...\nRead More\n28\nNov\nUpdating Sensor Data to Google Spreadsheet using ESP8266 – IoT Project\nIn IoT applications, the monitored sensor data needs to be recorded. This data logging is important for data analytics. So...\nRead More\nPIC Microcontroller Tutorials\nSPI Communication with PIC Microcontroller – MPLAB XC8\nMay 1, 2017 | Ligo George | MPLAB XC8, PIC Microcontroller, Tutorials | 16F877A, MPLAB, PIC, SPI, XC8 | 2 Comments\nSPI (Serial Peripheral Interface) is a full duplex synchronous serial communication interface used for short distance communications. It is usually...\nRead More\nI²C Communication with PIC Microcontroller – MPLAB XC8\nApril 11, 2016 | Ligo George | MPLAB XC8, PIC Microcontroller, Tutorials | 16F877A, I²C, MPLAB, MPLAB IDE, MPLAB X IDE, PIC, XC8 | 69 Comments\nI2C or IIC or I2C stands for Inter-Integrated Circuit. It is a very popular multi-master, multi-slave serial communication interface developed by...\nRead More\nUsing ADC of PIC Microcontroller – MPLAB XC8\nNovember 12, 2015 | Ligo George | MPLAB XC8, PIC Microcontroller, Tutorials | 16F877A, Microcontroller, MPLAB, MPLAB XC8, PIC, Proteus, Tutorials, XC8 | 28 Comments\nIn this tutorial we will learn, how to use the ADC module of a PIC Microcontroller using MPLAB XC8 compiler....\nRead More\nGenerating PWM with PIC Microcontroller – MPLAB XC8\nMay 21, 2015 | Ligo George | MPLAB XC8, PIC Microcontroller, Tutorials | 16F877A, CCP, Microcontroller, MPLAB, MPLAB IDE, MPLAB XC8, PIC, PWM, XC8 | 32 Comments\nPulse Width Modulation (PWM) is the one of the simple and most commonly used technique to produce analog voltages from...\nRead More\nArduino Projects\nInterfacing Soil Moisture Sensor with Arduino\nMarch 17, 2018 | Basamma B | Arduino, Arduino, Embedded, Projects, Tutorials | Arduino, Arduino Uno, LM393 Comparator, LM393 Op-Amp, Sensor, Soil Moisture Sensor | 0 Comments\nIntroduction In this article, we are going to interface a Soil Moisture Sensor with Arduino Uno. We will measure the moisture...\nRead More\nInterfacing Rain Sensor with Arduino\nMarch 15, 2018 | Basamma B | Arduino, Arduino, Embedded, Projects, Tutorials | Arduino, Arduino Uno, LM393 Comparator, LM393 Op-Amp, Op-Amp, Rain Sensor | 2 Comments\nIn this article we are going to explain about interfacing Rain Sensor with Arduino. The rain sensor module is an...\nRead More\nControlling LED’s using IR Remote Control – Arduino Project\nFebruary 23, 2018 | Ali Hamza | Arduino, Embedded, Projects | IR Receiver, IR Sensor, IR Transceiver, LED Control, Remote, Sensor | 0 Comments\nThis article allows you to turn ON and OFF LED's using a cheap IR remote control. Here we used an available IR...\nRead More\nControlling of DC Motors using MPU-6050\nFebruary 1, 2018 | Ali Hamza | Arduino, Embedded, Projects | Accelerometer, Arduino, Arduino Uno, Gyrometer, L293D, MPU-6050, Sensors | 0 Comments\nIn this project, we are going to control the speed of 2 DC motors using the MPU-6050. MPU-6050 is an...\nRead More\nARM Tutorials\nGetting Started with STM32 ARM Cortex-M Microcontroller using Keil IDE\nSeptember 4, 2020 | Rani Chowdary | ARM, ARM Cortex-M, STM32, Tutorials | ARM, ARM Cortex-M, Keil IDE, STM32, STM32F103C8T6 | 0 Comments\nIn this tutorial we will learn how to blink an LED using STM32 ARM Cortex-M microcontroller STM32F103C8T6 and Keil IDE....\nRead More\nBlinking LED using LPC2148 – ARM Microcontroller Tutorial – Part 3\nFebruary 15, 2020 | Ligo George | ARM, ARM7, Tutorials | ARM, ARM7, Keil, Keil C, LPC2148 | 0 Comments\nHello World In this tutorial we will learn how to start programming an ARM microcontroller. This is a hello world project...\nRead More\nFlashing LPC2148 – ARM Microcontroller Tutorial – Part 2\nJanuary 15, 2020 | Ligo George | ARM, ARM7, Tutorials | ARM, ARM7, Flash Magic, LPC2148, Microcontroller | 0 Comments\nIn this tutorial we will learn how to flash an LPC2148 microcontroller using on-chip serial (UART) ISP bootloader with Flash...\nRead More\nInstalling Keil IDE – ARM Microcontroller Tutorial – Part 1\nOctober 8, 2019 | Ligo George | ARM, ARM7, Tutorials | ARM, ARM7, Keil, Microcontroller | 0 Comments\nThis is our first part of ARM microcontroller tutorial. In this article we will see how to setup development environment...\nRead More\nIoT Projects\nSending E-mail from ESP8266 – IoT Project\nJanuary 17, 2019 | Basamma B | Electronics, Embedded, ESP8266, IoT, Projects | API, Arduino, base64encode, Email Sending, ESP8266, IoT, IoT Project, SMTP Server | 3 Comments\nThe scope of the IoT applications is growing from controlling appliances to monitoring devices (like sensors) and sending e-mails. So here...\nRead More\nControlling LED using ESP8266 and Telegram Bot – IoT Project\nDecember 21, 2018 | Basamma B | Embedded, ESP8266, IoT, Projects | ESP8266, Home Automation, IoT, Telegram Bot | 1 Comment\nIn this project we will control an LED which is connected to ESP8266 with a Telegram bot. Hope you know...\nRead More\nUpdating Sensor Data to Google Spreadsheet using ESP8266 – IoT Project\nNovember 28, 2018 | Basamma B | Embedded, ESP8266, IoT, Projects | API, Arduino, ESP8266, IoT | 5 Comments\nIn IoT applications, the monitored sensor data needs to be recorded. This data logging is important for data analytics. So...\nRead More\nHome Automation using ESP8266 & Blynk App – IoT\nOctober 3, 2018 | Basamma B | Embedded, ESP8266, IoT, Projects | Blynk App, ESP8266, Home Automation, IoT | 1 Comment\nA home automation system is an automating the bulk of electronic and electrical tasks within a home. It uses a combination of hardware...\nRead More\nRECENT POSTS\nPCB Manufacturing Simplified by JLCPCB\nSeptember 7, 2021\nInterfacing Relay with Arduino Uno\nMay 18, 2021\nRemote Debugging of Embedded Systems\nOctober 28, 2020\nGetting Started with STM32 ARM Cortex-M Microcontroller using Keil IDE\nSeptember 4, 2020\nInterfacing HC-05 Bluetooth Module with Arduino Uno\nJune 27, 2020\nInterfacing DHT11 Temperature and Humidity Sensor with Arduino Uno\nMay 28, 2020\nFOLLOW US\nFacebook Youtube\nCATEGORIES\nElectronics\n555 Circuits\nBasic Electronics\nOpamp\nElectronics News\nIC\nPower Supply\nSensors\nWhat is Inside?\nFeatured\nMobiles\nNews\nProcessors\nProjects\nEmbedded\nArduino\nAVR Microcontroller\nESP8266\nPIC Microcontroller\nHobby Circuits\nIoT\nPromotional\nSoftwares\nTablets\nTechnology Transfer\nTutorials\n8051 Microcontroller\n8085\nArduino\nARM\nARM Cortex-M\nSTM32\nARM7\nATMEL AVR\nCloudX\nESP8266\nMATLAB\nOpenWrt\nPCB Designing\nDipTrace\nOrCad\nPIC Microcontroller\nCCS C Compiler\nHi-Tech C\nMikroC\nMPLAB XC8\nPython\nRaspberry Pi\nPython Rpi\nSCILAB\nTAGS\n16F877A 555 8051 MICROCONTROLLER ANDROID ARDUINO ARDUINO UNO ARM ATMEGA32 ATMEL AVR DC MOTOR DHT22 ELECTRONICS EMBEDDED ESP8266 HC-SR04 HI-TECH C IOT L293D LCD LED MATLAB MICROCONTROLLER MIKROC MOBILE MOTOR MPLAB MPLAB XC8 PCB PIC PROTEUS PYTHON RASPBERRY PI SAMSUNG SENSOR SENSORS SERVO MOTOR SMARTPHONE TABLET TEMPERATURE TRANSISTOR TRANSISTORS TUTORIALS ULTRASONIC XC8\nRECENT COMMENTS\nB K.Leelesh on Digital Clock using PIC Microcontroller and DS1307 RTC\nBenUs on Transformerless Capacitor Dropper Power Supply\nChapkins on Digital Alarm Clock using PIC Microcontroller and DS3234 RTC\nEMPERO MAN on Automatic School / College Bell using PIC Microcontroller\nIan Turnbull on Access Raspberry Pi directly from Windows PC\nFOLLOW US\nFacebook Twitter Youtube\n© Copyright 2021. All Rights Reserved.",
+    "font": "\"Open Sans\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 625,
+                "y": 33
+            },
+            "size": {
+                "height": 40,
+                "width": 59
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 136, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

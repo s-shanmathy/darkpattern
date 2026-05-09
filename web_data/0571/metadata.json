@@ -1,0 +1,1275 @@
+{
+    "title": "Chalkbeat - Chalkbeat",
+    "url": "chalkbeat.org",
+    "full_url": "https://www.chalkbeat.org/",
+    "images": [
+        {
+            "alt": "Cb-Logo-2Color-v2.svg",
+            "location": {
+                "x": 16,
+                "y": 16
+            },
+            "size": {
+                "height": 80,
+                "width": 249
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A woman’s hand pulls a book from a library shelf.",
+            "location": {
+                "x": 32,
+                "y": 450
+            },
+            "size": {
+                "height": 555,
+                "width": 840
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rioters with Trump flags descend on the U.S. Capitol on January 6, 2021.",
+            "location": {
+                "x": 32,
+                "y": 1220
+            },
+            "size": {
+                "height": 264,
+                "width": 470
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A close up of graduates wearing blue gowns and mortar boards with gold stoles. A blue cap is in the foreground.",
+            "location": {
+                "x": 522,
+                "y": 1220
+            },
+            "size": {
+                "height": 264,
+                "width": 470
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A gavel sits on a white table as shadows loom underneath.",
+            "location": {
+                "x": 32,
+                "y": 1650
+            },
+            "size": {
+                "height": 264,
+                "width": 470
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A young girl poses with a yellow graduation cap.",
+            "location": {
+                "x": 522,
+                "y": 1650
+            },
+            "size": {
+                "height": 264,
+                "width": 470
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "icon-news.svg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A sign in front of a building.",
+            "location": {
+                "x": 32,
+                "y": 2454
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Teacher Ruth Llorens stands in front of book cases and wears face mask inside her classroom at Cayuga Elementary School.",
+            "location": {
+                "x": 32,
+                "y": 2641
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A child wearing a backpack walks toward a school building. Other children and parents can be seen behind him.",
+            "location": {
+                "x": 32,
+                "y": 2851
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Numbered gold balloons showing 2023 on a pink glittery background.",
+            "location": {
+                "x": 32,
+                "y": 3037
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Colorado state Capitol building in Denver, Colorado, with the U.S. and state flags in front of a cloudy sky",
+            "location": {
+                "x": 32,
+                "y": 3829
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gov. Eric Holcomb addresses lawmakers during his 2018 State of the State speech.",
+            "location": {
+                "x": 32,
+                "y": 4039
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A young girl plays in the foreground as other students sit behind her on a multicolored alphabet rug.",
+            "location": {
+                "x": 32,
+                "y": 4225
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "An educator works with a young student as he writes in his notebook. Other students walk around the classroom behind them.",
+            "location": {
+                "x": 32,
+                "y": 4412
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A marijuana plant is dark in the foreground in a store window while in the background people walk on the sidewalk outside.",
+            "location": {
+                "x": 32,
+                "y": 4622
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A teacher helps a student wearing a red top with a math problem.",
+            "location": {
+                "x": 32,
+                "y": 5436
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Black and white lettering reading “ChatGPT” and “OpenAI”",
+            "location": {
+                "x": 32,
+                "y": 5622
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A child wearing a face mask and a red shirt holds an adult’s hand while getting a COVID-19 vaccine.",
+            "location": {
+                "x": 32,
+                "y": 5832
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A man speaks into a bullhorn.",
+            "location": {
+                "x": 32,
+                "y": 6018
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A man wearing a suit speaks at a podium in front of a school and surrounded by several other people wearing suits and dresses.",
+            "location": {
+                "x": 32,
+                "y": 6205
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "USA, New York, Hudson Valley, Albany, New York State Capitol Building, New York State Assembly Chamber",
+            "location": {
+                "x": 32,
+                "y": 6392
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A student smiles sitting at a desk in a brightly lit classroom",
+            "location": {
+                "x": 32,
+                "y": 6578
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A collage of 10 teachers, men and women.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Icon-heart-donate",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "icon-events",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "icon-jobs",
+            "location": {
+                "x": 96,
+                "y": 6908
+            },
+            "size": {
+                "height": 49,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A woman jumping off the ground with her arms and legs outstretched in a volcanic area in Iceland.",
+            "location": {
+                "x": 32,
+                "y": 7212
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A teacher leads a group of preschool students across a street during a walk around the neighborhood. ",
+            "location": {
+                "x": 32,
+                "y": 7398
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "An image of some graphic rendering code",
+            "location": {
+                "x": 32,
+                "y": 8213
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A woman in glasses and a sweatshirt smiles in a classroom. Students can be seen in the background.",
+            "location": {
+                "x": 32,
+                "y": 8961
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Preschool children are seen playing in a classroom during a recent morning session at Su Casa Ministries in Memphis.",
+            "location": {
+                "x": 32,
+                "y": 9148
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A young woman helps another student as she and her peers hike up a small hill.",
+            "location": {
+                "x": 32,
+                "y": 9963
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A school building sits in the background with a sidewalk and rails leading up to it in the foreground.",
+            "location": {
+                "x": 32,
+                "y": 10733
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A group of kindergarten children at a graduation ceremony, the girls wearing pastel-colored princess dresses. ",
+            "location": {
+                "x": 32,
+                "y": 10920
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A classroom displays posters of Harriet Tubman, Malcolm X, and others on the wall, along with other instructional materials. Several desks and a small table are also visible.",
+            "location": {
+                "x": 32,
+                "y": 11757
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A school hallway with a welcome sign hanging up on the wall",
+            "location": {
+                "x": 32,
+                "y": 11944
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Two little girls sit on a brick wall. One looks distracted and squirmy, while the other claps her hands. A large crowd of adults stands behind them. The adults hold signs that say “Free Universal Preschool.”",
+            "location": {
+                "x": 32,
+                "y": 12692
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A young man, wearing a grey sweatshirt and blue jeans, walks down a path toward campus, the Denver skyline looming in the background.",
+            "location": {
+                "x": 32,
+                "y": 12879
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A student holds a yellow #2 pencil in the air above a desk. ",
+            "location": {
+                "x": 32,
+                "y": 13066
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A white building is seen with a blue canopy and a sign that reads “Newark Teachers Union”",
+            "location": {
+                "x": 32,
+                "y": 13252
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A whiteboard reads: Six months of After the Bell.",
+            "location": {
+                "x": 32,
+                "y": 13439
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A boy’s face can be seen peering out from a school bus seat. Other children are in the surrounding seats. The view is from inside the bus, looking down the center aisle. Another school bus can be seen out the back window.",
+            "location": {
+                "x": 32,
+                "y": 13625
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A teacher works with students behind bookcases in a classroom, as a young girl sits on the floor in the foreground.",
+            "location": {
+                "x": 32,
+                "y": 13812
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A woman in a black suit jacket and red dress stands in front of a media scrum of microphones and lights next to a man in a suit.",
+            "location": {
+                "x": 32,
+                "y": 14604
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A view of the Colorado State Capitol building in Denver.",
+            "location": {
+                "x": 32,
+                "y": 14790
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A group of girls, all wearing pink, eat together in a school cafeteria.",
+            "location": {
+                "x": 32,
+                "y": 14977
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A gavel sits on a white table as shadows loom underneath.",
+            "location": {
+                "x": 32,
+                "y": 15164
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The exterior of the New York State Capitol",
+            "location": {
+                "x": 32,
+                "y": 15350
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "An arial view of Rikers Island with its dozens of white buildings scattered on the land.",
+            "location": {
+                "x": 32,
+                "y": 15537
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Students put their hands together during an exercise.",
+            "location": {
+                "x": 32,
+                "y": 15724
+            },
+            "size": {
+                "height": 537,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Five students sit focused at a classroom table and use scissors to cut pieces of paper",
+            "location": {
+                "x": 32,
+                "y": 16472
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Students hand holding pencil writing selected choice on answer sheets and Mathematics question sheets. students testing doing examination. school exam",
+            "location": {
+                "x": 32,
+                "y": 16659
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "a gym of people in chairs waiting for a graduation ceremony",
+            "location": {
+                "x": 32,
+                "y": 16845
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cb-Logo-2Color-v2.svg",
+            "location": {
+                "x": 16,
+                "y": 17176
+            },
+            "size": {
+                "height": 64,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email (required)",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email (required)",
+            "type": "email",
+            "location": {
+                "x": 502,
+                "y": 2175
+            },
+            "size": {
+                "height": 50,
+                "width": 374
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email (required)",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "email",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            34,
+            34,
+            34
+        ],
+        [
+            236,
+            236,
+            236
+        ]
+    ],
+    "desc": "Chalkbeat is a nonprofit news organization committed to covering one of America’s most important stories: the effort to improve schools for all children.",
+    "navbar": "Communities\nTopics\nJobs Board\nEvents\nShow Search",
+    "text": "Communities\nTopics\nJobs Board\nEvents\nShow Search\nSign Up Donate\nBecome a Chalkbeat sponsor\nFROM CHALKBEAT INDIANA\nIndiana lawmakers revive bill at center of book-banning dispute for 2023 legislative session\nOther bills would require new curriculum in cursive and internet safety.\nBy Aleksandra Appleton\nFIRST PERSON\nThe Capitol insurrection changed how I teach about American democracy\nBy Richard Schwartz\nFROM CHALKBEAT NEW YORK\nGoodbye, Regents? A New York commission mulls high school graduation requirements\nBy Reema Amin\nFROM CHALKBEAT CHICAGO\nChicago Public Schools Inspector General’s annual report is out. Here are five highlights.\nBy Becky Vevea, Mauricio Peña, and 2 more\nFROM CHALKBEAT NEWARK\nMy parents’ journey to the U.S. paved the way for my career as a journalist\nBy Jessie Gomez\nKeep learning.\nDiscover the big trends in education in Chalkbeat’s national newsletter, delivered every Wednesday.\nEmail (required)\nSign Me Up\nBy signing up, you agree to our Privacy Notice and European users agree to the data transfer policy. You may also receive occasional messages from sponsors.\nFROM CHALKBEAT DETROIT\nDetroit’s Frederick Douglass Academy looks to adopt a new identity. Will a name change help?\nFrederick Douglass Academy for Young Men was among Detroit’s numerous alternative schools, created in the 1980s as a solution to poor grades and attendance among some of the city’s youth.\nBy Ethan Bakuli Today at 10:39am PST\nFROM CHALKBEAT PHILADELPHIA\nPhiladelphia schools’ post-holiday mask mandate meets with support or shrugs\nJust a tiny fraction of school districts nationwide now have masking mandates.\nBy Nora Macaluso and Dale Mezzacappa Today at 8:52am PST\nMEETING THE MOMENT\nIn 2023, what will be the biggest education issue in your school community?\nHelp inform our reporting this year.\nBy Caroline Bauman Today at 7:36am PST\nFROM CHALKBEAT PHILADELPHIA\nI am a Black female educator. In 2023, I need boundaries and intentions — not goals.\nThis year, I’m reclaiming personal time, tuning out the noise, and not holding myself to unrealistic expectations.\nBy Abigail Henry Today at 6:00am PST\nFROM CHALKBEAT COLORADO\nThe people’s guide to following education issues at the Colorado General Assembly\nA guide on how to keep up with education issues in the Colorado legislature.\nBy Erica Meltzer and Jason Gonzales January 4\nFROM CHALKBEAT INDIANA\nGov. Eric Holcomb proposes nearly $1.2 billion increase for Indiana schools\nHolcomb has also proposed eliminating textbook fees for Hoosier families.\nBy Aleksandra Appleton January 4\nFROM CHALKBEAT CHICAGO\nIllinois Gov. J.B. Pritzker intends to expand child care funding\nPritzker said he wants to make Illinois the number one state for making child care accessible to families during his second term in office.\nBy Samantha Smylie January 4\nFROM CHALKBEAT INDIANA\nIndiana hopes tutoring can help struggling students. Here’s what it should look like.\nIndiana has turned to tutoring as a solution to students’ struggles following COVID.\nBy Aleksandra Appleton January 4\nFROM CHALKBEAT NEW YORK\nMarijuana use in NYC schools is on the rise, especially among younger kids, educators say\nSome New York City educators are seeing an uptick in student marijuana use that is spilling into the school day, and it’s starting at a younger age. Schools are scrambling to respond, especially when mental health issues are connected.\nBy Michael Elsen-Rooney January 4\nFROM CHALKBEAT COLORADO\nGov. Jared Polis revised budget would train more workers and help students learn math\nPolis proposes in 2023-24 providing free training for jobs in education, health care, and construction trades.\nBy Jason Gonzales January 3\nFROM CHALKBEAT NEW YORK\nNYC bans ChatGPT on school devices, citing ‘negative impacts on student learning’\nThe move from the nation’s largest school system could have ripple effects as districts and schools across the country grapple with how to respond to the arrival of the new technology.\nBy Michael Elsen-Rooney January 3\nFROM CHALKBEAT CHICAGO\nHow many Chicago Public Schools students have gotten COVID boosters? It’s not being tracked.\nDistrict leaders are urging families to get vaccinated, but the school system isn’t keeping tabs on how many students are receiving COVID boosters.\nBy Mauricio Peña January 3\nFROM CHALKBEAT COLORADO\nDenver Public Schools ordered to lift ban on outspoken critic Brandon Pryor\nA judge concluded that the ban was “likely the result of improper retaliation” against Pryor.\nBy Melanie Asmar January 3\nFROM CHALKBEAT TENNESSEE\nNashville, Shelby County to appeal court’s dismissal of Tennessee school voucher case\nThree-year-old legal battle continues, even as applications are approved\nBy Marta W. Aldrich January 3\nFROM CHALKBEAT NEW YORK\nSchool funding, mental health, mayoral control: Top education issues to watch in Albany this year\nAdvocates say they will push for solutions to issues that have become more pressing during the pandemic, including funding, hiring challenges, and student mental health.\nBy Reema Amin January 3\nFROM CHALKBEAT DETROIT\nThese are the big Michigan education issues we’re watching in 2023\nChalkbeat Detroit will pay close attention to chronic absenteeism, because high rates in communities like Detroit are hurting pandemic recovery efforts\nBy Tracie Mauriello and Koby Levin January 3\nFind your next education job.\nJobs\nJobs\nAcademy for Software Engineering: Spanish Teacher\nLewis-Palmer School District 38: Elementary Principal, Bear Creek Elementary School\nEarly Childhood at Manny Cantor: Director\nRoaring Fork School District: Middle School Principal\nDC Public Schools: Teachers – All Subjects\nFROM CHALKBEAT COLORADO\nConstellation cookies and milkweed for monarchs: This Colorado teacher connects science to everyday life\nStacy Wolff was recently named an Outstanding Environmental Educator by the Colorado Alliance for Environmental Education.\nBy Ann Schimke January 2\nYEAR IN REVIEW\nReaders helped make these stories possible in 2022. Here’s how you can get involved, too.\nLearn how you can participate in Chalkbeat’s journalism.\nBy Chalkbeat Staff December 30, 2022\nYEAR IN REVIEW\n13 education data stories that explained U.S. schools in 2022\nChalkbeat’s data team looks back at an eventful 12 months covering education across America.\nBy Thomas Wilburn December 29, 2022\nFROM CHALKBEAT COLORADO\nMartha Urioste, la ‘Madrina de Montessori’ en Denver, luchó por la educación bilingüe\n“Siempre estaba asegurando que siempre fuéramos más lejos, hiciéramos más y nos esforzáramos más por los niños.”\nBy Melanie Asmar December 28, 2022\nYEAR IN REVIEW\nThe only reporter in the room: How Chalkbeat’s stories impacted schools in 2022\nIn 2022, Chalkbeat’s reporting made a difference because teachers, students, parents, and communities were willing to help us tell the story of education in this moment.\nBy Susan Gonzalez December 27, 2022\nYEAR IN REVIEW\n2022: The year in Chalkbeat photos\nOur reporters and contributing photographers told the story of education in America amid a pandemic, increased legislation on curriculum, and emotional trauma from gun violence.\nBy Chalkbeat Staff and Chalkbeat contributors December 23, 2022\nFROM CHALKBEAT INDIANA\nCharter school group files complaints against IPS with attorney general’s office over $1 law\nThe complaints allege that the district failed to notify the state Department of Education of six buildings slated to close at the end of 2022-23.\nBy Amelia Pak-Harvey December 22, 2022\nFROM CHALKBEAT NEW YORK\nNYC gives $100 in college funds to all kindergartners: Here’s how to get or give more money\nKindergarten families can activate their NYC Scholarship Accounts in January. Here’s how to grow the $100 seed money and how communities can raise more money to help kids go to college.\nBy Amy Zimmer December 22, 2022\nFROM CHALKBEAT NEWARK\nLearning loss, mental health needs, staff shortages: Most read Newark education stories of 2022\nA recap of Newark’s top education issues of the year.\nBy Catherine Carrera December 22, 2022\nFIRST PERSON\nMy first year teaching was demoralizing. It led me to my dream job.\nThe experience made clear what Eric Gaestel needed from my next school — namely, a mentor.\nBy Eric Gaestel December 22, 2022\nFROM CHALKBEAT COLORADO\nLa temporada de solicitud para preescolar gratis empieza en enero\nLos sistemas de inscripción para el preescolar y los estudiantes de K-12 son separados, y esto ha confundido a algunos padres.\nBy Ann Schimke December 22, 2022\nFROM CHALKBEAT COLORADO\nBeyond High School: Tips from college graduates who took the scenic route\nGet stories like this one about Colorado students’ paths to postsecondary success delivered to your inbox monthly.\nBy Jason Gonzales December 22, 2022\nFROM CHALKBEAT CHICAGO\nSchool closures, COVID spending, gun violence: 12 of Chalkbeat Chicago’s top stories of 2022\nIt’s been a tumultuous and uncertain year for public schools in Chicago and Illinois. But there have also been moments of joy and resilience. Chalkbeat Chicago reporters documented it all. Here are a dozen of the top stories of 2022.\nBy Becky Vevea and Chalkbeat Staff December 22, 2022\nFROM CHALKBEAT NEWARK\nNewark Public Schools promised $1K bonus for employees but per diem staff say they were left out\nThe Newark Teachers Union wants the school district to include “per diem” employees in the $1,000 bonus for full-time employees.\nBy Jessie Gomez and Catherine Carrera December 22, 2022\nAFTER THE BELL\nTeachers are leaders. Each one of us makes an impact in the classroom and society.\nDr. Kem Smith reflects on six months of writing her weekly advice column, “After the Bell.” We hope it has inspired you.\nBy Kem Smith December 22, 2022\nFROM CHALKBEAT COLORADO\nTop 10 Colorado education stories of 2022\nSchool closures, leadership turnover, social studies debates, and more. Here’s a look at our top stories of the year.\nBy Erica Meltzer December 22, 2022\nFROM CHALKBEAT TENNESSEE\nHow MSCS is trying to get pre-K programs — and preschoolers — back on track after COVID\nThe bigger objective of improving pre-K: Containing the pandemic’s long-term impact on children and their education in Tennessee’s largest school district.\nBy Samantha West December 22, 2022\nFROM CHALKBEAT INDIANA\nTension over ballot measure to fund Rebuilding Stronger could get Indiana lawmakers involved\nIndianapolis Public Schools heads into winter break without consensus on an operating referendum that must be certified for the ballot by Feb. 17.\nBy Amelia Pak-Harvey December 22, 2022\nFROM CHALKBEAT COLORADO\nColorado’s 2023 legislative session: Lawmakers to tackle math, school accountability\nEducation issues the Colorado legislature may address in 2023 include youth mental health, school safety, and teacher shortages.\nBy Erica Meltzer and Jason Gonzales December 21, 2022\nFEDERAL POLICY AND REFORM\nSummer meals, funding for high-poverty schools: What the federal spending bill means for students\nThe new bipartisan legislation includes tens of billions of dollars committed to schools, student support programs, and college funding.\nBy Julian Shen-Berro December 21, 2022\nFROM CHALKBEAT DETROIT\nAre Michigan teachers exempt from public records laws? A judge’s ruling raises concerns.\nThe judge’s ruling only applies to the Rochester school district case, but some worry it could be used more broadly to shield the public from records produced by lower-level government employees.\nBy Yue Stella Yu and Isabel Lohman, Bridge Michigan December 21, 2022\nFROM CHALKBEAT NEW YORK\nRising inflation adds $800M to cost of fully funding New York’s main school aid formula\nThis final phase-in of Foundation Aid money “happens to occur in a year with the highest inflation rate since the formula began,” state education department officials said.\nBy Reema Amin December 21, 2022\nFROM CHALKBEAT NEW YORK\nRikers fails to make the grade: Lockdowns and other restrictions stifle attendance at its East River Academy\nOnly about 46% of the roughly 200 students enrolled in East River were attending daily as of November, officials said.\nBy Liz Rosenberg, NYCity News Service December 21, 2022\nYEAR IN REVIEW\n13 Chalkbeat stories that defined 2022\nThese stories will take you inside the world of an exhausted social worker, a student working to come out of her shell, and a mother trying to help her son catch up.\nBy Chalkbeat Staff December 21, 2022\nFROM CHALKBEAT DETROIT\nAmid early educator shortage, Wayne County offers $2,400 signing bonus\nState funded preschool program struggles to compete for workers as private-sector wages rise\nBy Koby Levin December 21, 2022\nFROM CHALKBEAT NEWARK\nNew Jersey’s test scores for 2022: See the math and literacy results for your district\nAcross student groups statewide, math scores took a greater hit than literacy scores between 2019 and 2022.\nBy Catherine Carrera December 21, 2022\nFROM CHALKBEAT INDIANA\nFrom teaching about race to COVID and Rebuilding Stronger, here are our 5 most-read stories of 2022\nThese are the most popular stories among Chalkbeat Indiana readers’ this year, and a few bonus articles too.\nBy MJ Slaby December 21, 2022\nMORE STORIES\nAbout Us Strategic Plan Our Staff Awards Careers at Chalkbeat Our Supporters Contact Us Become a Sponsor How to Be a Source Code of Ethics Republishing\nTerms of Use Privacy Policy Cookie Policy Do not sell my info Diversity",
+    "font": "\"Barlow Condensed\", Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 148,
+                "y": 274
+            },
+            "size": {
+                "height": 90,
+                "width": 728
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://80c838306832dc38691ab0328d83c53d.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 103,
+                "y": 120
+            },
+            "size": {
+                "height": 24,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 219,
+                "y": 120
+            },
+            "size": {
+                "height": 24,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Show Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 968,
+                "y": 108
+            },
+            "size": {
+                "height": 48,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(20, 127, 133, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Sign Me Up",
+            "bg-color": "rgba(20, 127, 133, 1)",
+            "location": {
+                "x": 502,
+                "y": 2296
+            },
+            "size": {
+                "height": 50,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

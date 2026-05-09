@@ -1,0 +1,841 @@
+{
+    "title": "EC21, Global B2B Marketplace - Connecting Global Buyers with Manufacturers, Suppliers, Exporters worldwide",
+    "url": "ec21.com",
+    "full_url": "https://www.ec21.com/",
+    "images": [
+        {
+            "alt": "Global B2B Marketplace ec21",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video go out",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "right menu out",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video go out",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "scroll stop button",
+            "location": {
+                "x": 665,
+                "y": 540
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "This company has been verified.",
+            "location": {
+                "x": 457,
+                "y": 612
+            },
+            "size": {
+                "height": 17,
+                "width": 15
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "scroll stop button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 19,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TM-305 MIXED COIN COUNTER",
+            "location": {
+                "x": 63,
+                "y": 687
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AI Dash Cam with DMS",
+            "location": {
+                "x": 63,
+                "y": 964
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carbon Triangle Back Cushion",
+            "location": {
+                "x": 289,
+                "y": 687
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Handy Plastic Bottles for Car Paints",
+            "location": {
+                "x": 289,
+                "y": 964
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Electric Governor Controller",
+            "location": {
+                "x": 515,
+                "y": 687
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Reflective Heat Transfer Vinyl",
+            "location": {
+                "x": 515,
+                "y": 964
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ear Coco Signature",
+            "location": {
+                "x": 741,
+                "y": 687
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Quad Military Monitor",
+            "location": {
+                "x": 741,
+                "y": 964
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cabin Air Filter",
+            "location": {
+                "x": 967,
+                "y": 687
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dermagen Soothing Mask",
+            "location": {
+                "x": 967,
+                "y": 964
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "T-shirt",
+            "location": {
+                "x": 306,
+                "y": 1454
+            },
+            "size": {
+                "height": 195,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Beachwear",
+            "location": {
+                "x": 551,
+                "y": 1454
+            },
+            "size": {
+                "height": 195,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Women Underwear",
+            "location": {
+                "x": 797,
+                "y": 1454
+            },
+            "size": {
+                "height": 195,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Steam Boiler",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Welding Holder",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Ice Making Machine",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Blanket",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cushion",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Synthetic Fiber",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Hammers",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Electric Saws",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Brush Cutter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Boat",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Golf Carts",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Trailer",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "HuInTems Inc. Logo",
+            "location": {
+                "x": 698,
+                "y": 2024
+            },
+            "size": {
+                "height": 110,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The 21th Seoul Int'l Cafe Show 2022",
+            "location": {
+                "x": 18,
+                "y": 2345
+            },
+            "size": {
+                "height": 75,
+                "width": 97
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AIR FAIR - AIR INDUSTRY FAIR 2022",
+            "location": {
+                "x": 18,
+                "y": 2451
+            },
+            "size": {
+                "height": 75,
+                "width": 97
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KITA - Korea International Trade Association",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Small & Medium Business Corporation",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Korea Trade-Investment Promotion Agency",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Korean Free Economic Zones",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ec21 google app mobile image",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ec21 google app start button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "What are you sourcing for?",
+            "type": "text",
+            "location": {
+                "x": 330,
+                "y": 73
+            },
+            "size": {
+                "height": 21,
+                "width": 422
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 752,
+                "y": 63
+            },
+            "size": {
+                "height": 42,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter Product / Service name",
+            "type": "text",
+            "location": {
+                "x": 709,
+                "y": 224
+            },
+            "size": {
+                "height": 30,
+                "width": 282
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Business E-mail",
+            "type": "text",
+            "location": {
+                "x": 709,
+                "y": 426
+            },
+            "size": {
+                "height": 30,
+                "width": 282
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Company Name",
+            "type": "text",
+            "location": {
+                "x": 709,
+                "y": 468
+            },
+            "size": {
+                "height": 30,
+                "width": 282
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 741,
+                "y": 510
+            },
+            "size": {
+                "height": 40,
+                "width": 218
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 610,
+                "y": 1273
+            },
+            "size": {
+                "height": 32,
+                "width": 349
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 927,
+                "y": 1273
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            28,
+            88
+        ],
+        [
+            241,
+            241,
+            241
+        ]
+    ],
+    "navbar": "About Us\nCompany Overview\nAgent Program\nAdvertise with us\nBuying on EC21\nPost Buying Leads\nBrowse Categories\nProducts by Keyword\nProducts by Country\nIdea Products\nSelling on EC21\nPost Products\nManage Products\nPost Selling Leads\nSearch Buying Leads\nSearch Buyer Data\nServices\nBasic Services\nTrade PRO\nTrade OK\nCredit Reports\nTradeVerify\nStay Connected\nFacebook\nTwitter\nInstagram\nBlog\nEC21 Mobile",
+    "text": "Sign in\nJoin Free\nBuy Now\nSell Now\nMobile\nChinese|Korean\nCommunity\nHelp\nGlobal B2B Marketplace ec21\n\nSearch\nProducts\nPost Buying Leads\n\nTell us your Buying Requirements\nTell us your Buying Requirements\nEC21 Featured Products from Verified Suppliers\nAd Here\nTM-305 MIXED COIN COUNTER\nAI Dash Cam with DMS\nCarbon Triangle Back Cushion\nHandy Plastic Bottles for Car Paints\nElectric Governor Controller\nReflective Heat Transfer Vinyl\nEar Coco Signature\nQuad Military Monitor\nCabin Air Filter\nDermagen Soothing Mask\nGlobal Buyer Directory\nOver 3 Million Global Buyers Directory.\nFind your global buyer here!\nGlobal Buyers Search\nRecommended\nProducts\nApparel\nGeneral Industrial Equipment\nTextiles & Leather Products\nTools\nTransportation\nT-shirt\nBeachwear\nWomen Underwear\nNew Buying Leads(36)\n+\nChina\n07 Dec, 2022\nWe Buy WS1 PLUS Portable Boring Machine\nUnited States\n07 Dec, 2022\nWe Buy Coin Counter\nBrazil\n07 Dec, 2022\nWe Buy Heat Transfer Vinyl\nNew Selling Leads(1,769)\n+\nChina\n08 Dec, 2022\nSell PET Sheets for Binding Covers\nEgypt\n07 Dec, 2022\nSell frozen broccoli from egypt\nLebanon\n07 Dec, 2022\nSell Near Prime\nRegional Channel\n+\nChina Korea\nHong Kong United States\nIndia Taiwan\nNews & Notices\n+\n[2022 Winter Event] Prepare Your Online Marketing for the New Year 2023 !\nNov. 30\nEC21 attends UN INCB Workshop in Egypt\nOct. 21\nBeware of fraudulent sellers Credit check & Payoneer recommended\nAug. 25\nPartnership with Payoneer.com\nJul. 05\n[2022 Summer Event] Prepare Your Online Marketing with EC21.com this Summer !\nJun. 30\nSuccess Stories\n+\nHuInTems Inc.\nAllan Cha / CEO\nCategories: Tinplate, Ingots, Metal Scrap, Copper, Other Non-Metallic Minerals & Products, Zinc, Nickel, Label & Tag\nAs I first exported to Kazakhstan early in 2000, I got to know the Korea International Trade Association (KITA), and also I got to know EC21 right away and now have been in good relationship with EC21 for nearly 20 years.\nTrade Shows with EC21\n+\nThe 21th Seoul Int'l Cafe Show 2022\nDate : Nov. 23rd ~ 26th 2022\nVenue : COEX, Seoul, Korea\nAIR FAIR - AIR INDUSTRY FAIR 2022\nDate : Dec. 15th ~ 17th 2022\nVenue : COEX, Seoul, Korea\nCommunity\n+\nDifference Between Laser Engraver and Ordinary Engraver\nDec. 01\n[2022 Winter Event] Prepare Your Online Marketing for the New Year 2023 !\nNov. 30\nE WORLD TRADE B2B\nNov. 24\nProject Funding\nNov. 22\nfuture of stainless steel\nNov. 21\nTop-Level Priority Search Listing\nDisplay 500 Products & Unlimited Selling Leads\nPremium Company Website\nAccess to Global Buyer Directory (60/day)\nLet’s take a look\nEC21 is a leading global B2B marketplace connecting buyers with suppliers all over the world including China, Korea, United States and more. Suppliers/manufacturers/exporters can post and promote their products and selling leads. Buyers/importers can search and contact suppliers easily by B2B categories and keywords. Buyers can also post their own buying leads to get quotes or offers from manufacturers. Nowadays, online B2B marketplace is becoming more and more important trade tool for business to business transaction and marketing because it speeds up marketing process and saves overall transaction cost. Join the great B2B portal, EC21 and boost your business, we will always be with you!\nShare this page :\nAbout Us\nCompany Overview\nAgent Program\nAdvertise with us\nBuying on EC21\nPost Buying Leads\nBrowse Categories\nProducts by Keyword\nProducts by Country\nIdea Products\nSelling on EC21\nPost Products\nManage Products\nPost Selling Leads\nSearch Buying Leads\nSearch Buyer Data\nServices\nBasic Services\nTrade PRO\nTrade OK\nCredit Reports\nTradeVerify\nStay Connected\nFacebook\nTwitter\nInstagram\nBlog\nEC21 Mobile\nBrowse : Manufacturer Directory Countries China India Korea Premium Suppliers Community Site Map\nAbout EC21 Contact Us Terms & Conditions Report Item Online Trading Risks Product Listing Policy\n中文 繁體 한국어 日本語 Espanol Русский Francais Deutsch\n\nCopyright (c)1997- 2022 EC21 Inc. All Rights Reserved. EC21 in Korean | Chinese\nBusiness Registry Number: 120-86-03931\nInquiry Basket ( 0 )",
+    "font": "\"Open Sans\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

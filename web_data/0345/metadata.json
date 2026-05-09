@@ -1,0 +1,237 @@
+{
+    "title": "Helinox Official | Ultra Lightweight Outdoor Gear",
+    "url": "helinox.com",
+    "full_url": "https://helinox.com/",
+    "images": [
+        {
+            "alt": "Helinox ",
+            "location": {
+                "x": 354,
+                "y": 43
+            },
+            "size": {
+                "height": 35,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter a keyword to search...",
+            "type": "search",
+            "location": {
+                "x": 51,
+                "y": -119
+            },
+            "size": {
+                "height": 51,
+                "width": 780
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your email address",
+            "type": "email",
+            "location": {
+                "x": 348,
+                "y": 3505
+            },
+            "size": {
+                "height": 38,
+                "width": 407
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 25,
+                "width": 65
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            182,
+            239
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "Shop Helinox for the world's lightest, strongest, most comfortable portable chairs, cots, tables & outdoor equipment. Made for your next adventure.",
+    "navbar": "LIMITED EDITION\n0",
+    "text": "Complimentary BLONCHO with every chair order. Valid until 12/20/22\nLIMITED EDITION\n0\nWINTER WARMTH\nChill is in the air and we are giving the gift of warmth. From now until the end of the year, we are including a complimentary Bloncho in every order that includes a chair.\nSHOP NOW\nCHAIRS\nTABLES\nCOTS\nACCESSORIES\nBLONCHO\nA reversible poncho and a blanket in one.\nSHOP NOW\nTOASTY\nDesigned for wrapping up warm and watching the stars.\nSHOP NOW\nDESIGNING THE WORLD'S LIGHTEST, STRONGEST, & MOST COMFORTABLE PORTABLE FURNITURE\nSHOP NOW\nOUR RANGE\nUltra Lightweight Chairs\nLightweight Chairs\nHigh-Back Chairs\nChair Accessories\nCots\nTables\nShade\nCarry\nTrekking Poles\nReplacement Parts\nOur Story\nCollaborations\nJOIN THE FAMILY\nSubscribe to get notified about product launches, special offers and Helinox news.\nSUBSCRIBE\nMEET THE COMMUNITY\nCopyright © 2022, Helinox . All Rights Reserved.\nNews Patent & Design Privacy Warranty Returns Site Map FAQs Find a Retailer Contact Us COVID-19 Response Military & First Responders",
+    "font": "\"Helvetica Neue 45 Light\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 33
+            },
+            "size": {
+                "height": 54,
+                "width": 62
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 934,
+                "y": -185
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(14, 181, 242, 1)",
+            "location": {
+                "x": 830,
+                "y": -119
+            },
+            "size": {
+                "height": 51,
+                "width": 128
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(14, 181, 242, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SUBSCRIBE",
+            "bg-color": "rgba(14, 181, 242, 1)",
+            "location": {
+                "x": 348,
+                "y": 3558
+            },
+            "size": {
+                "height": 38,
+                "width": 114
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1978,
+                "y": 10
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(11, 164, 220, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

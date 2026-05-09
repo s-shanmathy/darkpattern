@@ -1,0 +1,370 @@
+{
+    "title": "Wizards of the Coast",
+    "url": "wizards.com",
+    "full_url": "https://company.wizards.com/en",
+    "images": [
+        {
+            "alt": "Wizards of the Coast",
+            "location": {
+                "x": 32,
+                "y": 8
+            },
+            "size": {
+                "height": 52,
+                "width": 99
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            3,
+            2,
+            7
+        ],
+        [
+            3,
+            1,
+            5
+        ],
+        [
+            21,
+            9,
+            6
+        ]
+    ],
+    "desc": "Wizards of the Coast is a family of studios specializing in building role playing, trading card, and digital games for all genres of players.",
+    "navbar": "",
+    "text": "Assemble your mech army. Check out the latest set today!\nVISIT SITE\n\n1\n3\nOur Games\nVISIT SITE\nVISIT SITE\nVISIT SITE\nVISIT SITE\nOur Company\nWizards is a family of studios, we specialize in building roleplaying games, trading card games, and digital games for all types of players.\nCraft Our Next Game -\nJoin Us\nFIND A JOB\nNews from Wizards and beyond\nLatest\nMagic: The Gathering\nMTG Arena\nDungeons & Dragons\nWizards of the Coast\n简体中文\n 繁體中文\n Français\n Deutsch\n Italiano\n 日本語\n 한국어\n Português (Brasil)\n Русский\n Español\n English\nBRANDS\nDungeons & Dragons\nDuel Masters\nMagic: The Gathering\nCOMPANY\nAbout\nCareers\nSupport\nWPN\nLEGAL\nTerms Of Use\nCode Of Conduct\nPrivacy Policy\nCustomer Support\nCookies\nFan Content Policy\nDo Not Sell My Personal Information\nAffiliate Program Disclosure\n© 1993-2022 Wizards of the Coast LLC, a subsidiary of Hasbro, Inc. All Rights Reserved.\nWe use necessary cookies to allow our site to function correctly and collect anonymous session data. Necessary cookies can be opted out through your browser settings. We also use optional cookies to personalize content and ads, provide social medial features and analyze web traffic. By clicking “OK, I agree,” you consent to optional cookies. (Learn more about cookies)\nOK, I AGREE\nNO, THANKS",
+    "font": "\"DIN Next LT Pro\", Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 910,
+                "y": 18
+            },
+            "size": {
+                "height": 33,
+                "width": 33
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 959,
+                "y": 18
+            },
+            "size": {
+                "height": 33,
+                "width": 33
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 909,
+                "y": 582
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 909,
+                "y": 630
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 857,
+                "y": 1347
+            },
+            "size": {
+                "height": 57,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 917,
+                "y": 1347
+            },
+            "size": {
+                "height": 57,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Latest",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 44,
+                "y": 2522
+            },
+            "size": {
+                "height": 29,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Magic: The Gathering",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 148,
+                "y": 2522
+            },
+            "size": {
+                "height": 29,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "MTG Arena",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 381,
+                "y": 2522
+            },
+            "size": {
+                "height": 29,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Dungeons & Dragons",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 525,
+                "y": 2522
+            },
+            "size": {
+                "height": 29,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Wizards of the Coast",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 755,
+                "y": 2522
+            },
+            "size": {
+                "height": 29,
+                "width": 209
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 984,
+                "y": 2522
+            },
+            "size": {
+                "height": 29,
+                "width": 146
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1150,
+                "y": 2522
+            },
+            "size": {
+                "height": 29,
+                "width": 247
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1418,
+                "y": 2522
+            },
+            "size": {
+                "height": 29,
+                "width": 146
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(41, 13, 74, 0.35)",
+            "location": {
+                "x": 44,
+                "y": 2597
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(41, 13, 74, 0.35)",
+            "location": {
+                "x": 94,
+                "y": 2597
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(41, 13, 74, 0.35)",
+            "location": {
+                "x": 144,
+                "y": 2597
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "OK, I AGREE",
+            "bg-color": "rgba(41, 13, 74, 0.35)",
+            "location": {
+                "x": 699,
+                "y": 749
+            },
+            "size": {
+                "height": 41,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "NO, THANKS",
+            "bg-color": "rgba(41, 13, 74, 0.35)",
+            "location": {
+                "x": 848,
+                "y": 749
+            },
+            "size": {
+                "height": 41,
+                "width": 138
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

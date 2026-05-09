@@ -1,0 +1,214 @@
+{
+    "title": "OPORTO MESA Y COCINA - Diseña el hogar que siempre has querido",
+    "url": "oportomesaycocina.com",
+    "full_url": "https://oportomesaycocina.com/",
+    "images": [
+        {
+            "alt": "Oportomesaycocina",
+            "location": {
+                "x": 393,
+                "y": 51
+            },
+            "size": {
+                "height": 99,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bannerlistadebodas",
+            "location": {
+                "x": 20,
+                "y": 915
+            },
+            "size": {
+                "height": 258,
+                "width": 970
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "banner-favoritos-1_03",
+            "location": {
+                "x": 70,
+                "y": 3312
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "banner-favoritos-1_05",
+            "location": {
+                "x": 370,
+                "y": 3312
+            },
+            "size": {
+                "height": 268,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "banner-favoritos-1_07",
+            "location": {
+                "x": 669,
+                "y": 3312
+            },
+            "size": {
+                "height": 268,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 482,
+                "y": 3797
+            },
+            "size": {
+                "height": 48,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search for products",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 34,
+                "width": 931
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 946,
+                "y": -3
+            },
+            "size": {
+                "height": 34,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "EMAIL",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            123,
+            81,
+            40
+        ],
+        [
+            242,
+            243,
+            245
+        ]
+    ],
+    "desc": "Exclusivas colecciones que te ayudarán a tener la casa de tus sueños. Especialistas en listas de bodas. Vajillas, Cubertería Cristalería, Decoración.",
+    "navbar": "HOME\nPRODUCTOS\nMARCAS\nLISTAS DE BODAS\nHISTORIAS",
+    "text": "+ 57 1 308 4350\nMi Lista\nContacto\nMi Cuenta\nPagar\nHoreca\nHOME\nPRODUCTOS\nMARCAS\nLISTAS DE BODAS\nHISTORIAS\nNUESTRAS CATEGORIAS\nExplora nuestras categorías para encontrar los productos que más se acomodan a tu estilo de vida.\nVajillas en Porcelana\nCubiertos en Acero\nBar\nLicoreras\nAccesorios para el Hogar\nCandelabros\nAccesorios Decorativos\nOllas Le Creuset\nVinao\nALGUNOS FAVORITOS\nVISTA ALEGRE\nVajila en porcelana Timeless\nMOSSER GLASS\nTorteros en vidrio\nVISKI\nCoctelera y doble jigger\n© 2017 OPORTO. Todos los derechos reservados.",
+    "font": "MuseoSans-100",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(208, 206, 208, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

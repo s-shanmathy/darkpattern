@@ -1,0 +1,1452 @@
+{
+    "title": "The Dodo - For Animal People",
+    "url": "thedodo.com",
+    "full_url": "https://www.thedodo.com/",
+    "images": [
+        {
+            "alt": "dog and kitten",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Learn More",
+            "location": {
+                "x": 0,
+                "y": 1415
+            },
+            "size": {
+                "height": 140,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Learn More",
+            "location": {
+                "x": 341,
+                "y": 1415
+            },
+            "size": {
+                "height": 140,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shop Now",
+            "location": {
+                "x": 683,
+                "y": 1415
+            },
+            "size": {
+                "height": 140,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Foster Diaries cover art",
+            "location": {
+                "x": 32,
+                "y": 1707
+            },
+            "size": {
+                "height": 363,
+                "width": 243
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Little But Fierce cover art",
+            "location": {
+                "x": 295,
+                "y": 1707
+            },
+            "size": {
+                "height": 363,
+                "width": 243
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cat Crazy cover art",
+            "location": {
+                "x": 558,
+                "y": 1707
+            },
+            "size": {
+                "height": 363,
+                "width": 243
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dodo Heroes cover art",
+            "location": {
+                "x": 821,
+                "y": 1707
+            },
+            "size": {
+                "height": 363,
+                "width": 243
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "two labradors ",
+            "location": {
+                "x": 770,
+                "y": 2178
+            },
+            "size": {
+                "height": 148,
+                "width": 222
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cat wearing antlers and name tag",
+            "location": {
+                "x": 278,
+                "y": 2737
+            },
+            "size": {
+                "height": 312,
+                "width": 469
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dog wearing santa hat and name tag",
+            "location": {
+                "x": 32,
+                "y": 3081
+            },
+            "size": {
+                "height": 148,
+                "width": 222
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "family christmas photo with dog",
+            "location": {
+                "x": 278,
+                "y": 3081
+            },
+            "size": {
+                "height": 148,
+                "width": 222
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "still from \"Because of Winn-Dixie\"",
+            "location": {
+                "x": 525,
+                "y": 3081
+            },
+            "size": {
+                "height": 148,
+                "width": 222
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "healthy cat food",
+            "location": {
+                "x": 524,
+                "y": 3950
+            },
+            "size": {
+                "height": 140,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "calming treats for dogs",
+            "location": {
+                "x": 524,
+                "y": 4122
+            },
+            "size": {
+                "height": 140,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Crochet Dog Hat",
+            "location": {
+                "x": 524,
+                "y": 4294
+            },
+            "size": {
+                "height": 140,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "One Fast Cat Exercise Wheel Review",
+            "location": {
+                "x": 278,
+                "y": 4759
+            },
+            "size": {
+                "height": 312,
+                "width": 469
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dog ramp",
+            "location": {
+                "x": 32,
+                "y": 5103
+            },
+            "size": {
+                "height": 148,
+                "width": 222
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "diggs passenger travel carrier",
+            "location": {
+                "x": 278,
+                "y": 5103
+            },
+            "size": {
+                "height": 148,
+                "width": 222
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "handson grooming gloves",
+            "location": {
+                "x": 525,
+                "y": 5103
+            },
+            "size": {
+                "height": 148,
+                "width": 222
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "zippy paws pineapple slow feeder",
+            "location": {
+                "x": 929,
+                "y": 4817
+            },
+            "size": {
+                "height": 51,
+                "width": 51
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "halara leggings",
+            "location": {
+                "x": 929,
+                "y": 4966
+            },
+            "size": {
+                "height": 51,
+                "width": 51
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ollie dog food",
+            "location": {
+                "x": 929,
+                "y": 5175
+            },
+            "size": {
+                "height": 51,
+                "width": 51
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "tuft + paw stellar cat bed",
+            "location": {
+                "x": 929,
+                "y": 5304
+            },
+            "size": {
+                "height": 51,
+                "width": 51
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bad Boys cover art",
+            "location": {
+                "x": 48,
+                "y": 5793
+            },
+            "size": {
+                "height": 363,
+                "width": 243
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Best Animal Friends cover art",
+            "location": {
+                "x": 311,
+                "y": 5793
+            },
+            "size": {
+                "height": 363,
+                "width": 243
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "More Cute Animal Stories cover art",
+            "location": {
+                "x": 574,
+                "y": 5793
+            },
+            "size": {
+                "height": 363,
+                "width": 243
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "All Better cover art",
+            "location": {
+                "x": 837,
+                "y": 5793
+            },
+            "size": {
+                "height": 363,
+                "width": 243
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Powered by Onetrust",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "What are you looking for?",
+            "type": "text",
+            "location": {
+                "x": 1040,
+                "y": 100
+            },
+            "size": {
+                "height": 48,
+                "width": 328
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Type your email address here",
+            "type": "email",
+            "location": {
+                "x": 1040,
+                "y": 846
+            },
+            "size": {
+                "height": 48,
+                "width": 328
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            56,
+            87,
+            246
+        ],
+        [
+            241,
+            243,
+            244
+        ],
+        [
+            255,
+            252,
+            247
+        ]
+    ],
+    "desc": "The Dodo serves up emotionally and visually compelling, highly sharable animal-related stories and videos to help make caring about animals a viral cause.",
+    "navbar": "",
+    "text": "Like The Dodo on Facebook.\nFollow The Dodo on Instagram.\nFollow The Dodo on Twitter.\nFollow The Dodo on Snapchat.\nSubscribe to The Dodo on YouTube.\nFollow The Dodo on TikTok.\nGet Daily Dodo In Your Inbox\nGo to Navigation\nDaily Dodo\nHealth & Wellness\nProduct Picks\nFamily Fun\nDodoTV\nShop Dodo\nDaily Dodo\nPeople Create A Pup Bus To Take Neighborhood Dogs Out On Little Adventures\n“We love it.”\nDaily Dodo\nDog Runs Up To Woman In The Woods And Begs Her To Follow\n“[She] kept kissing and hugging me to say thank you.”\nDaily Dodo\nRescuers Find A Friendly Dog Waiting At The Top Of A Mountain\nThere was no way he got up there on his own …\nDaily Dodo\nSenior Dog Found Curled Up Outside During Blizzard Gets A Christmas Miracle\n“She’d been outside for a day and a half in the freezing cold” 💔\nPopular\nDaily Dodo\nWoman Walks In On Her Dad Napping With All The Neighbor Dogs\nDaily Dodo\n8 Ways To Keep Your Pet Entertained While They’re Home Alone\nSponsored\nDaily Dodo\nDodo Editors Share The Funniest Things Their Pets Do When They Think We Aren’t Looking\nSponsored\nDaily Dodo\nKitten Sneaks Out Of Crate To Comfort Scared Dog At The Vet\nSee More From Daily Dodo\nThe only pet insurance recommended by The Dodo\nLearn More\nFor pet parents who want 24/7 virtual vet access\nLearn More\nIntroducing The Dodo’s very first pet products\nShop Now\nDodoTV\nAll our binge-worthy series in one place.\nMost Recent Episodes\nSee More Episodes\nCat Crazy\nS11 E10\nThree-Legged Cat Gets Handmade Sweaters\nCat rescued off street loves to be snuggled in handmade sweaters ❤️\nCat Crazy\nS11 E9\nCat Has The Funniest Reaction When He Meets His New Foster Kitten Sibling\nCat goes from total shock at the new kitten to carrying her around in his mouth ❤️\nCat Crazy\nS11 E8\nGuy Has Met 150 Cats Walking Through His Neighborhood\nAll the neighborhood cats run to greet this guy when he goes on walks — and one ends up changing his life 😻\nAdopt Me!\nS9 E12\nTwo Rescue Labs Who Were Completely Frozen\nRescue Labs scared of door frames have to get carried outside by their foster mom until... ❤️\nFamily Fun\nWelcome to The Dodo’s brand-new destination for family fun! Get everyone on the sofa (pets get the best seat, of course) and find videos and activities you can all enjoy together 😍\nDodoWell\n150+ Festive And Fun Christmas Cat Names\nFor the Christmas superfans and cat parents 🎄\nDodoWell\n150+ Festive And Fun Christmas Dog Names\nThere’ll be lots of Grinches 🎄\nDodoWell\nFun Ideas For Family Christmas Photos With Your Dog\nTips for taking the best photos 📸🐶👨‍👩‍👧‍👦\nFamily Room\nThe Best Dog Movies For Kids\nGet the popcorn ready for a movie night 🍿\nBarks & Crafts\nFamily Room\nMake A Spider Web Mobile For Halloween Using Popsicle Sticks And Yarn\nFamily Room\nThese Halloween Black Cats Are Made With Paper Plates\nFamily Room\nMake Bat Halloween Decorations Using Plastic Spoons\nFamily Room\nIt’ll Be Hard Not To Snack On This Pumpkin Hedgehog Halloween Decoration\nSee More From Family Fun\nHealth & Wellness\nDodoWell is your destination for pet wellness resources, community-first features, curated pet product picks and expert advice from friends of The Dodo.\nFor Dogs\nFor Cats\nSee All\nDodoWell\nKeep Your Pup Toasty Warm With These Winter Hats For Dogs\nYour dog has never been cozier 😍\nDodoWell\n5 Healthy Cat Food Options That Meet AAFCO Requirements\nHere’s the secret to finding healthy cat food 🙀\nDodoWell\n4 Calming Treats For Dogs That Actually Work\nChill out 😎\nDodoWell\nCrochet Dog Hats To Keep Him Warm And Extra Adorable\nSo cute 😍\nSee More From Health & Wellness\nProduct Picks\nWe search for the most innovative, exciting, must-have products for cats and dogs — and test them on our own pets to find the very best.\nDog Picks\nCat Picks\nSee All\nPaw Of Approval\nOur Cat Tester Tried An Exercise Wheel, And The Results Are In\nIt’s a stress-free way for your cat to get some exercise 🐈\nPaw Of Approval\nDoggoRamps Made My Pup’s Back Surgery Recovery So Much Better\nNow he can hang out on the couch with his parents ❤️\nPaw Of Approval\nTraveling With Your Pet Has Never Been Easier, Thanks To The Diggs Passenger Travel Carrier\nPerfect for long trips ✈️\nPaw Of Approval\nThe HandsOn Grooming Gloves Are The Deshedding Tools Your Pet Will Actually Like\nYour pet will happily sit still for a grooming session 😻\nMost Popular Products\nPineapple Happy Bowl\nIt slows down our fast eaters and makes them actually take their time during meals. And they had so much fun eating from this adorable pineapple!\nPatitoff Pet Hair Resistant High Waisted Crossover Plain 7/8 Leggings\nNot only are they flattering and comfortable, but they definitely worked to resist all that pet hair.\nOllie Fresh Dog Food\nIt was so easy to prepare!\nTuft + Paw Stellar Cat Bed\nIt might be the most gorgeous cat bed we’ve ever seen — and our pets actually sleep in it!\nSee More From Product Picks\nTHE place for kids (preschoolers and up) who love animals and who love to see furry, funny, heartwarming, inspiring, exciting and playful animal stories.\nWatch on Youtube\nWatch on Youtube\nSee on Facebook\nCookie Settings\nNewsletter\nAdvertise With Us\nCareers\nCookie Policy\nDo Not Sell or Share My Personal Information\nPress\nPrivacy\nSubmit a Story\nTerms + Conditions\nFetch by The Dodo\n©2023 Group Nine Media Inc. All Rights Reserved.",
+    "font": "\"Times New Roman\"",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://z.moatads.com/hd09824092/iframe.html#header=1",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 27,
+                "y": 80
+            },
+            "size": {
+                "height": 90,
+                "width": 970
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://996e0451f425c6c713465a2e688264b7.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "onetrust-text-resize",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://pandg.tapad.com/tag?referrer_url=&page_url=https%3A%2F%2Fwww.thedodo.com%2F&owner=P%26G&bp_id=groupninemedia&initiator=js&data=%7B%7D",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "jsbridge___JSBridgeIframe_1.0__",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "jsbridge___JSBridgeIframe_SetResult_1.0__",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "jsbridge___JSBridgeIframe__",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "jsbridge___JSBridgeIframe_SetResult__",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://eus.rubiconproject.com/usync.html?us_privacy=1YNY",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=159303&us_privacy=1YNY",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://js-sec.indexww.com/um/ixmatch.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://cdn.concert.io/lib/bids/sync.html?usp_consent=1YNY",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://eb2.3lift.com/sync?us_privacy=1YNY&",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://acdn.adnxs.com/dmp/async_usersync.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Go to Navigation",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 960,
+                "y": 280
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 960,
+                "y": 12
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 924,
+                "y": 1638
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 854,
+                "y": 1638
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(48, 89, 255, 1)",
+            "location": {
+                "x": 908,
+                "y": 5726
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(48, 89, 255, 1)",
+            "location": {
+                "x": 838,
+                "y": 5726
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Cookie Settings",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 290,
+                "y": 6777
+            },
+            "size": {
+                "height": 14,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1340,
+                "y": 34
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1327,
+                "y": 113
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1044,
+                "y": 148
+            },
+            "size": {
+                "height": 72,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(46, 88, 255, 1)",
+            "location": {
+                "x": 1040,
+                "y": 906
+            },
+            "size": {
+                "height": 40,
+                "width": 328
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1040,
+                "y": 1141
+            },
+            "size": {
+                "height": 14,
+                "width": 87
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(48, 89, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(56, 96, 190, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(48, 89, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(48, 89, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(48, 89, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

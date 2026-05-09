@@ -1,0 +1,727 @@
+{
+    "title": "Tech News & Analysis - Wall Street Journal",
+    "url": "allthingsd.com",
+    "full_url": "https://allthingsd.com/",
+    "images": [
+        {
+            "alt": "Car Makers Won’t Get Special Treatment in Chip Crunch",
+            "location": {
+                "x": 219,
+                "y": 850
+            },
+            "size": {
+                "height": 73,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TikTok Parent’s Founder Is Latest China Tech Boss to Step Down Amid Crackdown",
+            "location": {
+                "x": 219,
+                "y": 1090
+            },
+            "size": {
+                "height": 73,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Drones Flying Near Airports, Infrastructure Prompt U.S. Action",
+            "location": {
+                "x": 219,
+                "y": 1310
+            },
+            "size": {
+                "height": 73,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Embattled Chinese Property Tycoon Turns to Electric Cars. Cue $87 Billion Valuation.",
+            "location": {
+                "x": 350,
+                "y": 483
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google to Open Its First Permanent Retail Store in New York City",
+            "location": {
+                "x": 549,
+                "y": 1184
+            },
+            "size": {
+                "height": 73,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Microsoft Plans to Pull the Plug on Internet Explorer",
+            "location": {
+                "x": 549,
+                "y": 1382
+            },
+            "size": {
+                "height": 73,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ransomware Boom Forces More Companies to Cut Deals With Criminals",
+            "location": {
+                "x": 20,
+                "y": 1526
+            },
+            "size": {
+                "height": 93,
+                "width": 139
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Colonial Pipeline CEO Tells Why He Paid Hackers a $4.4 Million Ransom",
+            "location": {
+                "x": 184,
+                "y": 1526
+            },
+            "size": {
+                "height": 93,
+                "width": 139
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple’s New iPad Pro vs. MacBook Air: The Best M1 Device for You",
+            "location": {
+                "x": 349,
+                "y": 1526
+            },
+            "size": {
+                "height": 93,
+                "width": 139
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cryptocurrency Has Yet to Make the World a Better Place",
+            "location": {
+                "x": 514,
+                "y": 1526
+            },
+            "size": {
+                "height": 93,
+                "width": 139
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How Tech Can Bring Our Loved Ones to Life After They Die ",
+            "location": {
+                "x": 20,
+                "y": 2076
+            },
+            "size": {
+                "height": 349,
+                "width": 620
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Digital Trackers to Find Lost Valuables—From Apple’s AirTag to Dog Locators",
+            "location": {
+                "x": 20,
+                "y": 2623
+            },
+            "size": {
+                "height": 128,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Need to Back Up Photos on Your Phone? Here Are Your Options.",
+            "location": {
+                "x": 239,
+                "y": 2623
+            },
+            "size": {
+                "height": 128,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wean Your Kids—and Yourself—Off Screens ",
+            "location": {
+                "x": 459,
+                "y": 2623
+            },
+            "size": {
+                "height": 128,
+                "width": 192
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Computers Speaking Icelandic Could Save the Language From ‘Stafrænn Dauði’ (That’s Icelandic for ‘Digital Death’)",
+            "location": {
+                "x": 20,
+                "y": 3703
+            },
+            "size": {
+                "height": 128,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Set to Call Tim Cook to Witness Stand to Fight Monopoly Claims",
+            "location": {
+                "x": 239,
+                "y": 3703
+            },
+            "size": {
+                "height": 128,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Trump Considers Contenders to Be His New Social-Media Outlet ",
+            "location": {
+                "x": 459,
+                "y": 3703
+            },
+            "size": {
+                "height": 128,
+                "width": 192
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Beyond Tesla: Driverless Startups Promise Next-Level Autonomous Vehicles",
+            "location": {
+                "x": 20,
+                "y": 4213
+            },
+            "size": {
+                "height": 360,
+                "width": 639
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WSJ Tech Weekly",
+            "location": {
+                "x": 880,
+                "y": 526
+            },
+            "size": {
+                "height": 110,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter News, Quotes, Companies or Videos",
+            "type": "search",
+            "location": {
+                "x": -439,
+                "y": -880
+            },
+            "size": {
+                "height": 48,
+                "width": 112
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": -523,
+                "y": -874
+            },
+            "size": {
+                "height": 37,
+                "width": 85
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "desc": "Find the latest Wall Street Journal stories on tech companies, start-ups and personal technology, plus the latest reviews.",
+    "navbar": "SubscribeSign In",
+    "text": "DOW JONES, A NEWS CORP COMPANY\nAbout WSJ\nStoxx 600443.12\npoints with a\n0.28%▲ Nikkei28317.83\npoints with a\n0.78%▲ U.S. 10 Yr-22/32 Yield\nwith a\n1.628%▼ Crude Oil62.47\npoints with a\n0.86%▲ Euro1.2230\npoints with a\n0.02%▲\nThe Wall Street Journal\nSubscribeSign In\nEnglish Edition\nPrint EditionVideoPodcastsLatest Headlines\nHome\nWorld\nU.S.\nPolitics\nEconomy\nBusiness\nTech\nMarkets\nOpinion\nLife & Arts\nReal Estate\nWSJ. Magazine\nTesla Owners Trick Cars to Self-Drive\nTesla drivers have created an online-video genre out of testing what’s possible with their vehicles, in some cases appearing to override safety functions to perform stunts that they post to YouTube or TikTok.194\nStartups Promise Next-Level Driverless Cars\nFord, South Korean Firm Team Up on Batteries\nCar Makers Won’t Get Special Treatment in Chip Crunch\nCommerce Secretary Gina Raimondo said she is looking for ways to help auto makers amid a global semiconductor shortage but won’t prioritize them over other chip users, as the industry presses the Biden administration for assistance.\nTikTok Parent’s Founder Is Latest China Tech Boss to Step Down Amid Crackdown\nThe move by the founder of TikTok’s parent to step down as CEO makes him the latest Chinese internet entrepreneur to leave the spotlight as authorities clamp down on tech giants.\nDrones Flying Near Airports, Infrastructure Prompt U.S. Action\nFederal agencies are scrambling to address a surge in the use of consumer drones that are crowding the airspace above critical sites, posing a threat to public safety and national security.17\nEmbattled Chinese Property Tycoon Turns to Electric Cars. Cue $87 Billion Valuation.\nEvergrande founder Xu Jiayin hasn’t sold any cars yet and his real-estate empire is groaning with debt. But his electric vehicle startup recently notched an $87 billion market cap.60\nHeard on the Street: Why Car Makers Are Taking On EV Supply Chain\nGoogle to Open Its First Permanent Retail Store in New York City\nThe store near the company’s Manhattan offices is designed to showcase Pixel phones, Fibit wearables and other items, in a bet on bricks-and-mortar retail as the pandemic eases.\nMicrosoft Plans to Pull the Plug on Internet Explorer\nThe software giant said its Internet Explorer 11 desktop application, the current version, will no longer be supported starting June 15 of next year.\nRansomware Boom Forces More Companies to Cut Deals With Criminals\n◆WSJ NEWS EXCLUSIVE\nColonial Pipeline CEO Tells Why He Paid Hackers a $4.4 Million Ransom\nREVIEW | NICOLE NGUYEN\nApple’s New iPad Pro vs. MacBook Air: The Best M1 Device for You\nCAPITAL ACCOUNT\nCryptocurrency Has Yet to Make the World a Better Place\nJOANNA STERN | REVIEW\nM1 iMac 24-Inch: Apple Built a Cool Desktop Computer for the iPhone Era\nGen Z Gets Career Advice, One TikTok at a Time\nHEARD ON THE STREET\nTencent Earnings Power Through Tech Crackdown\nPERSONAL TECHNOLOGY\nPERSONAL TECHNOLOGY: JOANNA STERN\nThe Best Ways to Digitize Old Photos, Tapes and Discs So Your Memories Live On\nWant to protect old photographs, 35mm slides, VHS tapes and DVDs? Here’s how to convert them into digital files for future generations to appreciate.\nDigital Trackers to Find Lost Valuables—From Apple’s AirTag to Dog Locators\nA suite of high-tech devices promise to help you find those misplaced keys, lost wallet, missing remote or even a runaway dog. Which suits your needs?\nPERSONAL TECHNOLOGY: NICOLE NGUYEN\nNeed to Back Up Photos on Your Phone? Here Are Your Options.\nGoogle Photos’ killer feature—free unlimited photo and video backup—ends June 1, leaving many of us looking to upgrade to a paid plan or to back up photos elsewhere. Here is a guide to the options.\nFAMILY & TECH\nWean Your Kids—and Yourself—Off Screens\nNow is the time for a digital reset to undo some of the bad tech habits you and your kids developed during the pandemic.\nDON'T MISS\n◆WSJ NEWS EXCLUSIVE\nBill Gates Left Board Amid Probe Into Prior Relationship With Staffer\nSome Microsoft directors began an investigation in 2019 into a woman’s allegations of a prior sexual relationship with Bill Gates. His spokeswoman says his decision to leave the board in 2020 wasn’t related to the matter.\nComputers Speaking Icelandic Could Save the Language From ‘Stafrænn Dauði’ (That’s Icelandic for ‘Digital Death’)\nTo counter the dominance of English in technology and media, Iceland is teaching apps and devices to speak its native language.\nApple Set to Call Tim Cook to Witness Stand to Fight Monopoly Claims\nThe iPhone maker’s chief executive is set to argue the company’s case against Epic Games’ antitrust claims.\nTrump Considers Contenders to Be His New Social-Media Outlet\nCloutHub and Skylab Apps are among companies vying to work with the former president, who was sidelined by Facebook and Twitter.\nTECH VIDEO\nBeyond Tesla: Driverless Startups Promise Next-Level Autonomous Vehicles\nPlay video: Beyond Tesla: Driverless Startups Promise Next-Level Autonomous Vehicles\nBeyond Tesla: Driverless Startups Promise Next-Level Autonomous Vehicles\n7:58\nFord Debuts Electric F-150\n1:32\nBitcoin Volatility Signals a Long Road to Adoption\n2:15\nCIO\n3-D Printer Formlabs Raises $150 Million in SoftBank-Led Funding\nGoogle Aims for Commercial-Grade Quantum Computer by 2029\nIBM Tech Services Business Names CIO Ahead of Planned Spinoff\nWSJ TECH WEEKLY\nA weekly digest of tech reviews, headlines, columns and your questions answered by WSJ’s Personal Tech gurus.\nSIGN UP\nFollow @WSJTech\nSign Up for Tech Newsletters and Alerts\nRECOMMENDED VIDEOS\nIsrael-Gaza Conflict: What Satellite Images Tell Us About This Crisis\nFord Debuts Electric F-150\nBeyond Tesla: Driverless Startups Promise Next-Level Autonomous Vehicles\nBitcoin Volatility Signals a Long Road to Adoption\nAsk WSJ: What's in Biden's American Families Plan\nMOST POPULAR NEWS\nReal-Estate Frenzy Overwhelms Small-Town America: ‘I Came Home Crying’\nColonial Pipeline CEO Tells Why He Paid Hackers a $4.4 Million Ransom\nIsrael-Hamas Cease-Fire Begins After 11 Days of Conflict\nFord’s F-150 Lightning Electric Pickup Truck Undercuts Rivals With $40,000 Starting Price\nInflation Rate Calculator: Customize Your Own CPI\nSPONSORED OFFERS\nWALMART:\nWalmart coupon code - $20 off your order of $75+\nEXPEDIA:\nExclusive Expedia coupon code - $25 off hotels when you spend $300\nAMERICAN EAGLE OUTFITTERS:\nRefer a friend and get a 25% American Eagle coupon\nTARGET:\n20% off sitewide - Target Promo Code 2021\nMICROSOFT STORE:\nMicrosoft Coupon - 10% off for all Military personnel\nSAMSUNG:\n30% off smartphones - Samsung promo code\nThe Wall Street Journal\nEnglish Edition\nSubscribe NowSign In\nBACK TO TOP «\nWSJ Membership\nWSJ+ Membership Benefits\nSubscription Options\nWhy Subscribe?\nCorporate Subscriptions\nProfessor Journal\nStudent Journal\nWSJ High School Program\nWSJ Amenity Program\nPublic Library Program\nWSJ Live\nCustomer Service\nCustomer Center\nContact Us\nTools & Features\nEmails & Alerts\nGuides\nTopics\nMy News\nRSS Feeds\nVideo Center\nWatchlist\nPodcasts\nAds\nAdvertise\nCommercial Real Estate Ads\nPlace a Classified Ad\nSell Your Business\nSell Your Home\nRecruitment & Career Ads\nCoupons\nMore\nAbout Us\nCommercial Partnerships\nContent Partnerships\nCorrections\nJobs at WSJ\nNews Archive\nRegister for Free\nReprints\nBuy Issues\nFacebook\nTwitter\nInstagram\nYouTube\nPodcasts\nSnapchat\nGoogle Play\nApp Store\nDow Jones ProductsBarron'sBigChartsDow Jones NewswiresFactivaFinancial NewsMansion GlobalMarketWatchPrivate MarketsRisk & ComplianceWSJ ProWSJ VideoWSJ Wine\nPrivacy NoticeCookie NoticeCopyright PolicyData PolicySubscriber Agreement & Terms of UseYour Ad Choices\nCopyright ©2022 Dow Jones & Company, Inc. All Rights Reserved.",
+    "font": "Times",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(2, 126, 190, 1)",
+            "location": {
+                "x": 100,
+                "y": -1000
+            },
+            "size": {
+                "height": 50,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 100,
+                "y": -940
+            },
+            "size": {
+                "height": 50,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(229, 229, 229, 1)",
+            "location": {
+                "x": 100,
+                "y": -856
+            },
+            "size": {
+                "height": 36,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "DOW JONES, A NEWS CORP COMPANY",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 24,
+                "y": 0
+            },
+            "size": {
+                "height": 20,
+                "width": 240
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 904,
+                "y": 25
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 948,
+                "y": -36
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 948,
+                "y": 146
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -80,
+                "y": -966
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 288,
+                "y": 2213
+            },
+            "size": {
+                "height": 76,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 298,
+                "y": 4356
+            },
+            "size": {
+                "height": 76,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "BACK TO TOP «",
+            "bg-color": "rgba(187, 187, 187, 1)",
+            "location": {
+                "x": 881,
+                "y": 5862
+            },
+            "size": {
+                "height": 30,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

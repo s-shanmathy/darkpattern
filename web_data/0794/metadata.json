@@ -1,0 +1,133 @@
+{
+    "title": "Watch Free Movies and TV Shows Online | Free Streaming Video | Tubi",
+    "url": "tubitv.com",
+    "full_url": "https://tubitv.com/",
+    "images": [
+        {
+            "alt": "MGM logo",
+            "location": {
+                "x": 408,
+                "y": 1774
+            },
+            "size": {
+                "height": 48,
+                "width": 67
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Find movies, TV shows and more",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            23,
+            24,
+            88
+        ],
+        [
+            241,
+            241,
+            241
+        ]
+    ],
+    "desc": "Watch free movies and TV shows online in HD on any device.  Tubi - streaming movies and TV free.",
+    "text": "Tubi logo\nSign In\nRegister\nFree Movies & TV\nFewer Ads than Cable\nNo Subscription Required\nThousands of movies and TV shows. Always Free. 100% Legal.\nStart Watching\nStream Anywhere\nTubi is available for free on Android, iOS, Roku, Apple TV, Amazon Fire TV, Xfinity X1, Xbox, Samsung Smart TVs, Sony Smart TVs, PlayStation and the web.\nSupported Devices\nThousands of titles\nWatch amazing movies and TV shows for free. No subscription fees, and no credit cards. Just thousands of hours of streaming video content from studios like Paramount, Lionsgate, MGM and more.\nBrowse Titles\nFrequently Asked Questions\nWhat is Tubi?\nIs Tubi really free?\nIs Tubi legal?\nGet an account today\nAccess free content on all of your devices, sync your list and continue watching anywhere.\nRegister Free\nTubi logo\nFacebook\nInstagram\nTwitter\nLinkedIn\nCOMPANY\nAbout Us\nCareers\nContact\nSUPPORT\nContact Support\nHelp Center\nSupported Devices\nActivate Your Device\nWatch the World Cup for Free\nPARTNERS\nAdvertise with Us\nPartner with Us\nGET THE APPS\niOS\nAndroid\nRoku\nAmazon Fire\nPRESS\nPress Releases\nTubi in the News\nLEGAL\nPrivacy Policy (Updated)\nTerms of Use (Updated)\nYour Privacy Choices\nCopyright © 2022 Tubi, Inc.\nTubi is a registered trademark of Tubi, Inc.\nAll rights reserved.\nDevice ID: 57fa5047-e1e6-49b4-8d6c-4ae7c87424aa\nMade with in San Francisco",
+    "font": "Vaud, \"Helvetica Neue\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Start Watching",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 65,
+                "y": 383
+            },
+            "size": {
+                "height": 56,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Supported Devices",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 400,
+                "y": 1167
+            },
+            "size": {
+                "height": 56,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Browse Titles",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 399,
+                "y": 1870
+            },
+            "size": {
+                "height": 56,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Register Free",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 400,
+                "y": 2915
+            },
+            "size": {
+                "height": 56,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

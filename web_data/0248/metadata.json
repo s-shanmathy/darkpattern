@@ -1,0 +1,664 @@
+{
+    "title": "World Nuclear Association - World Nuclear Association",
+    "url": "world-nuclear.org",
+    "full_url": "https://world-nuclear.org/",
+    "images": [
+        {
+            "alt": "WNA Logo",
+            "location": {
+                "x": 50,
+                "y": 13
+            },
+            "size": {
+                "height": 90,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carousel Image",
+            "location": {
+                "x": -851,
+                "y": 304
+            },
+            "size": {
+                "height": 549,
+                "width": 910
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carousel Image",
+            "location": {
+                "x": 50,
+                "y": 304
+            },
+            "size": {
+                "height": 549,
+                "width": 910
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carousel Image",
+            "location": {
+                "x": 960,
+                "y": 304
+            },
+            "size": {
+                "height": 549,
+                "width": 910
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Russia-Ukraine War and Nuclear Energy",
+            "location": {
+                "x": 60,
+                "y": 876
+            },
+            "size": {
+                "height": 175,
+                "width": 263
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "COP27 portal",
+            "location": {
+                "x": 373,
+                "y": 876
+            },
+            "size": {
+                "height": 175,
+                "width": 263
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vacancy Notice",
+            "location": {
+                "x": 686,
+                "y": 876
+            },
+            "size": {
+                "height": 175,
+                "width": 263
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Become a member banner",
+            "location": {
+                "x": 50,
+                "y": 1306
+            },
+            "size": {
+                "height": 271,
+                "width": 910
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chugoku Electric Power Co Inc. logo",
+            "location": {
+                "x": 50,
+                "y": 1421
+            },
+            "size": {
+                "height": 53,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shikoku Electric Power Co Inc. logo",
+            "location": {
+                "x": 278,
+                "y": 1421
+            },
+            "size": {
+                "height": 53,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "RSB LOGISTIC Projektspedition GmbH logo",
+            "location": {
+                "x": 460,
+                "y": 1421
+            },
+            "size": {
+                "height": 53,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cameco Corporation logo",
+            "location": {
+                "x": 532,
+                "y": 1421
+            },
+            "size": {
+                "height": 54,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Thomas Thor Associates logo",
+            "location": {
+                "x": 493,
+                "y": 1421
+            },
+            "size": {
+                "height": 53,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shearman & Sterling LLP logo",
+            "location": {
+                "x": 490,
+                "y": 1421
+            },
+            "size": {
+                "height": 53,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Orano logo",
+            "location": {
+                "x": 521,
+                "y": 1421
+            },
+            "size": {
+                "height": 53,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rolls Royce plc. logo",
+            "location": {
+                "x": 734,
+                "y": 1421
+            },
+            "size": {
+                "height": 54,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Global Trends Reports",
+            "location": {
+                "x": 74,
+                "y": 1565
+            },
+            "size": {
+                "height": 149,
+                "width": 224
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Policy Papers",
+            "location": {
+                "x": 320,
+                "y": 1565
+            },
+            "size": {
+                "height": 148,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Working Group Reports",
+            "location": {
+                "x": 566,
+                "y": 1565
+            },
+            "size": {
+                "height": 148,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Books",
+            "location": {
+                "x": 810,
+                "y": 1565
+            },
+            "size": {
+                "height": 148,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Annual Reports",
+            "location": {
+                "x": 1056,
+                "y": 1565
+            },
+            "size": {
+                "height": 148,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Technical position papers",
+            "location": {
+                "x": 1300,
+                "y": 1565
+            },
+            "size": {
+                "height": 148,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Public Consultations",
+            "location": {
+                "x": 1546,
+                "y": 1565
+            },
+            "size": {
+                "height": 149,
+                "width": 224
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Nuclear Fuel Report: Global Scenarios for Demand and Supply Availability 2021-2040 image",
+            "location": {
+                "x": 54,
+                "y": 2013
+            },
+            "size": {
+                "height": 269,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The World Nuclear Supply Chain: Outlook 2040 image",
+            "location": {
+                "x": 304,
+                "y": 2013
+            },
+            "size": {
+                "height": 269,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nuclear English: Language Skills for a Globalizing Industry image",
+            "location": {
+                "x": 554,
+                "y": 2013
+            },
+            "size": {
+                "height": 269,
+                "width": 189
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nuclear Energy in the 21st Century 4th Edition image",
+            "location": {
+                "x": 804,
+                "y": 2013
+            },
+            "size": {
+                "height": 269,
+                "width": 189
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Advanced Radiation Technology image",
+            "location": {
+                "x": 1054,
+                "y": 2013
+            },
+            "size": {
+                "height": 269,
+                "width": 189
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Get the latest news and info",
+            "location": {
+                "x": 60,
+                "y": 2551
+            },
+            "size": {
+                "height": 175,
+                "width": 263
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "World Nuclear News podcast",
+            "location": {
+                "x": 373,
+                "y": 2551
+            },
+            "size": {
+                "height": 174,
+                "width": 263
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "At Work 2022",
+            "location": {
+                "x": 686,
+                "y": 2551
+            },
+            "size": {
+                "height": 174,
+                "width": 263
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "search",
+            "type": "text",
+            "location": {
+                "x": 690,
+                "y": 6
+            },
+            "size": {
+                "height": 36,
+                "width": 177
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            45,
+            45,
+            45
+        ],
+        [
+            21,
+            147,
+            207
+        ]
+    ],
+    "desc": "Information on nuclear energy and the nuclear fuel cycle from the World Nuclear Association.",
+    "navbar": "",
+    "text": "Cookie use on the World Nuclear Association website\nTo provide the best possible experience for you, our site uses cookies. Continuing to use the World Nuclear Association site means you agree to our use of cookies. If you'd like to learn more about the cookies we use please click here.\nClose and continue using site\nMENU\nNuclear Essentials | Information Library | Our Association | Press | Events\nMembers Login\nWorld Nuclear Performance Report\nThe 2022 edition of the World Nuclear Performance Report contains key metrics and case studies highlighting nuclear reactor construction, operational performance and contribution to climate change mitigation.\nRead the latest report >\n  Browse our information library index\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nRussia-Ukraine War and Nuclear Energy\nInformation on recent developments.\nRead more >\nCOP27 portal\nDiscover how nuclear energy is helping reduce emissions today.\nRead more >\nVacancy Notice\nWorld Nuclear Association is looking for a new Policy Manager (Financing Lead).\nApply now >\nBecome a member\nPublications\nGlobal Trends Reports\nOur detailed analysis\nAccess reports >\nPolicy Papers\nPolicy documents for decision makers\nRead documents >\nWorking Group Reports\nIndustry expert publications\nAccess reports >\nBooks\nPublications available from the World Nuclear Association Shop\nPurchase >\nAnnual Reports\nHighlights of the activities of our Association.\nDownload reports >\nTechnical position papers\nKey industry issues.\nRead papers >\nPublic Consultations\nOur input on matters affecting the nuclear industry.\nView submissions >\nShop\nThe Nuclear Fuel Report: Global Scenarios for Demand and Supply Availability 2021-2040\nMore Information >\nThe World Nuclear Supply Chain: Outlook 2040\nMore Information >\nNuclear English: Language Skills for a Globalizing Industry\nMore Information >\nNuclear Energy in the 21st Century 4th Edition\nMore Information >\nAdvanced Radiation Technology\nMore Information >\nGet the latest news and info\nSign up to our WNN Daily and Weekly emails and events announcements.\nSubscribe >\nWorld Nuclear News podcast\nListen to the latest episode of the new monthly World Nuclear News podcast.\nListen >\nAt Work 2022\nThe annual report of the World Nuclear Association's activities.\nDownload >\nTweets by @WorldNuclear\nWorld Nuclear News\nFramatome to supply VOYGR fuel handling and storage equipment\nPublished: Tue, 06 Dec 2022 14:08:05 GMT\nNuScale Power has awarded two new contracts to Framatome to design fuel handling equipment and fuel storage racks for its VOYGR small modular reactor power plant.\n\nRobots developed for fusion find uses in space\nPublished: Tue, 06 Dec 2022 15:08:39 GMT\nThe UK Atomic Energy Authority and the UK Satellite Applications Catapult have partnered to demonstrate how advanced remote handling and robotics technology developed for fusion energy research can be used to provide maintenance for in-orbit satellites.\n\nIran marks start of work for Darkhovin plant\nPublished: Tue, 06 Dec 2022 15:39:44 GMT\nThe Atomic Energy Organization of Iran said \"construction\" of a 300 MWe domestically designed pressurised water reactor at a site near the Karun river was launched by the organisation's head, Mohammad Eslami, on 3 December.\n\nChinese SMR project enters installation phase\nPublished: Mon, 05 Dec 2022 11:53:31 GMT\nEquipment installation work has commenced at the ACP100 small modular reactor demonstration project at the Changjiang nuclear power plant on China's island province of Hainan.\n\nSMR siting work progresses in Canada and Czech Republic\nPublished: Mon, 05 Dec 2022 15:34:13 GMT\nSite preparation is now under way for Canada's first grid-scale small modular reactor at Ontario Power Generation's Darlington site. Meanwhile, an initial geological survey has been completed for a proposed SMR at the Temelín nuclear power plant site in the Czech Republic.\n\nKorea signs nuclear fuel MoU for Poland's MARIA research reactor\nPublished: Mon, 05 Dec 2022 14:08:56 GMT\nThe Korea Atomic Energy Research Institute plans to supply nuclear fuel for Poland’s research reactor MARIA using high-density low-enriched uranium silicide plate-shaped nuclear fuel manufacturing technology.\n\nCeremony held for icebreaker Ural's first working journey\nPublished: Mon, 05 Dec 2022 15:21:38 GMT\nThe nuclear powered icebreaker, the Ural, is the third of Russia's Project 22220 vessels built at the Baltic Shipyard. Its first working voyage is to the Ob-Yenisei region of the Kara Sea.\n\nThree-year extension agreed to Hinkley Point C contract\nPublished: Fri, 02 Dec 2022 15:09:41 GMT\nEDF, China General Nuclear and the UK government have agreed a three-year extension to the contract for difference for the Hinkley Point C nuclear power plant under construction in Somerset, England. While the 'long-stop date' has now been moved to November 2036, EDF maintains the plant's start-up schedule remains unchanged.\n\nNRC issues GEH renewed used fuel storage facility licence to 2042\nPublished: Fri, 02 Dec 2022 14:52:23 GMT\nThe US Nuclear Regulatory Commission has issued the licence to GE-Hitachi Nuclear Energy America for the \"possession, transfer and storage of radioactive material\" at the Morris Operation Independent Spent Fuel Storage Installation in Illinois.\n\nCentrus Energy, DOE finalise HALEU contract\nPublished: Fri, 02 Dec 2022 14:52:05 GMT\nThe first phase of the USD150 million contract will see demonstration production of high-assay low-enriched uranium (HALEU) at Piketon by the end of 2023. Centrus says it could scale up the facility to commercial production capacity, given sufficient funding.\n\nNuclear Essentials\nInformation Library\nFacts and Figures\nCountry Briefings\nNuclear Fuel Cycle\nCurrent and Future Generation\nSafety and Security\nEnergy and the Environment\nEconomic Aspects\nNon-power Nuclear Applications\nOur Association\nWho we are\nWhat we do\nMembership\nPublications\nShop\nPress\nStatements\nBriefings\nGallery\nEvents\nMembers Login\nContact\n            Privacy Notice ¦ Cookies Policy ¦ Reuse of World Nuclear Association Content\n\n© 2016-2022 World Nuclear Association, registered in England and Wales, number 01215741.\nRegistered office: Tower House, 10 Southampton Street, London, WC2E 7HA, United Kingdom\n ",
+    "font": "Roboto, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(30, 157, 216, 1)",
+            "location": {
+                "x": 868,
+                "y": 6
+            },
+            "size": {
+                "height": 36,
+                "width": 27
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(44, 170, 224, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

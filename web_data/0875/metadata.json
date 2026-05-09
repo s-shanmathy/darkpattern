@@ -1,0 +1,153 @@
+{
+    "title": "Indizze ▷➡️ - Tendencias sobre ➡️ Tecnología y ➡️ Videojuegos",
+    "url": "indizze.com",
+    "full_url": "https://www.indizze.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Buscar...",
+            "type": "search",
+            "location": {
+                "x": 40,
+                "y": 291
+            },
+            "size": {
+                "height": 48,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Buscar...",
+            "type": "search",
+            "location": {
+                "x": 686,
+                "y": 836
+            },
+            "size": {
+                "height": 48,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            247,
+            248,
+            249
+        ],
+        [
+            193,
+            193,
+            193
+        ]
+    ],
+    "desc": "Tendencias sobre ➡️ Tecnología y ➡️ Videojuegos",
+    "navbar": "",
+    "text": "Saltar al contenido\nIndizze ▷➡️\nNo se ha encontrado nada\nParece que no hemos podido encontrar lo que estás buscando. Quizá pueda ayudarte una búsqueda.\nBuscar:\nLegal\nAviso Legal\nPolítica de Cookies\nPolítica de privacidad\nCondiciones generales de contratación\nMapa\nContacto\nBuscar:\n©2022 indizze.com",
+    "font": "-apple-system, system-ui, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0.02)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 120,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(85, 85, 94, 1)",
+            "location": {
+                "x": 264,
+                "y": 291
+            },
+            "size": {
+                "height": 48,
+                "width": 59
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(85, 85, 94, 1)",
+            "location": {
+                "x": 906,
+                "y": 836
+            },
+            "size": {
+                "height": 48,
+                "width": 57
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "title": "HOME | Peekskill Brewery",
+    "url": "peekskillbrewery.com",
+    "full_url": "https://www.peekskillbrewery.com/",
+    "images": [
+        {
+            "alt": "PB Circle Logo-1_NO background.png",
+            "location": {
+                "x": 86,
+                "y": 20
+            },
+            "size": {
+                "height": 230,
+                "width": 239
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eastern2.jpg",
+            "location": {
+                "x": 433,
+                "y": 185
+            },
+            "size": {
+                "height": 712,
+                "width": 576
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "thisone-34_edited_edited_edited.jpg",
+            "location": {
+                "x": 0,
+                "y": 897
+            },
+            "size": {
+                "height": 677,
+                "width": 505
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Name",
+            "type": "text",
+            "location": {
+                "x": 598,
+                "y": 1133
+            },
+            "size": {
+                "height": 32,
+                "width": 149
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "location": {
+                "x": 781,
+                "y": 1133
+            },
+            "size": {
+                "height": 32,
+                "width": 149
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Subject",
+            "type": "tel",
+            "location": {
+                "x": 598,
+                "y": 1177
+            },
+            "size": {
+                "height": 32,
+                "width": 335
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            41,
+            41,
+            42
+        ],
+        [
+            252,
+            252,
+            252
+        ]
+    ],
+    "desc": "Peekskill Brewery (\"PB\") is a brewery and restaurant in Westchester\n\nCounty, NY.  PB boasts a Hudson Riverfront location where guests can gather and connect in its beer garden, tap room or  full service restaurant.",
+    "navbar": "HOME\nSHOP\nEVENTS\nMENUS\nGROUPS/OCCASIONS\nRUN PB",
+    "text": "0\nLog In\nHOME\nSHOP\nEVENTS\nMENUS\nGROUPS/OCCASIONS\nRUN PB\nWELCOME\nPeekskill Brewery (\"PB\") is a brewery and restaurant in Westchester\nCounty, NY.  PB boasts a Hudson Riverfront location where guests can gather and connect in its beer garden, tap room or  full service restaurant.\n  The brewpub is well known for its approachable lineup of beers including clean IPAs and a variety of sour offerings. PB's city landscape, nestled in the picturesque Hudson Valley,  provides daily inspiration to the team.\nGET IN TOUCH\nSubmit\nHOURS\nADDRESS\nMonday-Thursday    12pm - 9 pm\nFriday- Saturday       12pm - 10 pm\nSunday                      11 am - 8 pm\n47 South Water Street\nPeekskill, NY 10566\n914-734-BEER (2337)\nmail@peekskillbrewery.com\n© 2022  by Peekskill Brewery \nEMPLOYMENT INQUIRIES",
+    "font": "Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "tpapopup-1670582104682_rtby_comp-iz86jgxk",
+            "src": "https://ecom.wixapps.net/storefront/cartwidgetPopup?pageId=c1dmp&compId=tpapopup-1670582104682_rtby_comp-iz86jgxk&viewerCompId=tpapopup-1670582104682_rtby_comp-iz86jgxk&siteRevision=631&viewMode=site&deviceType=desktop&locale=en&tz=America%2FNew_York&regionalLanguage=en&width=27&height=32&isInPopup=true&origCompId=comp-iz86jgxk&instance=fnjRTNo1fi_fex_9lmXY6Svg7aIhmg5VBvqgwraT8s4.eyJpbnN0YW5jZUlkIjoiODVmYjYzNmYtMmI4YS00YTNiLWExZTgtYTIxMGQzNjY4NDUwIiwiYXBwRGVmSWQiOiIxMzgwYjcwMy1jZTgxLWZmMDUtZjExNS0zOTU3MWQ5NGRmY2QiLCJtZXRhU2l0ZUlkIjoiNGEyMmQ1MTktZjM2Yi00YTBiLWFkMjktOWRjYTg1NGZlYmI5Iiwic2lnbkRhdGUiOiIyMDIyLTEyLTA5VDEwOjM0OjQ2LjM4M1oiLCJ2ZW5kb3JQcm9kdWN0SWQiOiJzdG9yZXNfZ29sZCIsImRlbW9Nb2RlIjpmYWxzZSwib3JpZ2luSW5zdGFuY2VJZCI6IjAzMjg4MDNlLTNkMmUtNDg4Yi1hYTdmLTY0MDJkNzM3ZWQ3NyIsImFpZCI6IjdlNDAwYzMwLWU5MDYtNGY0MS1iYzY4LTJhNWI0NWIyYTc0NCIsImJpVG9rZW4iOiJjZmQ5YjY3Ni1kOGUxLTAwMzAtMGNjMS0zZmRhNTYyOTZmZTkiLCJzaXRlT3duZXJJZCI6ImIyYTIyNWI4LTlkZGEtNDM3Zi1iOWE4LWIzNzJlMjIyZDMxMiJ9&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%22b0397340-90a1-4a06-a22f-350fde462278%7C1%22%2C%22BSI%22%3A%22b0397340-90a1-4a06-a22f-350fde462278%7C1%22%7D&vsi=e29a3d3d-b7d8-4dc3-8886-d7936813da5e",
+            "location": {
+                "x": 504,
+                "y": -54
+            },
+            "size": {
+                "height": 900,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 410,
+                "y": 60
+            },
+            "size": {
+                "height": 0,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Log In",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 817,
+                "y": 26
+            },
+            "size": {
+                "height": 38,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Submit",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 668,
+                "y": 1355
+            },
+            "size": {
+                "height": 34,
+                "width": 195
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

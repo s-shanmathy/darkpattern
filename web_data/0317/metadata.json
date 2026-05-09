@@ -1,0 +1,1414 @@
+{
+    "title": "Song Meanings at Songfacts",
+    "url": "songfacts.com",
+    "full_url": "https://www.songfacts.com/",
+    "images": [
+        {
+            "alt": "Songfacts Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Songfacts Logo",
+            "location": {
+                "x": 37,
+                "y": 10
+            },
+            "size": {
+                "height": 60,
+                "width": 191
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rhett Miller of Old 97's",
+            "location": {
+                "x": 37,
+                "y": 326
+            },
+            "size": {
+                "height": 250,
+                "width": 624
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Top 10 Songfacts of 2022",
+            "location": {
+                "x": 37,
+                "y": 326
+            },
+            "size": {
+                "height": 250,
+                "width": 624
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wes Scantlin of Puddle Of Mudd",
+            "location": {
+                "x": 37,
+                "y": 326
+            },
+            "size": {
+                "height": 250,
+                "width": 624
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Songs Covered by Springsteen",
+            "location": {
+                "x": 37,
+                "y": 326
+            },
+            "size": {
+                "height": 250,
+                "width": 624
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "David Crosby",
+            "location": {
+                "x": 37,
+                "y": 326
+            },
+            "size": {
+                "height": 250,
+                "width": 624
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Tatiana Shmailyuk of Jinjer",
+            "location": {
+                "x": 37,
+                "y": 326
+            },
+            "size": {
+                "height": 250,
+                "width": 624
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Play Video",
+            "location": {
+                "x": 48,
+                "y": 678
+            },
+            "size": {
+                "height": 213,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "U2",
+            "location": {
+                "x": 375,
+                "y": 636
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Andrew Farriss of INXS",
+            "location": {
+                "x": 375,
+                "y": 1266
+            },
+            "size": {
+                "height": 286,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chilkoot Charlie's, Anchorage, Alaska",
+            "location": {
+                "x": 48,
+                "y": 2050
+            },
+            "size": {
+                "height": 286,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Who Did It First?",
+            "location": {
+                "x": 375,
+                "y": 2028
+            },
+            "size": {
+                "height": 286,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "David Bowie",
+            "location": {
+                "x": 706,
+                "y": 383
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coldplay",
+            "location": {
+                "x": 706,
+                "y": 479
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Led Zeppelin",
+            "location": {
+                "x": 706,
+                "y": 573
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Staind",
+            "location": {
+                "x": 706,
+                "y": 667
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Beatles",
+            "location": {
+                "x": 706,
+                "y": 761
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Foo Fighters",
+            "location": {
+                "x": 706,
+                "y": 855
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chicago",
+            "location": {
+                "x": 706,
+                "y": 1137
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lady Gaga",
+            "location": {
+                "x": 706,
+                "y": 1231
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Taylor Swift",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Bette Midler",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Elvis Presley",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Dierks Bentley",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Deftones",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Ed Sheeran",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Justin Bieber",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Billy Joel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Elton John",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Eagles",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Music History Calendar",
+            "location": {
+                "x": 690,
+                "y": 1331
+            },
+            "size": {
+                "height": 35,
+                "width": 297
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Yacht Rock Quiz",
+            "location": {
+                "x": 701,
+                "y": 2083
+            },
+            "size": {
+                "height": 286,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 37,
+                "y": 101
+            },
+            "size": {
+                "height": 34,
+                "width": 950
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "What's your email?",
+            "type": "text",
+            "location": {
+                "x": 37,
+                "y": 3328
+            },
+            "size": {
+                "height": 34,
+                "width": 460
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            245,
+            245,
+            245
+        ],
+        [
+            237,
+            112,
+            46
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "Songfacts - the stories and meanings behind the songs, with songwriter interviews and lyrics.",
+    "navbar": "HOME\nCATEGORIES\nPLACES\nBLOG\nBROWSE",
+    "text": "HOME\nCATEGORIES\nPLACES\nBLOG\nBROWSE\nSearch\nBrowse\n#\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nRhett Miller of Old 97's\nOn his new solo album, finding meaning through art, and joining the Guardians Of The Galaxy universe\n1\n2\n3\n4\n5\n6\nSongfacts® Spotlight\nJailhouse Rock by Elvis Presley\nThe name \"Schoolhouse Rock,\" which was a series of educational cartoons, was a play on \"Jailhouse Rock,\" the title of an Elvis Presley song.\nMORE FACTS ABOUT JAILHOUSE ROCK\nU2\nThe Irish rockers earned worldwide acclaim with their 1987 album, The Joshua Tree, featuring the #1 hit \"With Or Without You,\" and staked their claim as \"the greatest band in the world.\"\nMORE ABOUT U2\nU2's Hot Songs\n1) Staring At The Sun\n2) Desire\n3) California (There Is No End To Love)\n4) Heartland\n5) Elevation\nMORE SONGS\nFeatured Category\nSongs used in the movie Clueless\nSupermodel - Jill Sobule\nAll By Myself - Eric Carmen\nShoop - Salt-N-Pepa\nRollin' With My Homies - Coolio\nKids In America - Kim Wilde\nMy Iron Lung - Radiohead\nShake Some Action - Flamin' Groovies\nGirls Just Want To Have Fun - Cyndi Lauper\nFake Plastic Trees - Radiohead\nAll The Young Dudes - Mott the Hoople\nMORE SONGS FROM THIS CATEGORY\nFrom the Vaults\nAndrew Farriss of INXS\nAndrew Farriss on writing with Michael Hutchence, the stories behind \"Mystify\" and other INXS hits, and his country-flavored debut solo album.\nREAD THE INTERVIEW\nLatest Songplace\nChilkoot Charlie's, Anchorage, Alaska\nTalkin' Goin' To Alaska Blues by Shawn Mullins\nShawn Mullins travels to Chilkoot Charlie's in Anchorage, Alaska, where there ain't no rats to race.\nREAD THE STORY\nFeatured Quiz\nWho Did It First?\nDo you know who recorded the original versions of these ten hit songs?\nTAKE THE QUIZ\nFeatured Comment\nEver notice how the old gambler never actually gives him any advice? \"What can you tell me, friend?\" \"You gotta know when to hold 'em, know when to fold 'em…\" \"Yeah yeah, I know that. But WHEN should I hold or fold?\" \"…know when to walk away, know when to run…\" \"When I'm several hands up? Or just a gut feeling?\" \"You never count your money…\" \"Oh, I'll know how much money I have. But when should I fold?\" \"…'til the dealin's done\" \"Look, mister, this is like Tommy Lasorda telling me I gotta know when to pitch to the batter and when to walk 'im. WHEN??\" \"You gotta know when to hold 'em…\" \"You mooched a cigarette, a lighter, and my last drop of liquor, and that's all you can tell me?\"...\nComment by: jpgfile from Galloping hard on the plains\nSong: The Gambler by Kenny Rogers\nREAD THE REST\nToday's Top 10\nFacts\nArtists\nLyrics\nCategory\n1\nThe Man Who Sold The World\nDavid Bowie\n2\nYellow\nColdplay\n3\nStairway To Heaven\nLed Zeppelin\n4\nIt's Been Awhile\nStaind\n5\nGlass Onion\nThe Beatles\n6\nEverlong\nFoo Fighters\n7\nBecause I'm Me\nThe Avalanches\n8\nAmerican Woman\nThe Guess Who\n9\n25 Or 6 To 4\nChicago\n10\nBloody Mary\nLady Gaga\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSpringsteen Releases First Album\n1973\nWith a boulder on his shoulder, feelin' kinda older, 23-year-old Bruce Springsteen releases his first album, Greetings From Asbury Park, N.J.\nRead the full story or see more events in this category\nFact or Fiction\nYacht Rock Quiz\nChristopher Cross with Deep Purple? Kenny Loggins in Caddyshack? A Fact or Fiction all about yacht rock and those who made it.\nTRY THE FACT OR FICTION\nSongfacts® Newsletter\nA monthly update on our latest interviews, stories and added songs\nWhat's your email?\nSUBSCRIBE\nInformation\nAbout Us\nTerms of Service\nOur Privacy Policy\nGoogle Privacy Policy\nSongfacts API\nMusic History Calendar\nSong Licensing\nAffiliate Disclosure\nContact Us\nFollow Us\nFacebook\nTwitter\nYouTube\nContribution\nSuggest a Songfact or Artistfact\nMessage Boards\nSongfacts Writers\n©2023 Songfacts, LLC",
+    "font": "Verdana, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 34,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 234,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 274,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 314,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 354,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 394,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 434,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 234,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 274,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 314,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "4",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 354,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "5",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 394,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 434,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 234,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 274,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 314,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 354,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 394,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 434,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 234,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 274,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 314,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 354,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 394,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 434,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 234,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 274,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 314,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 354,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 394,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 434,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 234,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 274,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 314,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 354,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 394,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 434,
+                "y": 547
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SUBSCRIBE",
+            "bg-color": "rgba(172, 183, 192, 1)",
+            "location": {
+                "x": 37,
+                "y": 3372
+            },
+            "size": {
+                "height": 34,
+                "width": 460
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

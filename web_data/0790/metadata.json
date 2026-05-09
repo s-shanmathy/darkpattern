@@ -1,0 +1,466 @@
+{
+    "title": "March2Success",
+    "url": "march2success.com",
+    "full_url": "https://march2success.com/",
+    "images": [
+        {
+            "alt": "March2Success Logo",
+            "location": {
+                "x": 16,
+                "y": 8
+            },
+            "size": {
+                "height": 95,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Army Logo",
+            "location": {
+                "x": 913,
+                "y": 18
+            },
+            "size": {
+                "height": 75,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "March2Success Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Army Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Education",
+            "location": {
+                "x": 0,
+                "y": 182
+            },
+            "size": {
+                "height": 221,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "STEM",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Math",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Healthcare",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Virtual Learning Tools",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 768,
+                "y": 127
+            },
+            "size": {
+                "height": 31,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            54,
+            54,
+            54
+        ],
+        [
+            31,
+            31,
+            31
+        ]
+    ],
+    "desc": "March2Success is a free resource to help students prepare for standardized tests including the ASVAB, SAT, and ACT.",
+    "navbar": "Home\nAbout Us\nOur Courses\nWord of the Day\nDemos\nHelp\nEspañol",
+    "text": " Login  Register\nHome\nAbout Us\nOur Courses\nWord of the Day\nDemos\nHelp\nEspañol\nPrevious\nNext\nWhat is March2Success?\nMarch2Success is a FREE website providing users access to online study materials to help improve their scores on standardized tests such as state exit exams, college entrance exams, the military entrance exam (ASVAB) and others. Our content includes self-paced study programs in Math, English and Science, with a focus of materials on grades 8-12. In addition to online courses and practice tests, March2Success includes resources to help students navigate the college application process. This includes admissions, financial aid and scholarship guides and overall planning guides.\nWe also provide tools for educators and parents to monitor and encourage their students. These tools include a module to see how the student’s progress in the course(s) including test and quiz scores, lesson completion and course access.\nMarch2Success offers our users a program free of charge to help them meet their educational goals. Whether you are preparing for college, military or entering the civilian workforce, test scores can play an important role.\nWhat We Offer\nHigh School Preparation: Includes online courses to help students review Math and Language Arts materials.\nCollege Preparation: Includes both online courses and practice tests to help prepare for the SAT and ACT. Additional resources include the word of the day and vocabulary quizzes.\nScience, Technology, Engineering and Math (STEM): We offer practice tests in a variety of STEM related subjects. The Math and Science Hubs also include corresponding lessons for many of the subjects.\nHealthcare Professionals: Includes full-length practice tests for the MCAT, DAT and multiple nursing exams.\nVirtual Learning Tools: Includes Army developed apps to help understand the fundamentals of Chemistry (STARS: Elements) and use the Career Navigator to see what the Army has to offer.\nPhysical Fitness: Materials provided by the Army’s Performance Triad program with guides for physical activity, nutrition and sleep habits.\nHow Does It Work?\nMarch2Success requires all users to complete the registration process before accessing the materials. Choose your user type and provide the required information. Once you have completed the registration, you can immediately login and begin accessing all our educational content. The content is grouped by category and includes both online courses and practice tests.\nAlthough March2Success is sponsored by the US Army, there is no requirement from you to the Army for using the site. Limited information is provided for reporting purposes, but no personal information is provided unless you register as a member of the Future Soldier Training Program.\nOnline courses start with a diagnostic assessment. This is used to determine your strengths and weaknesses in the content. A customized learning path is developed to allow you to focus on the areas where you need to improve. Each course will include interactive lessons and quizzes to reinforce what you have learned, and practice tests. The practice test platform allows users to take multiple tests in a subject.\nAll tests and quizzes provide the opportunity to review your results and see how the correct answer is derived.\nSat\nMarch to Success is so helpful it will help improve your score.\nMarch2Success\n(Rushyendranath, MS)\nUsing this software has boosted my confidence in achieving a higher score on the ACT.\nRead More Stories\nSubmit Story\nM2S Contact & Help\nMarch 2 Success Online Help\nSubmit a Help Request\nForgot Username/Password\nFrequently Asked Questions\nTerms of Use\nPrivacy and Security Notice\nArmy Careers\nGOARMY.COM\n1-800-USA-ARMY\nContact a Recruiter\nArmy Career Explorer\nArmy Videos\nArmy Community\nArmy Education News\nArmy Events\nFinancial Aid\nFor Parents\nAuditions\nArmy Social Media\nFacebook\nTwitter\nPinterest\nYouTube\nFlickr\nLinkedIn\nInstagram",
+    "font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(153, 153, 153, 1)",
+            "location": {
+                "x": 941,
+                "y": 127
+            },
+            "size": {
+                "height": 31,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 418,
+                "y": 364
+            },
+            "size": {
+                "height": 23,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 454,
+                "y": 364
+            },
+            "size": {
+                "height": 23,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 490,
+                "y": 364
+            },
+            "size": {
+                "height": 23,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 526,
+                "y": 364
+            },
+            "size": {
+                "height": 23,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 562,
+                "y": 364
+            },
+            "size": {
+                "height": 23,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 182
+            },
+            "size": {
+                "height": 221,
+                "width": 151
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 858,
+                "y": 182
+            },
+            "size": {
+                "height": 221,
+                "width": 151
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

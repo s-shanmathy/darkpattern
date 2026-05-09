@@ -1,0 +1,743 @@
+{
+    "title": "Corporate Website: Information about the Group | Deutsche Telekom",
+    "url": "telekom.com",
+    "full_url": "https://www.telekom.com/",
+    "images": [
+        {
+            "alt": "Picture Flyout Teaser Contact",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Network expansion",
+            "location": {
+                "x": -216,
+                "y": 135
+            },
+            "size": {
+                "height": 328,
+                "width": 583
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Schmuckbild ",
+            "location": {
+                "x": 341,
+                "y": 135
+            },
+            "size": {
+                "height": 328,
+                "width": 437
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman holding a Smartphone. \"5G\" on display",
+            "location": {
+                "x": 659,
+                "y": 135
+            },
+            "size": {
+                "height": 328,
+                "width": 583
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "At a glance",
+            "location": {
+                "x": 356,
+                "y": 612
+            },
+            "size": {
+                "height": 234,
+                "width": 312
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Symbol picture international cooperation",
+            "location": {
+                "x": 692,
+                "y": 612
+            },
+            "size": {
+                "height": 234,
+                "width": 312
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Social Media Post: Automated Valet Parking | What's new Claudia",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 247,
+                "width": 156
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Social Media Post: Incident Response | english - Netzgeschichten",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 247,
+                "width": 156
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Social Media Post: XR at 'Break New Ground' | Deutsche Telekom",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 247,
+                "width": 156
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Social Media Post: Sleigh Ride through 2022 | Deutsche Telekom XMAS Video",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 247,
+                "width": 156
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Die skurrilsten Cybercrimes aller Zeiten!",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 22,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Social Media Post: Trenchless fiber optics cable installation | What's new Claudia?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 247,
+                "width": 156
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Social Media Post: AI and Robbie Williams | What's new Claudia",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 247,
+                "width": 156
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Innovation",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Roof terrace and dome of the Reichstag building in Berlin.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "#TAKEPART in fighting for a network without hate",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Only one thing counts for the Magenta service: happy customers.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "New Work",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Symbol picture Networking",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Priorities are changing. Much of what was once a choice is now a duty.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image Transport an Logistics",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "What are you looking for?",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": -19977,
+                "y": 1126
+            },
+            "size": {
+                "height": 35,
+                "width": 184
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 352,
+                "y": 1081
+            },
+            "size": {
+                "height": 38,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 683,
+                "y": 1081
+            },
+            "size": {
+                "height": 38,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            155,
+            155,
+            155
+        ],
+        [
+            56,
+            56,
+            56
+        ]
+    ],
+    "desc": "Deutsche Telekom is one of the world's leading integrated telecommunications companies. Find information about the Group on our corporate website.",
+    "navbar": "Deutsch",
+    "text": "Deutsch\nCompany\nCorporate Responsibility\nInvestor Relations\nMedia\nCareers\nBlog.Telekom\nSearch\nInnovation\nWith our products and our network, you can be sure to always #takepart in all the latest developments and technologies.\nSpecial Innovation\n\n\nAll about 5G\n\n\nShare\nDeutsche Telekom AG\n05.01.2023 | 17:37 CET\n19,53 €\n+0,31 €\n+1,61 %\nChart\nDeutsche Telekom at a glance\nWorldwide\nAt a glance\n\nConsent to data processing\nBy means of cookies and similar technologies, information can be stored, enriched and read on your terminal device. By clicking on “Accept all”, you accept the processing, the creation of individual user profiles across websites and partners, and the transfer of your data to third parties, some of whom process your data in countries outside the European Union (GDPR Art. 49). Details can be found in section 3 of the data privacy information. The data is used for analyses, retargeting and for playing out personalized content and advertising on Telekom sites and third-party sites. Further information, including information on data processing by third-party providers and the possibility of revocation, can be found in the settings and in our data privacy information.\nAccept all\nOnly necessary\nChange settings\nData privacy information\nImprint",
+    "font": "TeleNeo, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(237, 237, 237, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 360,
+                "y": 526
+            },
+            "size": {
+                "height": 48,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 526
+            },
+            "size": {
+                "height": 48,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 20,
+                "y": 1041
+            },
+            "size": {
+                "height": 22,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 51,
+                "y": 1041
+            },
+            "size": {
+                "height": 22,
+                "width": 21
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 20,
+                "y": 4327
+            },
+            "size": {
+                "height": 60,
+                "width": 168
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 836,
+                "y": 4327
+            },
+            "size": {
+                "height": 60,
+                "width": 168
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(226, 0, 116, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(226, 0, 116, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Accept all",
+            "bg-color": "rgba(226, 0, 116, 1)",
+            "location": {
+                "x": 160,
+                "y": 332
+            },
+            "size": {
+                "height": 48,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Only necessary",
+            "bg-color": "rgba(226, 0, 116, 1)",
+            "location": {
+                "x": 372,
+                "y": 332
+            },
+            "size": {
+                "height": 48,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Change settings",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 664,
+                "y": 332
+            },
+            "size": {
+                "height": 48,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

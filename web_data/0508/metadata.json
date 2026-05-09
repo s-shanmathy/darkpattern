@@ -1,0 +1,280 @@
+{
+    "title": "RadiologyInfo.org",
+    "url": "radiologyinfo.org",
+    "full_url": "https://www.radiologyinfo.org/",
+    "images": [
+        {
+            "alt": "RadInfo Logo",
+            "location": {
+                "x": 15,
+                "y": 10
+            },
+            "size": {
+                "height": 62,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pediatric",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "RSNA",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ACR",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "banner 6",
+            "location": {
+                "x": 0,
+                "y": 156
+            },
+            "size": {
+                "height": 347,
+                "width": 1008
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The radiology information resource for patients",
+            "location": {
+                "x": 0,
+                "y": 432
+            },
+            "size": {
+                "height": 74,
+                "width": 908
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ACR",
+            "location": {
+                "x": 25,
+                "y": 1084
+            },
+            "size": {
+                "height": 50,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "RSNA",
+            "location": {
+                "x": 145,
+                "y": 1084
+            },
+            "size": {
+                "height": 50,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 799,
+                "y": 18
+            },
+            "size": {
+                "height": 38,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            242,
+            242,
+            243
+        ],
+        [
+            34,
+            46,
+            75
+        ]
+    ],
+    "desc": "RadiologyInfo.org tells you how various x-ray, CT, MRI, ultrasound, radiation therapy and other procedures are performed. It also addresses what you may experience and how to prepare for the exams.",
+    "navbar": "",
+    "text": "Tests and Treatments\nPediatric Care\nScreening\nDiseases and Conditions\nSafety\nEn Español\nWelcome!\nRadiologyInfo.org tells you how various x-ray, CT, MRI, ultrasound, radiation therapy and other procedures are performed. It also addresses what you may experience and how to prepare for the exams. The website contains over 260 procedure, exam and disease descriptions covering diagnostic and interventional radiology, nuclear medicine, radiation therapy and radiation safety and is updated frequently with new information. All material on the RadiologyInfo.org website is reviewed and approved by experts in the field of radiology from RSNA and the ACR, as well as other professional radiology organizations.\nPlease note\nRadiologyInfo.org is not a medical facility. Please contact your physician with specific medical questions or for a referral to a radiologist or other physician. To locate a medical imaging or radiation oncology provider in your community, you can search the ACR-accredited facilities database.\nSpotlight\nRecently Posted:\nPediatric lymphoma\nScanxiety\nUnderstanding your breast imaging report\nKidney biopsy\nRadiology and You\nRadInfo 4 Kids: Teddy gets an x-ray!\nSponsored By\nAbout | Contact | FAQ | Glossary | Physician Resources | Professions | Site Map | Privacy | Terms of Use\nCopyright © 2022 Radiological Society of North America, Inc. (RSNA).\nTo help ensure current and accurate information, we do not permit copying but encourage linking to this site.\nTo help offer the best experience possible, cookies are used on this website. By browsing here, you acknowledge our terms of use. For more information visit our Cookie Policy page.OKFind out more",
+    "font": "\"Open Sans\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 964,
+                "y": 23
+            },
+            "size": {
+                "height": 28,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(48, 114, 135, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 34,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "OK",
+            "bg-color": "rgba(220, 88, 38, 1)",
+            "location": {
+                "x": 658,
+                "y": 795
+            },
+            "size": {
+                "height": 27,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Find out more",
+            "bg-color": "rgba(0, 115, 210, 1)",
+            "location": {
+                "x": 798,
+                "y": 795
+            },
+            "size": {
+                "height": 27,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

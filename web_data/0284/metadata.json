@@ -1,0 +1,202 @@
+{
+    "title": "My Crypto Heroes (MCH, マイクリ) | Crypto game from Japan!",
+    "url": "mycryptoheroes.net",
+    "full_url": "https://www.mycryptoheroes.net/",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            36,
+            38,
+            44
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "Block Chain Game,My Crypto Heroes (MCH) -where your time and passion will become your assets. Get great extensions and Land through collecting/training historical Heroes! Can be played without gas fee.",
+    "text": "My Crypto Heroes\nEN\nYour time and passion will become assets.\nENTRY MODEL\nMORE INFO\nMAIN STORY\nMORE INFO\nRAYS ECOSYSTEM\n88,888,888,888\n27,903\n88,888,888,888\n215,910\n88,888,888,888\n251,127,000\nSummoned Soul\nBurnt MCHC by Summon\nBurnt RAYS by Summon\nPlay as Scholar\nPlay as Scholar\n01. Rental\nLet’s get Rent Soul (NFT) from Owner through “Rental”\n02. Play Game\nChallenge Soul nodes and Soul battles with rented Souls.\n03. Earn RAYS\nThe rewarded RAYS will be distributed to the Owner and Scholar.\nPlay as Owner\nPlay as Owner\n01. Summon\nSummon Soul by burning MCHC (Governance Token) and RAYS (Utility Token).\n02. Rent Out\nYou can rent your Souls out to Scholars through “Rental”.\n03. Get the share\nRAYS earned by Scholar from Soul nodes and Soul battles will be distributed to Owner.\nPlay Game\n\nGameplay\nPvE Mode\nSend your heroes into dungeons to collect EXP and find rare items, called Original Extensions (ERC-721 token). EXP can be used to level up your assets.\nPvP Mode\nFight other players in competitive tournaments, tailored to different player strengths. Top players earn Original Extensions (ERC-721) and eternal fame.\nBattle Preview\nGetting Started\nMetaMask Extension\nMost used wallet for Ethereum dapps. Recommended for users who will use ETH sent from crypto exchange.\nPlay Game\nEcosystem Partners\nMedia Partners\nPlay With Mobile\n© 2018-2022\ndouble jump.tokyo Inc. Published by MCH Co., Ltd.\nDocs",
+    "font": "Roboto, -apple-system, \"system-ui\", \"Helvetica Neue\", Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://app.tor.us/v1.38.2/popup",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(50, 115, 220, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 949,
+                "y": 0
+            },
+            "size": {
+                "height": 64,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 32,
+                "y": 682
+            },
+            "size": {
+                "height": 96,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 552,
+                "y": 682
+            },
+            "size": {
+                "height": 96,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Play Game",
+            "bg-color": "rgba(253, 253, 253, 1)",
+            "location": {
+                "x": 284,
+                "y": 3011
+            },
+            "size": {
+                "height": 52,
+                "width": 440
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Play Game",
+            "bg-color": "rgba(253, 253, 253, 1)",
+            "location": {
+                "x": 284,
+                "y": 7461
+            },
+            "size": {
+                "height": 52,
+                "width": 440
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Play With Mobile",
+            "bg-color": "rgba(47, 51, 61, 1)",
+            "location": {
+                "x": 404,
+                "y": 8363
+            },
+            "size": {
+                "height": 48,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,1084 @@
+{
+    "title": "Study Abroad - Free Counselling, Courses, Exams, Fees and Application Process",
+    "url": "edvoy.com",
+    "full_url": "https://edvoy.com/",
+    "images": [
+        {
+            "alt": "edvoy logo",
+            "location": {
+                "x": 16,
+                "y": 14
+            },
+            "size": {
+                "height": 45,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MSc Advanced Computer Science with Business",
+            "location": {
+                "x": 448,
+                "y": 174
+            },
+            "size": {
+                "height": 46,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "MSc Health Research Methods",
+            "location": {
+                "x": 448,
+                "y": 249
+            },
+            "size": {
+                "height": 46,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "MSc Advanced Computer Science",
+            "location": {
+                "x": 448,
+                "y": 313
+            },
+            "size": {
+                "height": 46,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "MSc/PGDip/PGCert Computing Science",
+            "location": {
+                "x": 448,
+                "y": 378
+            },
+            "size": {
+                "height": 46,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "MSc (PGCert PGDip) Data Analytics",
+            "location": {
+                "x": 448,
+                "y": 442
+            },
+            "size": {
+                "height": 46,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "MSc Finance and Accounting",
+            "location": {
+                "x": 448,
+                "y": 507
+            },
+            "size": {
+                "height": 46,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "LLM International Business Law",
+            "location": {
+                "x": 448,
+                "y": 572
+            },
+            "size": {
+                "height": 46,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Referral-gift",
+            "location": {
+                "x": 725,
+                "y": 24
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "hero-banner-underline",
+            "location": {
+                "x": 16,
+                "y": 277
+            },
+            "size": {
+                "height": 541,
+                "width": 977
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "how it works icon",
+            "location": {
+                "x": 81,
+                "y": 1054
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "how it works icon",
+            "location": {
+                "x": 378,
+                "y": 1054
+            },
+            "size": {
+                "height": 43,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "how it works icon",
+            "location": {
+                "x": 675,
+                "y": 1054
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "county-banner",
+            "location": {
+                "x": -416,
+                "y": 1992
+            },
+            "size": {
+                "height": 300,
+                "width": 582
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "county-banner",
+            "location": {
+                "x": 198,
+                "y": 1992
+            },
+            "size": {
+                "height": 300,
+                "width": 582
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "county-banner",
+            "location": {
+                "x": 812,
+                "y": 1992
+            },
+            "size": {
+                "height": 300,
+                "width": 582
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "university-banner",
+            "location": {
+                "x": 16,
+                "y": 2550
+            },
+            "size": {
+                "height": 300,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "university-country-flag",
+            "location": {
+                "x": 48,
+                "y": 2808
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "university-banner",
+            "location": {
+                "x": 408,
+                "y": 2550
+            },
+            "size": {
+                "height": 300,
+                "width": 360
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "university-country-flag",
+            "location": {
+                "x": 440,
+                "y": 2808
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "university-banner",
+            "location": {
+                "x": 800,
+                "y": 2550
+            },
+            "size": {
+                "height": 300,
+                "width": 360
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "university-country-flag",
+            "location": {
+                "x": 832,
+                "y": 2808
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "underline",
+            "location": {
+                "x": 48,
+                "y": 3086
+            },
+            "size": {
+                "height": 20,
+                "width": 175
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video-play-icon-0",
+            "location": {
+                "x": 514,
+                "y": 3286
+            },
+            "size": {
+                "height": 22,
+                "width": 22
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "video-play-icon-1",
+            "location": {
+                "x": 910,
+                "y": 3286
+            },
+            "size": {
+                "height": 22,
+                "width": 22
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Referral-gift",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "edvoy logo",
+            "location": {
+                "x": 16,
+                "y": 3732
+            },
+            "size": {
+                "height": 45,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Edvoy for the American International Recruitment Council",
+            "location": {
+                "x": 741,
+                "y": 3878
+            },
+            "size": {
+                "height": 96,
+                "width": 96
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Find courses, institutions, places and more...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 43,
+                "y": 154
+            },
+            "size": {
+                "height": 21,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 362,
+                "y": 153
+            },
+            "size": {
+                "height": 21,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Type Subjects here",
+            "type": "text",
+            "location": {
+                "x": 680,
+                "y": 151
+            },
+            "size": {
+                "height": 25,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            248,
+            249,
+            250
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            247,
+            248,
+            249
+        ]
+    ],
+    "desc": "Make your study abroad dream come true with Edvoy. We help you with choosing the right courses from about 38,000+ courses, 120+ universities across 24 countries. Our study abroad consultants guide you further with exams, application processes, visas and more. All this at no cost. We keep students at the heart of everything we do. Chat with us today!",
+    "navbar": "Courses\nInstitutions\nAbout",
+    "text": "en-edvoy\nCourses\nInstitutions\nAbout\nSign in\nGet Started\nWhere?\nSelect Study Destination\nWhich?\nSelect Course Level\nWhat?\nHow it works\nFind courses\nBrowse the top courses from over 120 universities worldwide\nApply and receive offers\nInstantly apply, upload academic documents and receive offers\nChat with us\nChat with us to receive free expert advise from our friendly advisors\nWe'll help you find the right courses\nSearch from over 38141 courses by subject or university\nSee all popular subjects\nComputer Sciences\nArtificial Intelligence\nBusiness\nCyber Security\nHealth care\nData Sciences and Big Data\nFinance\nEmergency Medicine\nBusiness Administration\nEngineering And Technology\nExplore Top Study Destinations\nWe’re partnered with over 120 world class education providers in 24 countries\nPrevious\nStudy in Canada\nStudy in Ireland\nStudy in New Zealand\nNext\nDiscover Top Universities\nWe’re partnered with over 120 world class education providers\nPrevious\nUniversity of Brighton\nUnited Kingdom\nUniversity of Roehampton\nUnited Kingdom\nCoventry University\nUnited Kingdom\nNext\nStudents at the heart of everything we do\nStudentsPartners\nPrevious\n“Edvoy made it so easy for me, in every step they helped me in understanding”\nJyotisman\nMsc Digital marketing, UWE Bristol\nNext\nFooter\nen-edvoy\nEXPLORE\nCourses\nInstitutions\nDownload App\nNew\nRefer & Earn\nNew\nCourse Finder\nABOUT\nAbout Edvoy\nFor Partners\nPrivacy Policy\nTerms of Service\nCareers\nContact Us\nRESOURCES\nArticles\nKnowledge Base\nEvents\n£\nGBP\nFacebook\nTwitter\nLinkedIn\nInstagram\n© 2020 - 2022 Edvoy™ Educational Services Ltd. All rights reserved.\nStudy Abroad Consultant in Chennai\n|\nStudy Abroad Consultant in Vijayawada\n|\nStudy Abroad Consultant in New Delhi\n|\nStudy Abroad Consultant in Hyderabad",
+    "font": "Inter, -apple-system, \"system-ui\", \"Helvetica Neue\", sans-serif",
+    "iframes": [
+        {
+            "title": "webengage-engagement-callback-frame",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "_we_wk_data_store",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Sign in",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 774,
+                "y": 28
+            },
+            "size": {
+                "height": 24,
+                "width": 51
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Get Started",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 857,
+                "y": 20
+            },
+            "size": {
+                "height": 39,
+                "width": 128
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 969,
+                "y": 136
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": -9,
+                "y": 2122
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 978,
+                "y": 2122
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": -9,
+                "y": 2680
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 978,
+                "y": 2680
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Students",
+            "bg-color": "rgba(31, 45, 62, 1)",
+            "location": {
+                "x": 16,
+                "y": 3152
+            },
+            "size": {
+                "height": 40,
+                "width": 103
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Partners",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 135,
+                "y": 3152
+            },
+            "size": {
+                "height": 40,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 16,
+                "y": 3468
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 76,
+                "y": 3468
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 46,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

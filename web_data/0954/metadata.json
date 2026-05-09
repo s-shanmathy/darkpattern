@@ -1,0 +1,405 @@
+{
+    "title": "Mind mapping, concept mapping, outlining and Gantt Charts",
+    "url": "mindomo.com",
+    "full_url": "https://www.mindomo.com/",
+    "images": [
+        {
+            "alt": "Moss Media Solutions",
+            "location": {
+                "x": 80,
+                "y": 1959
+            },
+            "size": {
+                "height": 57,
+                "width": 88
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Biohabitats",
+            "location": {
+                "x": 240,
+                "y": 1959
+            },
+            "size": {
+                "height": 57,
+                "width": 204
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ASI",
+            "location": {
+                "x": 516,
+                "y": 1959
+            },
+            "size": {
+                "height": 57,
+                "width": 159
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wealth Strategies",
+            "location": {
+                "x": 747,
+                "y": 1959
+            },
+            "size": {
+                "height": 57,
+                "width": 182
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fractal Design",
+            "location": {
+                "x": 406,
+                "y": 2088
+            },
+            "size": {
+                "height": 57,
+                "width": 196
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mind mapping tool for everything you need",
+            "location": {
+                "x": 20,
+                "y": 2345
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mindomo video presentation",
+            "location": {
+                "x": 504,
+                "y": 2530
+            },
+            "size": {
+                "height": 326,
+                "width": 485
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DATS - Digital Action Tracking System",
+            "location": {
+                "x": 20,
+                "y": 3013
+            },
+            "size": {
+                "height": 28,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PC Magazine",
+            "location": {
+                "x": 10,
+                "y": 3251
+            },
+            "size": {
+                "height": 182,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Explore the unseen connections",
+            "location": {
+                "x": 584,
+                "y": 3890
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Give your ideas a linear flow",
+            "location": {
+                "x": 20,
+                "y": 4870
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TSF",
+            "location": {
+                "x": 20,
+                "y": 5426
+            },
+            "size": {
+                "height": 28,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Collaborative Online Gantt Charts",
+            "location": {
+                "x": 584,
+                "y": 5734
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fractal Design",
+            "location": {
+                "x": 584,
+                "y": 6454
+            },
+            "size": {
+                "height": 28,
+                "width": 125
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 39,
+                "y": 8510
+            },
+            "size": {
+                "height": 32,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 151,
+                "y": 8510
+            },
+            "size": {
+                "height": 32,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "linkedin",
+            "location": {
+                "x": 263,
+                "y": 8510
+            },
+            "size": {
+                "height": 32,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "youtube",
+            "location": {
+                "x": 39,
+                "y": 8562
+            },
+            "size": {
+                "height": 32,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Your email address",
+            "type": "email",
+            "location": {
+                "x": 184,
+                "y": 622
+            },
+            "size": {
+                "height": 50,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 450,
+                "y": 622
+            },
+            "size": {
+                "height": 50,
+                "width": 136
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Your email address",
+            "type": "email",
+            "location": {
+                "x": 504,
+                "y": 8108
+            },
+            "size": {
+                "height": 50,
+                "width": 166
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 670,
+                "y": 8108
+            },
+            "size": {
+                "height": 50,
+                "width": 189
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            237,
+            237,
+            237
+        ],
+        [
+            45,
+            45,
+            45
+        ]
+    ],
+    "desc": "Create mind maps, concept maps, outlines and Gantt Charts. This mind mapping tool improves your Thinking&Learning. Web, Desktop, Mind Mapping App available",
+    "text": "Products\nUses\nResources\nPricing Log in Sign Up\nCollaborative mind maps, concept maps, outlines, and Gantt charts\nReal-time editing & offline editing, cross-platform, sync across devices, full history of changes, full-text search, hundreds of easy-to-use templates\nor\nDownload\nCloud Windows OS X Android iOS Linux\nAverage rating of 4.6 stars from 40,000+ reviews across Google Play, the App Store and Trustpilot\nEDUCATION\nTeach & Learn\nGet a clear overview of new concepts and ideas. Develop essential learning and thinking skills.\nLearn more ➜\nWORK\nPlan & Collaborate\nDevelop new strategies and action plans. Break down your complex projects into manageable tasks.\nLearn more ➜\nPERSONAL\nOrganize your life\nOrganize yourself visually and gain new insights into your life for more growth, love and happiness.\nLearn more ➜\nInnovative companies that trust our services\nMind mapping tool for everything you need\nImprove your productivity, develop more ideas and boost the effectiveness of your learning.\nLearn more ➜\n\"Mindomo has cut our project and event planning time down to at least 1/5 of what it used to be when we were using more traditional applications.\"\nScott Chisholm, Systems Architect\nPC Magazine's Best Mind Mapping Software\n\"Expert Software Applications Mindomo wins an Editors' Choice award because their product includes powerful aspects of mind mapping software coupled with the social aspects of knowledge management services. It is the only product in the five reviewed in this roundup that touches both sides of the social or mapping fence. This is what the wider category of mind mapping applications should always aim to do.\"\nTeamwork makes the dream work! Share your diagrams with your team members, colleagues, or collaborators. Edit each mind map online in real-time, saving precious time and adding value together.\nExplore the unseen connections\nConnect the dots and understand the bigger picture with concept mapping.\nLearn more ➜\n\"Mind Maps provide a good overview of the legal requirements we have to consider when working on a case.\"\nKarlotta Victor, Refugee Law Clinic\nGive your ideas a linear flow\nCreate a blueprint of your plans and set yourself up for success.\nLearn more ➜\n\"We decided to use Mindomo because it is very easy to use and accessible from a web browser.\"\nPascal BURON, DGA RH & Supports\nCollaborative Online Gantt Charts\nEngage your team and keep your project up to speed with collaborative Gantt Charts.\nLearn more ➜\n\"Mindomo is an excellent and versatile tool. We use it for everything from planning to brainstorming, from simple charts to important strategic documents. Highly recommended!\"\nHannes Wallin, CEO\n\"There is simply no better way to get so many thoughts mapped out, and share them with our team members.\"\n\"Everything from simple charts to important strategic documents\"\n\"Organizing thoughts into clear ideas and approaches\"\n\"Illustrating critical client notes\"\nMindomo is the best all-in-one visual tool to help you make mind mapping, concept mapping, and outlining accessible for students. As students will create and collaborate on mind maps, concept maps or outlines, they will become skilled at brainstorming, questioning, synthesizing, analyzing, generating new ideas, problem-solving, and researching.\nMindomo is also the mind mapping app that pioneered features like turning a mind map into a presentation; mind map assignments- the easiest way for students and teachers to collaborate on mind maps; smart mind maps - partially filled in templates that make mind mapping accessible for beginners; and turning mind maps into real-time editable outlines.\nAll of these help students and teachers to develop their inquiry-based learning and teaching methods. Mindomo has both a freemium online solution and free mobile native apps for iPad and Android.\nWe're using cookies to give you the best experience possible of Mindomo.\nBy using this site you agree to the use of cookies as it is described in our Privacy Policy\nTry Mindomo today\nNew to mind mapping? Mindomo is easy to get started with and freely accessible.\nCollaborative Free-to-start Simple-to-use\nSpread the word about Mindomo\nEnglish\nMindomo\nAbout Mindomo\nHelp\nMind Mapping Software\nContact\nPricing\nMore Info\nBlog\nTerms of Use\nPrivacy Policy\nSecurity\nAccessibility\nMind Mapping\nWhat is Mind Mapping?\nCreate a Mind Map Online\nMind Map Examples\nWhat is Concept Mapping?\nConcept Map Maker\nCopyright © Expert Software Applications srl. All rights reserved.",
+    "font": "\"Noto Sans\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 713,
+                "y": 2669
+            },
+            "size": {
+                "height": 48,
+                "width": 68
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

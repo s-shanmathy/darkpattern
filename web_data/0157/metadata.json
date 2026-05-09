@@ -1,0 +1,668 @@
+{
+    "title": "蘋果仁 - 果仁 iPhone/iOS/好物推薦科技媒體",
+    "url": "applealmond.com",
+    "full_url": "https://applealmond.com/",
+    "images": [
+        {
+            "alt": "蘋果仁 – 果仁 iPhone/iOS/好物推薦科技媒體",
+            "location": {
+                "x": 392,
+                "y": 32
+            },
+            "size": {
+                "height": 63,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "三星 Samsung 自拍",
+            "location": {
+                "x": 32,
+                "y": 519
+            },
+            "size": {
+                "height": 285,
+                "width": 473
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NAS 雲端伺服器 iCloud",
+            "location": {
+                "x": 358,
+                "y": 836
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Podcast 2022 年度回顧",
+            "location": {
+                "x": 683,
+                "y": 836
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "三星 Samsung 自拍",
+            "location": {
+                "x": 32,
+                "y": 1335
+            },
+            "size": {
+                "height": 285,
+                "width": 473
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2022 Google 熱門搜尋排行 關鍵字",
+            "location": {
+                "x": 32,
+                "y": 1652
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iCloud 端到端加密",
+            "location": {
+                "x": 358,
+                "y": 1652
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iPhone 替代文字 輸入技巧",
+            "location": {
+                "x": 683,
+                "y": 1652
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "特斯拉 Tesla FSD Tesla Vision 可視化",
+            "location": {
+                "x": 520,
+                "y": 2129
+            },
+            "size": {
+                "height": 285,
+                "width": 457
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "特斯拉 Tesla Model 3",
+            "location": {
+                "x": 520,
+                "y": 2662
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "特斯拉 Tesla Semi Truck",
+            "location": {
+                "x": 520,
+                "y": 2836
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "特斯拉 Tesla 哨兵模式",
+            "location": {
+                "x": 520,
+                "y": 3010
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hooked 幣安 IEO Launchpad",
+            "location": {
+                "x": 32,
+                "y": 3297
+            },
+            "size": {
+                "height": 285,
+                "width": 457
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "幣安 足球 粉絲代幣 世足賽",
+            "location": {
+                "x": 32,
+                "y": 3831
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FTX 幣安",
+            "location": {
+                "x": 32,
+                "y": 3963
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "幣安 FTX",
+            "location": {
+                "x": 32,
+                "y": 4095
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gogoro Gogoro Network 心得 優缺點 經驗分享",
+            "location": {
+                "x": 520,
+                "y": 3297
+            },
+            "size": {
+                "height": 285,
+                "width": 457
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gogoro Gogoro Network 菲律賓",
+            "location": {
+                "x": 520,
+                "y": 3831
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gogoro Electrum G20 高峰會 G20",
+            "location": {
+                "x": 520,
+                "y": 3976
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gogoro Gogoro Network Gogoro 換電戰 M Gogoro Rewards Gogoro Rewards 聯名卡",
+            "location": {
+                "x": 520,
+                "y": 4150
+            },
+            "size": {
+                "height": 100,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "三星 Samsung 自拍",
+            "location": {
+                "x": 32,
+                "y": 4946
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2022 Google 熱門搜尋排行 關鍵字",
+            "location": {
+                "x": 358,
+                "y": 4946
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iCloud 端到端加密",
+            "location": {
+                "x": 683,
+                "y": 4946
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iPhone 替代文字 輸入技巧",
+            "location": {
+                "x": 358,
+                "y": 5470
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Music 開唱 卡拉 OK",
+            "location": {
+                "x": 683,
+                "y": 5470
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "湖人 暴龍 nba直播",
+            "location": {
+                "x": 358,
+                "y": 5966
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "魔力寶貝新世界 RPG手遊 開服活動",
+            "location": {
+                "x": 683,
+                "y": 5966
+            },
+            "size": {
+                "height": 184,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            250,
+            250
+        ],
+        [
+            4,
+            29,
+            56
+        ]
+    ],
+    "desc": "蘋果、iPhone、iOS、科技家電開箱教學網站",
+    "navbar": "最新消息\n開箱評測\niOS\nMac\n蘋果周邊\n產品好物推薦\n電腦科技\n電動車\n聯絡果仁",
+    "text": "Skip to content\n蘋果、iPhone、iOS、科技家電開箱教學網站\n最新消息\n開箱評測\niOS\nMac\n蘋果周邊\n產品好物推薦\n電腦科技\n電動車\n聯絡果仁\n三星多重視窗、雙擊快啟、比五自拍，啟動便利的行動新生活\n2022 年 12 月 8 日\nohana\n（置頂文）, 新聞, 科技, 編輯精選\n對一個早先是用 Android 手機，但\n繼續閱讀\n全家友善食光 1000 棵樹全數種下！用科技解決剩食問題獲 ESG 獎肯定\n2022 年 12 月 8 日\nHana\n（置頂文）, 新聞, 生活資訊, 編輯精選\niCloud 用戶發現資料庫內有他人照片引發資安疑慮？照片管理你可以有更安全的選擇\n2022 年 12 月 7 日\nohana\n（置頂文）, 科技, 網路服務應用, 編輯精選\nApple 公佈 2022 年度台灣 Podcast 精選回顧排行\n2022 年 12 月 6 日\nohana\n（置頂文）, iOS專區, 新聞, 科技\n科技\n三星多重視窗、雙擊快啟、比五自拍，啟動便利的行動新生活\n2022 年 12 月 8 日\nohana\n（置頂文）, 新聞, 科技, 編輯精選\n對一個早先是用 Android 手機，但\n繼續閱讀\n2022 年 Google 搜尋關鍵字排行榜出爐！這些字你一定有搜尋過\n2022 年 12 月 8 日\nohana\n新聞, 科技, 網路服務應用\n照片存在 iCloud 更安全了，蘋果擴大端對端加密保護，被入侵也不用擔心\n2022 年 12 月 8 日\nohana\niOS專區, 新聞, 科技\niPhone 超快速一秒輸入 Email、地址、電話小技巧\n2022 年 12 月 8 日\nohana\niOS專區, 科技\n生活\n2022 牛津字典年度代表字出爐！自我放縱、懶惰邋遢的「哥布林模式」是王道\n2022 年 12 月 8 日\nSliver\n新聞, 生活資訊\n牛津字典在日前（12/5）公布 2022\n繼續閱讀\n12月8日威力彩開獎直播：威力彩開獎時間幾點、得獎號碼、中獎方式看這裡\n2022 年 12 月 8 日\nHana\n大樂透/威力彩開獎\n雙 12 速食優惠懶人包：麥當勞/肯德基/漢堡王/摩斯漢堡活動整理\n2022 年 12 月 8 日\nHana\n新聞, 生活資訊\n全家友善食光 1000 棵樹全數種下！用科技解決剩食問題獲 ESG 獎肯定\n2022 年 12 月 8 日\nHana\n（置頂文）, 新聞, 生活資訊, 編輯精選\n電動車\nTesla Vision 純視覺化還是不太穩？特斯拉預告明年 1 月再裝回雷達\n2022 年 12 月 7 日\nTed\n新聞, 特斯拉專欄, 電動車\n今年 10 月時特斯拉曾宣布在部份國家銷\n繼續閱讀\n特斯拉小改款 Model 3 原型車曝光！外觀大致不變，貌似多了 FSD 輔助鏡頭\n2022 年 12 月 6 日\nTed\n新聞, 特斯拉專欄, 電動車\n特斯拉 Semi Truck 正式交付！再宣布功率達 1MW的 V4 超充明年推出\n2022 年 12 月 2 日\nTed\n新聞, 特斯拉專欄, 電動車\n特斯拉哨兵模式 2 大更新推出，可關閉鏡頭偵測、還能調整影片時長\n2022 年 12 月 1 日\nTed\n新聞, 特斯拉專欄, 電動車\n加密貨幣\n幣安 Launchpad 分析：Hooked 是什麼？代幣經濟模型如何？如何參與 IEO？\n2022 年 11 月 28 日\n蘋果仁\n加密貨幣\n幣安（Binance）在 11 月 23\n繼續閱讀\n幣安推出「世足挑戰賽」活動，預測比數瓜分獎金！\n2022 年 11 月 22 日\n蘋果仁\n加密貨幣\n懶人包》幣安與 FTX 到底怎麼了？回顧宛如電影情節的一週\n2022 年 11 月 9 日\n蘋果仁\n加密貨幣\n幣安與 FTX 大戰，分析師表示：FTX 破產機率幾乎為零\n2022 年 11 月 7 日\n蘋果仁\n加密貨幣\nGogoro\nGogoro 資深車主心得老實說！ 優缺點、感想建議、養車花費經驗分享\n2022 年 11 月 30 日\nTed\n（置頂文）, Gogoro 專區, 編輯精選, 電動車\nGogoro 作為台灣電動機車大廠，從\n繼續閱讀\nGogoro 正式進駐菲律賓！導入電池交換系統與智慧電動機車\n2022 年 11 月 30 日\nTed\nGogoro 專區, 新聞, 電動車\nGogoro 於印尼 G20 高峰會亮相！與 Electrum 合作提供電動機車接駁服務\n2022 年 11 月 16 日\nTed\nGogoro 專區, 新聞, 電動車\nGogoro 換電戰 M 下月開打，如何參加、對戰內容、活動獎勵一次看\n2022 年 11 月 15 日\nTed\nGogoro 專區, 新聞, 電動車\n最新消息\n2022 牛津字典年度代表字出爐！自我放縱、懶惰邋遢的「哥布林模式」是王道\n2022 年 12 月 8 日\nSliver\n新聞, 生活資訊\n牛津字典在日前（12/5）公布 2022 年度代表字，這是牛津大學出版社第一次開放給民眾票選，共有三\n繼續閱讀\n12月8日威力彩開獎直播：威力彩開獎時間幾點、得獎號碼、中獎方式看這裡\n2022 年 12 月 8 日\nHana\n大樂透/威力彩開獎\n今天（12/8）威力彩開獎直播來了！頭獎獎金並未開出，因此威力彩彩券的獎金將繼續累積到今天的開獎中；\n繼續閱讀\n雙 12 速食優惠懶人包：麥當勞/肯德基/漢堡王/摩斯漢堡活動整理\n2022 年 12 月 8 日\nHana\n新聞, 生活資訊\n雙 11 時推出許多活動，現在雙 12 將至全台多家速食業者也跟著推出相關的 1212 優惠，包含麥\n繼續閱讀\n三星多重視窗、雙擊快啟、比五自拍，啟動便利的行動新生活\n2022 年 12 月 8 日\nohana\n（置頂文）, 新聞, 科技, 編輯精選\n對一個早先是用 Android 手機，但是改用 iPhone 多年的使用者來說，重新接觸三星 Gal\n繼續閱讀\n2022 年 Google 搜尋關鍵字排行榜出爐！這些字你一定有搜尋過\n2022 年 12 月 8 日\nohana\n新聞, 科技, 網路服務應用\nGoogle 今天公佈了 2022 年台灣熱門搜尋排行榜，包括「快速竄升關鍵字」、「快速竄升議題」、\n繼續閱讀\n照片存在 iCloud 更安全了，蘋果擴大端對端加密保護，被入侵也不用擔心\n2022 年 12 月 8 日\nohana\niOS專區, 新聞, 科技\n蘋果今天宣布將會替 iCloud 更多項目提供端對端加密（End-to-end encryption\n繼續閱讀\n高鐵訂票優惠：大學生寒假返鄉 5 折優惠加開班次、時間一次看\n2022 年 12 月 8 日\nHana\n新聞\n距離 2023 年不到一個月，大學生們的寒假也即將到來，台灣高鐵公司今天也加碼推出「大學生寒假返鄉\n繼續閱讀\niPhone 超快速一秒輸入 Email、地址、電話小技巧\n2022 年 12 月 8 日\nohana\niOS專區, 科技\n我們都知道 iPhone 的系統有提供自動填寫的功能，當我們在註冊一些網站的帳號時，無論是點到姓名、\n繼續閱讀\nApple Music 開唱卡拉 OK 模式如何開啟？這 3 步驟與 4 大亮點總整理\n2022 年 12 月 8 日\nHongWei\niOS專區, 新聞, 科技\n蘋果在本週 (12/07) 宣布將於 Apple Music 上加入「Apple Music 開唱」\n繼續閱讀\n全家友善食光 1000 棵樹全數種下！用科技解決剩食問題獲 ESG 獎肯定\n2022 年 12 月 8 日\nHana\n（置頂文）, 新聞, 生活資訊, 編輯精選\n全家便利商店一直以來致力於透過科技解決剩食問題、實行 ESG 理念，也因此獲得「2022 數位鼎革獎\n繼續閱讀\n【湖人 對 暴龍】NBA直播Live線上看，12/8 美國職籃線上轉播\n2022 年 12 月 8 日\nHana\nNBA直播線上看\n湖人對暴龍的 NBA 直播來囉！NBA 美國職籃新賽季2022-2023季前賽開打，一起來看各隊的精\n繼續閱讀\n《魔力寶貝：新世界》繁中版 12/8 正式上線，開服福利活動好禮一覽\n2022 年 12 月 7 日\nMer\n手遊推薦, 遊戲推薦\n由 SQUARE ENIX 授權、青虹工作室開發、魔塊遊戲代理的經典 IP 手遊《魔力寶貝：新世界》\n繼續閱讀\n文章導覽\n1 2 3 ... 1,152\nNext Posts\n»\n採訪、異業合作連絡信箱：contact@applealmond.com\n廣告、商務合作信箱：contact@applealmond.com\nCopyright © 2022 蘋果仁 All Rights Reserved. | 網站代管：Fast Line 台灣速連",
+    "font": "Roboto, arial, helvetica, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 62,
+                "width": 66
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 62,
+                "width": 66
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 62,
+                "width": 66
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 54,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 62,
+                "width": 66
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 54,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 62,
+                "width": 66
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 62,
+                "width": 66
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 54,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 62,
+                "width": 66
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(6, 28, 57, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

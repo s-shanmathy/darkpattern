@@ -1,0 +1,166 @@
+{
+    "title": "Facebook – log in or sign up",
+    "url": "en-gb.facebook.com",
+    "full_url": "https://en-gb.facebook.com/",
+    "images": [
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 12,
+                "y": 176
+            },
+            "size": {
+                "height": 106,
+                "width": 301
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email address or phone number",
+            "type": "text",
+            "location": {
+                "x": 589,
+                "y": 148
+            },
+            "size": {
+                "height": 52,
+                "width": 364
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Password",
+            "type": "password",
+            "location": {
+                "x": 606,
+                "y": 227
+            },
+            "size": {
+                "height": 22,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            240,
+            242,
+            245
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            122,
+            237
+        ]
+    ],
+    "desc": "Log in to Facebook to start sharing and connecting with your friends, family and people you know.",
+    "text": "Facebook helps you connect and share with the people in your life.\nLog in\nForgotten password?\nCreate New Account\nCreate a Page for a celebrity, brand or business.\nEnglish (UK)\nEspañol\nFrançais (France)\n中文(简体)\nالعربية\nPortuguês (Brasil)\nItaliano\n한국어\nDeutsch\nहिन्दी\n日本語\nSign UpLog inMessengerFacebook LiteWatchPlacesGamesMarketplaceMeta PayOculusPortalInstagramBulletinFundraisersServicesVoting Information CentrePrivacy PolicyPrivacy CentreGroupsAboutCreate adCreate PageDevelopersCareersCookiesAdChoices\nTermsHelpContact uploading and non-users\nSettings\nActivity log\nMeta © 2022",
+    "font": "system-ui, -apple-system, \"system-ui\", \".SFNSText-Regular\", sans-serif",
+    "buttons": [
+        {
+            "text": "Log in",
+            "bg-color": "rgba(24, 119, 242, 1)",
+            "location": {
+                "x": 589,
+                "y": 280
+            },
+            "size": {
+                "height": 48,
+                "width": 364
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

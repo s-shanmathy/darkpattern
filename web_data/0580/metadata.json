@@ -1,0 +1,913 @@
+{
+    "title": "MarTech - Marketing Strategy, Marketing Technology, Marketing Transformation",
+    "url": "marketingland.com",
+    "full_url": "https://martech.org/",
+    "images": [
+        {
+            "alt": "Martech: Martech is Marketing Logo",
+            "location": {
+                "x": 36,
+                "y": 328
+            },
+            "size": {
+                "height": 29,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The MarTech Conference logo.",
+            "location": {
+                "x": 697,
+                "y": 957
+            },
+            "size": {
+                "height": 75,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The SMX Conference logo.",
+            "location": {
+                "x": 697,
+                "y": 1114
+            },
+            "size": {
+                "height": 146,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your business email here",
+            "type": "email",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your business email here.",
+            "type": "email",
+            "location": {
+                "x": 702,
+                "y": 689
+            },
+            "size": {
+                "height": 38,
+                "width": 266
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 697,
+                "y": 2004
+            },
+            "size": {
+                "height": 38,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your business email here.",
+            "type": "email",
+            "location": {
+                "x": 424,
+                "y": 4907
+            },
+            "size": {
+                "height": 38,
+                "width": 373
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            231,
+            231,
+            239
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "MarTech is on a mission to educate marketers about marketing technology and strategy through news and feature reporting, newsletters, research reports, live conferences and digital events. MarTech is marketing.",
+    "navbar": "Topics\nConference\nWebinars\nIntelligence reports\nWhite papers\nWhat is martech",
+    "text": "Topics\nConference\nWebinars\nIntelligence reports\nWhite papers\nWhat is martech\nDigital asset management (DAM)\nTags vs. metadata in DAM: What’s the difference?\nUnderstanding how these vital yet commonly confused elements differ is crucial for setting up and maintaining your DAM.\nby Michelle Tackabery\nMarTech salary and career\nHow marketing compensation and roles are changing: Take the MarTech Salary and Career Survey\nby Kim Davis\nDigital advertising\nBermuda Tourism launches 3D digital out-of-home in New York\nby Chris Wood\nEmail marketing\nMarTech’s email marketing experts to follow\nby Constantine von Hoffman\nData\nSupercharge your marketing ROI for success\nby Wrike\nGet the daily newsletter digital marketers rely on.\nSUBSCRIBE\nSee terms.\nDigital advertising\nBermuda Tourism launches 3D digital out-of-home in New York\nBermuda Tourism Authority is pioneering the new technology with OUTFRONT to boost awareness and get flights booked.\nChris Wood | Dec 6, 2022 at 1:28 pm ET\nDigital asset management (DAM)\nTags vs. metadata in DAM: What’s the difference?\nUnderstanding how these vital yet commonly confused elements differ is crucial for setting up and maintaining your DAM.\nMichelle Tackabery | Dec 6, 2022 at 9:56 am ET\nData\nSupercharge your marketing ROI for success\nMeasuring marketing performance is a delicate balance between science and art.\nWrike | Dec 6, 2022 at 7:00 am ET\nEmail marketing\nMarTech’s email marketing experts to follow\nHere are the email marketing experts to follow to stay on top of all the best practices and latest developments.\nConstantine von Hoffman | Dec 5, 2022 at 2:35 pm ET\nData\nWebinar: Drive smarter engagement across the customer journey\nLearn the tools and tactics to execute personalization across channels from a data-first organization.\nCynthia Ramsaran | Dec 5, 2022 at 12:37 pm ET\nCustomer data platform (CDP)\nWhere should a CDP fit in your martech stack?\nHere are three approaches to consider when implementing a CDP based on how it integrates with your customer data ecosystem.\nApoorv Durga | Dec 5, 2022 at 10:30 am ET\nDigital advertising\nAmazon announces AWS Clean Rooms\nThe new service will allow AWS Advertising and Marketing customers to pull insights from securely protected data to be used for campaigns and research.\nChris Wood | Dec 2, 2022 at 12:23 pm ET\nSocial media marketing\nKanye West too much even for Musk’s Twitter\nYe has brought Musk to a fork in the road and marketers are waiting to see which route he takes.\nKim Davis | Dec 2, 2022 at 11:56 am ET\nMarketing technology\nMarketing software: Think three times before you customize\nBefore you build your own marketing software or buy and customize one, learn the potential pitfalls of each approach and how to avoid them.\nGreg Krehbiel | Dec 2, 2022 at 10:13 am ET\nAccount-based marketing (ABM)\n2 essential steps for a successful ABM go-to-market strategy\nFollow these guidelines to launch, or relaunch, an ABM go-to-market approach within your organization.\nChris Wood | Dec 1, 2022 at 2:05 pm ET\nLocal / location marketing\n5 Yelp facts business owners should know (but most don’t)\nBusiness owners: Yelp doesn't have to be a source of anxiety! Here's how you can make the review site work for you.\nBrian Patterson | Dec 1, 2022 at 2:00 pm ET\nB2B marketing\nSendoso launches a freemium eGifting service\nThe corporate gifting service is offering unlimited eGifting aimed primarily at the SMB market.\nKim Davis | Dec 1, 2022 at 12:08 pm ET\nDigital transformation\nWebinar: Your winning CTV advertising strategy in 2023\nLearn how your business can reach your target audience with connected TV.\nCynthia Ramsaran | Nov 30, 2022 at 5:28 pm ET\nMarketing attribution\nChannel99 will help marketers measure the performance of channels and vendors\nA new company from the founder of Demandbase is seeking to meet the B2B attribution challenge, leading with a free mobile app.\nKim Davis | Nov 30, 2022 at 12:03 pm ET\nSalesforce\nSalesforce winter 2023 release: The business executive’s guide\nSalesforce added key features, including support for subscription selling and sales enablement functionality.\nJoe Anzalone | Nov 30, 2022 at 9:43 am ET\nMarketing operations (MOps)\n5 ways to improve your content workflow and strategy in 2023\nA look at how the most successful content teams strategize for success.\nCanto | Nov 30, 2022 at 7:00 am ET\nData\nWebinar: Do more with less to get ahead in 2023\nEmpower your teams to send less communications and see more results.\nCynthia Ramsaran | Nov 29, 2022 at 3:06 pm ET\nMetaverse\nOver half of marketers are using the metaverse or considering it\n56% of media buyers are activating metaverse strategies or getting there, an IAB survey finds.\nChris Wood | Nov 29, 2022 at 12:46 pm ET\nEcommerce\nOnline retail kicks off holiday season with record sales\nAdobe and Salesforce have different Black Friday and Cyber Monday sales totals, but both show record increases from 2021.\nConstantine von Hoffman | Nov 29, 2022 at 12:35 pm ET\nIdentity resolution\nLiveIntent launches Identity Enrichment on Salesforce AppExchange\nSalesforce customers can now use LiveIntent to match customers in their CRM against identity, demographic and behavioral data.\nChris Wood | Nov 29, 2022 at 11:28 am ET\n12345\n»\nATTEND OUR EVENTS\nStart Discovering Now: Fall\n\n\nWEBINARS\nPutting in the Work: Understanding B2B Audiences on Connected TV\nDo More with Less: Connect Customer Data to Drive Marketing Efficiency\n5 Ways to Make Customer Experiences Drive Conversions & Revenue\nSEE MORE WEBINARS\nINTELLIGENCE REPORTS\nEnterprise Digital Events Platforms: A Marketer’s Guide\nEnterprise Marketing Performance Management Platforms: A Marketer’s Guide\nEnterprise Customer Journey Orchestration Platforms: A Marketer’s Guide\nSEE MORE INTELLIGENCE REPORTS\nFEATURED WHITE PAPER\nThe Ultimate Reputation Management Guide for Financial Services\nSEE MORE WHITEPAPERS\nSEARCH OUR SITE\nSEARCH\nReceive daily marketing news & analysis.\nSUBSCRIBE\nTOPICS\nAll topics\nHome\nOUR EVENTS\nMarTech\nSearch Marketing Expo - SMX\nABOUT\nWhat is martech\nContact\nPrivacy\nTerms of use\nMarketing opportunities\nStaff\nAbout us\nFOLLOW US\nFacebook\nTwitter\nLinkedIn\nNewsletters\nRSS\n© 2022 Third Door Media, Inc. All rights reserved.",
+    "font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", \"Noto Sans\", \"Liberation Sans\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(242, 88, 34, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(33, 37, 41, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(33, 37, 41, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(33, 37, 41, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SUBSCRIBE",
+            "bg-color": "rgba(33, 37, 41, 1)",
+            "location": {
+                "x": 702,
+                "y": 731
+            },
+            "size": {
+                "height": 38,
+                "width": 266
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SEARCH",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 947,
+                "y": 2004
+            },
+            "size": {
+                "height": 36,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(242, 88, 34, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SUBSCRIBE",
+            "bg-color": "rgba(242, 88, 34, 1)",
+            "location": {
+                "x": 798,
+                "y": 4907
+            },
+            "size": {
+                "height": 38,
+                "width": 187
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

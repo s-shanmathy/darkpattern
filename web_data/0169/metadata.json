@@ -1,0 +1,913 @@
+{
+    "title": "Intelligent Diagramming | Lucidchart",
+    "url": "lucidchart.com",
+    "full_url": "https://www.lucidchart.com/pages/",
+    "images": [
+        {
+            "alt": "Lucid Logo",
+            "location": {
+                "x": 28,
+                "y": 18
+            },
+            "size": {
+                "height": 30,
+                "width": 163
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lucidchart Product Suite Logo",
+            "location": {
+                "x": 306,
+                "y": 120
+            },
+            "size": {
+                "height": 23,
+                "width": 154
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Lucidspark Product Suite Logo",
+            "location": {
+                "x": 306,
+                "y": 244
+            },
+            "size": {
+                "height": 23,
+                "width": 154
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Lucidscale Product Suite Logo",
+            "location": {
+                "x": 306,
+                "y": 369
+            },
+            "size": {
+                "height": 23,
+                "width": 154
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Featured Resource",
+            "location": {
+                "x": 709,
+                "y": 118
+            },
+            "size": {
+                "height": 137,
+                "width": 182
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Go to Lucidchart homepage",
+            "location": {
+                "x": 28,
+                "y": 88
+            },
+            "size": {
+                "height": 30,
+                "width": 163
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lucidspark",
+            "location": {
+                "x": 709,
+                "y": 188
+            },
+            "size": {
+                "height": 137,
+                "width": 182
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Work remotely",
+            "location": {
+                "x": 709,
+                "y": 188
+            },
+            "size": {
+                "height": 137,
+                "width": 182
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Amazon logo",
+            "location": {
+                "x": 25,
+                "y": 1288
+            },
+            "size": {
+                "height": 60,
+                "width": 141
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "General Electric logo",
+            "location": {
+                "x": 229,
+                "y": 1288
+            },
+            "size": {
+                "height": 60,
+                "width": 141
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google logo",
+            "location": {
+                "x": 434,
+                "y": 1288
+            },
+            "size": {
+                "height": 60,
+                "width": 141
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hewlett Packard logo",
+            "location": {
+                "x": 639,
+                "y": 1288
+            },
+            "size": {
+                "height": 60,
+                "width": 141
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NBC logo",
+            "location": {
+                "x": 844,
+                "y": 1288
+            },
+            "size": {
+                "height": 60,
+                "width": 141
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Atlassian logo",
+            "location": {
+                "x": 434,
+                "y": 1412
+            },
+            "size": {
+                "height": 60,
+                "width": 141
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amazon logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "General Electric logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Google logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Hewlett Packard logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "NBC logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Atlassian logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Create a shared vision image",
+            "location": {
+                "x": 28,
+                "y": 1736
+            },
+            "size": {
+                "height": 336,
+                "width": 448
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Everyone on the same page image",
+            "location": {
+                "x": 533,
+                "y": 2152
+            },
+            "size": {
+                "height": 336,
+                "width": 448
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bring plans to life image",
+            "location": {
+                "x": 28,
+                "y": 2568
+            },
+            "size": {
+                "height": 336,
+                "width": 448
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Okta Logo",
+            "location": {
+                "x": 164,
+                "y": 3008
+            },
+            "size": {
+                "height": 96,
+                "width": 170
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image depicting security over all domains.",
+            "location": {
+                "x": 28,
+                "y": 3629
+            },
+            "size": {
+                "height": 220,
+                "width": 294
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lucid Software logo",
+            "location": {
+                "x": 733,
+                "y": 3678
+            },
+            "size": {
+                "height": 186,
+                "width": 248
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration showing tight integration with other top software and tools",
+            "location": {
+                "x": 335,
+                "y": 3953
+            },
+            "size": {
+                "height": 220,
+                "width": 294
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Complex flowchart diagram example",
+            "location": {
+                "x": 338,
+                "y": 4443
+            },
+            "size": {
+                "height": 482,
+                "width": 643
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "linkedin",
+            "location": {
+                "x": 406,
+                "y": 5936
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 458,
+                "y": 5936
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "instagram",
+            "location": {
+                "x": 510,
+                "y": 5936
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 562,
+                "y": 5936
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "youtube",
+            "location": {
+                "x": 614,
+                "y": 5936
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "glassdoor",
+            "location": {
+                "x": 666,
+                "y": 5936
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Download on the Apple App Store",
+            "location": {
+                "x": 718,
+                "y": 5926
+            },
+            "size": {
+                "height": 40,
+                "width": 115
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Download on the Google Play Store",
+            "location": {
+                "x": 866,
+                "y": 5926
+            },
+            "size": {
+                "height": 40,
+                "width": 115
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            242,
+            243,
+            245
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            251,
+            252
+        ]
+    ],
+    "desc": "Lucidchart is the intelligent diagramming application where seeing becomes doing. With this intuitive, cloud-based solution, everyone can work visually and collaborate in real time while building flowcharts, mockups, UML diagrams, and more. Sign up for free now.",
+    "navbar": "",
+    "text": "Product suite\nCompany\nEnglish\nLog in\nProduct\nSolutions\nResources\nEnterprise\nPricing\nContact sales\nSign up free\nWhere seeing becomes doing.\nLucidchart is the intelligent diagramming application that brings teams together to make better decisions and build the future.\nSign up free\nClarify complexity\nIndividuals and teams can easily and quickly map out where they are, what’s missing, and what’s next.\nLearn more\n1 of 3\n99% of Fortune 500 choose Lucidchart\nCreate a shared vision.\nQuickly visualize your team's processes, systems, and organizational structure. Intelligent diagramming lets you visualize complex ideas faster, clearer and more collaboratively.\nGet everyone on the same page, literally.\nA common visual language accelerates collaboration and improves communication. It’s easier to align and stay aligned when everyone collaborates in the same space. Lucidchart makes it easy to involve the right people to make the right decisions.\nBring plans to life.\nEven the best ideas need help to become real. Lucidchart allows you to stay focused and sprint forward with purpose. Bring to life the plans that will propel your business.\nTodd McKinnon\nCEO and Co-Founder of Okta\nLucidchart helps users sketch and share professional flowchart diagrams, providing designs for anything from brainstorming to project management. I don’t think enough people know how helpful this technology can be, but I do—I drew some of the original architecture and product sketches for Okta using Lucidchart.\nView case studies\nEnterprise ready\nEvery team can benefit from intelligent diagramming—and Lucidchart offers organizations a secure, scalable way to do so.\nLearn more\nPart of the Lucid Visual Collaboration Suite\nLucidchart becomes even more powerful when combined with Lucidspark, our virtual whiteboard. Together these products help teams envision the future—and then build it.\nLearn more\nIntegrated with industry-leading apps\nCommunicate visually and keep teams aligned in the places you already work. Connect with Google Workspace, Microsoft, Atlassian, Slack, and more.\nLearn more\nPopular Lucidchart use cases\nNo matter your objective, Lucidchart equips you to visualize complex ideas faster, clearer and more collaboratively.\nEasily update your diagrams as your processes change. Use intuitive drag-and-drop features to quickly map out your business processes to identify inefficiencies so you can start driving needed improvement.\nCreate business process maps\nStay aligned on user flows\nScale cloud infrastructure\nPlan and organize scrum teams\nMap data flows\nSign up free\nTap into the power of intelligent diagramming with Lucidchart.\nSign up free\nGet started\nPricing\nIndividual\nTeam\nEnterprise\nContact sales\nProduct\nLucidchart overview\nLucidscale\nIntegrations\nSecurity\nSolutions\nRemote teams\nEngineering\nIT\nOperations\nProduct\nSales\nEducation\nResources\nLearning campus\nBlog\nWebinars\nSupport\nCase studies\nDiagrams\nPartners\nNewsletter\nAffiliates\nCompany\nAbout us\nMission\nLeadership\nNewsroom\nCareers\nEnglish\nPrivacy\nLegal\nCookies\n© 2022 Lucid Software Inc.",
+    "font": "Graphik, -apple-system, \"system-ui\", \"Segoe UI\", \"Helvetica Neue\", Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(249, 107, 19, 1)",
+            "location": {
+                "x": -512,
+                "y": 21
+            },
+            "size": {
+                "height": 42,
+                "width": 170
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 35,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Product suite",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 207,
+                "y": 0
+            },
+            "size": {
+                "height": 70,
+                "width": 133
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Company",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 340,
+                "y": 0
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "English",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 801,
+                "y": 24
+            },
+            "size": {
+                "height": 20,
+                "width": 101
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 35,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Product",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 207,
+                "y": 70
+            },
+            "size": {
+                "height": 70,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Solutions",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 299,
+                "y": 70
+            },
+            "size": {
+                "height": 70,
+                "width": 103
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Resources",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 402,
+                "y": 70
+            },
+            "size": {
+                "height": 70,
+                "width": 111
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 825,
+                "y": 984
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 881,
+                "y": 984
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 937,
+                "y": 984
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Create business process maps",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 28,
+                "y": 4542
+            },
+            "size": {
+                "height": 40,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Stay aligned on user flows",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 28,
+                "y": 4622
+            },
+            "size": {
+                "height": 20,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Scale cloud infrastructure",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 28,
+                "y": 4682
+            },
+            "size": {
+                "height": 20,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Plan and organize scrum teams",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 28,
+                "y": 4742
+            },
+            "size": {
+                "height": 40,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Map data flows",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 28,
+                "y": 4822
+            },
+            "size": {
+                "height": 20,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "English",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 28,
+                "y": 5912
+            },
+            "size": {
+                "height": 20,
+                "width": 101
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

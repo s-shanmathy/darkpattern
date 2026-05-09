@@ -1,0 +1,576 @@
+{
+    "title": "TheGamer - The Leading Source for Gaming News, Reviews, and Interviews",
+    "url": "thegamer.com",
+    "full_url": "https://www.thegamer.com/",
+    "images": [
+        {
+            "alt": "TheGamer logo",
+            "location": {
+                "x": 32,
+                "y": 23
+            },
+            "size": {
+                "height": 34,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "George and his Subaru in Need for Speed Unbound. ",
+            "location": {
+                "x": 48,
+                "y": 112
+            },
+            "size": {
+                "height": 309,
+                "width": 557
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Worldgorger Dragon by RK Post",
+            "location": {
+                "x": 48,
+                "y": 453
+            },
+            "size": {
+                "height": 190,
+                "width": 299
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Alien Isolation",
+            "location": {
+                "x": 363,
+                "y": 453
+            },
+            "size": {
+                "height": 190,
+                "width": 299
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Signature Cards Hearthstone",
+            "location": {
+                "x": 677,
+                "y": 453
+            },
+            "size": {
+                "height": 190,
+                "width": 299
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "rathalos flying through the sky",
+            "location": {
+                "x": 48,
+                "y": 748
+            },
+            "size": {
+                "height": 109,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GeForce RTX 4080",
+            "location": {
+                "x": 240,
+                "y": 748
+            },
+            "size": {
+                "height": 109,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "gta 6 mod lucia into gta 5 ",
+            "location": {
+                "x": 432,
+                "y": 748
+            },
+            "size": {
+                "height": 109,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fortnite Chapter 4 showing off a Doom Slayer collab.",
+            "location": {
+                "x": 624,
+                "y": 748
+            },
+            "size": {
+                "height": 109,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Custom Image - Genshin VS Sonic",
+            "location": {
+                "x": 816,
+                "y": 748
+            },
+            "size": {
+                "height": 109,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pokemon Scarlet and Violet collage of a trainer knocking a pokemon out of a tree",
+            "location": {
+                "x": 48,
+                "y": 1173
+            },
+            "size": {
+                "height": 206,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Alternate Costumes In fighting Games Featured - Mortal Kombat 11, Street Fighter 4, Tekken 7",
+            "location": {
+                "x": 48,
+                "y": 1504
+            },
+            "size": {
+                "height": 206,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NFS Unbound Car Drifting Feature",
+            "location": {
+                "x": 48,
+                "y": 1834
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ghost from call of duty",
+            "location": {
+                "x": 48,
+                "y": 2180
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Every First Gym Leader Ranked Feature Image - Brock, Milo, Katy ",
+            "location": {
+                "x": 48,
+                "y": 2503
+            },
+            "size": {
+                "height": 304,
+                "width": 608
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GOTY cover photo - Joe (1)",
+            "location": {
+                "x": 48,
+                "y": 3049
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jim Ryan",
+            "location": {
+                "x": 48,
+                "y": 3333
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Indie Games",
+            "location": {
+                "x": 48,
+                "y": 3656
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "title image warlock demo build-1",
+            "location": {
+                "x": 48,
+                "y": 3979
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NFS Character Creator (1)",
+            "location": {
+                "x": 48,
+                "y": 4348
+            },
+            "size": {
+                "height": 304,
+                "width": 608
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Nintendo Switch is inside the dock as the gray Joycons are connected to the console.",
+            "location": {
+                "x": 48,
+                "y": 4921
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gaming LGBT Russia",
+            "location": {
+                "x": 48,
+                "y": 5235
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TheWitcher3",
+            "location": {
+                "x": 48,
+                "y": 5637
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Custom Image - Stacey and Andy in Skyrim",
+            "location": {
+                "x": 48,
+                "y": 5936
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pokemon Scarlet & Violet New Type Combinations Feature Image: Revraroom, Pawmot and Grafaiai",
+            "location": {
+                "x": 48,
+                "y": 6243
+            },
+            "size": {
+                "height": 304,
+                "width": 608
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "custom_image_-_goty_hub",
+            "location": {
+                "x": 48,
+                "y": 6815
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TemTem showdown featured",
+            "location": {
+                "x": 48,
+                "y": 7086
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pokemon Scarlet Violet Pokemon League Victory Road Guide",
+            "location": {
+                "x": 48,
+                "y": 7449
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3-hearthstone_frost_death_knight_deck_guide",
+            "location": {
+                "x": 48,
+                "y": 7842
+            },
+            "size": {
+                "height": 146,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fortnite",
+            "location": {
+                "x": 48,
+                "y": 8195
+            },
+            "size": {
+                "height": 304,
+                "width": 608
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "D&D Barbarians",
+            "location": {
+                "x": 676,
+                "y": 1507
+            },
+            "size": {
+                "height": 70,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Warzone 2.0 Soldier on the left and DMZ Dead Drop on the right.",
+            "location": {
+                "x": 676,
+                "y": 1593
+            },
+            "size": {
+                "height": 118,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Genshin Impact Wanderer In Fire And Falling Down",
+            "location": {
+                "x": 676,
+                "y": 1679
+            },
+            "size": {
+                "height": 98,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search TheGamer",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            24,
+            24,
+            24
+        ],
+        [
+            32,
+            35,
+            43
+        ]
+    ],
+    "desc": "TheGamer delivers the biggest video game news, in-depth interviews, honest reviews, timely previews, and surprising stories.",
+    "navbar": "PERSONA 5 ROYAL\nTG ORIGINALS\nNEWS\nGUIDES\nREVIEWS\nRELEASE DATES\nLISTS\nMORE\nFOLLOW US",
+    "text": "PERSONA 5 ROYAL\nTG ORIGINALS\nNEWS\nGUIDES\nREVIEWS\nRELEASE DATES\nLISTS\nMORE\nFOLLOW US\nTHEGAMER ORIGINALS\nNeed For Speed Unbound’s Greatest Success Is Making You Care About Your Car\nIt’s you and me against the world, Subaru.\nBY GEORGE FOSTER\nTHEGAMER ORIGINALS\nMagic: The Gathering Reveals Every Card For Dominaria Remastered At Once\nTHEGAMER ORIGINALS\nGoodbye Andy Kelly, Time To Replay Alien Isolation In Your Honour\nGUIDES\nHearthstone: What Are Signature Cards?\nPOPULAR NEWS\nGAME NEWS\nMonster Hunter Rise Won't Support Cross-Play Or Cross-Saves On New Consoles\nGAME NEWS\nScalpers Lose Their Shirts Trying To Sell Overpriced Graphics Cards\nGAME NEWS\nGTA 6's Protagonist Has Been Modded Into GTA 5\nGAME NEWS\nGeralt Of Rivia, Doom Slayer, MrBeast, And Hulk Are Coming To Fortnite\nTHEGAMER ORIGINALS\nGenshin Impact And Sonic Frontiers Fight For The Players' Voice Award\nLATEST\nGUIDES\nPokemon Scarlet & Violet: How To Catch Pokemon In Trees\nIf you're wondering about the Pokemon hiding in trees during your travels - here's how to get them down in Pokemon Scarlet & Violet.\nBY JACK WEBB 1 MINUTE AGO\nLISTS\n10 Fighting Games With The Best Alternate Costumes\nIf you want to do battle with a fashionable flair, these are the best fighting games offering alternate costumes and skins.\nBY CAMERON MILLER 2 HOURS AGO\nGUIDES\nNeed For Speed Unbound: The Different Drift Methods\nIf you are struggling to drift in Need For Speed: Unbound, then we're here to help.\nBY ZACHARY BOUGEN 2 HOURS AGO\nGAME NEWS\nAnti-Defamation League Notes Rise In White Supremacism In Online Gaming\nHarassment is also rising in online games, according to the ADL.\nBY SEAN MURRAY 2 HOURS AGO\nLISTS\nPokemon: Each Region's First Gym Leader, Ranked By Difficulty\nWhich Gym Leader Will Give You The Toughest Start?\nBY JEREMY HANNA 2 HOURS AGO\nTHEGAMER ORIGINALS\nTheGamer Game Of The Year Editor's Pick, 2022 - Joe Parlock\nMurder, vampires, and cards make Joe's Game of the Year list for 2022.\nBY JOE PARLOCK 2 HOURS AGO\nGAME NEWS\nPlayStation Head Jim Ryan Says That PS5 Stock Issues Are Resolved\nNo more worries about finding a PlayStation 5 to buy.\nBY LU-HAI LIANG 3 HOURS AGO\nTHEGAMER ORIGINALS\nAll Of The Indie Games I Really Want To Finish Before The Year Is Over\nToo many games and not enough time\nBY JADE KING 3 HOURS AGO\nGUIDES\nWorld of Warcraft: Dragonflight - Demonology Warlock Complete Guide\nFind out all you need to know about talents, rotations, gear, and more for Demonology Warlocks in WoW: Dragonflight.\nBY KRISTY AMBROSE 3 HOURS AGO\nTHEGAMER ORIGINALS\nNeed For Speed Unbound's Character Creator Is Another Win For The Series\nUnbound has brought greatness back to Need for Speed, and the character customisation is a huge part of that\nBY ISSY VAN DER VELDE 3 HOURS AGO\nGUIDES\nNintendo Switch: Friends List Guide\nAdding friends to your Nintendo Switch can be more challenging than you expect. Find out how to add them while understanding the features available.\nBY GARRETT HARLEY GARCIA 3 HOURS AGO\nGAME NEWS\nRussia Considers Assassin's Creed, Life Is Strange, Dragon Age, And The Last Of Us \"LGBT Propaganda\"\nDisplays of the gay agenda can result in fines over $6,000.\nBY SEAN MURRAY 3 HOURS AGO\nGAME NEWS\nThe Witcher 3's Current-Gen Update Finally Makes Use Of Velen's Locked Door\nMystery solved.\nBY GEORGE FOSTER 3 HOURS AGO\nTHEGAMER ORIGINALS\nGoodbye, Andy Kelly. I'm The Skyrim Guy Now\nAndy Kelly is leaving games journalism, and somebody needs to write about Skyrim instead\nBY STACEY HENLEY 3 HOURS AGO\nLISTS\nPokemon Scarlet & Violet: Every New Type Combination, Ranked\nPokemon Scarlet & Violet introduced several new type combinations, but which are the best?\nBY DORUK KAPTAN 4 HOURS AGO\nTHEGAMER ORIGINALS\nTheGamer Game Of The Year Hub\nAll of our top 10 GOTY lists in one place.\nBY THEGAMER STAFF 4 HOURS AGO\nTHEGAMER ORIGINALS\nTemtem’s Showdown Mode Is The Next Evolution Of Pokemon’s Rental Teams\nPvP Temtem battles will be accessible to everyone\nBY BEN SLEDGE 4 HOURS AGO\nGUIDES\nPokemon Scarlet & Violet: Victory Road Pokemon League Walkthrough\nYour journey to become a champion in Pokemon Scarlet & Violet nears its end. Don't slip up on Victory Road. Prove your prowess once and for all.\nBY QUINTON O'CONNOR 4 HOURS AGO\nGUIDES\nHearthstone: Frost Death Knight Deck Guide\nThe Frost Death Knight is a heavy control and damage deck. Here's how to build around its biggest strengths, with a deck list, tips, and card analysis\nBY HARRY ALSTON 4 HOURS AGO\nTHEGAMER ORIGINALS\nFortnite Just Became The Best Looking Game On Consoles\nProper fit.\nBY JADE KING 4 HOURS AGO\n  TRENDING NOW\nDungeons & Dragons: 7 Most Iconic Barbarians\nCall Of Duty: Warzone 2 - All DMZ Dead Drop Locations\nGenshin Impact: Ascension Materials For Wanderer\nWrite For Us\nHome\nContact Us\nTerms\nPrivacy\nCopyright\nAbout Us\nPress Kit\nFact Checking Policy\nCorrections Policy\nEthics Policy\nOwnership Policy\nCopyright © 2022 www.thegamer.com",
+    "font": "arial, helvetica, clean, sans-serif",
+    "buttons": []
+}

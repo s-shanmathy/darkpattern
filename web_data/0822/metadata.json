@@ -1,0 +1,179 @@
+{
+    "title": "Home - Uluru Statement from the Heart",
+    "url": "ulurustatement.org",
+    "full_url": "https://ulurustatement.org/",
+    "images": [
+        {
+            "alt": "Home",
+            "location": {
+                "x": 30,
+                "y": 24
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 279,
+                "y": 117
+            },
+            "size": {
+                "height": 332,
+                "width": 451
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "parallax background",
+            "location": {
+                "x": -303,
+                "y": 2508
+            },
+            "size": {
+                "height": 909,
+                "width": 1615
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter your search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            32,
+            29,
+            29
+        ],
+        [
+            177,
+            18,
+            33
+        ],
+        [
+            255,
+            187,
+            49
+        ]
+    ],
+    "text": "     We invite you to join a movement of the Australian people and walk with us for a better future. We call on all Australians to support a First Nations Voice to Parliament by voting Yes in the upcoming referendum, so we can finally have a say on policies and laws that affect our communities.\nLearn more about the Voice\nThe Uluru Statement from the Heart\n The Uluru Statement from the Heart is an invitation to the Australian people. We ask Australians to accept our invitation to walk with us in a movement of the Australian people for a better future. We call for the establishment of a First Nations Voice enshrined in the Constitution and a Makarrata Commission to supervise a process of agreement-making and truth-telling about our history.\nExplore the statement\nTake Action\nBecome part of the movement to help build a better future for all First Nations and Australian people.\nTake action now\nOur Story\n  In 2016 and 2017, the Referendum Council led a series of Regional Dialogues to discuss options for constitutional recognition with First Nations people from all corners of the country. The purpose of these First Nations Regional Dialogues was to ensure that Aboriginal decision making was at the heart of the process. The stories that were recounted in those Dialogues were collated, and, along with the Records of Meetings, read to the First Nations Constitutional Convention at Uluru in May 2017, as “Our Story”. The Convention endorsed the work of the Dialogues and issued the Uluru Statement from the Heart to the Australian people.\nExplore our story\nThe Statement\nView The Statement\nHistory\nThe Dialogues\nAbout Us\nOur People\nUluru Youth Network\nOur Story\nThe Law\nInvasion\nResistance\nMourning\nActivism\nLand Rights\nMakarrata\nTake Action\nWrite to your MP\nSupporter Kit\nMerchandise\nEducation\nFaqs\nResources\nTranslation\nNews\n© 2022 ULURU STATEMENT FROM THE HEART | Privacy Policy | Terms of Use\nThis site includes images, quotes and references to people who have passed. We have included them to acknowledge, honour and pay respect to their contribution and efforts to our struggles, our progress and achievements.\nOk\nX",
+    "font": "Calluna, Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://www.youtube.com/embed/5gF6DqYH6FE?wmode=opaque",
+            "location": {
+                "x": 44,
+                "y": 995
+            },
+            "size": {
+                "height": 518,
+                "width": 921
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": true
+        }
+    ],
+    "buttons": []
+}

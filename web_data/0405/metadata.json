@@ -1,0 +1,338 @@
+{
+    "title": "Remote Jobs | Working Nomads",
+    "url": "workingnomads.com",
+    "full_url": "https://www.workingnomads.com/jobs",
+    "images": [
+        {
+            "alt": "Working Nomads logo",
+            "location": {
+                "x": 27,
+                "y": 14
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 578
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 614
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 650
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 686
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 722
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 758
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 794
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 830
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 866
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 902
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 938
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 974
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 1010
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 1046
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 26,
+                "y": 1082
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search for a remote job",
+            "type": "text",
+            "location": {
+                "x": 823,
+                "y": 541
+            },
+            "size": {
+                "height": 28,
+                "width": 202
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            240,
+            248,
+            249
+        ],
+        [
+            43,
+            47,
+            58
+        ]
+    ],
+    "desc": "Remote jobs for digital working nomads. Start your telecommuting career and work remotely from home or places around the world.",
+    "navbar": "Working Nomads\n  Post a Job\nJob Alerts\nSign up\nLogin",
+    "text": "Working Nomads\n  Post a Job\nJob Alerts\nSign up\nLogin\nRemote jobs for Digital Working Nomads.\nWork remotely from your home or places around the world.\nWe have the perfect digital job opportunities for those looking to start their telecommuting career.\nPost a Job Subscribe\nCategories\nDevelopment\n13933\nMarketing\n2840\nManagement\n2684\nSystem Administration\n2329\nDesign\n2104\nSales\n1642\nWriting\n1546\nCustomer Success\n1433\nFinance\n821\nConsulting\n802\nHuman Resources\n730\nAdministration\n662\nEducation\n323\nHealth Care\n189\nLegal\n130\nRemote Jobs\nlemon.io\n7 hours ago\nReact & React Native Developer\nDevelopment react react native english\nEurope, Latin America, Canada Full-time $60000-$120000\nlemon.io\n7 hours ago\niOS/Swift Developer\nDevelopment swift ios objective-c english\nEurope, Latin America Full-time $60000-$120000\nMarker Content\n1 day ago\nRemote Copywriter\nWriting copywriting\nRemote Contract\nEleven Writing\n6 days ago\nRemote Writer ¦ HR, People Management & Business\nWriting content writing copywriting seo english\nContract\nEleven Writing\n6 days ago\nRemote Writer ¦ Personal Finance\nWriting copywriting seo english finance\nContract\nMagic, Inc.\n6 days ago\nRecruitment Manager - Volume Hiring in Latin America\nHuman Resources english social media negotiation interviewing\nLatin America only Full-time\nSecure Group\n10 days ago\nProduct Marketing Manager\nMarketing product marketing product management security\nEurope Full-time\nToptal\n10 days ago\nRuby on Rails developer\nDevelopment ruby ruby on rails javascript front end\nGlobal Contract\nLemon.io\n13 days ago\nPython Developer\nDevelopment django english architecture python\nEurope, Latin America, Canada Full-time $60000-$120000\nLemon.io\n13 days ago\nJavaScript Developer\nDevelopment react react native english typescript\nEurope, Latin America, Canada Full-time $60000-$120000\nLemon.io\n15 days ago\nBlockchain Developer\nDevelopment blockchain solidity solana java\nEurope, Latin America, Canada Full-time $60000-$120000\nElite Practice Support\n16 days ago\nGrowth Marketing Operations (Remote)\nMarketing ppc data analyst paid social email marketing\nFull-time $50, 000 USD base, up to $90,000 USD with performance based compensation\nMagic, Inc.\n20 days ago\nJr. Business Development Manager - (Bilingual: English and Spanish)\nSales business development english spanish\nLatin America only Full-time\nAllschool\n20 days ago\nOnline Teacher\nEducation english teaching\nRemote Part-time\nUBS (Universal Business Systems)\n21 days ago\nIndependent Travel Consultant\nSales english\nFull-time\nCorvee\n22 days ago\nSenior Product Designer\nDesign product design user experience user interface creative\nUSA Only Full-time $100k-$170k+\nMaharishi Foundation International\n22 days ago\nCommunications Specialist (Mailchimp)\nWriting english css copywriting html\nRemote (London or anywhere) Full-time\nMaharishi Foundation International\n22 days ago\nDesign System Specialist\nDesign html css english user interface\nFull-time\nMaharishi Foundation International\n22 days ago\nProduct Analyst\nDevelopment ab testing python data analyst english\nRemote (London or anywhere) Full-time\nMaharishi Foundation International\n22 days ago\nVideo Producer\nDevelopment video editing english\nRemote (London or anywhere) Full-time\nToptal\n23 days ago\nReact.js developer\nDevelopment react web application development\nGlobal Contract\nChat Assassins a Made Omni Inc. Company\n30 days ago\nChat Assassin Sales Specialist - Advanced English, Latin America (ONLY)\nSales english social media customer service\nLatin America (Remote) Full-time\nMarker Content\n1 month ago\nCopywriter (Remote)\nWriting content writing\nRemote Contract 80% of each article sale\nC2educate\n3 minutes ago\nSAT Teacher\nEducation teaching recruiting counselor\nUSA Part-time\nProgressive Leasing\n8 minutes ago\nSenior UX Designer\nDesign user experience product management customer experience architecture\nUSA Full-time\nBlue Orange Digital\n29 minutes ago\nHR Director\nHuman Resources cloud\nUSA Full-time\n3 Key Consulting\n30 minutes ago\nAssociate Administrative Coordinator\nAdministration project management editing\nUSA Full-time\nBittrex\n2 hours ago\nLead Mobile Software Engineer\nDevelopment javascript react native react azure\nUSA Full-time\nBirdeye\n2 hours ago\nVice President, Account Management\nSales account manager product management customer experience salesforce\nUSA Full-time\nBeech Valley Solutions\n2 hours ago\nTax Manager\nFinance accounting\nUSA Full-time\nLabcorp\n2 hours ago\nIntegrated Marketing Manager\nMarketing architecture advertising\nUSA Full-time\nHome Depot\n2 hours ago\nCybersecurity Senior Engineer\nDevelopment architecture security\nUSA Full-time\nBarnes\n2 hours ago\nBusiness Development Manager\nManagement business development\nUK Full-time\niQuanti\n2 hours ago\nData Entry Specialist\nAdministration data entry seo ecommerce photographer\nUSA Full-time\nMMS\n3 hours ago\nSenior Regulatory Writer\nWriting publishing customer service\nUSA Full-time\nForbes Advisor\n3 hours ago\nLead Editor - Investing\nWriting editing publishing seo journalism\nUSA Full-time\nADT\n3 hours ago\nBilingual Monitoring Customer Care\nCustomer Success tech support customer experience customer service ethernet\nUSA Full-time\nBarn2 Plugins\n3 hours ago\nDesigner\nDesign front end photoshop product design editing\nGlobal Part-time\nSalesflow.io\n3 hours ago\nIT Business Analyst\nSales business analyst user interface user experience scrum master\nEurope Full-time\nCommunity Phone\n3 hours ago\nB2C Sales Manager\nSales customer experience recruiting\nUSA Full-time\nClockwork\n3 hours ago\nSenior Software Engineer\nDevelopment front end full stack javascript php\nUSA Full-time\nPunchbowl\n3 hours ago\nSenior DevOps / SysOps Developer\nSystem Administration devops nosql ruby on rails nodejs\nUSA Full-time\nCommunity Phone\n3 hours ago\nSales Representative\nSales full stack account manager cloud call center\nUSA Full-time\nJobot\n1 day ago\nGame Art Director\nDesign animation\nUSA Full-time\nForbes Advisor\n1 day ago\nSenior Data Analyst\nCustomer Success data analyst seo public relations editing\nUSA Full-time\nGodaddy\n1 day ago\nInside Sales Representative\nSales customer experience customer service ethernet recruiting\nUSA Full-time\nCommerceIQ\n1 day ago\nSenior Enterprise Account Executive\nSales account manager ecommerce\nUSA Full-time\nSekon\n1 day ago\nProposal Writer\nWriting publishing technical writing business development architecture\nUSA Full-time\nGalin Education\n1 day ago\nCollege Counselor\nEducation counselor\nUSA Part-time\nFEVO\n1 day ago\nVP, Product Design\nDesign product design music recruiting user interface\nUSA Full-time\nShow more jobs\nJob Alerts Post a Job Job Skills API\n\n\nFAQ\nPrivacy policy\nTerms and conditions\nContact us\nAbout us\n\n\nWorking Nomads curates remote digital jobs from around the web.\n© 2022 Working Nomads.",
+    "font": "proxima-nova, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 31,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

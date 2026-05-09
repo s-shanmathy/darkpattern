@@ -1,0 +1,920 @@
+{
+    "title": "Bizfluent",
+    "url": "bizfluent.com",
+    "full_url": "https://bizfluent.com/",
+    "images": [
+        {
+            "alt": "Article header background pattern.",
+            "location": {
+                "x": 0,
+                "y": 37
+            },
+            "size": {
+                "height": 307,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 32,
+                "y": 455
+            },
+            "size": {
+                "height": 262,
+                "width": 466
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 455
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 564
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 674
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 32,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 316,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 600,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 884,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 1168,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 1452,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 1736,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 2020,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 2304,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 2589,
+                "y": 962
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 32,
+                "y": 1280
+            },
+            "size": {
+                "height": 262,
+                "width": 466
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 1280
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 1398
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 1516
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 32,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 316,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 600,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 884,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 1168,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 1452,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 1736,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 2020,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 2304,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 2589,
+                "y": 1812
+            },
+            "size": {
+                "height": 144,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 32,
+                "y": 2130
+            },
+            "size": {
+                "height": 262,
+                "width": 466
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 2130
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 2248
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizfluent",
+            "location": {
+                "x": 852,
+                "y": 2366
+            },
+            "size": {
+                "height": 79,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Company Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Powered by Onetrust",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            229,
+            239,
+            251
+        ],
+        [
+            34,
+            70,
+            135
+        ]
+    ],
+    "desc": "Bizfluent equips entrepreneurs with the tools and tactics they need to build and grow their small businesses. Whether they are just starting their first business or they are repeat entrepreneurs refreshing their knowledge base, Bizfluent provides the information they need to successfully establish and run their ventures.",
+    "navbar": "",
+    "text": "SKIP TO CONTENT\nSKIP TO SITE INDEX\n►\nSTART Your Business\nFINANCE Your Business\nMANAGE Your Business\nGet fluent in minding your business\nlatest\nGrants for Nonprofit Youth Sports\nWhat Does an Employer Pay for Unemployment?\nAre Nine-Digit ZIP Codes Required in the USA?\nHow to Get a Material Donation From Lowe's\nstart your business\nBusiness Ideas\nBusiness Plan\nLegal\nPermits/licenses\nMarket Research\nOffice Supplies\nbusiness plan\nHow to Develop a Business Strategy\nbusiness ideas\nHow to Create a Benefits Statement\nmarket research\nDefinition of Consumer Market\nbusiness plan\nHow to Start a Ceramics Business\nbusiness ideas\nHow to Open a Cosmetics Boutique\nmarket research\nHow to Write Brand Copy\nbusiness plan\nHow to Lay Out a Fresh Produce Department\nbusiness ideas\nHow to Make Money Making Personalized Items\nbusiness plan\nHow to Write a Website Report\nlegal\nThe Organizational Structure of Labor Unions\nmanagement\nEffective Virtual Communication\ntaxes\nHow to Obtain a Confirmation Letter for an Assigned EIN Number\nbusiness operations\nHow Do I Mute My Phone During a Conference Call\nlegal\nHow to Find an Employer Registration Number\nfinance your business\nFunding/financing\nAccounting\nTaxes\nSalary/payroll\naccounting\nHow Does the Economy Work?\naccounting\nHow to Calculate Cost Escalation\naccounting\nHow to Calculate Revenue Per Employee\nsalary payroll\nHow to Calculate Applied Overhead Costs\naccounting\nHow to Calculate Carrying Costs\naccounting\nHow to Journalize Cash Withdrawals for Personal Use\naccounting\nManual vs. Computerized Accounting Systems\naccounting\nHow to Audit Bank Accounts\naccounting\nHow to Calculate Seating Capacity of a Restaurant\nfunding financing\nHow To Account for a Donated Asset\nbusiness operations\nHow to Supervise Staff in Remote Locations\nbusiness ideas\nWhat Is a Home-Based Business?\nlegal\nHow Does Unemployment Insurance Work? A Guide for Employers\nsalary payroll\nManaging Payroll & Employees During the COVID-19 Crisis\nWhether you are starting your first company or you are a dedicated entrepreneur diving into a new venture, Bizfluent is here to equip you with the tactics, tools and information to establish and run your ventures.\nBizfluent\nAbout\nContact\nCareers\nAdvertise\nLegal\nTerms of Use\nPrivacy Policy\nCopyright Policy\nAccessbility\nDo Not Sell My Personal Information\n© 2023 Leaf Group Ltd. / Leaf Group Media, All Rights Reserved.",
+    "font": "\"Alegreya Sans\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://pandg.tapad.com/tag?gdpr=0&referrer_url=&page_url=https%3A%2F%2Fbizfluent.com%2F&owner=P%26G&bp_id=leafgroup&initiator=js&data=%7B%22adcat1%22%3A%22business_finance%22%2C%22adcat2%22%3A%22economy%22%7D",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "onetrust-text-resize",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(54, 139, 214, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(54, 139, 214, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(54, 139, 214, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

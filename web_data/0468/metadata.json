@@ -1,0 +1,469 @@
+{
+    "title": "AIAG.org - Automotive Industry Action Group",
+    "url": "aiag.org",
+    "full_url": "https://www.aiag.org/",
+    "images": [
+        {
+            "alt": "AIAG",
+            "location": {
+                "x": 34,
+                "y": 15
+            },
+            "size": {
+                "height": 40,
+                "width": 127
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AIAG",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Quality Core Tools Knowledge Badge",
+            "location": {
+                "x": -41,
+                "y": 419
+            },
+            "size": {
+                "height": 140,
+                "width": 215
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Supplier Quality Requirements",
+            "location": {
+                "x": 101,
+                "y": 419
+            },
+            "size": {
+                "height": 140,
+                "width": 215
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CTS Software",
+            "location": {
+                "x": 321,
+                "y": 419
+            },
+            "size": {
+                "height": 140,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Responsible Materials Best Practice",
+            "location": {
+                "x": 544,
+                "y": 419
+            },
+            "size": {
+                "height": 140,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Automotive Warranty Management (CQI-14)",
+            "location": {
+                "x": 770,
+                "y": 419
+            },
+            "size": {
+                "height": 140,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Global Guiding Principle",
+            "location": {
+                "x": 998,
+                "y": 419
+            },
+            "size": {
+                "height": 140,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "AIAG",
+            "location": {
+                "x": 34,
+                "y": 15335
+            },
+            "size": {
+                "height": 80,
+                "width": 254
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            83,
+            83,
+            83
+        ],
+        [
+            225,
+            240,
+            220
+        ]
+    ],
+    "desc": "AIAG is where auto industry members collaborate to develop common global standards for Quality, Supply Chain, and Corporate Responsibility issues",
+    "navbar": "LOG IN",
+    "text": "LOG IN\nSERVICES\nABOUT\nMEMBERSHIP\nRESOURCES\nMY ACCOUNT\nQUALITY\nSUPPLY CHAIN\nCORPORATE RESPONSIBILITY\nEVENTS\nTRAINING\nPUBLICATIONS\nWEBINARS\n\nStore Free Account Collaboration Workspace\n2023 Training Now Available - Register Now! Most AIAG training now available in a Live Virtual format! Visit the AIAG Store to learn more and register.\nNow Available\nQuality Core Tools Knowledge Badge\nEnsure your employees are knowledgeable or show your employers that you possess an understanding of the Core Tools.\nNow Available\nSpecial Process: Rubber\nA common approach to a rubber mixing and molding management system for automotive production and service part organizations.\nNow Available\nCore Tools Support ™ (CTS) Software\nCreate and manage FMEA, Control Plan, and PPAP documents quickly, accurately, globally with CTS Software.\nNow Available\nResponsible Materials Best Practice\nDocuments intended to provide supplemental information on non-legislated minerals outlined in the Material Change Report.\nAIAG & VDA FMEA Handbook\nMMOG/LE\nResponsible Materials\nBenefits of Membership\nGlobal Supplier Visibility Map\nSupplySafe™\n  2111\nMEMBER COMPANIES\n  300+\nFINISHED PROJECTS\n  300\nVOLUNTEERS\nThe Power of Working Collaboratively\nOur mission is to enable collaboration within the automotive and related industries and to provide access to information, education and the tools needed so our stakeholders can continually improve the environment in which they operate.\nCustomer Service Hotline\n1-877-ASK-AIAG (1-877-275-2424)\nQuality\nAIAG's Quality initiatives span the wide array of product development, manufacturing, service, and customer experience improvement activities to support the manufacturing technology and product innovation advancements that are required from successful and growing suppliers and OEM's. While grounded in the quality standards and core tools that are the foundation of automotive quality excellence, the current AIAG quality initiatives are exploring new issues, providing insights, and the latest tools and methodologies to support the manufacturing technology and product innovation advancements that are required from successful and growing suppliers and OEM's.\nStore Quality Home Free Self-Assessments\nCORE TOOLS SUPPORT (CTS) SOFTWARE\nCloud-based solution for managing core tools documents\nAUTOMOTIVE CORE TOOLS\nPublications & Training\nIATF 16949\nPublications, Training, Resource Center\nSPECIAL PROCESS ASSESSMENTS\nHeat treatment, casting, and other processes.\nSHOP FLOOR QUALITY\nProblem prevention, and pinpointing at risk products\nMODEL BASED ENTERPRISE\nProduct Development\nSupply Chain Management\nRecent events have clearly demonstrated the challenges in managing the scope, scale and complexity of today's automotive supply chain. AIAGs materials management, ecommerce and logistics initiatives are far-reaching and can have a significant impact on supply chain efficiency - whether the goal is to improve the flow of information, reduce in-transit damage, speed up the flow of parts through international borders, or provide greater visibility anywhere in the system. AIAG Supply Chain Management initiatives provide guidelines, training and educational opportunities to understand and manage the complexity and scope of supply chain issues.\nStore Supply Chain Home Free Self-Assessment\nMaterials Management (MMOG/LE)\nA comprehensive assessment to prepare suppliers to conduct business with automotive companies\nSupply Chain Security - CTPAT/AEO\n1st common industry questionnaire with corrective actions in compliance with CBP’s UPDATED Minimum Security Criteria (MSC)\nCybersecurity Initiatives\nBest practices and resources to address supplier requirements for cybersecurity assessment\nFinished Vehicle Logistics\nElectronic proof of delivery and damage claims harmonized inspection and coding process\nPackaging & Labeling\nRadio Frequency Identification, Auto ID/Labeling and Packaging/Container management\nInternational Trade Compliance\nExplore a wide variety of trade compliance resources related to importing and exporting your goods efficiently and compliantly\nCorporate Responsibility\nBy being both proactive and collaborative, AIAG brings our members together to develop innovative solutions to these and other common CR challenges, both national and international. AIAG understands the range of CR issues and laws affecting the automotive and related industries, and we stay on top of changing conditions and expectations. Using this intelligence and our unique position at the nexus of multiple industries and companies, we develop the active insights, trainings and tools our members need to operate responsibly—and profitably. Our corporate responsibility work is guided by a CR Steering Committee, which is facilitated by AIAG and comprised of senior staff volunteers from our member companies, including FCA, Delphi, Ford, General Motors, Honda, Toyota, ZF TRW and many others. The Committee, along with its Advisory and Working Groups of members and subject matter experts address industry issues in three core issue areas: Social, Economic and Environmental Sustainability.\nStore Corporate Responsibility Home Free-Assessments\nFORCED LABOR/HUMAN RIGHTS\nEducation and resources to establish comprehensive forced labor and human rights due diligence\nRESPONSIBLE MATERIALS\nEducation, Reporting and Industry Best Practices on sourcing materials - conflict minerals (“3TG”), cobalt, mica, etc\nESG - ENVIRONMENTAL, SOCIAL & GOVERNANCE\nGet the latest in Automotive Industry Guiding Principles to Enhance Sustainability Performance in the Supply Chain\nENVIRONMENTAL SUSTAINABILITY\nImproving performance on energy, water, waste, GHG emissions and health & safety\nCHEMICAL MANAGEMENT\nAwareness of global chemical regulations impacting manufacturing products & processes\nHEALTH & SAFETY\nImprovements in cost, quality and safety to maximize the value of health care investments\nGet Access to the Tools and Training That Make a Difference\nExplore the Benefits of Membership in AIAG.\nJoin\nFacebook\nTwitter\nYoutube\nLinkedin\nEvents\nAIAG offers several world class events annually that provide you with the opportunity to hear from OEM and Supplier leadership, experts and thought leaders on the latest topics that shape the automotive landscape. You can also network with your peers and learn about the latest Quality, Supply Chain, and Corporate Responsibility innovations and trends from our sponsors and exhibitors. Don't miss out! Reserve your seat today!\nEvents Store\nIndustry Events Past Events\nUpcoming Events\n2023 January 26 Future Automotive Expert Webinar\n1/26/2023\nOur next Future Automotive Expert (FAE) event is coming January 26, 2023 - join us to explore \"Supply Chain Careers in EDI and B2B Communications - th...\n2023 AIAG Member Golf Outing\n6/14/2023\nSave the Date for the annual AIAG Member Golf Outing scheduled for June 14, 2023 at Cherry Creek Golf Course in Shelby Township, MI.   Stay tuned f...\n2023 Quality Summit\n10/4/2023\nSave the Date for the 2023 Quality Summit scheduled for October 4-5, 2023 at Suburban Collection Showplace in Novi, MI.  If you are responsible for qu...\n2023 Hybrid IMDS & Product Chemical Compliance Conference\n10/17/2023\nPlanning has begun for the 2023 Hybrid IMDS & Product Chemical Compliance Conference; be sure to save the date: October 17-18, 2023 at Novi Suburban S...\n2023 Hybrid Supply Chain + Trade Compliance Summit\n11/15/2023\nSAVE THE DATE - November 15, 2023 for the 2023 Hybrid Supply Chain + Trade Compliance Summit! Supply Chain Sustainability and Reliability have never b...\nTraining\nLive Virtual Training Now Available!\nYou want the best training in Quality, Supply Chain, and Corporate Responsibility and AIAG delivers! AIAG training is developed by the same people who write the standards and best practices you want to learn - You get the content the way the industry experts who developed it intended. Training is offered at our Southfield, MI headquarters, and now in a live virtual format! It's the same great classroom training but taken where it's most convenient for you. Want AIAG to come to you? Take a look at our onsite training program.\nOfficial AIAG training - Why get our training from anyone else?\nTraining Store\nCertification Onsite Training\nFeatured Training\nUnderstanding and Implementing MSA and SPC Basics\n12/9/2022\nREGISTER NOW\nVDA 6.3 - Examination for Certified Process Auditor\n12/9/2022\nAIAG & VDA Process FMEA Certification Exam\n12/12/2022\nREGISTER NOW\nPublications\nWhen it comes to industry standards, best practices and tools, no one can bring the expertise that AIAG does. We bring together industry leaders from OEMs and Suppliers in the areas of Quality, Supply Chain, and Corporate Responsibility to develop the tools that make the entire automotive supply chain more efficient. Check out all of the products AIAG and our industry volunteers have developed below. AIAG™ - We Wrote the Book.\nPublications Store\nAIAG Catalog\nFeatured Publications\nAutomotive Warranty Management\nCQI-14-4\nSpecial Process: Rubber Processing System Assessment\nCQI-30\nEnvironmental Management Systems - Requirements of Use\nI14001-15\nWebinars\nWe offer live webinars throughout the year featuring industry experts who offer their views on emerging topics impacting the global supply chain. Many of these webinars are also recorded, giving you the opportunity to view them when it’s most convenient for you. Learn more about what is going on in our industry by registering for our upcoming and recorded webinars today!\nWebinars Store\nAvailable Webinars\nA Review of Scopes 1 & 2 Greenhouse Gas Emissions\nAvailable Now\nIn the automotive industry, it's quickly becoming a standard expectation for OEM suppliers to quantify, disclose, and reduce their GHG emissions with ...\nAudio Recording: The Evolution of Quality Management\nAvailable Now\nThis audio-only recording features Steve Povenz, Director of Quality at Shape Corporation, discussing historical and modern views of quality managemen...\n(248) 358-3570\nCustomer Service Hotline\n1-877-275-2424\nEXPLORE US\n About AIAG\n Certification\n Help\n Communities\n Membership\n International\n Supplier Connect\n Blog\n Contact Us\nWHO WE ARE\nThe Automotive Industry Action Group (AIAG) is a unique not-for-profit organization where OEMs, suppliers, service providers, government entities, and individuals in academia have worked collaboratively for more than 40 years to drive down costs and complexity from the automotive supply chain. AIAG membership includes leading global manufacturers, parts suppliers, and service providers.\nB\nTerms of Use • Privacy Policy\n© All Rights Reserved, Automotive Industry Action Group (AIAG)",
+    "font": "\"Open Sans\", arial, helvetica, san-serif",
+    "iframes": [
+        {
+            "title": "LiveChat chat widget",
+            "src": "https://secure.livechatinc.com/customer/action/open_chat?license_id=11338492&group=0&embedded=1&widget_version=3&unique_groups=0",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "LiveChat chat widget",
+            "src": "",
+            "location": {
+                "x": 895,
+                "y": 786
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Events Store",
+            "bg-color": "rgba(25, 128, 182, 1)",
+            "location": {
+                "x": 34,
+                "y": 8292
+            },
+            "size": {
+                "height": 46,
+                "width": 153
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Training Store",
+            "bg-color": "rgba(25, 128, 182, 1)",
+            "location": {
+                "x": 34,
+                "y": 9327
+            },
+            "size": {
+                "height": 46,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Publications Store",
+            "bg-color": "rgba(25, 128, 182, 1)",
+            "location": {
+                "x": 34,
+                "y": 12827
+            },
+            "size": {
+                "height": 46,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Webinars Store",
+            "bg-color": "rgba(25, 128, 182, 1)",
+            "location": {
+                "x": 34,
+                "y": 13519
+            },
+            "size": {
+                "height": 46,
+                "width": 177
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

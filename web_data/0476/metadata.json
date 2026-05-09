@@ -1,0 +1,652 @@
+{
+    "title": "Home - Safe Water Network",
+    "url": "safewaternetwork.org",
+    "full_url": "https://safewaternetwork.org/",
+    "images": [
+        {
+            "alt": "Safe water network logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 60,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Safe water network logo",
+            "location": {
+                "x": 30,
+                "y": 95
+            },
+            "size": {
+                "height": 60,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Water Stations",
+            "location": {
+                "x": 169,
+                "y": 1576
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "People Reached",
+            "location": {
+                "x": 552,
+                "y": 1576
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Field Implementation",
+            "location": {
+                "x": 83,
+                "y": 3463
+            },
+            "size": {
+                "height": 175,
+                "width": 261
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Technical Assistance",
+            "location": {
+                "x": 374,
+                "y": 3463
+            },
+            "size": {
+                "height": 175,
+                "width": 261
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sector Engagement",
+            "location": {
+                "x": 665,
+                "y": 3463
+            },
+            "size": {
+                "height": 175,
+                "width": 261
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " 2022/01/b0e69c69d4cc0c2f082a88fb4a2d8719@2x.jpg ",
+            "location": {
+                "x": 0,
+                "y": 4072
+            },
+            "size": {
+                "height": 630,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " 2022/10/Screen-Shot-2022-10-20-at-8.12.33-PM.png ",
+            "location": {
+                "x": 497,
+                "y": 4812
+            },
+            "size": {
+                "height": 175,
+                "width": 437
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " 2022/10/Safe-Water-Toolkit-1.jpg ",
+            "location": {
+                "x": 30,
+                "y": 5162
+            },
+            "size": {
+                "height": 175,
+                "width": 437
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " 2022/09/Screen-Shot-2022-09-16-at-4.36.30-PM.png ",
+            "location": {
+                "x": 497,
+                "y": 5162
+            },
+            "size": {
+                "height": 175,
+                "width": 437
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Safe water network logo",
+            "location": {
+                "x": 30,
+                "y": 6208
+            },
+            "size": {
+                "height": 60,
+                "width": 147
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " 2022/03/charity-navigator-logo.png ",
+            "location": {
+                "x": 388,
+                "y": 6786
+            },
+            "size": {
+                "height": 50,
+                "width": 96
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " 2022/03/DigitalRGB_Platinum_204px.png ",
+            "location": {
+                "x": 492,
+                "y": 6786
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " 2022/03/rwsn-logo.png ",
+            "location": {
+                "x": 550,
+                "y": 6786
+            },
+            "size": {
+                "height": 50,
+                "width": 71
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "First Name",
+            "type": "text",
+            "location": {
+                "x": 254,
+                "y": 5913
+            },
+            "size": {
+                "height": 44,
+                "width": 500
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Last Name",
+            "type": "text",
+            "location": {
+                "x": 254,
+                "y": 5967
+            },
+            "size": {
+                "height": 44,
+                "width": 500
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "location": {
+                "x": 254,
+                "y": 6021
+            },
+            "size": {
+                "height": 44,
+                "width": 500
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 435,
+                "y": 6090
+            },
+            "size": {
+                "height": 44,
+                "width": 139
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            6,
+            189,
+            226
+        ],
+        [
+            22,
+            31,
+            58
+        ]
+    ],
+    "desc": "Envisioning a world with healthy, thriving communities sustainably managing their own safe water.",
+    "text": "Annual Impact Report 2021: Explore stories from our field teams and read more about our initiatives to expand access to safe water. Learn more\nWe envision a world with healthy, thriving communities sustainably managing their own safe water.\nTHANKS TO EVERYONE THAT JOINED US FOR OUR 2ND WATER FOR ALL BALL!\nMaking Water Work\nWe had a tremendous turnout in support of Safe Water Network's mission to help solve the global water crisis. We honored water activist Catherine Coleman Flowers and musician/activist Angelique Kidjo. Look for more on the event shortly on our social media platforms.\nNovember 8, 2022 - Gotham Hall, New York, NY\nSolving the Global Water Crisis through Innovation and Collective Action\nWorking with local leaders, institutions, implementers, and community members, we will improve access to safe water for 50 million people by 2026.\nAbout Us\nOur Impact\n1.7 million\nPeople\nreached in 489 communities through Field Implementation\n20 million\nPeople\nreached through Technical Assistance and Sector Engagement\nWhere We Work\nGhana\nLEARN MORE\nIndia\nLEARN MORE\nOur integrated approach addresses the complexity of the safe water access gap.\nWe tackle critical issues of sustainability and scale: high operating costs, limited management capacity, stakeholder fragmentation, and a weak enabling environment. Our operating portfolio is the foundation for developing innovative solutions that can be replicated globally.\nOur Work\nField Implementation\nTechnical Assistance\nSector Engagement\nKnowledge Hub\nDive into our latest water sector resources, impact reports, and case studies.\nEXPLORE ALL\nCase Study\nInsights from the Free Water Mandate in Ghana\nCase Study\nSafe Water Resilience Toolkit\nAssessment\nWhat the Customer Thinks\nNEWS & UPDATES\nAll Stories\nSafe Water Network Makes $20 Million Commitment to Action at Clinton Global Initiative / September 19, 2022\nWater For All Ball - Nonprofit Event to Raise Funds to Address the Global Water Crisis / September 14, 2022\nWater Aunties Transforming Lives in India / May 1, 2022\nNizampally: More Than a Decade of Operation & Still Going / March 1, 2022\nSTAY INFORMED\n\"*\" indicates required fields\nACCRA\nNEW DELHI\nNEW YORK CITY\nOur Work\nImpact\nKnowledge Hub\nAbout\nTeam\nPartnerships\nCareers\nDonate\nGet Involved\nWays to Give\nEvents\nNews & Updates\nContact Us\n©2022 Safe Water Network. All Rights Reserved. Privacy Policy\nBy continuing to browse this site, you agree to our use of cookies. I Understand",
+    "font": "Mulish, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://iframe.videodelivery.net/cc1cb299e5a68722b8da381c43181d2f",
+            "location": {
+                "x": 0,
+                "y": -120
+            },
+            "size": {
+                "height": 689,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "reCAPTCHA",
+            "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfGLiIfAAAAAAmWhFBZr7UDfs7TGs1Ej7V1mKH8&co=aHR0cHM6Ly9zYWZld2F0ZXJuZXR3b3JrLm9yZzo0NDM.&hl=en&v=pn3ro1xnhf4yB8qmnrhh9iD2&theme=light&size=invisible&badge=bottomright&cb=yi8xpdimet1h",
+            "location": {
+                "x": 939,
+                "y": 768
+            },
+            "size": {
+                "height": 60,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "This iframe contains the logic required to handle Ajax powered Gravity Forms.",
+            "src": "about:blank",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "recaptcha challenge expires in two minutes",
+            "src": "https://www.google.com/recaptcha/api2/bframe?hl=en&v=pn3ro1xnhf4yB8qmnrhh9iD2&k=6LfGLiIfAAAAAAmWhFBZr7UDfs7TGs1Ej7V1mKH8",
+            "location": {
+                "x": 1,
+                "y": -9999
+            },
+            "size": {
+                "height": 150,
+                "width": 1007
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 966,
+                "y": 31
+            },
+            "size": {
+                "height": 14,
+                "width": 13
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 936,
+                "y": 108
+            },
+            "size": {
+                "height": 35,
+                "width": 43
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1054,
+                "y": 225
+            },
+            "size": {
+                "height": 21,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "I Understand",
+            "bg-color": "rgba(69, 174, 82, 1)",
+            "location": {
+                "x": 637,
+                "y": 808
+            },
+            "size": {
+                "height": 24,
+                "width": 97
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

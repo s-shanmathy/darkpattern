@@ -1,0 +1,1668 @@
+{
+    "title": "wdrb.com",
+    "url": "wdrb.com",
+    "full_url": "https://www.wdrb.com/",
+    "images": [
+        {
+            "alt": "Police: Idaho slaying suspect's DNA found at crime scene",
+            "location": {
+                "x": -1538,
+                "y": 406
+            },
+            "size": {
+                "height": 72,
+                "width": 127
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "McCarthy fails again to win speakership: House stalemate",
+            "location": {
+                "x": -689,
+                "y": 406
+            },
+            "size": {
+                "height": 72,
+                "width": 127
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Bills: Safety Damar Hamlin showing 'remarkable improvement'",
+            "location": {
+                "x": 160,
+                "y": 406
+            },
+            "size": {
+                "height": 72,
+                "width": 127
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New Albany could set aside funds for downtown businesses impacted by ongoing construction",
+            "location": {
+                "x": 15,
+                "y": 583
+            },
+            "size": {
+                "height": 400,
+                "width": 497
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kentucky congress members reflect 2 years after the U.S. Capitol attack",
+            "location": {
+                "x": 512,
+                "y": 583
+            },
+            "size": {
+                "height": 200,
+                "width": 249
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Linkin' Bridge devastated after former member, Jeremiah Buckner, killed in Louisville",
+            "location": {
+                "x": 512,
+                "y": 783
+            },
+            "size": {
+                "height": 200,
+                "width": 249
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kentucky Gov. Beshear touts economy, resilience after tragedies",
+            "location": {
+                "x": 760,
+                "y": 583
+            },
+            "size": {
+                "height": 200,
+                "width": 249
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Agreement reached between concrete plant development, neighbors in Lake Forest",
+            "location": {
+                "x": 760,
+                "y": 783
+            },
+            "size": {
+                "height": 200,
+                "width": 249
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Louisville Zoo to celebrate birthdays of 2 animals on Jan. 7",
+            "location": {
+                "x": 15,
+                "y": 1081
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Allied Universal in Louisville seeking to hire at least 200 employees",
+            "location": {
+                "x": 15,
+                "y": 1221
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kentucky Jewish Council says anti-Semitism on the rise in Kentucky",
+            "location": {
+                "x": 15,
+                "y": 1361
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coroner identifies woman killed in the Parkland neighborhood",
+            "location": {
+                "x": 15,
+                "y": 1501
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Louisville was promised more than a soccer stadium in Butchertown. Where's the rest?",
+            "location": {
+                "x": 314,
+                "y": 1081
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "5 years of Kentucky State Police investigating most officer shootings leaves transparency, efficiency concerns",
+            "location": {
+                "x": 314,
+                "y": 1241
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Judge rules Louisville panel erred in approving affordable housing near Prospect",
+            "location": {
+                "x": 314,
+                "y": 1421
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pharmacies still struggling with staff shortages",
+            "location": {
+                "x": 314,
+                "y": 1581
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New Year. New Louisville Mayor. New opportunities. | VIEWER RESPONSE",
+            "location": {
+                "x": 314,
+                "y": 2745
+            },
+            "size": {
+                "height": 151,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Police: Idaho slaying suspect's DNA found at crime scene",
+            "location": {
+                "x": 15,
+                "y": 3748
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Biden toughens border, offers legal path for 30,000 a month",
+            "location": {
+                "x": 15,
+                "y": 3868
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "McCarthy fails again to win speakership: House stalemate",
+            "location": {
+                "x": 15,
+                "y": 4008
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AP sources: NFL will not resume Bills-Bengals game",
+            "location": {
+                "x": 15,
+                "y": 4128
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coroner identifies woman killed in the Parkland neighborhood",
+            "location": {
+                "x": 314,
+                "y": 3748
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Linkin' Bridge devastated after former member, Jeremiah Buckner, killed in Louisville",
+            "location": {
+                "x": 314,
+                "y": 3888
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Middletown Police believe latest trend in mail carrier robberies are to steal keys, gain access to postal boxes",
+            "location": {
+                "x": 314,
+                "y": 4048
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Police say woman who kidnapped child from Austin school playground stripped naked",
+            "location": {
+                "x": 314,
+                "y": 4228
+            },
+            "size": {
+                "height": 50,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BOZICH | Jeff Walz shares Kenny Payne's Louisville lament: Turnovers, turnovers, turnovers",
+            "location": {
+                "x": 612,
+                "y": 2386
+            },
+            "size": {
+                "height": 74,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Louisville City FC opens 2023 home schedule March 25 at Lynn Family Stadium",
+            "location": {
+                "x": 612,
+                "y": 2506
+            },
+            "size": {
+                "height": 74,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Reports say Jimbo Fisher turning to Bobby Petrino to save Jimbo Fisher at Texas A&M",
+            "location": {
+                "x": 612,
+                "y": 2626
+            },
+            "size": {
+                "height": 74,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pallbearers carrying Pope's casket",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mail Box Office at Meridian on Shelbyville Apartments",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Christian Kennedy-Matthew Redd mugshots.jpg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Justin Hall photo.jpg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Students inside Old Mill Elementary School",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Christian Kennedy and Matthew Redd mugshots",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Ray Rice, radio station host in Scottsburg with family",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ARNOLDTOWN RD SHOOTING",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Kim Jong Un with daughter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "AIKEN ROAD CONCRETE PLANT VOTE",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Texas twin girls born in different years",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Woman says tracking device shows her lost luggage wasn't where United Airlines says it was",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Police say man intentionally drove Tesla off California cliff with family inside",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "VIDEO: Suspects trying to set California building on fire set themselves on fire",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "WATCH | President Biden touts infrastructure plan in Covington as new bridge construction begins",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "More Americans with insurance through their jobs can't afford health care",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "SPORTS PAGE | Rick Bozich and Eric Crawford on the hiring of Bobby Petrino as the OC at Texas A&M",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Bard's Town relocating from the Highlands to Germantown",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Linkin' Bridge devastated after former member, Jeremiah Buckner, killed in Louisville",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Kentucky US Sen. Rand Paul says government spending, COVID-19 response to be future focus",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Weather Zip Code",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            33,
+            31,
+            32
+        ],
+        [
+            28,
+            60,
+            146
+        ]
+    ],
+    "desc": "",
+    "navbar": "",
+    "text": "Skip to main content\n50°\nPartly Cloudy\nMENU\nWatch Live\nOPEN USER CONTROLS\nFacebook\nTwitter\nYouTube\nInstagram\nHOME\nNEWS\nWEATHER\nSPORTS\nMORNING\nCOMMUNITY\nCONNECT\nJOBS\nWDRB INVESTIGATES\nNEWS ALERT\nMcCarthy fails again to win speakership: House stalemate\nUpdated 40 min ago\n2:16+5\nNew Albany could set aside funds for downtown businesses impacted by ongoing construction\n1:53+3\nKentucky congress members reflect 2 years after the U.S. Capitol attack\n3:21+3\nLinkin' Bridge devastated after former member, Jeremiah Buckner, killed in Louisville\n1:08+4\nKentucky Gov. Beshear touts economy, resilience after tragedies\n2:14+4\nAgreement reached between concrete plant development, neighbors in Lake Forest\nMORE NEWS\nLouisville Zoo to celebrate birthdays of 2 animals on Jan. 7\nUpdated 28 min ago\n0:55\nAllied Universal in Louisville seeking to hire at least 200 employees\n2 hrs ago\nKentucky Jewish Council says anti-Semitism on the rise in Kentucky\nUpdated 4 hrs ago\nCoroner identifies woman killed in the Parkland neighborhood\nUpdated 9 hrs ago\nCoroner identifies woman killed in the Parkland neighborhood\nUpdated 9 hrs ago\nLinkin' Bridge devastated after former member, Jeremiah Buckner, killed in Louisville\nArticle with video3:21Multiple images+3Updated 16 hrs ago\nKentucky Gov. Beshear touts economy, resilience after tragedies\nArticle with video1:08Multiple images+4Updated 16 hrs ago\nAgreement reached between concrete plant development, neighbors in Lake Forest\nArticle with video2:14Multiple images+4Updated 16 hrs ago\nIN-DEPTH\n3:45+3\nLouisville was promised more than a soccer stadium in Butchertown. Where's the rest?\nUpdated Jan 3, 2023\n8:18+3\n5 years of Kentucky State Police investigating most officer shootings leaves transparency, efficiency concerns\nUpdated Dec 29, 2022\nJudge rules Louisville panel erred in approving affordable housing near Prospect\nUpdated Dec 28, 2022\n2:08\nPharmacies still struggling with staff shortages\nUpdated Dec 27, 2022\nControversial new law lets Kentucky jailers charge fees to inmates before conviction\nArticle with video3:25Multiple images+2 Dec 20, 2022\nWorkers at Louisville Trader Joe's seek to form union\nArticle with video0:20Multiple images+2Updated Dec 20, 2022\nProspect considering court challenge to affordable housing approval\nUpdated Dec 20, 2022\nMetro Council approves controversial low-income housing plan for Prospect\nArticle with a video1:56Updated Dec 16, 2022\nNo tolls promised as funding unveiled for Brent Spence Bridge project in northern Kentucky\nArticle with images+6Updated 21 hrs ago\nNew plans detail for 5-story affordable housing complex in downtown Louisville\nArticle with video2:10Multiple images+3Updated 22 hrs ago\nRep. John Yarmuth reflects on retirement, 16 years in US House\nArticle with images+2Updated 22 hrs ago\nMORE NEWS\nKentucky-made shock gloves help jail employees control inmates. Are they safe?\nArticle with video4:07Multiple images+3Updated Dec 15, 2022\nMore bolt repairs done at troubled Kennedy Bridge joint\nUpdated Dec 15, 2022\nLouisville hotel owners want to raise room tax\nArticle with a video0:29Updated Dec 13, 2022\nMORE IN-DEPTH\nPOINT OF VIEW\nNew Year. New Louisville Mayor. New opportunities. | VIEWER RESPONSE\nMayor Craig Greenberg must change optics first. \nMORE POINT OF VIEW VIDEOS\nTOP NEWS VIDEOS\nPlay Video\nNew Albany could set aside funds for downtown businesses impacted by ongoing construction\n2:16\nKentucky lawmakers reflect 2 years after the US Capitol attack\n1:53\nAgreement reached between concrete plant development, neighbors in Lake Forest\n2:14\nKentucky Gov. Beshear touts economy, resilience after tragedies\n1:8\nNATIONAL NEWS\n+4\nPolice: Idaho slaying suspect's DNA found at crime scene\nUpdated 12 min ago\n+2\nBiden toughens border, offers legal path for 30,000 a month\nUpdated 40 min ago\n+4\nMcCarthy fails again to win speakership: House stalemate\nUpdated 40 min ago\nAP sources: NFL will not resume Bills-Bengals game\nUpdated 15 min ago\nPutin orders weekend truce in Ukraine; Kyiv won't take part\nArticle with images+3Updated 1 hr ago\nBills: Safety Damar Hamlin showing 'remarkable improvement'\nArticle with images+4Updated 41 min ago\n8 dead in Utah murder-suicide after wife sought divorce\nArticle with images+2Updated 3 min ago\nStabenow's retirement scrambles Michigan Senate race in 2024\nUpdated 2 hrs ago\nMORE NATIONAL NEWS\nCRIME\nCoroner identifies woman killed in the Parkland neighborhood\nUpdated 9 hrs ago\n3:21+3\nLinkin' Bridge devastated after former member, Jeremiah Buckner, killed in Louisville\nUpdated 16 hrs ago\n2:18+4\nMiddletown Police believe latest trend in mail carrier robberies are to steal keys, gain access to postal boxes\nUpdated 20 hrs ago\n0:49\nPolice say woman who kidnapped child from Austin school playground stripped naked\nUpdated Jan 4, 2023\nIndiana tightening policy governing police pursuits\nArticle with a video0:42Updated Jan 4, 2023\nCoroner identifies man shot and killed near Louisville's Russell neighborhood\nArticle with images+4Updated Jan 4, 2023\nPolice investigating after USPS mail carrier robbed at gunpoint in Middletown\nArticle with a video2:02Updated Jan 4, 2023\nLouisville police say man taken to hospital after being shot on Taylor Boulevard\nUpdated Jan 3, 2023\nMORE CRIME STORIES\nWEATHER FORECAST\nPlay Video\nHannah Strong's Thursday afternoon forecast\nPOLL\nSPORTS\n+2\nBOZICH | Jeff Walz shares Kenny Payne's Louisville lament: Turnovers, turnovers, turnovers\nUpdated 2 hrs ago\nLouisville City FC opens 2023 home schedule March 25 at Lynn Family Stadium\nUpdated 18 hrs ago\n+2\nReports say Jimbo Fisher turning to Bobby Petrino to save Jimbo Fisher at Texas A&M\nUpdated Jan 4, 2023\nMORE SPORTS STORIES\nMOST POPULAR\nArticles\nimages\nVideos\nArticles\nLinkin' Bridge devastated after former member, Jeremiah Buckner, killed in Louisville\nLouisville game shop closing its doors after 18 years, citing 'worker burnout'\nBills: Safety Damar Hamlin showing 'remarkable improvement'\nMan shot and killed at southwest Louisville home lived there for years before recent foreclosure\nCoroner identifies woman killed in the Parkland neighborhood\nLouisville man wins $1 million Powerball in first drawing of 2023\nReports say Jimbo Fisher turning to Bobby Petrino to save Jimbo Fisher at Texas A&M\nAgreement reached between concrete plant development, neighbors in Lake Forest\nNew plans detail for 5-story affordable housing complex in downtown Louisville\nMiddletown Police believe latest trend in mail carrier robberies are to steal keys, gain access to postal boxes\nSECTIONS\nHome\nWeather\nNews\nWatch Now\nSports\nPoint of View\nWDRB in the Morning\nCommunity\nSERVICES\nAbout Us\nContact Us\nCalendar\nAdvertise\nStaff\nWeather\nSearch\nwdrb.com\n624 W. Muhammad Ali Blvd.\nLouisville, KY 40203\nPhone: 502-585-0811\nEmail: digitalteam@wdrb.com\nFacebook\nTwitter\nInstagram\nFCC Public Inspection File Closed Captioning EEO Report Ad Choices WDRB FCC Applications & Related Materials WDRB COVID-19 Protocols\n© Copyright 2023 WDRB, 624 W. Muhammad Ali Blvd. Louisville, KY | Terms of Use | Privacy Policy\nPowered by BLOX Content Management System from TownNews.com.",
+    "font": "\"Source Sans Pro\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 27,
+                "y": 139
+            },
+            "size": {
+                "height": 250,
+                "width": 970
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://imasdk.googleapis.com/js/core/bridge3.550.0_en.html#goog_1553664198",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 661,
+                "y": 1023
+            },
+            "size": {
+                "height": 600,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://imasdk.googleapis.com/js/core/bridge3.550.0_en.html#goog_1553664199",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "CivicScience Poll",
+            "src": "",
+            "location": {
+                "x": 612,
+                "y": 2137
+            },
+            "size": {
+                "height": 192,
+                "width": 397
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "CivicScience Poll",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 661,
+                "y": 2802
+            },
+            "size": {
+                "height": 450,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "https://52c3664d7eb5d643511f0d7f0f4dc907.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 661,
+                "y": 3267
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://52c3664d7eb5d643511f0d7f0f4dc907.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=gg_n-index_n-MediaNet_ox-db5_smrt_cnv_n-amobee_n-smaato_n-sharethrough_pm-db5_n-simpli.fi_ym_rbd_ppt_an-db5_sovrn",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://acdn.adnxs.com/dmp/async_usersync.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(48, 91, 128, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "MENU",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 66
+            },
+            "size": {
+                "height": 50,
+                "width": 62
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(217, 83, 79, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Watch Live",
+            "bg-color": "rgba(217, 83, 79, 1)",
+            "location": {
+                "x": 939,
+                "y": 76
+            },
+            "size": {
+                "height": 30,
+                "width": 79
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(48, 91, 128, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Play Video",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 15,
+                "y": 3223
+            },
+            "size": {
+                "height": 319,
+                "width": 567
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Play Video",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 612,
+                "y": 1720
+            },
+            "size": {
+                "height": 223,
+                "width": 397
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

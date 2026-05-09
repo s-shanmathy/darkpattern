@@ -1,0 +1,601 @@
+{
+    "title": "e-File Your Tax Returns For Faster Refunds. Start Free Now",
+    "url": "efile.com",
+    "full_url": "https://www.efile.com/",
+    "images": [
+        {
+            "alt": "efile.com",
+            "location": {
+                "x": 15,
+                "y": 10
+            },
+            "size": {
+                "height": 24,
+                "width": 65
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PrepareIT By Yourself, But Not Alone",
+            "location": {
+                "x": 15,
+                "y": 110
+            },
+            "size": {
+                "height": 252,
+                "width": 252
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Authorized eFile Provider",
+            "location": {
+                "x": 818,
+                "y": 515
+            },
+            "size": {
+                "height": 85,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dare to Compare",
+            "location": {
+                "x": 517,
+                "y": 1016
+            },
+            "size": {
+                "height": 395,
+                "width": 395
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CompareIT",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Tax Talk",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Premium Taxpert<sup>®</sup> Support",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "eFile Planning and Preparation",
+            "location": {
+                "x": 36,
+                "y": 2954
+            },
+            "size": {
+                "height": 301,
+                "width": 452
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "eFile.com - Get Taxesfaction",
+            "location": {
+                "x": 462,
+                "y": 4780
+            },
+            "size": {
+                "height": 45,
+                "width": 84
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Authorized e-File Provider",
+            "location": {
+                "x": 15,
+                "y": 5039
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dot image pixel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 26,
+                "width": 122
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "SearchIT",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "SearchIT",
+            "type": "text",
+            "location": {
+                "x": 104,
+                "y": 747
+            },
+            "size": {
+                "height": 36,
+                "width": 583
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            32,
+            41,
+            66
+        ],
+        [
+            34,
+            41,
+            65
+        ]
+    ],
+    "desc": "➨ Prepare and e–File Your IRS, State Tax Returns. Get Free Premium Taxpert Support. Biggest Refund Guarantee. Get Taxesfaction. Start Now",
+    "navbar": "15 Tax Calculators\nReturns\nDeadlines\neFile Tax Forms\nTax Bits\nWhy eFile.com\nSupport",
+    "text": "15 Tax Calculators\nReturns\nDeadlines\neFile Tax Forms\nTax Bits\nWhy eFile.com\nSupport\nSign In Start Now\nOver 67 Million Tax Returns Were e-Filed in 2021!\nWhy eFile?\nPrepare IT Yourself,\n\nBut Not Alone!\nTaxes can be difficult. Preparing them shouldn't be. We GetIT!\nIT = Income Taxes and eFile.com makes IT easier for you to prepare and eFileIT. If you are not sure about IT, just AskIT and a Taxpert® will guide you through IT.\n132\nDAYS\n5\nHOURS\n58\nMINUTES\n27\nSECONDS\n... until April 18, 2023.\nSearch Income Taxes\nDoIT, eFileIT, and Pay Less of IT!\nWhy Choose eFile.com\nWhy eFile.com?\nCompareIT\nTess's Tax Talk\nTaxpert® Assistance\nWhy eFile.com?\nThere are many reasons you should choose eFile.com to prepare your Tax Return. Here are three of them:\n100% Tax Calculation Accuracy\nFastest Tax Refund\nMax. Refund or Min. Taxes Owed\nFind out why eFile.com has become so popular, and why taxpayers are choosing -- and trusting -- eFile.com:\nIt's Less Taxing with eFile.com\nTop 10 Reasons Why eFile.com\nTaxesfaction Guaranteed!\n\nTax Preparation Services\nFREE BASIC\nFree\n$9.95\nIncome Below $100,000\nSingle/Married Jointly\nW-2 Income Only\nFree Amendment\nFree e-File\nAuto-Downgrade\nDetails\nFile Free\nState Returns Optional\nFree eFile & Print\nFree Premium Support\nDELUXE\n$29\n$39\nW-2 and 1099 Income\nItemized Deductions\nDependents\nFree Amendment\nFree Re-eFile\nAuto-Downgrade\nDetails\nStart Free\nState Returns Optional\nFree eFile & Print\nFree Premium Support\nPREMIER\n$39\n$49\nIncome over $100,000\nSelf-Employed/Investment\nAll Forms/Schedules\nFree Amendment\nFree Re-eFile\nAuto-Downgrade\nDetails\nStart Free\nState Returns Optional\nFree eFile & Print\nFree Premium Support\nWhich service is right for you?\nWhat eFilers Are Saying\nGet Taxesfaction!\n4.6\nRated out of 5 stars by 36834 eFilers\nSee what eFilers are saying\n\"So easy! I love that the info from previous years is pre-filled so updating and making changes/additions is so simple.\"\nLisa in CT\nMulti year eFiler\n\"I’ve been a longtime user of your service, probably close to 15 years, and have never had any issues so don’t change a thing!\"\nAndrew in NJ\n15 year eFiler\n\"Thorough and easy to navigate! Thank you. Cheaper than TurboTax.\"\nSabrina in KY\nFirst time eFiler\nTax Calculators and Tools\nEstimate Your 2021 Taxes\nTax Refund or Taxes Owed.\nTax Calculator\nWhat Would Your Tax Refund\nor Refund In Your Bank Date Be\nIf You eFiled Today?\nTax Refund Date\nCheck The Status Of\nYour IRS, State Tax Refund!\nWhere Is My Refund?\nFree Tax Calculators and Tools\nDirect Answers To\nYour Direct Questions.\n10 Easy Tax Tools\nHow Much Will IT Be?\nEarned Income Tax Credit?\nFindIT Out!\nEITCucator\nDo You Need To File\nOr Not?\nClickIT\nFILEucator\nA Bit of Tax Fun\nRelax with the DeStressTax Song!\n00:00\n00:31\n1) IRS e-File Tax Report\n2) As of March, 2022. Prices are subject to change without notice.\nTurboTax® is a registered trademark of Intuit, Inc.\nH&R Block® is a registered trademark of HRB Innovations, Inc.\nTaxes\nTax Calculators\nTax Returns\nTax Deadlines\nTax Bits\neFile.com\nAbout\nWhy eFile.com?\nHow eFile Works\nDare to Compare\nSupport\nWhere is my Refund?\nLate Filing Penalty\nContact Us\n©2022 eFile.com\nHome User Agreement Privacy Policy Cookies Security Site Map",
+    "font": "Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter settings iframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter analytics iframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(36, 46, 76, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(36, 46, 76, 1)",
+            "location": {
+                "x": 833,
+                "y": 747
+            },
+            "size": {
+                "height": 36,
+                "width": 58
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

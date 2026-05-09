@@ -1,0 +1,81 @@
+{
+    "title": "GLOBAL SOCIAL THEORY – This site is intended as a free resource for students, teachers, academics, and others interested in social theory and wishing to understand it in global perspective.",
+    "url": "globalsocialtheory.org",
+    "full_url": "https://globalsocialtheory.org/",
+    "images": [
+        {
+            "alt": "css.php",
+            "location": {
+                "x": 0,
+                "y": 846
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 317,
+                "y": 604
+            },
+            "size": {
+                "height": 52,
+                "width": 261
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 589,
+                "y": 603
+            },
+            "size": {
+                "height": 50,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            225,
+            233,
+            251
+        ],
+        [
+            203,
+            223,
+            241
+        ],
+        [
+            242,
+            242,
+            242
+        ]
+    ],
+    "navbar": "ABOUT\nCONTRIBUTORS\nCONTRIBUTE\nRESOURCES\nDECOLONISING THE UNIVERSITY\nCOMMENT",
+    "text": "GLOBAL SOCIAL THEORY\nCONCEPTS\nTHINKERS\nTOPICS\nABOUT\nCONTRIBUTORS\nCONTRIBUTE\nRESOURCES\nDECOLONISING THE UNIVERSITY\nCOMMENT\nAll entries published by Global Social Theory are covered by a Creative Commons licence, allowing share alike for non-commercial purposes, with attribution to author and link to the Global Social Theory web-page for the entry, CC BY-NC-ND 3.0",
+    "font": "Raleway, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

@@ -1,0 +1,329 @@
+{
+    "title": "LazaWorx – Worx in progress",
+    "url": "lazaworx.com",
+    "full_url": "https://lazaworx.com/",
+    "images": [
+        {
+            "alt": "Turtle sample album",
+            "location": {
+                "x": 222,
+                "y": 1523
+            },
+            "size": {
+                "height": 164,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "settings_panel",
+            "location": {
+                "x": 278,
+                "y": 5532
+            },
+            "size": {
+                "height": 478,
+                "width": 467
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dynamic_mode",
+            "location": {
+                "x": 10,
+                "y": 6912
+            },
+            "size": {
+                "height": 113,
+                "width": 171
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "traditional_mode",
+            "location": {
+                "x": 243,
+                "y": 6912
+            },
+            "size": {
+                "height": 112,
+                "width": 327
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook Commenting Sample Album",
+            "location": {
+                "x": 362,
+                "y": 16661
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook Commenting Sample Album",
+            "location": {
+                "x": 222,
+                "y": 17322
+            },
+            "size": {
+                "height": 513,
+                "width": 580
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow new posts",
+            "location": {
+                "x": 70,
+                "y": 22249
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "jAlbum – the album creator",
+            "location": {
+                "x": 70,
+                "y": 22314
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lazaworx.com on Facebook!",
+            "location": {
+                "x": 70,
+                "y": 22381
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search …",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            247,
+            247,
+            247
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "navbar": "",
+    "text": "LazaWorx\nWorx in progress\njAlbum\nGoodies\nLicensing\nSupport\nContact\nPrivacy Policy\nSearch\nCategories\nJALBUM\nTURTLE SKIN\nEmbedding Turtle albums into a web page or blog post\nPost author\nBy Laza\nPost date\nJanuary 19, 2015\nTurtle skin was made to fill in the browser window, therefore the user experience is often degraded when you try to stuff the album into a small window on another web page. With a little providence though, you can make Turtle albums usable, even embedded.\nCONTINUE READING\n“Embedding Turtle albums into a web page or blog post”\nTags\nembedding, iframe, integration\nCategories\nJALBUM\nTURTLE SKIN\nDownload Turtle skin\nPost author\nBy Laza\nPost date\nNovember 19, 2014\nCurrent version\nTURTLE.JASKIN\nDouble click the downloaded file to install!\nSample album\nVersion 5.3.2 Jan 12, 2015\n\nFixed:\n- Custom User Interface (Image data and External) panels\n  triggered \"new\" added date on every image in a folder\n- Widget error using command line (headless) mode\nCONTINUE READING\n“Download Turtle skin”\nTags\ndownload\nCategories\nBASE SKIN\nJALBUM\nDownload Base skin\nPost author\nBy Laza\nPost date\nNovember 19, 2014\nDownload\nBASE.JASKIN\nDouble click the downloaded file to install!\nSample album\nFavorites\nUsage\nBase skin is free for both personal and commercial projects.\nVersion 3.2.3 November 19, 2014\nFixed\n“getSizeAsString()” error\n“getRootNavigation()” error\nCONTINUE READING\n“Download Base skin”\nTags\ndownload\nCategories\nJALBUM\nTURTLE SKIN\nTurtle 5’s new features\nPost author\nBy Laza\nPost date\nFebruary 11, 2014\nTurtle 5 comes with dozens of new features, like the improved shopping experience with bulk ordering and coupon codes, or the new feedback tool, still many of them is behind the scenes, like the substantially reworked touch event handling, which brings a much smoother mobile experience.\nCONTINUE READING\n“Turtle 5’s new features”\nTags\ncoupon, discount, feedback, new photos page, select multiple, shopping cart, Turtle 5, unboxed\nCategories\nJALBUM\nTURTLE SKIN\nDynamic vs. multi-page albums\nPost author\nBy Laza\nPost date\nApril 26, 2013\nDealing with digital photo albums on the web you’ll see two basically different models. The “traditional” – one image per HTML page – and the “dynamic”, which changes the images on the same HTML page upon user interaction, utilizing Javascript. Sounds like a subtle technical detail but it has far reaching consequences. Although this applies to any skin, I will talk specifically about the Turtle skin now, which has been enabled to generate traditional (separate slides) albums since version 4, just a few weeks ago. I’ve seen a lot of confusion regarding these modes, so I decided to put up this blog post.\nHere is the magic switch that decides between these modes in jAlbum, called “Make slide pages“:\n\nTurn it on for the “Separate slide pages” mode – the default is still the dynamic mode.\nComparison\nIn the traditional – separate slide pages – mode, the HTML page loads all the page components and all the widgets (like Facebook, Google +1, etc.) every time an image is loaded. Every page has a separate URL address, so you can bookmark or share images separately and can use external widgets which rely on the page address, for example Facebook commenting. The downside is inherent in the web technology which doesn’t allow transitions between web pages, nothing can remain from a previous page (like background music), and need to build every page from ground, loading and rendering everything on a page again and again. This is why Turtle skin was originally made dynamic. A dynamic album is capable of making smooth transitions between the images, loading only the necessary components, an rendering a full folder only once.\nDynamic mode\n  Separate slides mode\nvs.\nYou might ask why did then Turtle introduce the traditional mode at all. It’s because there are several scenarios when the separate slides mode is still beneficial, e.g. achieving better search results, being able to comment images through Facebook separately, using several hundreds of images in the same folder, to name a few. It’s a fundamental change in the structure, every part of the code had to be rewritten to work in both modes. I tried to find the best match between the two modes, still there are tons of differences. See the table below.\n  Dynamic mode Separate slides\nNumber of HTML pages One per folder Number of images + 1\nURL format index.html#image.jpg slides/image.html\nCan bookmark?\n(and send) Yes\nusing hash, see below Yes\nSearch bots can find individual images Less probably\nand they’ll link to the gallery Yes\nSmooth transitions Yes No\nContinuous background music Yes\nin the same folder No\nThumbnails strip\nabove the image All\nthumbnails Only max. 15\n5 previous – 10 next\nMaximum number of images in a folder < 600\nto avoid memory leak in poorly written browsers ~ 1000-2000\nthe number of page elements (thumbnails) is still limited\nLike, Comment, +1, PinIt, Share complete folders Yes Yes\nLike, Comment, +1, PinIt, Share individual images No Yes\nTweet, Tumblr, Email individual images Yes Yes\nGoogle Maps Yes Yes\nGoogle Maps show all placemarks Yes max 15\nCan skip index page and auto-start slideshow Yes No\nCan retain full screen mode Yes No\nin most browsers it falls back to windowed mode with every page change\nImage-sensitive jAlbum widgets Partial\nCommenting widget works, the others ignore it Yes\nTraffic browsing through an album ~ 120 kB\nper image ~ 180 kB\nper image\nServer requests the least possible cca. 10x the amount as in dynamic mode\nPage load time Only index page\nimages are loaded as fast as can Every image is rendered on a separate html page\nGoogle Analytics Per folder Per image\nTracking the actual image in dynamic mode\nTo be able to follow the actual image the skin is using a technique (using internal links), which adds the image name after the URL the following way: http://somesite.com/album/index.html#thisimage.jpg. This makes it possible to bookmark, share individual images in dynamic albums, and also allows the browser’s back and forward buttons to work within the album. A smart javascript function is monitoring the hash code in the URL, and instructs the album to load the appropriate image upon change. These anchors are not allowed by major social sites, unfortunately. I have no insider info on this matter, but I guess they don’t want to allow dynamic pages to be shared, because they afraid of manipulation. They can’t check out the contents upfront. Think of sharing a funny cat video to millions then showing offending content after a while. They are trying to maintain “link quality” on their sites, and I agree this is a necessary precaution.\nConclusion\nBoth modes have its ups and downs – which is better boils down to what you are using the album. If you want to showcase a small number of images in a smooth (even full screen) presentation with optional background music then go for the Single page mode. If the possibility to individually Like or Comment images is paramount, would like to showcase a huge number of images in the same folder, or prefer to have individual search results for the photos the separate slide pages mode might fit you better.\nTags\nDynamic, make slide pages, separate slide, single page\nCategories\nARTICLES\nLazaworx.com blackout\nPost author\nBy admin\nPost date\nAugust 24, 2012\nYou might want to like the site’s Facebook page facebook.com/Lazaworx to see what’s on with Lazaworx.com and get notified of the new posts.\nSorry everyone for the site was down during the past two days. Here’s what happened.\nDrawbacks of Shared hosting\nLazaworx.com is hosted on a shared hosting, in which hundreds of sites share the resources of the same physical hardware. Even though they advertise the service comes with unlimited bandwidth and storage, the real bottleneck is the CPU and memory usage, as I learned now. It’s nowhere advertised that once your site runs over the 2% CPU limit they will instantly suspend it.\nWhat has happened?\nIn the last week I have had a high CPU usage warning when the automatic backup has started. Afterwards Lunarpages, my web host, has removed the rights (chowned) from the site’s main file, the so called index.php file. After I’ve removed some of the more processor-intensive tasks and turned off all plugins (e.g. social sharing) they have switched it back. They monitored the site, and by the stats it seemed it went back to the normal ~0.5% CPU load.\nThen suddenly at 06:37(PT) 22 August came another CPU peak of 7% (possibly the backup kicked in again), after which the site has been suspended again. Reading a lot around the web I found another possible culprit, the so-called “cron jobs”, which are there to do maintenance tasks, like releasing scheduled posts, sending out notifications, etc. Unfortunately with WordPress these cron jobs can easily overpopulate, and eat up too much of the CPU. Just a second before the CPU peak came I found 15-20 cron jobs started in the site’s access log. I had to move this task from WordPress to the server, and restricted to run only twice a day. Also made some more minor adjustments others suggested in the forums. So far so good.\nThe “Support case”\nAfter I’ve notified the staff of the changes and asked them to put back my site online they haven’t responded for a day. Then they answered an unimportant question, still not lifting the ban. I had to write to their manager to look after the case, and voila, after almost 2 days, the site is back at last. I think my next hosting company will be a smaller one, who haven’t outsourced its support department to India yet. Don’t get me wrong, they are nice guys, and I suppose they have to answer hundreds of support cases a day for a dime. But they don’t care if your business goes bankrupt – don’t feel what’s important and what’s not. I suppose they mustn’t bring forward the urgent cases, and they can’t improvise – they seem to answer only with pre-compiled panels. As I myself give support in jalbum.net, I see how important it is balancing between the cases, and listen to the details. Even though every other case can be answered with macros, quite a few requires special attention, and expertise. And in almost every time the users’ anger is justified. It’s crucial to handle these cases well – those who are the most short-tempered can be the best advocates in the future.\nThank You,\nLaza\nTags\nblackout, server, suspended\nCategories\nJALBUM\nTURTLE SKIN\nTurtle skin settings explained\nPost author\nBy Laza\nPost date\nAugust 1, 2012\nTraduction Française by Danamel\nSkin version: 3.4.6\nTurtle skin has such an extensive feature set – I guess even the most experienced of you can find something new. To get into Turtle skin settings either click the little skin icon next to the skin chooser in jAlbum or press F4.\nSite\nShow top navigation\nSelect to display a multi-level, site-wide top navigation menu at the top of the index page.\nExclude folders\nYou can exclude the folders and display only the custom pages.\nLogo\nInclude a logo at the top left corner of the navigation bar, linked to the top level album page. The max size is 180x40px. Suggested format: 8bit transparent PNG.\nLink from the top level page\nAdds a link which takes you one level up from the top level page. You can use any absolute or relative URL, not just the one level up (../).\nUse breadcrumb path\nBreadcrumb path is the clickable path of upper-level folders.\nUse search box\nAdd an album-wide search box to your albums. Can search in the Title, Comment, Keywords and Face tag fields.\nSkip thumbnail page\nVisitors will taken straight to the first image in the album. However if there are sub-albums, you can’t skip the thumbnail page.\nOffer download for…\nNothing = to turn off this feature\nScaled-down images = allow visitors to download the screen resolution images in the current folder packed as ZIP file\nOriginals = allow visitors to download the original images as ZIP file, even if you did not include them normally in the album\nThe whole album = visitors can download the whole album packed as ZIP file\nPlease note, albums using extended (accented) characters in file or folder names cannot be properly unzipped on Windows, because Windows decodes these characters mapping to the viewer PC’s default character set, while Java encodes always with UTF-8 encoding (which is capable of representing any character in any language). The files can be restored properly on every other OS though.\nCONTINUE READING\n“Turtle skin settings explained”\nTags\nauto-start, background image, breadcrumb path, caption template, cross-fade, custom link, customize colors, Exif, footer, Google Checkout, Google Maps, header, Iptc, map, Paypal, photo data, right-click protection, settings, sharing, shopping cart, slideshow, Turtle skin, watermark, Xmp\nCategories\nJALBUM\nTURTLE SKIN\nFacebook commenting in Turtle\nPost author\nBy Laza\nPost date\nJuly 13, 2012\nTurtle skin received quite a few new features recently, still I think it’s not too hard to pinpoint which will be the most popular: Facebook commenting. Yes, even though you can create sophisticated albums with jAlbum & Turtle, Facebook is the place your friends, family or clients (you name it) hang around. With this new tool your friends not only get notified of your fine new album, but they can comment on it instantly, and you’ll get notified of their comments right off. They can also choose to share their comments on their Facebook wall. This will make it possible to reach 100’s of people in no time. This little tutorial will show you how to add Facebook commenting to your albums.\nCONTINUE READING\n“Facebook commenting in Turtle”\nTags\nFacebook Commenting\nCategories\nJALBUM\nTURTLE SKIN\nFont selection in Turtle skin\nPost author\nBy Laza\nPost date\nMay 23, 2012\n2 Comments\non Font selection in Turtle skin\nEvery album is different. Why should you use the same typeface for all? With version 3.3.0 came the improved font stacks to Turtle, and with 3.3.1 you can even choose a unique headline font for page titles. I will explain how these fonts work in your albums.\nWeb browsers for long time could only use the fonts found on the visitor’s PC. Therefore web designers were limited to some 10 fonts that were common on the different OS’s – you possibly seen them zillion times – like Arial, Verdana, Times, and such. Then came CSS3 with its custom font import possibilities. CSS3 is unfortunately not supported by all browsers on the market today – guess which – IE7 and 8. They require their own special font format. There is a solution exists to fix these bad guys, but I did not want to bother with supporting old browsers, and adding heavy javascript libraries to Turtle. In these browsers the headline fonts will simply fall back to the default base font.\nCONTINUE READING\n“Font selection in Turtle skin”\nTags\nfonts, google web fonts, headline font, web fonts\nCategories\nJALBUM\nTURTLE SKIN\nBuilding Panoramic albums with Turtle\nPost author\nBy Laza\nPost date\nMay 3, 2012\nThis feature requires at least Turtle 3.2.0.\nDownload from here.\nBuilding panoramic galleries is not fully supported by most of the web album tools today. You need to have some panning tool to be able to conveniently handle these extreme-wide photos. In Turtle 3.2.0 I have introduced some new techniques to support this.\nThe swipe control has been extended to let users pan panoramic images horizontally and trigger the switch for next (previous) photo only when the right edge gets below the 90% of the window width. The left and right arrows on the keyboard can also be used to pan left and right until you reach the far end, when it falls back to the original previous (next) picture functionality. But a working example is worth a thousand words according to the ancient Chinese wisdom. Click the image below to test it “in vivo”.\nUse the Left and Right arrow buttons to pan through, or move the image with the mouse, or simply swipe left and right on touch devices.\nCONTINUE READING\n“Building Panoramic albums with Turtle”\nTags\npanorama, panoramics\nPosts navigation\n1\n2\n…\n4\nOlder Posts →\nCalendar\nJanuary 2023\nM T W T F S S\n  1\n2 3 4 5 6 7 8\n9 10 11 12 13 14 15\n16 17 18 19 20 21 22\n23 24 25 26 27 28 29\n30 31  \n« Jan    \nLinks\nFollow new posts\njAlbum – the album creator\nLazaworx.com on Facebook!\n© 2023 LazaWorx\nPowered by WordPress\nTo the top ↑",
+    "font": "\"Inter var\", -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 931,
+                "y": 34
+            },
+            "size": {
+                "height": 44,
+                "width": 83
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

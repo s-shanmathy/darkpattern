@@ -1,0 +1,45 @@
+{
+    "title": "Speedtest || iperf by OVHCloud",
+    "url": "ovh.net",
+    "full_url": "https://proof.ovh.net/",
+    "images": [
+        {
+            "alt": "OVH.com",
+            "location": {
+                "x": 169,
+                "y": 8
+            },
+            "size": {
+                "height": 51,
+                "width": 198
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            251,
+            253,
+            253
+        ],
+        [
+            242,
+            242,
+            242
+        ]
+    ],
+    "desc": "Test your connection bandwith with OVHCloud Infrastructure",
+    "text": "Speedtest\nFiles\nProofs\n\n\n\n\n\nfiles to download\n\nYou can also perform iperf3 test with this server\nAvailable ports: from 5201 (default port) to 5210",
+    "font": "Times",
+    "buttons": []
+}

@@ -1,0 +1,400 @@
+{
+    "title": "Personalization | The Content Wrangler",
+    "url": "thecontentwrangler.com",
+    "full_url": "https://www.thecontentwrangler.com/",
+    "images": [
+        {
+            "alt": "Facebook TCW Logo BUG.png",
+            "location": {
+                "x": 34,
+                "y": 90
+            },
+            "size": {
+                "height": 160,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 924,
+                "y": 160
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 954,
+                "y": 160
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "InfoDevAcademy: An Online Community and Learning Platform For Information Developers",
+            "location": {
+                "x": 34,
+                "y": 721
+            },
+            "size": {
+                "height": 219,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Beginner’s Guide to Microcopy",
+            "location": {
+                "x": 358,
+                "y": 721
+            },
+            "size": {
+                "height": 219,
+                "width": 292
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Quick Lesson: The Key To Delivering Personalized Content Experiences At Scale",
+            "location": {
+                "x": 682,
+                "y": 721
+            },
+            "size": {
+                "height": 219,
+                "width": 292
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Delivering Value With Just Enough Taxonomy",
+            "location": {
+                "x": 24,
+                "y": 1621
+            },
+            "size": {
+                "height": 475,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Managing People, Processes, and Projects at DocuSign",
+            "location": {
+                "x": 514,
+                "y": 1621
+            },
+            "size": {
+                "height": 475,
+                "width": 475
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Enterprise Content Strategy: A Project Guide",
+            "location": {
+                "x": 31,
+                "y": 2413
+            },
+            "size": {
+                "height": 276,
+                "width": 276
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Intelligent Content: A Primer",
+            "location": {
+                "x": 367,
+                "y": 2413
+            },
+            "size": {
+                "height": 276,
+                "width": 276
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter your name",
+            "type": "text",
+            "location": {
+                "x": 527,
+                "y": 2968
+            },
+            "size": {
+                "height": 51,
+                "width": 460
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your address",
+            "type": "text",
+            "location": {
+                "x": 527,
+                "y": 3047
+            },
+            "size": {
+                "height": 50,
+                "width": 460
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your email",
+            "type": "email",
+            "location": {
+                "x": 527,
+                "y": 3125
+            },
+            "size": {
+                "height": 50,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your phone number",
+            "type": "tel",
+            "location": {
+                "x": 762,
+                "y": 3125
+            },
+            "size": {
+                "height": 50,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Type the subject",
+            "type": "text",
+            "location": {
+                "x": 527,
+                "y": 3203
+            },
+            "size": {
+                "height": 50,
+                "width": 460
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            254,
+            254,
+            254
+        ],
+        [
+            219,
+            128,
+            55
+        ]
+    ],
+    "desc": "The Content Wrangler helps you put technical product information to work so your customers can find answers to their questions and solutions to their problems.",
+    "navbar": "Blog\nSchedule A Call\nLinkedIn Community\nUpcoming Events\nPrevious Events",
+    "text": "Log In\nBlog\nSchedule A Call\nLinkedIn Community\nUpcoming Events\nPrevious Events\nTHE CONTENT WRANGLER\nPutting information to work so customers can find answers to questions and solutions to problems.\nSep 21\n1 min\nInfoDevAcademy: An Online Community and Learning Platform For Information Developers\nCreating effective content that benefits both end users and organizations requires a sophisticated skill set and expert knowledge. It can...\nSep 18\n8 min\nThe Beginner’s Guide to Microcopy\nFour tips for writing great microcopy that can help you increase your bottom line Which sign would you prefer to find on the coffee...\nSep 1\n3 min\nQuick Lesson: The Key To Delivering Personalized Content Experiences At Scale\nVal Swisher and Regina Preciado explain exactly what it takes to deliver personalized content experiences at scale.\nUpcoming Events\nDelivering Value With Just Enough Taxonomy\nThu, Jan 26\nBrightTALK\nRSVP\nManaging People, Processes, and Projects at DocuSign\nThu, Feb 09\nBrightTALK\nRSVP\nFirst Edition\nEnterprise Content Strategy: A Project Guide\nPrice\n$0.00\nIntelligent Content: A Primer\nPrice\n$30.00\nCONTACT US\nThanks for your interest in The Content Wrangler. Let us know how we can be of service. We'll get in touch shortly!\n550 S. Oleander Road, Palm Springs, CA 92264\nscott@thecontentwrangler.com\n+1 317.409.0839\nName\nAddress\nEmail\nPhone\nSubject\nMessage\nSubmit\n+1 317.409.0839\n©2022 by The Content Wrangler. Proudly created with Wix.com",
+    "font": "Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "Wix Chat",
+            "src": "https://engage.wixapps.net/chat-widget-server/renderChatWidget/index?pageId=masterPage&compId=comp-ky0hza2b&viewerCompId=comp-ky0hza2b&siteRevision=376&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=234&height=86&instance=OjpKgNwkM-PHPIy3QxljzReGxeh50lZHAy5ikn9mTpM.eyJpbnN0YW5jZUlkIjoiY2MyZWUxNTMtODNmNS00OTBmLTk1OTEtOTVlOTI4ZjI3OGQzIiwiYXBwRGVmSWQiOiIxNDUxN2UxYS0zZmYwLWFmOTgtNDA4ZS0yYmQ2OTUzYzM2YTIiLCJtZXRhU2l0ZUlkIjoiYmFhY2ZjMDAtODk2Ny00ZjQ3LWFlYmQtZTZlMGE3NjNlNmJmIiwic2lnbkRhdGUiOiIyMDIyLTEyLTA5VDAxOjIyOjM2LjU5NFoiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6ImVjOWM0MzI5LWY3YWMtNDMzNC05Mjg2LTVkYmNkZDRkNjIyOCIsImJpVG9rZW4iOiI3NjgyMWQ1My0wYTkyLTA2NDgtM2IyYy03MzA5OGY5MTllNmMiLCJzaXRlT3duZXJJZCI6IjRmNmEzZWMxLTk5ZTktNGM1Yy05NTkyLWFhNDYyOTM3OWFhZiJ9&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%221849aeab-febd-41ab-b02a-b08a4cbaee3b%7C1%22%2C%22BSI%22%3A%221849aeab-febd-41ab-b02a-b08a4cbaee3b%7C1%22%7D&vsi=6efdb385-d413-48c1-9230-b56b07ce85a5",
+            "location": {
+                "x": 779,
+                "y": 814
+            },
+            "size": {
+                "height": 86,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "tpapopup-1670548985859_rtby_comp-l7l35igg",
+            "src": "https://ecom.wixapps.net/storefront/cartwidgetPopup?pageId=c9ha0&compId=tpapopup-1670548985859_rtby_comp-l7l35igg&viewerCompId=tpapopup-1670548985859_rtby_comp-l7l35igg&siteRevision=376&viewMode=site&deviceType=desktop&locale=en&tz=America%2FLos_Angeles&regionalLanguage=en&width=2172&height=800&isInPopup=true&origCompId=comp-l7l35igg&instance=DzESRlZpltamZtCf4T-A3dGDPYk456IXixdk2R6IgAA.eyJpbnN0YW5jZUlkIjoiZjU3YWZjMDMtZjFkYi00ZjBhLWFmMmItNjc1NTAzNzE4ZDFjIiwiYXBwRGVmSWQiOiIxMzgwYjcwMy1jZTgxLWZmMDUtZjExNS0zOTU3MWQ5NGRmY2QiLCJtZXRhU2l0ZUlkIjoiYmFhY2ZjMDAtODk2Ny00ZjQ3LWFlYmQtZTZlMGE3NjNlNmJmIiwic2lnbkRhdGUiOiIyMDIyLTEyLTA5VDAxOjIyOjM2LjU5NFoiLCJ2ZW5kb3JQcm9kdWN0SWQiOiJzdG9yZXNfZ29sZCIsImRlbW9Nb2RlIjpmYWxzZSwiYWlkIjoiZWM5YzQzMjktZjdhYy00MzM0LTkyODYtNWRiY2RkNGQ2MjI4IiwiYmlUb2tlbiI6IjRmZDYwMDAzLTc4YmMtMDA0ZC0wMTk2LTgxYjVhNDEyNmJhMyIsInNpdGVPd25lcklkIjoiNGY2YTNlYzEtOTllOS00YzVjLTk1OTItYWE0NjI5Mzc5YWFmIn0&currency=USD&currentCurrency=USD&commonConfig=%7B%22brand%22%3A%22wix%22%2C%22bsi%22%3A%221849aeab-febd-41ab-b02a-b08a4cbaee3b%7C1%22%2C%22BSI%22%3A%221849aeab-febd-41ab-b02a-b08a4cbaee3b%7C1%22%7D&vsi=6efdb385-d413-48c1-9230-b56b07ce85a5",
+            "location": {
+                "x": 504,
+                "y": -54
+            },
+            "size": {
+                "height": 900,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 410,
+                "y": 60
+            },
+            "size": {
+                "height": 0,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Log In",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 870,
+                "y": 27
+            },
+            "size": {
+                "height": 37,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.75)",
+            "location": {
+                "x": 31,
+                "y": 2688
+            },
+            "size": {
+                "height": 50,
+                "width": 276
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.75)",
+            "location": {
+                "x": 367,
+                "y": 2688
+            },
+            "size": {
+                "height": 50,
+                "width": 276
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Submit",
+            "bg-color": "rgba(26, 24, 23, 1)",
+            "location": {
+                "x": 845,
+                "y": 3422
+            },
+            "size": {
+                "height": 47,
+                "width": 142
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

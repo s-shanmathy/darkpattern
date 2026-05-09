@@ -1,0 +1,831 @@
+{
+    "title": "Join the Smart Affiliate Marketing Network | WEBGAINS",
+    "url": "webgains.com",
+    "full_url": "https://www.webgains.com/public/en/",
+    "images": [
+        {
+            "alt": "WEBGAINS",
+            "location": {
+                "x": 42,
+                "y": 8
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 837,
+                "y": 41
+            },
+            "size": {
+                "height": 11,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 786,
+                "y": 84
+            },
+            "size": {
+                "height": 11,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Español",
+            "location": {
+                "x": 785,
+                "y": 125
+            },
+            "size": {
+                "height": 11,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Deutsch",
+            "location": {
+                "x": 784,
+                "y": 165
+            },
+            "size": {
+                "height": 11,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Français",
+            "location": {
+                "x": 783,
+                "y": 206
+            },
+            "size": {
+                "height": 11,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Español",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Deutsch",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Français",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "close",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "close",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "close",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "agency",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "people",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "location London",
+            "location": {
+                "x": 307,
+                "y": 2090
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location Madrid",
+            "location": {
+                "x": 163,
+                "y": 2414
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location Paris",
+            "location": {
+                "x": 352,
+                "y": 2175
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location Bristol",
+            "location": {
+                "x": 277,
+                "y": 2077
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location Milan",
+            "location": {
+                "x": 482,
+                "y": 2337
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location Manchester",
+            "location": {
+                "x": 292,
+                "y": 2013
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location Amsterdam",
+            "location": {
+                "x": 422,
+                "y": 2077
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location  Nuremberg",
+            "location": {
+                "x": 526,
+                "y": 2187
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location  Copenhagen",
+            "location": {
+                "x": 566,
+                "y": 2006
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location  Copenhagen",
+            "location": {
+                "x": 526,
+                "y": 2246
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "location Palma",
+            "location": {
+                "x": 307,
+                "y": 2479
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "tick",
+            "location": {
+                "x": 260,
+                "y": 3127
+            },
+            "size": {
+                "height": 42,
+                "width": 53
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "logo",
+            "location": {
+                "x": 172,
+                "y": 5840
+            },
+            "size": {
+                "height": 113,
+                "width": 170
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "logo",
+            "location": {
+                "x": 342,
+                "y": 5840
+            },
+            "size": {
+                "height": 113,
+                "width": 170
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "logo",
+            "location": {
+                "x": 512,
+                "y": 5840
+            },
+            "size": {
+                "height": 113,
+                "width": 170
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "logo",
+            "location": {
+                "x": 682,
+                "y": 5840
+            },
+            "size": {
+                "height": 113,
+                "width": 170
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "close",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "calendar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ad pepper",
+            "location": {
+                "x": 423,
+                "y": 6877
+            },
+            "size": {
+                "height": 117,
+                "width": 176
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Your e-mail",
+            "type": "email",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            242,
+            242,
+            242
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            211,
+            54,
+            113
+        ]
+    ],
+    "desc": "Webgains is the smart affiliate marketing network. We have an unbeatable track record when it comes to achieving game-changing results.",
+    "navbar": "ADVERTISERS\nPUBLISHERS\nLEARN\nABOUT US\nBLOG\nCONTACT\nLOGIN\nJOIN US",
+    "text": "ADVERTISERS\nPUBLISHERS\nLEARN\nABOUT US\nBLOG\nCONTACT\nLOGIN\nJOIN US\n\nTHE SMART AFFILIATE MARKETING NETWORK\nAre you ready to lead the pack with a top performing network that delivers the best results, accelerates your sales and connects you with customers fast? Welcome to Webgains.\nSTART AFFILIATE PROGRAMME\nCONTACT US\nWHO WE ARE\nABOUT US\nWHY WEBGAINS\nJOIN US\nWho we are\nWebgains is the hi-performance affiliate marketing network. This means we have an unbeatable track record when it comes to empowering our advertisers and publishing partners to reach their peak performance and achieve game changing results.\nArmed with the skills to skyrocket your sales and a deep understanding of your key markets, we’re dedicated to fighting your corner in a crowded marketplace where only the boldest moves make a difference.\nLEARN MORE\nE-commerce Trends 2023: Three trends driving the future of commerce\nArticle by Jack Davies, Commercial Director at Webgains. If you’re looking ahead to the next year, you may well be building your strategy...\nLearn more\nWhy Webgains\n1,800\nAdvertisers\n250,000\nPublishers\n150+\nCountries\nWe generate sales across the globe!\n\"It was a pleasure and privilege to be invited to speak at the Webgains Academy on what the next 10 years of technology innovation means for performance marketing and ecommerce. I love that the vision for the academy is to spur creative thinking and share knowledge within the industry. Vital in the fast changing world we live in!\"\nSRI SHARMA\nCEO & Cofounder of Increasingly\nSri Sharma\nCEO & Cofounder of Increasingly\nGemma Cude\nDigital Marketing Executive at Mothercare\nKelly O'Flaherty\nDigital Partnership Manager at Newmarket Holidays\nBen Storey\nDigital Storey\nIzabella Angelova\nHead of Brand & PR at Decathlon\nGlobal Network\nWebgains has a team of more than one hundred staff all over the world with expert knowledge of key markets. We have the skills to skyrocket sales, without being so big the personal touch gets forgotten.\nMarket Insight\nOur market insight leads the field and our dynamic, collaborative mindset means we’ll advise you wherever we can add value. We’re not just a supplier — think of us as part of your team.\nInnovative Technology\nWe never stop investing in technology. We're constantly improving our performance and integrating feedback from brands and publishing partners. We’re excited about the future — and you should be too.\nAmbitious people\nTo deliver the best results, we develop the best talent. Our energetic team is fueled by success stories and a constant hunger for knowledge. Find out how to join our pack.\nJoin us\nAdvertiser\nBrands that want to supercharge their marketing performance\nLearn more\nPublisher\nPublishers that want rewarding returns for their quality content\nLearn more\nWe’re hiring\nExplore current vacancies at Webgains\nLearn more\nStart learning\nCourse: Introduction to Affiliate Marketing\nLearn the basics of affiliate marketing with our introductory course...\nLEARN MORE\nEbook: Affiliate Growth Guide\nLearn how – by joining an affiliate network – you can partner with affiliates...\nLEARN MORE\nEvent: Webgains Accelerate\nActionable guidance and advice for SMEs looking to grow via the affiliate channel\nLEARN MORE\nBROWSE ACADEMY\nIt’s time you joined the winning team\nWhy Webgains\n1,800\nAdvertisers\n250,000\nPublishers\n150+\nCountries\nWe generate sales across the globe!\n\n\n\n\n\n\n\n\n\n\n\n\nShare with your tribe\nAbout\nCareers\nContact\nAcademy\nAdvertiser Directory\nBlog\nCompany detailsCookie managementPrivacy policyModern Slavery Act StatementCOVID-19 Office Risk Assessment\n© 2017-2023 Webgains. All right reservedWebgains is an company\nWe use cookies to improve your experience on our site and analyse how you use it. If you are happy for us to collect information on you through the use of essential and non-essential cookies, then ‘Accept all’. Alternatively, you can choose to set your preferences for non-essential cookies and read more about what we use these cookies for by clicking ‘Manage’.\n\nYou can also find out more in our privacy policy, and manage your preferences at any time by clicking on ‘Cookie management’ at the bottom of the page.\n\nIf you accept cookies for statistical or marketing purposes, you consent to your data being processed by Google, Facebook, and Vimeo in the USA. In the view of the European Court of Justice, the USA has an insufficient level of data protection according to EU standards. There is a risk that your data may be processed by US authorities for surveillance purposes without any legal recourse. You can revoke this consent at any time by limiting the setting of cookies to essentials.\nAccept All\nDeny All\nManage\nPowered by",
+    "font": "\"Open Sans\", Helvetica, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 30,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 30,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 30,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 30,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Accept All",
+            "bg-color": "rgba(227, 30, 121, 1)",
+            "location": {
+                "x": 297,
+                "y": 642
+            },
+            "size": {
+                "height": 42,
+                "width": 440
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Deny All",
+            "bg-color": "rgba(10, 10, 10, 1)",
+            "location": {
+                "x": 297,
+                "y": 689
+            },
+            "size": {
+                "height": 42,
+                "width": 440
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Manage",
+            "bg-color": "rgba(201, 201, 201, 1)",
+            "location": {
+                "x": 297,
+                "y": 736
+            },
+            "size": {
+                "height": 43,
+                "width": 440
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

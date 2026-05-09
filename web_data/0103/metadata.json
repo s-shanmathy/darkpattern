@@ -1,0 +1,850 @@
+{
+    "title": "緑が丘商店街｜旭川市",
+    "url": "midorigaoka-shouten.com",
+    "full_url": "https://midorigaoka-shouten.com/",
+    "images": [
+        {
+            "alt": "緑が丘商店街",
+            "location": {
+                "x": 34,
+                "y": 17
+            },
+            "size": {
+                "height": 72,
+                "width": 222
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "緑が丘商店街ホームページへようこそ！",
+            "location": {
+                "x": 34,
+                "y": 122
+            },
+            "size": {
+                "height": 320,
+                "width": 940
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "緑が丘商店街",
+            "location": {
+                "x": 350,
+                "y": 472
+            },
+            "size": {
+                "height": 367,
+                "width": 625
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "業種で探す",
+            "location": {
+                "x": 34,
+                "y": 472
+            },
+            "size": {
+                "height": 60,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "名前で探す",
+            "location": {
+                "x": 34,
+                "y": 553
+            },
+            "size": {
+                "height": 60,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "マップから探す",
+            "location": {
+                "x": 34,
+                "y": 634
+            },
+            "size": {
+                "height": 60,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ａ_グリーンプラザ",
+            "location": {
+                "x": 34,
+                "y": 852
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "くさじま生花店",
+            "location": {
+                "x": 222,
+                "y": 852
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "そば処　一茶",
+            "location": {
+                "x": 410,
+                "y": 852
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ベンハー靴店",
+            "location": {
+                "x": 598,
+                "y": 852
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "キャンドゥ緑が丘店",
+            "location": {
+                "x": 786,
+                "y": 852
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "クスリのナカアキ医大前店",
+            "location": {
+                "x": 34,
+                "y": 1040
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "炭火焼　鳥秀",
+            "location": {
+                "x": 222,
+                "y": 1040
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "セピアゾーン",
+            "location": {
+                "x": 410,
+                "y": 1040
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "グリーンカイロ",
+            "location": {
+                "x": 598,
+                "y": 1040
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ｂ_ＪＡあさひかわ",
+            "location": {
+                "x": 786,
+                "y": 1040
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "市農協・時計　文房具コーナー",
+            "location": {
+                "x": 34,
+                "y": 1229
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "リフォーム佐々木",
+            "location": {
+                "x": 222,
+                "y": 1229
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "C_三丁目プラザ",
+            "location": {
+                "x": 410,
+                "y": 1229
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "松寿司",
+            "location": {
+                "x": 598,
+                "y": 1229
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "バーバージョイ",
+            "location": {
+                "x": 786,
+                "y": 1229
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "優希塾",
+            "location": {
+                "x": 34,
+                "y": 1418
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "まみ夢",
+            "location": {
+                "x": 222,
+                "y": 1418
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DD集客サポート",
+            "location": {
+                "x": 410,
+                "y": 1418
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ぶたバル すぎもとキッチン",
+            "location": {
+                "x": 598,
+                "y": 1418
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ｄ_中央ストアー",
+            "location": {
+                "x": 786,
+                "y": 1418
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "旭川パソコン相談室",
+            "location": {
+                "x": 34,
+                "y": 1606
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "個別指導 医大塾",
+            "location": {
+                "x": 222,
+                "y": 1606
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ファッションプラザ　クワバラ",
+            "location": {
+                "x": 410,
+                "y": 1606
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "阿久津精肉店",
+            "location": {
+                "x": 598,
+                "y": 1606
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "クリーニングのみず乃",
+            "location": {
+                "x": 786,
+                "y": 1606
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "美容室ブルーノリヴゴーシュ",
+            "location": {
+                "x": 34,
+                "y": 1795
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "理容室 カットスペースＫＥＥＰ",
+            "location": {
+                "x": 222,
+                "y": 1795
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "緑が丘　囲碁クラブ",
+            "location": {
+                "x": 410,
+                "y": 1795
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "坂本英志　税理士事務所",
+            "location": {
+                "x": 598,
+                "y": 1795
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "アートストーン共和",
+            "location": {
+                "x": 786,
+                "y": 1795
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "山猫軒",
+            "location": {
+                "x": 34,
+                "y": 1984
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ｅ_その他",
+            "location": {
+                "x": 222,
+                "y": 1984
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "宇川ピアノ教室",
+            "location": {
+                "x": 410,
+                "y": 1984
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "まつい内科クリニック",
+            "location": {
+                "x": 598,
+                "y": 1984
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "グリーンヒル歯科",
+            "location": {
+                "x": 786,
+                "y": 1984
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "旭川しんきん",
+            "location": {
+                "x": 34,
+                "y": 2173
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "旭川緑が丘郵便局",
+            "location": {
+                "x": 222,
+                "y": 2173
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ミューク",
+            "location": {
+                "x": 410,
+                "y": 2173
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "たかみや接骨院",
+            "location": {
+                "x": 598,
+                "y": 2173
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "スナック京",
+            "location": {
+                "x": 786,
+                "y": 2173
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "出光リテール販売（株）北海道カンパニー緑が丘SS",
+            "location": {
+                "x": 34,
+                "y": 2361
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "緑が丘住民センター",
+            "location": {
+                "x": 222,
+                "y": 2361
+            },
+            "size": {
+                "height": 189,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            86,
+            150,
+            115
+        ],
+        [
+            240,
+            203,
+            58
+        ]
+    ],
+    "desc": "緑が丘商店街｜旭川市 - 緑が丘商店街ホームページへようこそ！",
+    "text": "トップ\n店舗一覧\nお知らせ\nお知らせ\n一覧\n2022/12/7Zebeta Paypal\n2022/12/7Diclofenac pour ordre | AchatVoltaren Pharmacie En Ligne France\n2022/12/7Baclofen prix le plus bas | Medicament Lioresal Moins Cher En Ligne\n2022/12/7Conjugated estrogens Prix France | Remise\n2022/12/7Senza Prescrizione Di Pillole Di Silagra\nトップ\n店舗一覧\n業種で探す\n名前で探す\nマップから探す\nCopyright © 2022 緑が丘商店街 All rights Reserved.",
+    "font": "メイリオ, Meiryo, arial, \"ヒラギノ角ゴ Pro W3\", \"Hiragino Kaku Gothic Pro\", Osaka, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

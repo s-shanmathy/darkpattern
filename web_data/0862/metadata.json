@@ -1,0 +1,1238 @@
+{
+    "title": "myCANAL : tv, sports, séries, films en streaming en direct live ou replay",
+    "url": "canalplus.com",
+    "full_url": "https://www.canalplus.com/",
+    "images": [
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 214,
+                "y": 228
+            },
+            "size": {
+                "height": 34,
+                "width": 114
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "myCANAL",
+            "location": {
+                "x": 32,
+                "y": 16
+            },
+            "size": {
+                "height": 32,
+                "width": 139
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sonic 2, le film",
+            "location": {
+                "x": 30,
+                "y": 1720
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 38,
+                "y": 1812
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Les Vedettes",
+            "location": {
+                "x": 270,
+                "y": 1404
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "OCS",
+            "location": {
+                "x": 278,
+                "y": 1497
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jerry and Marge Go Large",
+            "location": {
+                "x": 510,
+                "y": 1720
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Paramount+",
+            "location": {
+                "x": 518,
+                "y": 1812
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Les animaux fantastiques : Les secrets de Dumbledore",
+            "location": {
+                "x": 751,
+                "y": 1404
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 759,
+                "y": 1497
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The King's Man : première mission",
+            "location": {
+                "x": 270,
+                "y": 1544
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 278,
+                "y": 1812
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Downton Abbey II : Une nouvelle ère",
+            "location": {
+                "x": 510,
+                "y": 1404
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 518,
+                "y": 1673
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Le secret de la cité perdue",
+            "location": {
+                "x": 751,
+                "y": 1544
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 759,
+                "y": 1812
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nightmare Alley",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Sport alt",
+            "location": {
+                "x": 30,
+                "y": 2262
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Moto GP",
+            "location": {
+                "x": 38,
+                "y": 2355
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sport alt",
+            "location": {
+                "x": 270,
+                "y": 1947
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ligue 1 Uber Eats",
+            "location": {
+                "x": 278,
+                "y": 2040
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Serie alt",
+            "location": {
+                "x": 510,
+                "y": 2262
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Premier League",
+            "location": {
+                "x": 518,
+                "y": 2355
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sport alt",
+            "location": {
+                "x": 751,
+                "y": 1947
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Formule 1",
+            "location": {
+                "x": 759,
+                "y": 2040
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "poster",
+            "location": {
+                "x": 270,
+                "y": 2086
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sport alt",
+            "location": {
+                "x": 510,
+                "y": 1947
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TOP 14",
+            "location": {
+                "x": 518,
+                "y": 2216
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sport alt",
+            "location": {
+                "x": 751,
+                "y": 2086
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UEFA Champions League",
+            "location": {
+                "x": 759,
+                "y": 2355
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sport alt",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Eurobasket 2022",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The White Lotus",
+            "location": {
+                "x": 30,
+                "y": 2805
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "OCS",
+            "location": {
+                "x": 38,
+                "y": 2898
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The First Lady",
+            "location": {
+                "x": 270,
+                "y": 2490
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Paramount+",
+            "location": {
+                "x": 278,
+                "y": 2582
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Star Wars : Andor",
+            "location": {
+                "x": 510,
+                "y": 2805
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Désordres",
+            "location": {
+                "x": 751,
+                "y": 2490
+            },
+            "size": {
+                "height": 127,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 759,
+                "y": 2582
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rogue Heroes",
+            "location": {
+                "x": 270,
+                "y": 2629
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 278,
+                "y": 2898
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marie-Antoinette",
+            "location": {
+                "x": 510,
+                "y": 2490
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 518,
+                "y": 2758
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Trigger Point",
+            "location": {
+                "x": 751,
+                "y": 2629
+            },
+            "size": {
+                "height": 303,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 759,
+                "y": 2898
+            },
+            "size": {
+                "height": 35,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Staircase",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CANAL+",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Disney plus",
+            "location": {
+                "x": 46,
+                "y": 3139
+            },
+            "size": {
+                "height": 109,
+                "width": 148
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Netflix",
+            "location": {
+                "x": 206,
+                "y": 3139
+            },
+            "size": {
+                "height": 109,
+                "width": 148
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "OCS",
+            "location": {
+                "x": 365,
+                "y": 3139
+            },
+            "size": {
+                "height": 109,
+                "width": 148
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Starzplay",
+            "location": {
+                "x": 525,
+                "y": 3139
+            },
+            "size": {
+                "height": 109,
+                "width": 148
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "beIN SPORTS",
+            "location": {
+                "x": 685,
+                "y": 3139
+            },
+            "size": {
+                "height": 109,
+                "width": 148
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eurosport",
+            "location": {
+                "x": 845,
+                "y": 3139
+            },
+            "size": {
+                "height": 109,
+                "width": 148
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            22,
+            24,
+            26
+        ],
+        [
+            5,
+            5,
+            5
+        ],
+        [
+            3,
+            3,
+            3
+        ]
+    ],
+    "desc": "Regarder les meilleurs programmes, films, séries, sports en streaming direct ou en replay. Le programme TV de toutes les chaines est gratuit et sans pub.",
+    "navbar": "Nos Créations\nCinéma\nSéries\nSport\nDocs\nJeunesse\nChaînes",
+    "text": "À propos de vos données\nGroupe CANAL+ et ses filiales (membres du groupe Vivendi) et nos partenaires utilisons des traceurs pour gérer et améliorer nos services et vous proposer des publicités plus pertinentes.\nVous pouvez paramétrer vos choix par finalité et les mettre à jour à tout moment via notre rubrique Confidentialité.\nVotre choix ne sera valable que sur le support numérique actuellement utilisé. Si vous vous connectez à votre compte CANAL+, vos choix exprimés en mode connecté prévaudront.\nEn savoir + et paramétrer mes choix\nTout accepter\nContinuer sans accepter\nNos Créations\nCinéma\nSéries\nSport\nDocs\nJeunesse\nChaînes\nS'ABONNER\nNE CHERCHEZ PAS, VOUS NE TROUVEREZ PAS + AILLEURS\nRegardez le meilleur des séries, des films et du sport en streaming et en illimité.\nDÉCOUVRIR NOS OFFRES\nEn décembre sur CANAL+\nVous avez -26 ans ? La chance : payez -50% tous les moisJ'AI -26 ANS\nNOUVEAU\nPARAMOUNT+ ARRIVE DANS LES OFFRES CANAL+\nParamount+, ce n'est pas un nouveau service de streaming comme les autres. Ce sont des histoires uniques, les plus grandes stars, et les marques de divertissement parmi les plus connues dans le monde entier.\nJE DÉCOUVRE LE SERVICE\nCINÉMA\nLE MEILLEUR DU CINÉMA RÉCENT, C’EST ICI !\nTout le cinéma français et international diffusé juste après la sortie en salle. Bref, que du cinéma super frais.\nTOUT LE CINÉMA CANAL+\nSONIC 2, LE FILM\nLES VEDETTES\nJERRY AND MARGE GO LARGE\nLES ANIMAUX FANTASTIQUES : LES SECRETS DE DUMBLEDORE\nTHE KING'S MAN : PREMIÈRE MISSION\nDOWNTON ABBEY II : UNE NOUVELLE ÈRE\nLE SECRET DE LA CITÉ PERDUE\nSPORT\nTROUVER UN LIVE NE DEVRAIT PAS ÊTRE UN SPORT\nTous les sports du monde, à vivre d'une façon unique au monde, avec une réalisation comme si vous y étiez. De quoi vous lever les poils des bras.\nTOUT LE SPORT CANAL+\nMOTO GP\nLIGUE 1 UBER EATS\nPREMIER LEAGUE\nFORMULE 1\nCOUPE DU MONDE DE LA FIFA QATAR 2022\nTOP 14\nUEFA CHAMPIONS LEAGUE\nSÉRIES\nCHERRY SUR LE CAKE : TOUTES LES MEILLEURES SÉRIES\nToutes les dernières séries internationales, mais surtout les meilleures, sont avec CANAL+. Gros gros plus.\nTOUTES LES SÉRIES CANAL+\nTHE WHITE LOTUS\nTHE FIRST LADY\nSTAR WARS : ANDOR\nDÉSORDRES\nROGUE HEROES\nMARIE-ANTOINETTE\nTRIGGER POINT\nPLUS QUE CANAL+ DANS CANAL+\nCANAL+ rassemble les meilleurs contenus. Des milliers de programmes en live et à la demande, partout et quand vous voulez\nVoir plus\nCANAL+ DISPO LÀ ET LÀ ET PUIS AUSSI LÀ\nCommencez votre contenu sur téléphone ou tablette et terminez le sur ordinateur ou télévision. Ou l'inverse.\nCANAL+ À CHEVAL SUR SES VALEURS\nPartenaire du cinéma\nPartenaire historique du cinéma français, CANAL+ accorde une place privilégiée au 7ème art. Les chaînes CANAL+ diffusent plus de 500 films dont quelque 350 en première diffusion TV par an, ainsi que les grands rendez-vous annuels du cinéma.\nMade in France\nFort de ses nombreux talents, de son expertise éditoriale et technologique, CANAL+ est fier de proposer à ses abonnés des programmes exclusifs et originaux, conçus et produits en Métropole et accessibles sur une plateforme innovante.\nEngagement et responsabilité\nCANAL+ a conscience de sa responsabilité en tant que média, producteur, distributeur et agrégateur de contenus et souhaite à ce titre représenter la société dans toute sa diversités. Nous agissons également pour améliorer l’accessibilité de nos interfaces et la réduction de notre empreinte carbone.\nENFLAMMEZ-VOUS POUR LE MEILLEUR DU STREAMING\nDÉCOUVRIR NOS OFFRES\nExtraits vidéo CANAL+ : Les Tuche 4 | Jurassic World : le monde d’après | Top Gun Maverick | Rogue Heroes | Elvis | Tous en scène 2 | Paris Police 1905 | Irréductible | Top 14 | Premier League. Programmation/offre de chaînes et/ou de services susceptibles de modifications et/ou de retrait de chaînes et/ou de services et/ou perte d’exclusivités.\nProgrammes\nCinéma\nSéries\nSport\nJeunesse\nDocs\nStreaming\nDivertissement\nInfo\nMusique\nEspace adulte\nProgramme TV\nLive TV\nServices et apps\nPlan du site\nOffres d'emploi\nChaînes\nFAQ\nTaxonomie\nExperience CANAL+\nDécodeur CANAL+\nCube TNT\nCANAL+\nC8\nCSTAR\nCNEWS\nOCS\nmyTF1\nARTE\nbeIN SPORTS\nFrance 2\nFrance 3\nFrance 4\nFrance 5\nM6\nAssistance\nVOD\nEspace Client\nAbonnements et infos légales\nNos offres\nOffres - 26 ans\nSans engagement\nAvec engagement 1 an\nAvec engagement 2 ans\nOffre CANAL+\nCANAL+ CINE SERIES\nCANAL+ SPORT\nCANAL+ SERIES\nCANAL+ FRIENDS & FAMILY\nCANAL+ Disney+\nCANAL+ Netflix\nBEINSPORTS CONNECT\nPanorama\nCANALSAT\nStart by CANAL\nTNT CANAL READY\nJ'ai un code\nModalité des offres\nCGA\nFiche tarifaire\nRétractation\nPlan de site boutique\nCookies\nMentions légales\nConditions Générales d'Utilisation\nDonnées personnelles et confidentialité\nKit presse\nAccessibilité (non conforme)\nFrance métropolitaine (FR)\nVivez l’expérience CANAL+, La plateforme de streaming la plus complète qui réunit vos films, vos séries (en HD, VF et VOST) toute la TNT et les plus belles compétitions sportives en direct ou en replay. Le programme TV de ce soir, de la TNT et de toutes les chaînes est gratuit\n© CANAL+ 2022",
+    "font": "Hind, \"San Francisco\", Roboto, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "En savoir + et paramétrer mes choix",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 214,
+                "y": 548
+            },
+            "size": {
+                "height": 26,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(44, 47, 51, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Tout accepter",
+            "bg-color": "rgba(236, 54, 84, 1)",
+            "location": {
+                "x": 344,
+                "y": 599
+            },
+            "size": {
+                "height": 48,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(44, 47, 51, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 48,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Continuer sans accepter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 566,
+                "y": 228
+            },
+            "size": {
+                "height": 35,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 695,
+                "y": 64
+            },
+            "size": {
+                "height": 64,
+                "width": 79
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 786,
+                "y": 22
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 945,
+                "y": 16
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.05)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(236, 54, 85, 1)",
+            "location": {
+                "x": 677,
+                "y": 180
+            },
+            "size": {
+                "height": 44,
+                "width": 280
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(36, 36, 36, 0.5)",
+            "location": {
+                "x": 935,
+                "y": 687
+            },
+            "size": {
+                "height": 44,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 4,
+                "y": 3166
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 967,
+                "y": 3166
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(36, 36, 36, 0.5)",
+            "location": {
+                "x": 935,
+                "y": 4981
+            },
+            "size": {
+                "height": 44,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "France métropolitaine (FR)",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 15,
+                "y": 6465
+            },
+            "size": {
+                "height": 24,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

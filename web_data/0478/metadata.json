@@ -1,0 +1,83 @@
+{
+    "title": "Health News For Today | Healthmoom.com",
+    "url": "healthmoom.com",
+    "full_url": "https://healthmoom.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 704,
+                "y": 21
+            },
+            "size": {
+                "height": 31,
+                "width": 249
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            46,
+            51,
+            56
+        ],
+        [
+            230,
+            233,
+            236
+        ]
+    ],
+    "desc": "Find the latest health news and explore articles on fitness, diet, nutrition, parenting, relationships, medicine, diseases and healthy, best doctor and hospital.",
+    "navbar": "Home\nCategories\n› Doctor\n› Hospital\n› Drugs\n› Medicine\n› Pharmacy\n› Health Care\n› Food\nSearch",
+    "text": "Home\nCategories\n› Doctor\n› Hospital\n› Drugs\n› Medicine\n› Pharmacy\n› Health Care\n› Food\nSearch\nTop Categories\nHome\n› Education\n› Tired Stress\n› Experience\n› Elderly\n› Baby Health\n› Womens Health\n› Mens Health\n› Food\n› Birth Defects\n› Cats\n› Dogs\n› Asthma\n› Ebola\n› Traumatic Brain Injury\n› Obesity\n› Arthritis\n› Leukemia\n› Menopause\n› Osteoarthritis\n› Eczema\n› Psoriasis\n› Shingles\n› Ulcerative Colitis\n› Glucosamine\n› Paracetamol\n› Care\n› Course\n› IPF\n› Organic\n› Protein\n› Vaccines\n› Yoga\n› Coronavirus\n› Covid 19\n› Vulvar Cancer\n› Vaginal Cancer\n› Thymus Cancer\n› Stomach Cancer\n› Skin Cancer\n› Pituitary Tumors\n› Ovarian Cancer\n› Osteosarcoma\n› Nasopharyngeal Cancer\n› Multiple Myeloma\n› Kidney Cancer\n› Gallbladder Cancer\n› Eye Cance\n› Esophagus Cancer\n› Endometrial Cancer\n› Colorectal Cancer\n› Castleman Disease\n› Bone Cancer\n› Bladder Cancer\n› Bile Duct Cancer\n› Anal Cancer\n› Adrenal Cancer\n› Thyroid Cancer\n› Prostate Cancer\n› Pancreatic Cancer\n› Melanoma\n› Lung Cancer\n› Liver Cancer\n› Breast Cancer\n› Diabetes\n› HIV\n› Appendicitis\n› Cirrhosis\n› Tuberculosis\n› Diabetes Mellitus\n› Respiratory Disease\n› Stroke\n› Heart Disease\nRecently Searched\n › High school mental health issues\n › Blogs about healthy lifestyle\n › Baptist health miami cancer institute\n › Best health apps for iphone\n › Curry county health dept\n › Ualbany school of public health dean\n › Arizona department of health\n › Democrats on healthcare reform\n › Rrh behavioral health clinic\n › Healthcare consulting naics code\n › Chi health physician finder\n › Marrero healthcare nursing home\n › Augusta health and fitness\n › Free health clinics new orleans\n › Lake region healthcare medical supply\n › Online health information management\n › E health code of ethics\n › Health equity and access\n › Health equity and access\n › United health rx formulary\n › Financial reporting in healthcare\n › Components of health system\n › Us health and life individual exchange\n › Boone county health department il\n › Actriv healthcare university place\n › Religare health insurance premium renewal\n › Mental health disability statistics\n › Behavioral health integration models\n › Mental health treatment articles\n › Affinity health group careers\n© 2019 Healthmoom.com. All rights reserved | Email: info@healthmoom.com",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 704,
+                "y": 52
+            },
+            "size": {
+                "height": 31,
+                "width": 63
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

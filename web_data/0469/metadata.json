@@ -1,0 +1,578 @@
+{
+    "title": "ProGameTalk - Hub of Popular Video Games News, Guides & Much More",
+    "url": "progametalk.com",
+    "full_url": "https://progametalk.com/",
+    "images": [
+        {
+            "alt": "Valheim transfer items between worlds",
+            "location": {
+                "x": -494,
+                "y": 189
+            },
+            "size": {
+                "height": 296,
+                "width": 524
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valheim Obsidian",
+            "location": {
+                "x": 30,
+                "y": 189
+            },
+            "size": {
+                "height": 296,
+                "width": 524
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valheim Flametal",
+            "location": {
+                "x": 554,
+                "y": 189
+            },
+            "size": {
+                "height": 296,
+                "width": 524
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Gaige’s Gifts Crew Challenge BL3",
+            "location": {
+                "x": 563,
+                "y": 189
+            },
+            "size": {
+                "height": 141,
+                "width": 204
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mancubus Eldritch Statues BL3",
+            "location": {
+                "x": 775,
+                "y": 189
+            },
+            "size": {
+                "height": 141,
+                "width": 204
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BL3 Hammerlock's Occult Hunt",
+            "location": {
+                "x": 563,
+                "y": 340
+            },
+            "size": {
+                "height": 141,
+                "width": 204
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wendigo boss bl3",
+            "location": {
+                "x": 775,
+                "y": 340
+            },
+            "size": {
+                "height": 141,
+                "width": 204
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Seasonal Quest More Than A Weapon",
+            "location": {
+                "x": 30,
+                "y": 562
+            },
+            "size": {
+                "height": 170,
+                "width": 324
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Destiny 2 The Manticore Submachine Gun",
+            "location": {
+                "x": 372,
+                "y": 562
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Season of the Seraph Hierarchy Mission",
+            "location": {
+                "x": 372,
+                "y": 683
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Season of the Seraph",
+            "location": {
+                "x": 372,
+                "y": 803
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Get Captain’s Coin in Destiny 2",
+            "location": {
+                "x": 372,
+                "y": 967
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ARK Super Turkey",
+            "location": {
+                "x": 30,
+                "y": 1168
+            },
+            "size": {
+                "height": 171,
+                "width": 324
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ARK Turkey Trial 6",
+            "location": {
+                "x": 30,
+                "y": 1572
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ARK Turkey Trial 6",
+            "location": {
+                "x": 30,
+                "y": 1677
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hatch Eggs ARK",
+            "location": {
+                "x": 30,
+                "y": 1819
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ARK Carcharodontosaurus",
+            "location": {
+                "x": 30,
+                "y": 1924
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valheim Obsidian",
+            "location": {
+                "x": 371,
+                "y": 1168
+            },
+            "size": {
+                "height": 171,
+                "width": 324
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valheim Flametal",
+            "location": {
+                "x": 371,
+                "y": 1572
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "valheim black metal",
+            "location": {
+                "x": 371,
+                "y": 1677
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valheim transfer items between worlds",
+            "location": {
+                "x": 371,
+                "y": 1797
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valheim Silver Farming",
+            "location": {
+                "x": 371,
+                "y": 1918
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gaige’s Gifts Crew Challenge BL3",
+            "location": {
+                "x": 30,
+                "y": 2579
+            },
+            "size": {
+                "height": 170,
+                "width": 324
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mancubus Eldritch Statues BL3",
+            "location": {
+                "x": 372,
+                "y": 2579
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BL3 Hammerlock's Occult Hunt",
+            "location": {
+                "x": 372,
+                "y": 2721
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wendigo boss bl3",
+            "location": {
+                "x": 372,
+                "y": 2863
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Empowered Scholar BL3 Boss",
+            "location": {
+                "x": 372,
+                "y": 3005
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New World Coarse Leather",
+            "location": {
+                "x": 30,
+                "y": 3249
+            },
+            "size": {
+                "height": 170,
+                "width": 324
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New World Rawhide",
+            "location": {
+                "x": 372,
+                "y": 3249
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Platinum Ingot",
+            "location": {
+                "x": 372,
+                "y": 3369
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New World Platinum ore",
+            "location": {
+                "x": 372,
+                "y": 3490
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New World Mining",
+            "location": {
+                "x": 372,
+                "y": 3632
+            },
+            "size": {
+                "height": 90,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "search",
+            "location": {
+                "x": 721,
+                "y": 537
+            },
+            "size": {
+                "height": 44,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            45,
+            45,
+            45
+        ],
+        [
+            192,
+            18,
+            25
+        ]
+    ],
+    "navbar": "ProGameTalk\nWARFRAME\nVALHEIM\nBORDERLANDS 3\nARK: SURVIVAL EVOLVED\nMONSTER HUNTER: WORLD\nGAMES LIKE",
+    "text": "Skip to content\nProGameTalk\nWARFRAME\nVALHEIM\nBORDERLANDS 3\nARK: SURVIVAL EVOLVED\nMONSTER HUNTER: WORLD\nGAMES LIKE\nValheim \nValheim: Obsidian Farming Guide\nApril 4, 2021 Michael James\nGaige’s Gifts Crew Challenge Guide (Guns, Love & Tentacles)\nApril 8, 2020\nMancubus Eldritch Statues Guide (Guns, Love & Tentacles)\nApril 8, 2020\nHammerlock’s Occult Hunt Guide (Guns, Love & Tentacles)\nApril 8, 2020\nBL3 Wendigo (Boss): Defeating, Location, Attacks, Drops, Weak Spots\nApril 7, 2020\nDestiny 2\nDestiny 2 \nDestiny 2 More Than A Weapon Quest Steps (Week 1)\nDecember 7, 2022 Michael James\nAna Bray has been doing everything she can to bring Rasputin, The Warmind back into action and with the help\nHow To Get The Manticore & It’s Catalyst in Destiny 2\nDecember 7, 2022\nDestiny 2 Hierarchy Mission (Season of the Seraph)\nDecember 7, 2022\nDestiny 2 Season of the Seraph Week 1 & Seasonal Challenges (Season 19)\nDecember 6, 2022\nHow to Get Captain’s Coin in Destiny 2\nNovember 26, 2022\nArk: Survival Evolved\nARK: Survival Evolved \nHow To Kill Super Turkey in ARK\nNovember 25, 2022 Michael James\nStudio Wildcard is at it again with a returning event known as Ark: Turkey Trial, which introduces Super Turkey into\nARK Turkey Trial 6 (2022) Event Colors\nNovember 24, 2022\nARK Turkey Trial 2022 (Creatures, Skins, Chibis, Items & Colors)\nNovember 23, 2022\nHow to Hatch Eggs in Ark\nNovember 23, 2022\nArk Carcharodontosaurus (Taming, Location, Controls, Abilities, Uses)\nNovember 17, 2022\nValheim\nValheim \nValheim: Obsidian Farming Guide\nApril 4, 2021 Michael James\nObsidian is a resource that can be mined in Valheim and is mainly found in the Mountains biome, usually in\nValheim: Flametal Farming Guide\nApril 4, 2021\nValheim: Black Metal Farming Guide\nApril 4, 2021\nValheim: Transfer Items Between Worlds Guide\nApril 3, 2021\nValheim: Silver Farming Guide\nApril 3, 2021\nBorderlands 3\nBorderlands 3 \nGaige’s Gifts Crew Challenge Guide (Guns, Love & Tentacles)\nApril 8, 2020 Michael James\nGaige brought the gifts of those who couldn’t make it to Wainwright and Hammerlock’s wedding but some of these were\nMancubus Eldritch Statues Guide (Guns, Love & Tentacles)\nApril 8, 2020\nHammerlock’s Occult Hunt Guide (Guns, Love & Tentacles)\nApril 8, 2020\nBL3 Wendigo (Boss): Defeating, Location, Attacks, Drops, Weak Spots\nApril 7, 2020\nBL3 Empowered Scholar (Boss): Defeating, Location, Abilities, Drops, Weak Spots\nApril 7, 2020\nNew World\nNew World \nHow To Make Coarse Leather in New World\nNovember 30, 2022 Michael James\nCoarse Leather is one of the first craftable materials that you will be making once you have access to Rawhide\nNew World Rawhide (How to Get, Locations & Uses)\nNovember 23, 2022\nNew World Platinum Ingot (Uses & Making)\nNovember 19, 2022\nNew World Platinum Ore (Locations, Farm & Uses)\nNovember 19, 2022\nNew World Mining Trading Skills (How to Mine, Levels & Tools)\nFebruary 7, 2022\nSearch\nSearch\nRecent Posts\nDestiny 2 More Than A Weapon Quest Steps (Week 1)\nHow To Get The Manticore & It’s Catalyst in Destiny 2\nDestiny 2 Hierarchy Mission (Season of the Seraph)\nDestiny 2 Season of the Seraph Week 1 & Seasonal Challenges (Season 19)\nHow To Get Marionette Core in Genshin Impact\nHow To Get Perpetual Heart in Genshin Impact\nHow To Get Smoldering Pearl in Genshin Impact\nHow To Get Cleansing Heart in Genshin Impact\nHow to Get Crystalline Bloom in Genshin Impact\nHow to Get Everflame Seed in Genshin Impact\nOther Links\nAbout Us\nPrivacy Policy\nContact Us\nGuides\nPopular Games\nARK: Survival Evolved\nBorderlands 3\nDestiny 2\nMonster Hunter: World\nNew World\nSims 4\nValheim\nWarframe\nImportant Guides\nAscendant Challenge This Week\nDestiny 2 Daily & Weekly Resets\nLegend & Master Lost Sectors Today\nDestiny 2 Xur Location This Week\n© 2022 ProGameTalk. ProGameTalk is not officially connected with any gaming companies. We are just a fan site.",
+    "font": "\"Open Sans\", serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Search",
+            "bg-color": "rgba(192, 19, 19, 1)",
+            "location": {
+                "x": 906,
+                "y": 537
+            },
+            "size": {
+                "height": 44,
+                "width": 73
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

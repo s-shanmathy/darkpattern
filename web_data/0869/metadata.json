@@ -1,0 +1,651 @@
+{
+    "title": "Home | Santa Fe Opera",
+    "url": "santafeopera.org",
+    "full_url": "https://www.santafeopera.org/",
+    "images": [
+        {
+            "alt": "The Santa Fe Opera",
+            "location": {
+                "x": 20,
+                "y": 0
+            },
+            "size": {
+                "height": 123,
+                "width": 88
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Orfeo Illustration by Benedetto Cristofani Santa Fe Opera 2023 Season",
+            "location": {
+                "x": 0,
+                "y": 22
+            },
+            "size": {
+                "height": 448,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Flying Dutchman illustration by Benedetto Cristofani",
+            "location": {
+                "x": -3440,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Pelléas et Mélisande illustration by Benedetto Cristofani",
+            "location": {
+                "x": -3123,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Rusalka Illustration by Benedetto Cristofani",
+            "location": {
+                "x": -2807,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Orfeo Illustration by Benedetto Cristofani Santa Fe Opera 2023 Season",
+            "location": {
+                "x": -2491,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Apprentice Scenes 2022_Photo by Tira Howard",
+            "location": {
+                "x": -2174,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Tosca illustration by Benedetto Cristofani.",
+            "location": {
+                "x": -1858,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Flying Dutchman illustration by Benedetto Cristofani",
+            "location": {
+                "x": -1542,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Pelléas et Mélisande illustration by Benedetto Cristofani",
+            "location": {
+                "x": -1225,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Rusalka Illustration by Benedetto Cristofani",
+            "location": {
+                "x": -909,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Orfeo Illustration by Benedetto Cristofani Santa Fe Opera 2023 Season",
+            "location": {
+                "x": -593,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Apprentice Scenes 2022_Photo by Tira Howard",
+            "location": {
+                "x": -276,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tosca illustration by Benedetto Cristofani.",
+            "location": {
+                "x": 40,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Flying Dutchman illustration by Benedetto Cristofani",
+            "location": {
+                "x": 356,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pelléas et Mélisande illustration by Benedetto Cristofani",
+            "location": {
+                "x": 673,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rusalka Illustration by Benedetto Cristofani",
+            "location": {
+                "x": 989,
+                "y": 668
+            },
+            "size": {
+                "height": 237,
+                "width": 296
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Theater roofline at night with stars",
+            "location": {
+                "x": 0,
+                "y": 1020
+            },
+            "size": {
+                "height": 262,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carmen production",
+            "location": {
+                "x": 0,
+                "y": 1313
+            },
+            "size": {
+                "height": 202,
+                "width": 323
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Susan Graham with a group of soldiers, Grand Duchess of Gerolshtein",
+            "location": {
+                "x": 343,
+                "y": 1313
+            },
+            "size": {
+                "height": 202,
+                "width": 323
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Falstaff production",
+            "location": {
+                "x": 686,
+                "y": 1313
+            },
+            "size": {
+                "height": 202,
+                "width": 323
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Theater exterior with baffles and white clouds",
+            "location": {
+                "x": 0,
+                "y": 1564
+            },
+            "size": {
+                "height": 221,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sunset with theater in the distance",
+            "location": {
+                "x": 20,
+                "y": 1979
+            },
+            "size": {
+                "height": 142,
+                "width": 227
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Theatre view from patioat Dusk",
+            "location": {
+                "x": 267,
+                "y": 1979
+            },
+            "size": {
+                "height": 142,
+                "width": 227
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "John Crosby historical photo with antique car in Santa Fe mountains",
+            "location": {
+                "x": 514,
+                "y": 1979
+            },
+            "size": {
+                "height": 142,
+                "width": 227
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Front of Box Office at evening time",
+            "location": {
+                "x": 762,
+                "y": 1979
+            },
+            "size": {
+                "height": 142,
+                "width": 227
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Character running from a canon and gun, Grand Duchess of Gerolstein",
+            "location": {
+                "x": 0,
+                "y": 2190
+            },
+            "size": {
+                "height": 221,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Santa Fe Opera",
+            "location": {
+                "x": 20,
+                "y": 2460
+            },
+            "size": {
+                "height": 32,
+                "width": 85
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            31,
+            31,
+            40
+        ],
+        [
+            0,
+            2,
+            6
+        ]
+    ],
+    "desc": "The official website of the Santa Fe Opera. A varied repertoire of new, rarely performed, and standard works, inspiring performers and audiences alike.",
+    "navbar": "ACCOUNT CART SHOP SEARCH \nCALENDAR\nTICKETS\nVISITING\nCOMMUNITY\nDONATIONS\nCOMPANY",
+    "text": "The Santa Fe Opera\nACCOUNT CART SHOP SEARCH \nCALENDAR\nTICKETS\nVISITING\nCOMMUNITY\nDONATIONS\nCOMPANY\nJOIN US FOR OUR 2023 SEASON!\nView our Health & Safety Policies\n  EXPLORE THE 2023 SEASON!\nJUNE 30 – AUGUST 26\nAPPRENTICE SCENES\nAUGUST 13 & 20, 2023\nTOSCA\nJUNE 30 - AUGUST 26, 2023\nTHE FLYING DUTCHMAN\nJULY 1 - AUGUST 25, 2023\nPELLÉAS ET MÉLISANDE\nJULY 15 - AUGUST 18, 2023\nRUSALKA\nJULY 22 - AUGUST 22, 2023\nA TRULY IMMERSIVE OPERA EXPERIENCE\nExpand your festivities through our special events. Celebrate with us and experience the magic that everyone is talking about.\nSpecial Events\nGIFT CERTIFICATES\nBuy Online\nBuy Online\nBRING A GROUP\nGroup Sales\nGroup Sales\nENHANCE YOUR VISIT\nTours, Talks and Shuttles\nTours, Talks and Shuttles\nHEALTH AND SAFETY IS OUR HIGHEST PRIORITY\nView Our Safety Plan\nDISCOVER THE SANTA FE OPERA\nThe Santa Fe Opera is renowned worldwide for its contribution to a living artform,\nand for the passion it inspires in performers and audiences alike.\nOur Mission\nPress, News & Media\nOur History\nBox Office & Theater\nCan’t Find What You Are Looking For?\nContact Us\nACCESSIBILITY\nAPPRENTICE OPPORTUNITIES\nBOX OFFICE & THEATER\nEMPLOYMENT\nFACILITY RENTALS\nPRESS, NEWS & MEDIA\nPRODUCTION RENTALS\nPRIVACY POLICY\nTERMS OF USE\nSITE CREDITS\nSITEMAP\nThe Santa Fe Opera\n301 Opera Drive\nSanta Fe, NM 87506-2823\nBox Office\n800-280-4654\n505-986-5900\nAdministration\n505-986-5955\nStay up to date with us Sign up  \nStay connected with us\nFacebook\nTwitter\nYouTube\nInstagram\n© The Santa Fe Opera, 2022\nwebsite by substrakt\n ",
+    "font": "benton-sans-condensed, \"Helvetica Neue\", helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 404,
+                "y": 616
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 564,
+                "y": 616
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(27, 27, 37, 1)",
+            "location": {
+                "x": 454,
+                "y": 629
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(27, 27, 37, 1)",
+            "location": {
+                "x": 472,
+                "y": 629
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(27, 27, 37, 1)",
+            "location": {
+                "x": 490,
+                "y": 629
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(27, 27, 37, 1)",
+            "location": {
+                "x": 508,
+                "y": 629
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(27, 27, 37, 1)",
+            "location": {
+                "x": 526,
+                "y": 629
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(27, 27, 37, 1)",
+            "location": {
+                "x": 544,
+                "y": 629
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

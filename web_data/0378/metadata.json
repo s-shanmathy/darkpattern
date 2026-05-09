@@ -1,0 +1,790 @@
+{
+    "title": "Martin Cid Magazine",
+    "url": "martincid.com",
+    "full_url": "https://martincid.com/en",
+    "images": [
+        {
+            "alt": "Martin Cid Magazine",
+            "location": {
+                "x": 25,
+                "y": 28
+            },
+            "size": {
+                "height": 8,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 449,
+                "y": 47
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Spanish",
+            "location": {
+                "x": 479,
+                "y": 47
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "French",
+            "location": {
+                "x": 509,
+                "y": 47
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Spanish",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "French",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Martin Cid Magazine",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Kaffe Fassett: The Power of Pattern",
+            "location": {
+                "x": 225,
+                "y": 138
+            },
+            "size": {
+                "height": 251,
+                "width": 376
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interior of a laboratory with an Alchemist at work with a stuffed alligator hanging from a ceiling beam by David Teniers the Younger. Sold for £529,500",
+            "location": {
+                "x": 644,
+                "y": 115
+            },
+            "size": {
+                "height": 102,
+                "width": 127
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PeacockUnder the MoonLight - Vandy Phtography",
+            "location": {
+                "x": 644,
+                "y": 444
+            },
+            "size": {
+                "height": 102,
+                "width": 127
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Installation view: The Love of Couture – Artisanship in Fashion Beyond Time, K11 MUSEA. © Courtesy K11.",
+            "location": {
+                "x": 54,
+                "y": 115
+            },
+            "size": {
+                "height": 102,
+                "width": 127
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Menu Movie",
+            "location": {
+                "x": 54,
+                "y": 1025
+            },
+            "size": {
+                "height": 150,
+                "width": 226
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Burning Patience",
+            "location": {
+                "x": 300,
+                "y": 1025
+            },
+            "size": {
+                "height": 150,
+                "width": 226
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Marriage App",
+            "location": {
+                "x": 546,
+                "y": 1025
+            },
+            "size": {
+                "height": 150,
+                "width": 226
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nuestro bebé elefante",
+            "location": {
+                "x": 368,
+                "y": 1702
+            },
+            "size": {
+                "height": 256,
+                "width": 384
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "In Broad Daylight: The Narvarte Case",
+            "location": {
+                "x": 54,
+                "y": 1683
+            },
+            "size": {
+                "height": 109,
+                "width": 127
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Matthew Rhys",
+            "location": {
+                "x": 54,
+                "y": 2055
+            },
+            "size": {
+                "height": 102,
+                "width": 127
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kaffe Fassett: The Power of Pattern",
+            "location": {
+                "x": 44,
+                "y": 2497
+            },
+            "size": {
+                "height": 400,
+                "width": 600
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interior of a laboratory with an Alchemist at work with a stuffed alligator hanging from a ceiling beam by David Teniers the Younger. Sold for £529,500",
+            "location": {
+                "x": 844,
+                "y": 2497
+            },
+            "size": {
+                "height": 96,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Callum Innes Tondos",
+            "location": {
+                "x": 844,
+                "y": 2786
+            },
+            "size": {
+                "height": 96,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Richard Pousette-Dart",
+            "location": {
+                "x": 844,
+                "y": 3042
+            },
+            "size": {
+                "height": 96,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Green Lunar New Year with Green Lions",
+            "location": {
+                "x": 844,
+                "y": 3331
+            },
+            "size": {
+                "height": 96,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Utzon Music",
+            "location": {
+                "x": 279,
+                "y": 3639
+            },
+            "size": {
+                "height": 143,
+                "width": 215
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "brakence - Hypochondriac",
+            "location": {
+                "x": 514,
+                "y": 3639
+            },
+            "size": {
+                "height": 143,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Loud Luxury is Andrew Fedyk and Joe De Pace Hook N Sling",
+            "location": {
+                "x": 749,
+                "y": 3639
+            },
+            "size": {
+                "height": 143,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bret Easton Ellis",
+            "location": {
+                "x": 63,
+                "y": 4624
+            },
+            "size": {
+                "height": 337,
+                "width": 506
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'The Number Concept, True its Definition and The Division by Zero', by Ernesto Bayona",
+            "location": {
+                "x": 608,
+                "y": 4605
+            },
+            "size": {
+                "height": 134,
+                "width": 168
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oliver Twist",
+            "location": {
+                "x": 608,
+                "y": 4972
+            },
+            "size": {
+                "height": 134,
+                "width": 168
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pokemon",
+            "location": {
+                "x": 514,
+                "y": 5587
+            },
+            "size": {
+                "height": 143,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kaffe Fassett: The Power of Pattern",
+            "location": {
+                "x": 216,
+                "y": 6336
+            },
+            "size": {
+                "height": 173,
+                "width": 173
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interior of a laboratory with an Alchemist at work with a stuffed alligator hanging from a ceiling beam by David Teniers the Younger. Sold for £529,500",
+            "location": {
+                "x": 216,
+                "y": 6658
+            },
+            "size": {
+                "height": 173,
+                "width": 173
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nuestro bebé elefante",
+            "location": {
+                "x": 216,
+                "y": 6980
+            },
+            "size": {
+                "height": 173,
+                "width": 173
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "In Broad Daylight: The Narvarte Case",
+            "location": {
+                "x": 216,
+                "y": 7301
+            },
+            "size": {
+                "height": 184,
+                "width": 173
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Installation view: The Love of Couture – Artisanship in Fashion Beyond Time, K11 MUSEA. © Courtesy K11.",
+            "location": {
+                "x": 777,
+                "y": 6309
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Emission Nebula-Star Cluster Duo from Hubble",
+            "location": {
+                "x": 777,
+                "y": 6775
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NASA’s uncrewed Orion spacecraft reached a maximum distance of nearly 270,000 miles from Earth during the Artemis I flight test before beginning its journey back toward Earth. Orion captured imagery of the Earth and Moon together from its distant lunar orbit, including this image on Nov. 28, 2022, taken from camera on one of the spacecraft’s solar array wings. Credits: NASA",
+            "location": {
+                "x": 777,
+                "y": 6865
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stellar siblings over 130 light-years away host two systems of teenage planets. Watch to learn how NASA’s Transiting Exoplanet Survey Satellite discovered these young worlds and what they might tell us about the evolution of planetary systems everywhere, including our own. Credits: NASA’s Goddard Space Flight Center/Chris Smith (KBRwyle)",
+            "location": {
+                "x": 777,
+                "y": 7060
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Martin Cid Magazine",
+            "location": {
+                "x": 283,
+                "y": 7714
+            },
+            "size": {
+                "height": 44,
+                "width": 442
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": -304,
+                "y": 446
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Spanish",
+            "location": {
+                "x": -304,
+                "y": 492
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "French",
+            "location": {
+                "x": -304,
+                "y": 538
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 612,
+                "y": 33
+            },
+            "size": {
+                "height": 20,
+                "width": 352
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Type & hit enter",
+            "type": "text",
+            "location": {
+                "x": -304,
+                "y": 10
+            },
+            "size": {
+                "height": 42,
+                "width": 273
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "Martin Cid Magazine is a publication about entertainment, art, movies and culture",
+    "navbar": "",
+    "text": "ART\nDovecot Studios present Kaffe Fassett: The Power of Pattern\nIn Spring 2023, Dovecot Studios in Edinburgh is bringing colour, light and optimism to Scotland in\nART\nDutch Artists Turn to Gold at Bonhams Old Master Paintings Sale\nEVENTS\nNai-Ni Chen Dance Company Celebrates the Lunar New Year: Year of the Black Water Rabbit Premiering Lion in the City at NJPAC\nFASHION/STYLE\nSix emerging Asian designers to know present new creations inspired by iconic pieces from the V&A’s collections\nWith a mission to celebrate artisanship and champion the next generation of fashion designers, K11 in\nMOVIES\nReviews, Trailers, News\n‘The Menu’ (2022) – Review: Chef Serves It Cold\nThe Menu is a comedy horror movie directed by Mark Mylod, starring Ralph Fiennes and Anya Taylor-Joy. Fiennes’ performance and the photography\nBY VERONICA LOOP\n‘Burning Patience’ (2022) – A Romantic Drama on Netflix – Poetry at the Forefront\nBurning Patience (Ardiente Paciencia) is a 2022 Netflix drama movie directed by Rodrigo Sepúlveda starring Vivianne Dietz, Claudio Arredondo and Andrew Bargstead.\nBY VERONICA LOOP\n‘The Marriage App’ (2022) – A Rom-Com on Netflix – Review: Good Comedic Performances\nThe Marriage App (Matrimillas) is a Netflix rom-com. It is directed by Sebastián De Caro starring Luisana Lopilato and Juan Minujín. A\nBY VERONICA LOOP\nTV SHOWS\n‘The Elephant Whisperers’ (2022) – Netflix Documentary – Dec 8\nThe Elephant Whisperers is a documentary from India directed by Kartiki Gonsalves. It is only 41\nBY TV SHOWS MARTIN CID MAGAZINE\nIn Broad Daylight: The Narvarte Case – True Crime Documentary on Netflix – Dec 8\nPerry Mason – Season 2 Trailer – March 6\n‘I Hate Christmas’ (2022-) – A Christmas Romantic Sitcom on Netflix\nI Hate Christmas (Odio il Natale) is a new rom-com series on Netflix directed by Davide\nThe Night Where Laurier Gaudreault Woke Up (2022-) – TV Miniseries – Trailer\nThe Night Where Laurier Gaudreault Woke Up (La nuit où Laurier Gaudreault s’est réveillé) is a\nLATEST\nDovecot Studios present Kaffe Fassett: The Power of Pattern\nIn Spring 2023, Dovecot Studios in Edinburgh is bringing colour, light and optimism to Scotland in an exhibition curated by textile guru\nDutch Artists Turn to Gold at Bonhams Old Master Paintings Sale\nLondon – A painting by17th century Golden Age Dutch painter David Teniers the Younger (Antwerp, 1610-1690, Brussels) illustrating the mysterious process of the transformation of\n‘The Elephant Whisperers’ (2022) – Netflix Documentary – Dec 8\nThe Elephant Whisperers is a documentary from India directed by Kartiki Gonsalves. It is only 41 minutes long but we are sure\nIn Broad Daylight: The Narvarte Case – True Crime Documentary on Netflix – Dec 8\nIn Broad Daylight: The Narvarte Case (A Plena Luz: El Caso Narvarte) is a true crime documentary directed by Alberto Arnaut about\nPerry Mason – Season 2 Trailer – March 6\nSeason two of the HBO Original drama series PERRY MASON debuts MONDAY, MARCH 6 (9:00-10:00p.m. ET/PT) on HBO and will be available to stream on HBO\nNai-Ni Chen Dance Company Celebrates the Lunar New Year: Year of the Black Water Rabbit Premiering Lion in the City at NJPAC\nNai-Ni Chen Dance Company will begins its NY/NJ celebration of the Lunar New Year: Year of the Black Water Rabbit beginning on the\nTOP AUTHORS\nElisabeth Plank\nTelevision, Series and Trailers\nVeronica Loop\nMovies, trailers and everything else\nMartin Cid\nFounder and editor of MCM. Author of 14 books\nART\nDovecot Studios present Kaffe Fassett: The Power of Pattern\nDECEMBER 7, 2022 ART\nIn Spring 2023, Dovecot Studios in Edinburgh is bringing colour, light and optimism to Scotland in an exhibition curated by textile guru\nDutch Artists Turn to Gold at Bonhams Old Master Paintings Sale\nDECEMBER 7, 2022\nCallum Innes Tondos, Exhibition Film – Sean Kelly Gallery\nDECEMBER 6, 2022\nRichard Pousette-Dart – 1950s: Spirit and Substance – Pace Gallery NY\nDECEMBER 6, 2022\nMuseum of the Home marks Green Lunar New Year\nDECEMBER 6, 2022\nMUSIC\nJimmy’s Jazz & Blues Club Features GRAMMY® Award-Winning NEW ORLEANS JAZZ ORCHESTRA with 3x-GRAMMY® Award Nominated Jazz Vocalist JAZZMEIA HORN on Friday January 20 at 7 & 9:30 P.M.\nGRAMMY® Award-Winning NEW ORLEANS JAZZ ORCHESTRA, led by Artistic Director & GRAMMY® Award-Winning Drummer ADONIS ROSE, return for a Special Performance at Jimmy’s Jazz & Blues\nBY MUSIC MARTIN CID MAGAZINE\nUtzon Music 2023 to showcase a curated collection of the world’s most innovative ensembles and soloists\nSydney – Monday 5 December, 2022. The Sydney Opera House’s much-loved chamber music program Utzon Music returns for its 16th year in 2023, showcasing\nBY MUSIC MARTIN CID MAGAZINE\nbrakence Releases “Hypochondriac”, His Debut Album – Check Out the Official Audio of the Single “5g”\nDecember 2, 2022 – Genre-blending producer-singer/songwriter brakence releases his debut album hypochondriac, via Columbia Records. The 13-track collection of songs features a blend of\nBY MUSIC MARTIN CID MAGAZINE\nLoud Luxury and Hook N Sling Join Forces and Release New Single “Afterparty”\nDecember 2, 2022 – Loud Luxury and Hook N Sling have joined forces to release “Afterparty”.  Both set of artists who also call each\nBY MUSIC MARTIN CID MAGAZINE\nBOOKS\nSouthbank Centre announces new partnership with Intelligence Squared alongside stellar Spring Literature Season\nThe Southbank Centre announces its Spring 2023 Literature Season taking place from the new year until\nBY BOOKS MARTIN CID MAGAZINE\n‘The Number Concept, True its Definition and The Division by Zero’, by Ernesto Bayona\nAll-Star Cast for “Oliver Twist”\nThe Harry Potter Series Reaches a Listening Landmark\nSince its launch in 2012, Pottermore has grown from J.K. Rowling’s groundbreaking self-publishing arm to become one of the world’s\nChefs Marcus Samuelsson and Jonathan Waxman to Host “Seat at the Table”\nAudible announced today a new audio series, Seat at the Table, which captures the inside stories of the most iconic restaurants\nGwyneth Paltrow’s goop Reaches Development Deal with Audible\nAudible today announced a multi-project worldwide development deal with lifestyle brand, goop. Four titles have been greenlit under a new The\nTECHNOLOGY\ntheCoderSchool partners with the U.S. Congress to inspire kids to code\nSAN FRANCISCO, Oct. 10, 2022 /PRNewswire/ — theCoderSchool, a Silicon Valley-based children’s coding and programming afterschool program, is challenging students nationwide to participate in the Congressional\nBY TECHNOLOGY MARTIN CID MAGAZINE\nThis VR Math Game Wants to Help Boost Your Simple Math Skills\nATLANTA, Dec. 6, 2022 /PRNewswire/ — Skill Prepare is thrilled to announce the launch of its new Math World VR game on the Meta Quest 2\nBY TECHNOLOGY MARTIN CID MAGAZINE\nPokémon: Five Helpful Tips and Tricks\nWhether you’re new to the series or a longtime player, these tips and tricks can help you make the most of the Pokémon™\nBY TECHNOLOGY MARTIN CID MAGAZINE\nCatch up on what Splatoon 3 has to offer\nA new season of the Splatoon™ 3 game just hit, so it’s a great time for new players to join in on\nBY TECHNOLOGY MARTIN CID MAGAZINE\nLATEST ATICLES\nART\nDovecot Studios present Kaffe Fassett: The Power of Pattern\nIn Spring 2023, Dovecot Studios in Edinburgh is bringing colour, light and\nDECEMBER 7, 2022\nART\nDutch Artists Turn to Gold at Bonhams Old Master Paintings Sale\nLondon – A painting by17th century Golden Age Dutch painter David Teniers the Younger (Antwerp,\nDECEMBER 7, 2022\nTV SHOWS\n‘The Elephant Whisperers’ (2022) – Netflix Documentary – Dec 8\nThe Elephant Whisperers is a documentary from India directed by Kartiki Gonsalves.\nDECEMBER 7, 2022\nTV SHOWS\nIn Broad Daylight: The Narvarte Case – True Crime Documentary on Netflix – Dec 8\nIn Broad Daylight: The Narvarte Case (A Plena Luz: El Caso Narvarte)\nDECEMBER 7, 2022\n1 2 3 … 894 NEXT\nSTYLE\nSix emerging Asian designers to know present new creations inspired by iconic pieces from the V&A’s collections\nPaco Rabanne X Vestiaire Collective: Long Live 1969\nGrammy® Award Winning and Multi-Platinum Artist Ariana Grande Debuts First Fragrance Duo with MOD, Featuring Two New Scents\nDolce&Gabbana X Mytheresa: Launch of an Exclusive Ski Collection\nSCIENCE\nEmission Nebula-Star Cluster Duo from Hubble\nNASA Sets Coverage of Orion’s Historic Moon Mission Return, Splashdown\nNASA Science, Cargo Launches on Northrop Grumman Resupply Mission\nStellar Siblings Host ‘Teenage’ Exoplanets Dicovered by NASA’s TESS\nABOUT MCM\nPRIVACY POLICY\nLEGAL NOTICE\nCONTACT\n© 2022 ALL RIGHTS RESERVED. MARTIN CID MAGAZINE.",
+    "font": "\"Frank Ruhl Libre\", serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(129, 138, 145, 1)",
+            "location": {
+                "x": 965,
+                "y": 33
+            },
+            "size": {
+                "height": 20,
+                "width": 19
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -71,
+                "y": 10
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

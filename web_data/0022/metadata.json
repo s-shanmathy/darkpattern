@@ -1,0 +1,826 @@
+{
+    "title": "Chalets à louer et location chalets | ChaletsAuQuebec.com",
+    "url": "chaletsauquebec.com",
+    "full_url": "https://chaletsauquebec.com/",
+    "images": [
+        {
+            "alt": "Spécial Chalet Le Majestueux: janvier-février-mars",
+            "location": {
+                "x": 28,
+                "y": 753
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DOMAINE URBAIN LE MODERNA BORD DE L'EAU",
+            "location": {
+                "x": 348,
+                "y": 753
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet Spa Le Refuge",
+            "location": {
+                "x": 668,
+                "y": 753
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Prestigieux, Spécial dernière minute dec!!!",
+            "location": {
+                "x": 28,
+                "y": 1023
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet Chinook Mont-Tremblant - Bord de lac en bois rond avec 5 Chambres, Spa privé(Lac aux bleuets)",
+            "location": {
+                "x": 348,
+                "y": 1023
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet Chinook 2 Mont-Tremblant - Bord de lac en bois rond, 16 personnes, Spa privé(Lac aux bleuets)",
+            "location": {
+                "x": 668,
+                "y": 1023
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "L' URBAIN *spa, billard & foyer",
+            "location": {
+                "x": 28,
+                "y": 1293
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LE RUSTIK *spa, billard & foyer",
+            "location": {
+                "x": 348,
+                "y": 1293
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chéribourg Des Merisiers - Mont Orford - Spa - Chien bienvenu",
+            "location": {
+                "x": 668,
+                "y": 1293
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet le grand chêne",
+            "location": {
+                "x": 28,
+                "y": 1563
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Spéciale L'Agreable: Janvier-Février-Mars",
+            "location": {
+                "x": 348,
+                "y": 1563
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bord de l'eau LAC LESAGE SPA, WIFI, Arcade, ping-pong, basket,fooseball",
+            "location": {
+                "x": 668,
+                "y": 1563
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet Red Deer Spa (Lac Fiddler)",
+            "location": {
+                "x": 28,
+                "y": 1833
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet Le Lagon Bleu",
+            "location": {
+                "x": 348,
+                "y": 1833
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet Romantique",
+            "location": {
+                "x": 668,
+                "y": 1833
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet De Luxe Magnifique",
+            "location": {
+                "x": 28,
+                "y": 2103
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lodge Exécutif ''Four Bears'' bord de l'eau quai privé",
+            "location": {
+                "x": 348,
+                "y": 2103
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LE SCANDINAVE BORD DE L'EAU",
+            "location": {
+                "x": 668,
+                "y": 2103
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalet DesignPur (au bord du lac)",
+            "location": {
+                "x": 28,
+                "y": 2373
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Auberge des Cascades",
+            "location": {
+                "x": 348,
+                "y": 2373
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chalets au Québec",
+            "location": {
+                "x": 20,
+                "y": 4061
+            },
+            "size": {
+                "height": 80,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 95,
+                "y": 403
+            },
+            "size": {
+                "height": 45,
+                "width": 413
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Visually hidden input created for functionality purposes.",
+            "type": "text",
+            "location": {
+                "x": 512,
+                "y": 403
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 513,
+                "y": 403
+            },
+            "size": {
+                "height": 45,
+                "width": 115
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Visually hidden input created for functionality purposes.",
+            "type": "text",
+            "location": {
+                "x": 632,
+                "y": 403
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 633,
+                "y": 403
+            },
+            "size": {
+                "height": 45,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 877,
+                "y": 406
+            },
+            "size": {
+                "height": 43,
+                "width": 111
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            241,
+            241,
+            241
+        ],
+        [
+            81,
+            194,
+            197
+        ]
+    ],
+    "desc": "4067 chalets à louer au Québec. Le plus grand répertoire de chalets à louer et à vendre par le propriétaire au Québec.",
+    "text": "MES FAVORIS (0)\nENGLISH\nACCÈS PROPRIÉTAIRE INSCRIVEZ VOTRE CHALET\nVOTRE CHALET DE RÊVE EST ICI\nRecherchez parmi plus de 4 067 chalets à louer et à vendre par le propriétaire\nÀ louer\nPersonnes\nCHALET VEDETTE\n Laurentides, QC\nSt-Adolphe-d'Howard\nCHALET VEDETTE\n Lanaudière, QC\nChertsey\nCHALET VEDETTE\n Lanaudière, QC\nNotre-Dame-de-la-Merci\nCHALET VEDETTE\n Laurentides, QC\nSt-Faustin-Lac-Carré\nCHALET VEDETTE\n Laurentides, QC\nLabelle\nCHALET VEDETTE\n Laurentides, QC\nMont-Tremblant\nCHALET VEDETTE\n Lanaudière, QC\nSt-Donat\nCHALET VEDETTE\n Lanaudière, QC\nSt-Donat\nCHALET VEDETTE\n Cantons de l'est / Estrie, QC\nOrford\nCHALET VEDETTE\n Laurentides, QC\nGrenville-sur-la-Rouge\nCHALET VEDETTE\n Laurentides, QC\nSt-Faustin-Lac-Carré\nCHALET VEDETTE\n Laurentides, QC\nNominingue\nCHALET VEDETTE\n Laurentides, QC\nMorin-Heights\nCHALET VEDETTE\n Laurentides, QC\nVal-David\nCHALET VEDETTE\n Cantons de l'est / Estrie, QC\nSutton\nCHALET VEDETTE\n Cantons de l'est / Estrie, QC\nSutton\nCHALET VEDETTE\n Laurentides, QC\nMont-Tremblant\nCHALET VEDETTE\n Laurentides, QC\nLac-Simon\nCHALET VEDETTE\n Lanaudière, QC\nChertsey\nCHALET VEDETTE\n Lanaudière, QC\nRawdon\nDÉCOUVREZ LE QUÉBEC\nLANAUDIÈRE\nLAURENTIDES\nCHARLEVOIX\nGASPÉSIE\nRÉGION DE QUÉBEC\nESTRIE\nLAC SAINT-JEAN\nRECHERCHER PAR PROVINCE ET RÉGION\nQuébec\nAbitibi-Témiscamingue\nBas-Saint-Laurent\nCantons de l'est / Estrie\nCentre du Québec\nCharlevoix\nChaudière-Appalaches\nCôte Nord\nGaspésie\nÎles de la Madeleine\nLanaudière\nLaurentides\nMauricie\nMontérégie\nNord du Québec\nOutaouais\nRégion de Québec\nSaguenay-Lac-Saint-Jean\nNouveau-Brunswick\nRivage Acadien\n\nÎle-du-Prince-Edouard\nCircuit côtier North Cape\nNouvelle-Écosse\nYarmouth and Acadian Shores\nCHALETSAUQUEBEC\nPlan du site\nContactez-nous\nTermes et conditions\nPolitique de confidentialité\nEnglish | Français\nPROPRIÉTAIRES\nInscrivez votre chalet\nAccès propriétaire\nLOCATAIRES\nChalets à louer\nChalets à vendre\nDernières inscriptions\nOffres spéciales\nMes favoris\nSUIVEZ-NOUS SUR\nCopyright ChaletsAuQuebec",
+    "font": "\"Archivo Narrow\", sans-serif",
+    "iframes": [],
+    "buttons": []
+}

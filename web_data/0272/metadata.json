@@ -1,0 +1,803 @@
+{
+    "title": "ByTheWay💫Health - Holistic Approach",
+    "url": "bythewayhealth.com",
+    "full_url": "https://www.bythewayhealth.com/",
+    "images": [
+        {
+            "alt": "Self Love Tips",
+            "location": {
+                "x": 112,
+                "y": 270
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mental Health Tips",
+            "location": {
+                "x": 112,
+                "y": 677
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "10 Health Benefits of Spending Time Outdoors",
+            "location": {
+                "x": 90,
+                "y": 1063
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eye Conditions",
+            "location": {
+                "x": 90,
+                "y": 1476
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "flaxseeds",
+            "location": {
+                "x": 90,
+                "y": 1862
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "10 best nuts for your health",
+            "location": {
+                "x": 90,
+                "y": 2215
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "seeds",
+            "location": {
+                "x": 90,
+                "y": 2568
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Top 5 oils for better health (PS. 5 oils to avoid)",
+            "location": {
+                "x": 90,
+                "y": 2894
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "woman getting acupuncture",
+            "location": {
+                "x": 90,
+                "y": 3254
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "12+ reasons to have your morning coffee",
+            "location": {
+                "x": 90,
+                "y": 3641
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "14 Health Benefits of Drinking Warm Lemon Water",
+            "location": {
+                "x": 90,
+                "y": 3993
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "young-woman-stretching",
+            "location": {
+                "x": 90,
+                "y": 4380
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "7 best herbal teas for a refreshing day",
+            "location": {
+                "x": 90,
+                "y": 4740
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "13+ Benefits of Fennel Seeds",
+            "location": {
+                "x": 90,
+                "y": 5093
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hypertension- 6 Foods to Avoid (P.S. 8 Foods to Try)",
+            "location": {
+                "x": 90,
+                "y": 5445
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Migraine- These 7 Things Might Help",
+            "location": {
+                "x": 90,
+                "y": 5832
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "6 Ways to Prevent Caregiver Stress",
+            "location": {
+                "x": 90,
+                "y": 6218
+            },
+            "size": {
+                "height": 190,
+                "width": 190
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Exipure",
+            "location": {
+                "x": 679,
+                "y": 270
+            },
+            "size": {
+                "height": 342,
+                "width": 244
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Self Love Tips",
+            "location": {
+                "x": 700,
+                "y": 1218
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mental Health Tips",
+            "location": {
+                "x": 700,
+                "y": 1384
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Food Intolerances",
+            "location": {
+                "x": 679,
+                "y": 1556
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "10 Health Benefits of Spending Time Outdoors",
+            "location": {
+                "x": 679,
+                "y": 1706
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "smile",
+            "location": {
+                "x": 679,
+                "y": 1831
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Homeopathy",
+            "location": {
+                "x": 679,
+                "y": 1955
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kimchi",
+            "location": {
+                "x": 679,
+                "y": 2079
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Superfoods for Weight Loss",
+            "location": {
+                "x": 679,
+                "y": 2179
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BAck ache",
+            "location": {
+                "x": 679,
+                "y": 2330
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Exercise",
+            "location": {
+                "x": 679,
+                "y": 2430
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Happy skin",
+            "location": {
+                "x": 679,
+                "y": 2554
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hair",
+            "location": {
+                "x": 679,
+                "y": 2654
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cleanse",
+            "location": {
+                "x": 679,
+                "y": 2754
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stop Migraine",
+            "location": {
+                "x": 679,
+                "y": 2854
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sleeping",
+            "location": {
+                "x": 679,
+                "y": 3005
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Health diet breakthrough nutrition concept as a fork with green healthy fruits and vegetables breaking through a wall of greasy high cholesterol junk food as a fitness lifestyle and wellness living success.",
+            "location": {
+                "x": 679,
+                "y": 3155
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Meditation Benefits",
+            "location": {
+                "x": 679,
+                "y": 3255
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Healthy Lifestyle Tips",
+            "location": {
+                "x": 679,
+                "y": 3355
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Close-up Of Acupuncture Needles On Man's Ear",
+            "location": {
+                "x": 679,
+                "y": 3506
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Green alarm clock, apple, bottle of water, measuring tape and dumbbells as concept of diet - isolated on white",
+            "location": {
+                "x": 679,
+                "y": 3606
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bowl of maca powder on wooden background",
+            "location": {
+                "x": 679,
+                "y": 3706
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fitness Tips",
+            "location": {
+                "x": 679,
+                "y": 3830
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "acupuncture (1)",
+            "location": {
+                "x": 679,
+                "y": 3930
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Selection of healthy fat sources. Rustic background. Horizontal permission. Selective focus. Copy space.",
+            "location": {
+                "x": 679,
+                "y": 4030
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Close up of fresh raw organic vegetable produce, assortment of corn, peppers, broccoli, mushrooms, beets, cabbage, parsley, tomatoes, isolated on light background",
+            "location": {
+                "x": 679,
+                "y": 4130
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Side view of beautiful young Afro American woman smiling while sleeping in her bed at home",
+            "location": {
+                "x": 679,
+                "y": 4230
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Exipure",
+            "location": {
+                "x": 679,
+                "y": 4396
+            },
+            "size": {
+                "height": 203,
+                "width": 244
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Exipure",
+            "location": {
+                "x": 36,
+                "y": 6668
+            },
+            "size": {
+                "height": 116,
+                "width": 938
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "search",
+            "location": {
+                "x": 684,
+                "y": 686
+            },
+            "size": {
+                "height": 48,
+                "width": 119
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            248,
+            248,
+            248
+        ],
+        [
+            211,
+            225,
+            241
+        ]
+    ],
+    "desc": "Have you been looking for information on natural health with a holistic approach? ByTheWayHealth.com is packed with excellent Info.",
+    "navbar": "",
+    "text": "This website uses cookies to ensure you get the best experience on our website. Learn more\nGot it\nByTheWay💫Health\nHolistic Approach\nHOME 🌱ABOUT US 🌶️CONTACT US 🥥\nTop 15 Tips for Developing Self-Love\nWhy is it Important to Develop Self Love? When you feel good within You feel good about everything else too. Everything is a reflection of your…\nREAD MORE\n7 New Mental Health Tips for Your Tired Self\nIn this ever-changing era, all the hustle and bustle keeps people constantly stressed. Here are some tips that can help you reduce stress.\nREAD MORE\n10 Health Benefits of Spending Time Outdoors\nSpending time outdoors has numerous positive effects on your health. It can help you grow stronger, improve various health conditions, and feel mentally and physically better.\nREAD MORE\nNatural Prevention and Awareness of Age-Related Eye Conditions\nSome of the leading age-related eye conditions to be aware of: Cataracts, Age-Related Macular Degeneration & Diabetic Eye Disease.\nREAD MORE\n8 Best Health Benefits Of Flax Seeds\nFlax seeds are one of the most cultivated superfoods. From maintaining hormonal balance to improving digestion, skin, cardiovascular health…\nREAD MORE\n10 Best Nuts For Your Health\nNuts improve heart health and prevent chronic disease. They contain protein, vitamins, minerals, fiber, and healthy fat to improve your health.\nREAD MORE\n7 Seeds With Amazing Health Benefits\nSeeds, when consumed as a regular part of your diet, help reduce blood cholesterol, blood glucose, as well as blood pressure.\nREAD MORE\nTop 5 Oils For Better Health (PS. 5 Oils To Avoid)\nWith the availability of so many cooking oils out there, it can be quite a difficult endeavor to pick out the best option.\nREAD MORE\nAcupuncture for weight loss & It’s 10 Amazing Benefits\nAcupuncture for weight loss is employed to obtain relief from chronic pain, arthritis, anxiety, insomnia, depression, migraine, nausea, postoperative pain.\nREAD MORE\n12+ Reasons To Have Your Morning Coffee\nCoffee contains protein, riboflavin, pantothenic acid, potassium, manganese, magnesium, and niacin. Coffee has antioxidant benefits and memory enhancing.\nREAD MORE\n14 New Health Benefits Of Drinking Lemon Water\nLemon Water Benefits: Lemon is a rich source of minerals and nutrients, including pectin fiber, vitamins A, B6, and E, calcium, potassium, iron, riboflavin, and folate.\nREAD MORE\n10 Ways To Care Your Back Pain In Pregnancy\nBack Pain In Pregnancy; care for your back prevents back pain. Here are 10 ways in which you can care for your back.\nREAD MORE\n7 Best Herbal Teas For A Refreshing Day\nHerbal tea is a perfect option for anyone looking to improve their health. Herbal teas offer a variety of vitamins, minerals, antioxidants, and nutrients.\nREAD MORE\n13+ Benefits of Fennel Seeds\nFennel seeds are a potent source of minerals such as calcium, potassium, copper, manganese, zinc, vitamin C, iron, magnesium, and selenium.\nREAD MORE\nHypertension: 6 Foods to Avoid (P.S. 8 Foods to Try)\nYou can control your blood pressure if you make certain lifestyle changes. A diet rich in magnesium, potassium, and fiber helps a lot in hypertension…\nREAD MORE\nMigraine vs Headache: Top 7 Things Might Help\nWhile migraine vs headaches owe it mainly to genetic factors, one’s lifestyle choice can also impact the frequency and intensity of the migraine attacks.\nREAD MORE\n6 Best Ways to Prevent Caregiver Stress\nCaregiver stress arises from feeling overwhelmed. You may experience caregiver stress emotionally, physically, mentally, and even financially.\nREAD MORE\n123›»\n\nSearch\nSEARCH\nSocial Profiles\nFOLLOW ON TWITTER\nFIND US ON FACEBOOK\nFOLLOW ON INSTAGRAM\nCategories\nCategories\nSelect Category\nAcne  (1)\naging  (2)\nAnxiety  (7)\nAsthma  (1)\nBack  (3)\nBetter living  (13)\nCaregiver  (1)\nCaregiving  (1)\ncoffee  (1)\nConstipation  (7)\nDepression  (10)\nDiabetes  (2)\nDiabetic Diet  (4)\ndiet  (1)\nDisease prevention  (39)\nDiseases  (9)\nEating Healthy  (72)\nEye Conditions  (1)\nFitness  (8)\nFitness Tips  (13)\nFood  (1)\nGut Health  (7)\nheadache  (3)\nHealthy Eating  (21)\nHealthy food  (6)\nHealthy Gut  (10)\nHealthy Lifestyle  (71)\nIntermittent Fasting  (1)\nLose Weight  (14)\nMeditation  (2)\nMenstruation  (1)\nMental Health  (19)\nMigraine  (3)\nNatural Healing  (80)\nNatural Pain Relief  (24)\nPregnancy  (1)\nPrevention  (7)\nSkin  (4)\nSleep  (1)\nStress  (6)\nSuperfoods  (21)\nTCM  (1)\nTea  (1)\nToothache  (1)\nUric Acid  (1)\nVegan lifestyle  (1)\nVitamins  (3)\nWater and Health  (2)\nYoga  (3)\n  Recent Posts\nTop 15 Tips for Developing Self-Love\n7 New Mental Health Tips for Your Tired Self\n5 Most Common Food Intolerances – And What You Can Do\n10 Health Benefits of Spending Time Outdoors\nTop 4 Most Effective Ways to Naturally Whiten Teeth\nWhat are the 7 Most Popular Alternative Therapies?\n9 Natural Probiotics for a Healthy Diet\nHow to Lose Weight with 10 Natural Superfoods for Fat Loss\n8 Ways to Treat Fibromyalgia Pain – Naturally\n7 Natural Remedies for Chronic Pain Relief\n6 Natural Eczema Remedies to Try\n14 Superfoods for Super-Fast Hair Growth\n12 Foods You Need to Eat for Clear Skin\nMigraine Prevention: 14 Effective Ways to Naturally Beat Migraines\n12 Sleep Killers: What You Need to Avoid at Bedtime for Quality Sleep\nThe Top 5 Foods That Promote Healing\n7 Best Health Reasons for Meditation\n12 Storecupboard Superfoods for Energy and Wellbeing\nUsing Natural Healing Methods\nHealth Tips For A Healthy Lifestyle\nA Brief List of Superfoods Everyone Needs to Try\nSimple Fitness Tips for Health Improvements\nNatural Healing Alternatives You Will Love\nWhat Is The Ketogenic Diet?\nThe Health Benefits Of Organic Food\nHow to Strengthen Immune System\n\n\n© 2022 | BY THE WAY HEALTH | BY SOCRATES ✔\n☞ PRIVACY POLICY☞ TERMS OF USE☞ MEDICAL DISCLAIMER",
+    "font": "Lato",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "SEARCH",
+            "bg-color": "rgba(150, 193, 42, 1)",
+            "location": {
+                "x": 813,
+                "y": 686
+            },
+            "size": {
+                "height": 48,
+                "width": 106
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

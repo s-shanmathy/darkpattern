@@ -1,0 +1,47 @@
+{
+    "title": "SpaceX",
+    "url": "spacex.com",
+    "full_url": "https://www.spacex.com/",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            250,
+            250
+        ],
+        [
+            97,
+            116,
+            131
+        ]
+    ],
+    "desc": "SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, with the ultimate goal of enabling people to live on other planets.",
+    "navbar": "FALCON 9\nFALCON HEAVY\nDRAGON\nSTARSHIP\nHUMAN SPACEFLIGHT\nRIDESHARE\nSTARSHIELD\nSTARLINK",
+    "text": "FALCON 9\nFALCON HEAVY\nDRAGON\nSTARSHIP\nHUMAN SPACEFLIGHT\nRIDESHARE\nSTARSHIELD\nSTARLINK\nSHOP\nUPCOMING LAUNCH\nISPACE'S HAKUTO-R MISSION 1\nLEARN MORE\nRECENT LAUNCH\nCRS-26 MISSION\nREWATCH\nSTARSHIP SELECTED BY NASA TO SUPPORT SUSTAINED LUNAR EXPLORATION\nLEARN MORE\nSTARSHIP UPDATE\nLEARN MORE\nSPACEX © 2022 TWITTER YOUTUBE INSTAGRAM FLICKR LINKEDIN PRIVACY POLICY SUPPLIERS",
+    "font": "D-DIN-Regular, Arial, Verdana, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 943,
+                "y": 44
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

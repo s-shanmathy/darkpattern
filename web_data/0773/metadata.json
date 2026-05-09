@@ -1,0 +1,463 @@
+{
+    "title": "Salt Lake City Weekly | News, Politics, Restaurants, Music, Entertainment",
+    "url": "cityweekly.net",
+    "full_url": "https://www.cityweekly.net/",
+    "images": [
+        {
+            "alt": "Issue Cover",
+            "location": {
+                "x": 754,
+                "y": 139
+            },
+            "size": {
+                "height": 90,
+                "width": 83
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "This Week's Issue",
+            "location": {
+                "x": 836,
+                "y": 139
+            },
+            "size": {
+                "height": 88,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Survive Utah's Holiday Shopping Season With the City Weekly Gift Guide",
+            "location": {
+                "x": 14,
+                "y": 414
+            },
+            "size": {
+                "height": 190,
+                "width": 420
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Movie Reviews: New Releases for Dec. 9",
+            "location": {
+                "x": 14,
+                "y": 914
+            },
+            "size": {
+                "height": 115,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Seasonal strains from the reigning Best of Utah cannabis pharmacy.",
+            "location": {
+                "x": 160,
+                "y": 914
+            },
+            "size": {
+                "height": 115,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Horoscopes for DEC 8 - 14",
+            "location": {
+                "x": 304,
+                "y": 914
+            },
+            "size": {
+                "height": 115,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Christmas Holiday Gift Guide for Music Lovers",
+            "location": {
+                "x": 14,
+                "y": 1485
+            },
+            "size": {
+                "height": 150,
+                "width": 325
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MUSIC PICKS: DEC 8 - 14",
+            "location": {
+                "x": 14,
+                "y": 1811
+            },
+            "size": {
+                "height": 100,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MUSIC PICKS: DEC 1 - 7",
+            "location": {
+                "x": 182,
+                "y": 1811
+            },
+            "size": {
+                "height": 100,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Seasonal strains from the reigning Best of Utah cannabis pharmacy.",
+            "location": {
+                "x": 14,
+                "y": 2279
+            },
+            "size": {
+                "height": 150,
+                "width": 325
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Horoscopes for DEC 8 - 14",
+            "location": {
+                "x": 14,
+                "y": 2613
+            },
+            "size": {
+                "height": 100,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "THE ESSENTIAL A&E PICKS FOR DEC 8 - 14",
+            "location": {
+                "x": 182,
+                "y": 2613
+            },
+            "size": {
+                "height": 100,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tidings of Food Cheer",
+            "location": {
+                "x": 354,
+                "y": 1485
+            },
+            "size": {
+                "height": 150,
+                "width": 325
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Christmas Gift Guide for Beer Lovers",
+            "location": {
+                "x": 354,
+                "y": 1775
+            },
+            "size": {
+                "height": 100,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blinded By the Lights",
+            "location": {
+                "x": 522,
+                "y": 1775
+            },
+            "size": {
+                "height": 100,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "City Guide 2022",
+            "location": {
+                "x": 354,
+                "y": 2101
+            },
+            "size": {
+                "height": 150,
+                "width": 325
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Best of Utah Body & Mind",
+            "location": {
+                "x": 354,
+                "y": 2391
+            },
+            "size": {
+                "height": 100,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 654,
+                "y": 299
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 710,
+                "y": 300
+            },
+            "size": {
+                "height": 29,
+                "width": 262
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            91,
+            110,
+            131
+        ],
+        [
+            232,
+            233,
+            237
+        ]
+    ],
+    "desc": "Salt Lake City's Weekly Newspaper. Covering Salt Lake City and Utah news, politics, music, film, television and arts; movie times, club calendars, restaurant listings and blogs.",
+    "navbar": "NEWS",
+    "text": "DONATE\nSupport the Free Press.\nFacts matter. Truth matters. Journalism matters.\nSalt Lake City Weekly has been Utah's source of independent news and in-depth journalism since 1984.\nDonate today to ensure the legacy continues.\nSalt Lake City Weekly\nFOLLOW US\nFACEBOOK\nTWITTER\nYOUTUBE\nINSTAGRAM\nEMAIL\nLog in / Create Account\nNEWS\nA&E\nEAT & DRINK\nMUSIC\nFILM\nBEST OF UTAH\nMEMBERSHIPS\nEVENTS\nMARKETPLACE\nNEWS\nSurvive Utah's Holiday Shopping Season With the City Weekly Gift Guide\nOur tips for finding atypical gifts, unique experiences and Salt Lake essentials to get you and yours through the long, dark winter.\nCover Story\nBy Mika Lee, Aimee L. Cook, Benjamin Wood, Erin Moore, Matt Pacenza, Scott Renshaw and Erin Moore\nMovie Reviews: New Releases for Dec. 9\nEmancipation, Empire of Light, All the Beauty and the Bloodshed, White Noise and more\nBuzz Blog\nBy Scott Renshaw\nSeasonal strains from the reigning Best of Utah cannabis pharmacy.\nOh Christmas Trees\nGift Guide\nBy Benjamin Wood\nHoroscopes for DEC 8 - 14\nMove Around\nFree Will Astrology\nBy Rob Brezsny\nMOST POPULAR\nSurvive Utah's Holiday Shopping Season With the City Weekly Gift Guide\nCover Story\nBy Mika Lee, Aimee L. Cook, Benjamin Wood, Erin Moore, Matt Pacenza, Scott Renshaw and Erin Moore\nConnect with nature, history and Thoreau walking Salt Lake City streets.\nOpinion\nBy John Rasmuson\nMovie Review of White Noise with Adam Driver and Greta Gerwig\nFilm Reviews\nBy Scott Renshaw\nLet It Snow\nNews\nBy Bryant Heath\nNo Good Deed\nHits & Misses\nBy Katharine Biele\nChristmas Holiday Gift Guide for Music Lovers\nMusic\nBy Emilee Atkinson\nTHE ESSENTIAL A&E PICKS FOR DEC 8 - 14\nEntertainment Picks\nBy City Weekly Staff\nHoroscopes for DEC 8 - 14\nFree Will Astrology\nBy Rob Brezsny\nFood Review: Spaghetti By the Bucket Italian Restaurant in Sugar House\nRestaurant Reviews\nBy Alex Springer\nThe BEST restaurants, bars, entertainment, nightlife, dishes, drinks, media, and politics in Utah.\nBest of Utah\nBy City Weekly Staff\nMUSIC\nChristmas Holiday Gift Guide for Music Lovers\nWhat to get your musically inclined loved one\nMusic\nBy Emilee Atkinson\nMUSIC PICKS: DEC 8 - 14\nFrancisco Martin, Fritz Hager, Allegra Miles, Jonny West @ Kilby Court 12/8, Anna Beck, Kaytlin Numbers, Mari @ DLC 12/9, Pond @ Soundwell 12/10, and more.\nMusic Picks\nBy City Weekly Staff\nMUSIC PICKS: DEC 1 - 7\nSaved by Sex, 26fix, Sleepcult @ Kilby Court 12/1, Friday Pilots Club, Sunfish @ Soundwell 12/2, Endless Struggle, The Modifiers, Informal Society, The Afraid, All Systems Fail, Goatsifter 12/3 @ Aces High Saloon, and more.\nMusic Picks\nBy City Weekly Staff\nCULTURE\nSeasonal strains from the reigning Best of Utah cannabis pharmacy.\nOh Christmas Trees\nGift Guide\nBy Benjamin Wood\nHoroscopes for DEC 8 - 14\nMove Around\nFree Will Astrology\nBy Rob Brezsny\nTHE ESSENTIAL A&E PICKS FOR DEC 8 - 14\nPioneer Theatre Company: A Christmas Story: The Musical, Bill Burr @ Maverik Center, \"Sing With Maria\" The Sound of Music @ Broadway Centre Cinemas, and more.\nEntertainment Picks\nBy City Weekly Staff\nEAT & DRINK\nTidings of Food Cheer\nA gift-giving guide for that special foodie on your nice list.\nRestaurant Reviews\nBy Alex Springer\nChristmas Gift Guide for Beer Lovers\nUseful gift ideas for the beer-centric person in your life\nDrink\nBy Mike Riedel\nBlinded By the Lights\nTwo beacons of light in dark beer season\nDrink\nBy Mike Riedel\nGUIDES\nCity Guide 2022\nCity Weekly’s 18th annual celebration of all things SLC\nCity Guide\nBy Jerre Wroble and City Weekly Staff\nBest of Utah Body & Mind\nReaders choose their best health-care providers, medical institutions, fitness guides and more.\nBest of Utah\nBy City Weekly Staff\nPromotions\n···\nHome | Who We Are | Contact | Circulation | Work With Us | Advertising | Newsletters | Guides | E-Weekly | Issue Archives | Privacy Policy / Terms of Use\n© 2022 Salt Lake City Weekly\n\nWebsite powered by Foundation\n❌\nAdd To Chrome — It's FREE!",
+    "font": "stainless, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 694,
+                "y": 412
+            },
+            "size": {
+                "height": 252,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://cityweekly.friends2follow.com/f2f/widget/html/socialstack/149/0/12/140/1/1/0/9/0/0",
+            "location": {
+                "x": 694,
+                "y": 676
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://cityweekly.friends2follow.com/f2f/widget/html/socialstack/101/0/12/160/1-4/1/1",
+            "location": {
+                "x": 694,
+                "y": 988
+            },
+            "size": {
+                "height": 600,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://cityweekly.friends2follow.com/f2f/widget/html/socialstack/50/0/12/160/1-4/1",
+            "location": {
+                "x": 694,
+                "y": 1708
+            },
+            "size": {
+                "height": 600,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://accounts.google.com/o/oauth2/iframe#origin=https%3A%2F%2Fwww.cityweekly.net&rpcToken=795948740.919194&clearCache=1",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 5,
+                "width": 5
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

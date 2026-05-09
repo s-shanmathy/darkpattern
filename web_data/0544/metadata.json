@@ -1,0 +1,433 @@
+{
+    "title": "Spread Privacy",
+    "url": "spreadprivacy.com",
+    "full_url": "https://spreadprivacy.com/",
+    "images": [
+        {
+            "alt": "Spread Privacy",
+            "location": {
+                "x": 386,
+                "y": 60
+            },
+            "size": {
+                "height": 104,
+                "width": 237
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Robin Schlinkert",
+            "location": {
+                "x": 648,
+                "y": 806
+            },
+            "size": {
+                "height": 38,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Omid Majdi",
+            "location": {
+                "x": 63,
+                "y": 1873
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gabriel Weinberg",
+            "location": {
+                "x": 546,
+                "y": 1873
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 63,
+                "y": 2294
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 648,
+                "y": 2740
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Peter Dolanjski",
+            "location": {
+                "x": 63,
+                "y": 3260
+            },
+            "size": {
+                "height": 46,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Beah Burger-Lenehan",
+            "location": {
+                "x": 546,
+                "y": 3260
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gabriel Weinberg",
+            "location": {
+                "x": 63,
+                "y": 3753
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 546,
+                "y": 3753
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 63,
+                "y": 4221
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 648,
+                "y": 4639
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 63,
+                "y": 5184
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 546,
+                "y": 5184
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 63,
+                "y": 5678
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 546,
+                "y": 5678
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 63,
+                "y": 6123
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 648,
+                "y": 6627
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 63,
+                "y": 7217
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 546,
+                "y": 7217
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 63,
+                "y": 7732
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 546,
+                "y": 7732
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 63,
+                "y": 8154
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dax the duck",
+            "location": {
+                "x": 648,
+                "y": 8599
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            94,
+            166,
+            216
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            244,
+            248,
+            251
+        ]
+    ],
+    "desc": "The Official DuckDuckGo Blog",
+    "navbar": "",
+    "text": "close\nSpread Privacy\nThe Official DuckDuckGo Blog\nHome\nDevice Privacy Tips\nPrivacy Crash Course\nPrivacy Research\nDuckDuckGo News\nOpinion\nAbout\nApp Tracking Protection Beta is Now Available to All Android Users\nApp Tracking Protection is now open for all Android users. It’s a beta feature in DuckDuckGo for Android that helps block 3rd-party trackers in your apps, even when you’re not using\n5 MIN READ\nDUCKDUCKGO NEWS\nThe wait is over: DuckDuckGo for Mac beta now open to the public!\nThe DuckDuckGo for Mac beta now open to the public! Enjoy browsing again with a fast, sleek browsing app that cleans up the web as you use it, thanks to DuckDuckGo’s unique built-in privacy protections.\n5 MIN READ\nOPINION\nPrivacy-Focused Technology Companies Call for a Floor Vote on Antitrust Legislation\n13 privacy-focused technology companies representing more than 100 million users in the United States published a letter imploring the U.S. Congress bring the American Innovation and Choice Online Act (AICOA) to a floor vote as soon as possible.\n2 MIN READ\nProtect Your Inbox: DuckDuckGo Email Protection Beta Now Open to All!\nWe’ve removed the waitlist for DuckDuckGo Email Protection, making the beta open for everyone to try. Get your @duck.com email address today! DuckDuckGo Email Protection is a free email forwarding service\n7 MIN READ\nDUCKDUCKGO NEWS\nMore Privacy and Transparency for DuckDuckGo Web Tracking Protections\nOver the next week, we will expand the third-party tracking scripts we block from loading on websites to include scripts from Microsoft.\n4 MIN READ\nSEARCH PREFERENCE MENUS\nNew Search Engine Market Share Data from Cloudflare and Wikipedia\nTwo new sources of search engine market share data from Cloudflare and Wikipedia use more accurate methodology.\n4 MIN READ\nSEARCH PREFERENCE MENUS\n10 Principles for Fair Choice Screens and Effective Switching Mechanisms\nChoice screens and effective switching mechanisms are crucial tools that empower users and enable competition in the search engine and browser markets.\n3 MIN READ\nDUCKDUCKGO NEWS\nDuckDuckGo Chrome Extension Now Blocks Topics and FLEDGE, Google’s new Tracking and Targeting Methods\nGoogle plans to automatically enable new tracking (Topics) and ad targeting (FLEDGE) in Chrome - block it with DuckDuckGo's Chrome Extension\n5 MIN READ\nDUCKDUCKGO NEWS\nIntroducing DuckDuckGo for Mac: A Private, Fast, and Secure Browsing App\nPrivacy isn’t something you only need in certain situations or in partial amounts, and it’s a myth that you can’t have the same Internet you like and need, but with\n7 MIN READ\nDUCKDUCKGO NEWS\nDuckDuckGo in 2021: Building the Privacy Super App\nWe spent 2021 strengthening our all-in-one privacy solution and helping people take back their privacy with one easy download.\n5 MIN READ\nDUCKDUCKGO NEWS\nIntroducing App Tracking Protection for Android: The easiest way to block most trackers lurking in your apps\nIntroducing App Tracking Protection for Android: The easiest way to block trackers lurking in your apps\n5 MIN READ\nDUCKDUCKGO NEWS\n2021 DuckDuckGo Charitable Donations: $1,000,000 to Privacy and Competition Organizations Around the World\n2021 marks DuckDuckGo's eleventh year of donations—our annual program to support organizations that share our vision of raising the standard of trust online. This year we're proud to donate to a diverse\n5 MIN READ\nDUCKDUCKGO NEWS\nGreat for Privacy, Great for the Environment: DuckDuckGo Is Now Carbon Negative\nDuckDuckGo is now carbon negative dating back to our founding in 2008 through 2020, and is committed to being carbon negative in perpetuity.\n7 MIN READ\nDUCKDUCKGO NEWS\nIntroducing Email Protection: The easy way to block most email trackers and hide your address\nWe’re excited to announce the beta release of DuckDuckGo’s Email Protection. Our free email forwarding service removes email trackers and protects the privacy of your personal email address without asking you to change email services or apps.\n4 MIN READ\nDUCKDUCKGO NEWS\nMillions Choose Simple Privacy Protection with DuckDuckGo\nOver the last 12 months, our apps have been downloaded more than 50M times, our search traffic increased 55%, we became the #2 search engine on mobile in U.S., Canada, Australia The Netherlands & other countries, and our estimated user count doubled to between 70-100 Million users.\n4 MIN READ\nOPINION\nSearch Engines Should be Able to Guide Consumers to Search Preference Menus\nConsumers deserve a competitive search market where the search engines they want are actually “just one click away.”\n3 MIN READ\nDUCKDUCKGO NEWS\nEFF Adopts DuckDuckGo HTTPS Dataset\nWe’re proud to announce EFF is switching to the DuckDuckGo Smarter Encryption dataset in their HTTPS Everywhere extension, which automatically upgrades to secure website connections when possible.\n2 MIN READ\nDUCKDUCKGO NEWS\nUse the DuckDuckGo Extension to Block FLoC, Google’s New Tracking Method in Chrome\nGoogle has created a new tracking mechanism called FLoC, put it in Chrome, and automatically turned it on for millions of users. It's bad for privacy, which is why we're now blocking it in the DuckDuckGo extension.\n5 MIN READ\nPRIVACY RESEARCH\nMost Browser Tracking Protection Doesn't Actually Stop Tracking by Default, but We Can Help\nTo really stop cross-site trackers, you have to prevent them from actually loading in your browser, which is a critical blocking feature that we provide in our all-in-one privacy browser extension & mobile browser.\n7 MIN READ\nDUCKDUCKGO NEWS\nGlobal Privacy Control (GPC) Enabled by Default in DuckDuckGo Apps & Extensions\nGlobal Privacy Control (GPC), the setting exercising your legal right to opt-out of the sale & sharing of personal data, is now enabled by default in the DuckDuckGo app & extension.\n3 MIN READ\nDUCKDUCKGO NEWS\nOpen Letter to European Commission: Request for Trilateral Meeting among Google, the EC, and Alternative Search Engines to Improve Search Preference Menu\nWe're calling for a trilateral meeting among Google, the European Commission, and alternative search engines to address the many flaws in Google's preference menu for Android phones in the EU.\n1 MIN READ\nOPINION\nDear Google: We Agree Search Competition Should Be \"Only 1 Click Away\" – So Why Is It 15+ on Android?\nGoogle claims search competition is “only one click away.” So why does it take fifteen+ clicks to make DuckDuckGo Search or any other alternative the default on Android devices?\n2 MIN READ\nDUCKDUCKGO NEWS\nPlan Your Route Privately: DuckDuckGo Now Has Driving & Walking Directions\nWe're excited to announce a big step forward with the introduction of route-planning directions on DuckDuckGo Search – private, as always.\n2 MIN READ\nDUCKDUCKGO NEWS\nDuckDuckGo Founding Member in Global Privacy Control (GPC) Standards Effort\nWe're proud to announce the launch of Global Privacy Control (GPC), a new standard to put privacy protection in the hands of consumers.\n3 MIN READ\nPRIVACY RESEARCH\nAs Predicted, Google’s Search Preference Menu Eliminates DuckDuckGo\nGoogle's search preference menu auction, as we predicted, has resulted in DuckDuckGo being eliminated, making it harder for people to get simple privacy.\n3 MIN READ\nSpread Privacy © 2022\nLatest Posts\nTwitter\nReddit\nPrivacy Crash Course\nAbout DuckDuckGo",
+    "font": "DDG_ProximaNova, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "close",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1154,
+                "y": 0
+            },
+            "size": {
+                "height": 69,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "title": "آپارات - سرویس اشتراک ویدیو",
+    "url": "aparat.com",
+    "full_url": "https://www.aparat.com/",
+    "images": [
+        {
+            "alt": "logo-samandehi",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "پرتغال ۶-۱ سوئیس | خلاصه بازی | پنیر سوئیسی اصل! ثبت اولین هتریک جام توسط راموس",
+            "location": {
+                "x": 649,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "مراکش (۳) ۰-۰ (۰) اسپانیا | خلاصه بازی | صعود تاریخی مراکش با درخشش یاسین بونو",
+            "location": {
+                "x": 381,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "برزیل ۴-۱ کره جنوبی | خلاصه بازی | طوفان یک نیمه ای سلسائو همراه با سامبا",
+            "location": {
+                "x": 114,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ژاپن (۱) ۱-۱ (۳) کرواسی | خلاصه بازی | صعود کروات ها با درخشش لیواکوویچ",
+            "location": {
+                "x": -154,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "انگلیس ۳-۰ سنگال | خلاصه بازی | صعود قاطعانه، سه شیرها حریف خروس ها شدند",
+            "location": {
+                "x": -421,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "فرانسه  ۳-۱ لهستان | خلاصه بازی | نمایش اقتدار مدافع عنوان قهرمانی",
+            "location": {
+                "x": -689,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "آرژانتین ۲-۱ استرالیا | خلاصه بازی | برد آلبی سلسته با درخشش مسی در هزارمین بازی",
+            "location": {
+                "x": -956,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "هلند ۳-۱ آمریکا | خلاصه بازی | صعود لاله های نارنجی به جمع ۸ تیم پایانی",
+            "location": {
+                "x": -1224,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "کره جنوبی ۲-۱ پرتغال | خلاصه بازی | شاهکار کره، شاگردان بنتو صعود کردند",
+            "location": {
+                "x": -1491,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "غنا ۰-۲ اروگوئه | خلاصه بازی | وداع تلخ اروگوئه با جام",
+            "location": {
+                "x": -1759,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "کامرون ۱-۰ برزیل | خلاصه بازی | حذف باشکوه شیرهای رام نشدنی",
+            "location": {
+                "x": -2026,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ژاپن ۲-۱ اسپانیا | خلاصه بازی | صدرنشینی تاریخی سامورایی ها در گروه مرگ",
+            "location": {
+                "x": -2294,
+                "y": 284
+            },
+            "size": {
+                "height": 151,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "جستجوی ویدیوهای رویدادها، شخصیت‌ها و ...",
+            "type": "text",
+            "location": {
+                "x": 324,
+                "y": 15
+            },
+            "size": {
+                "height": 35,
+                "width": 404
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            243,
+            243,
+            248
+        ],
+        [
+            217,
+            17,
+            71
+        ]
+    ],
+    "desc": "آپارات بزرگ‌‎ترین سرویس اشتراک ویدئوی کشور است که کاربران با بارگذاری انواع فایل‌های ویدئویی می‌توانند محتوای خود را با دیگران به اشتراک بگذارند. دسته‌بندی‌های متنوع جهت بارگذاری محتوا باعث شده تا آپارات به یکی از محبوب‌ترین پلتفرم‌ها جهت اشتراک محتوا تبدیل شود.",
+    "text": "203\nبارگذاری ویدیو\nورود و ثبت‌نام\nتولید محتوا و کسب درآمد از آپارات\nتولید محتوا و کسب درآمد از آپارات\nوقتشه ویدئو بسازی\nهمین حالا شروع کن\nآپارات اسپرت\nنمایش همه\n03:08\nپرتغال ۶-۱ سوئیس | خلاصه بازی | پنیر سوئیسی اصل! ثبت اولین هتریک جام توسط راموس\nآپارات اسپرت\n48.3 هزار بازدید20 ساعت پیش\n05:17\nمراکش (۳) ۰-۰ (۰) اسپانیا | خلاصه بازی | صعود تاریخی مراکش با درخشش یاسین بونو\nآپارات اسپرت\n22.4 هزار بازدید23 ساعت پیش\n03:03\nبرزیل ۴-۱ کره جنوبی | خلاصه بازی | طوفان یک نیمه ای سلسائو همراه با سامبا\nآپارات اسپرت\n79.4 هزار بازدید1 روز پیش",
+    "font": "IRANSans, \"Open Sans\", sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 968,
+                "y": 15
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "203",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 797,
+                "y": 14
+            },
+            "size": {
+                "height": 36,
+                "width": 73
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "ورود و ثبت‌نام",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 21,
+                "y": 14
+            },
+            "size": {
+                "height": 36,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0.3)",
+            "location": {
+                "x": 118,
+                "y": 93
+            },
+            "size": {
+                "height": 23,
+                "width": 23
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 87,
+                "y": 330
+            },
+            "size": {
+                "height": 47,
+                "width": 47
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

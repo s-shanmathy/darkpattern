@@ -1,0 +1,93 @@
+{
+    "title": "iODBC Driver Manager: iODBC.org",
+    "url": "iodbc.org",
+    "full_url": "https://iodbc.org/dataspace/doc/iodbc/wiki/iodbcWiki/WelcomeVisitors",
+    "images": [
+        {
+            "alt": "iODBC logo",
+            "location": {
+                "x": 53,
+                "y": 53
+            },
+            "size": {
+                "height": 67,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Powered by Virtuoso",
+            "location": {
+                "x": 52,
+                "y": 933
+            },
+            "size": {
+                "height": 37,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fork iODBC on GitHub",
+            "location": {
+                "x": 856,
+                "y": 933
+            },
+            "size": {
+                "height": 30,
+                "width": 101
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Get iODBC at SourceForge.net",
+            "location": {
+                "x": 723,
+                "y": 933
+            },
+            "size": {
+                "height": 30,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            229,
+            229,
+            229
+        ],
+        [
+            240,
+            240,
+            240
+        ]
+    ],
+    "text": "iODBC.org\nIndependent Open DataBase Connectivity for Linux, MacOS X and Unix systems\nHome\nAbout\nDownloads\nGit\nForums\nPerl\nPython\nPHP\nRuby\nMySQL2ODBC\nODBCBench\nOpenLink\n[ RSS ]\nProject\nAbout\nDownloads\nNews\nMailing Lists / Forums\nChangeLog\nGit\nGitHub\nSourceForge.net\nDeveloper Protocol\nODBC Drivers\nRoadmap\nDocumentation\nFAQ\nLicense Terms\nODBC-on-Unix Story\nmacOS (Mac OS X) ODBC Overview\nLanguages\nPHP\niODBC + PHP HOWTO\nPerl\niODBC + Perl HOWTO\nPython\niODBC + Python HOWTO\nRuby\niODBC + Ruby HOWTO\nCh\niODBC + Ch HOWTO\nOther Projects\nMySQL 2 ODBC\nODBC Bench\nLinks\nODBC Resources\nMicrosoft / ODBC\nOpen Group (X/Open)\nFSF\nOpenSource.org\nOpenLink UDA Blog\nNews\n2021-06-07 - Stable Version 3.52.15 released\n2021-02-17 - Stable Version 3.52.14 released\n2019-07-23 - Stable Version 3.52.13 released\n2016-07-12 - Stable Version 3.52.12 released\n2016-05-25 - Internal Version 3.52.11 released\n2015-02-12 - Stable Version 3.52.10 released\n2014-04-15 - Stable Version 3.52.9 released\n2012-03-27 - Stable Version 3.52.8 released\n2012-03-27 - Moved hosting to Github\n2009-09-11 - New iODBC.org website implemented\n2009-09-10 - Stable Version 3.52.7 released\nCopyright (C) OpenLink Software 2022 . All rights reserved.\n0",
+    "font": "verdana, sans, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

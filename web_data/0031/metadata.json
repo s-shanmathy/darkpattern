@@ -1,0 +1,2569 @@
+{
+    "title": "Axios - Breaking news, U.S. news and politics, and local news",
+    "url": "axios.com",
+    "full_url": "https://www.axios.com/",
+    "images": [
+        {
+            "alt": "Alayna Treene",
+            "location": {
+                "x": 111,
+                "y": 397
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Trump looks at the crowd at Mar-a-Lago, with a shadow over him. ",
+            "location": {
+                "x": 111,
+                "y": 518
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sophia Cai",
+            "location": {
+                "x": 111,
+                "y": 2289
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Emma Hurt",
+            "location": {
+                "x": 111,
+                "y": 3207
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lachlan Markay",
+            "location": {
+                "x": 111,
+                "y": 4153
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of an older style telephone receiver with holes forming the word \"VOTE\"",
+            "location": {
+                "x": 111,
+                "y": 4274
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sareen Habeshian",
+            "location": {
+                "x": 111,
+                "y": 5093
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Erin Doherty",
+            "location": {
+                "x": 111,
+                "y": 6078
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Former US President Donald Trump speaks at the Mar-a-Lago Club in Palm Beach, Florida, US, on Tuesday, Nov. 15, 2022.",
+            "location": {
+                "x": 111,
+                "y": 6199
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Erin Doherty",
+            "location": {
+                "x": 111,
+                "y": 6992
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Former U.S. President Donald Trump arrives on stage to speak during an event at his Mar-a-Lago home on November 15, 2022 in Palm Beach, Florida.",
+            "location": {
+                "x": 111,
+                "y": 7145
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bethany Allen-Ebrahimian",
+            "location": {
+                "x": 111,
+                "y": 7982
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Miriam Kramer",
+            "location": {
+                "x": 111,
+                "y": 8955
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of an engraved eye with a comet shooting across the center",
+            "location": {
+                "x": 111,
+                "y": 9076
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Andrew Solender",
+            "location": {
+                "x": 111,
+                "y": 9949
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rep. Andy Biggs, wearing a grey suit, white shirt and red tie.",
+            "location": {
+                "x": 111,
+                "y": 10070
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Andrew Solender",
+            "location": {
+                "x": 111,
+                "y": 10862
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rep. Bennie Thompson (D-Miss.), the chair of the Jan. 6 committee wearing a grey suit, light blue shirt and red tie, speaks to reporters on the Capitol steps.",
+            "location": {
+                "x": 111,
+                "y": 10983
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sam Sabin",
+            "location": {
+                "x": 111,
+                "y": 11749
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Data: LookingGlass Cyber Solutions; Chart: Axios Visuals",
+            "location": {
+                "x": 111,
+                "y": 11942
+            },
+            "size": {
+                "height": 550,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Data: LookingGlass Cyber Solutions; Chart: Axios Visuals",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1045,
+                "width": 945
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Ivana Saric",
+            "location": {
+                "x": 111,
+                "y": 12861
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Club Q and the memorial for the victims of the shooting photographed in Colorado Springs, Colorado",
+            "location": {
+                "x": 111,
+                "y": 12981
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ben Geman",
+            "location": {
+                "x": 111,
+                "y": 13873
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Data: International Energy Agency; Chart: Axios Visuals",
+            "location": {
+                "x": 111,
+                "y": 14066
+            },
+            "size": {
+                "height": 354,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Data: International Energy Agency; Chart: Axios Visuals",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 662,
+                "width": 945
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Erin Davis",
+            "location": {
+                "x": 111,
+                "y": 14789
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ivana Saric",
+            "location": {
+                "x": 111,
+                "y": 15617
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Tu-160 bomber lands at Engels-2 airbase on August 7, 2008 in Engels, Russia",
+            "location": {
+                "x": 111,
+                "y": 15737
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Matt Phillips",
+            "location": {
+                "x": 111,
+                "y": 16530
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of an oil barrel with a red discount tag. ",
+            "location": {
+                "x": 111,
+                "y": 16651
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Emma Hurt",
+            "location": {
+                "x": 111,
+                "y": 17497
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of hand putting money in ballot box.",
+            "location": {
+                "x": 111,
+                "y": 17618
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jennifer A. Kingson",
+            "location": {
+                "x": 111,
+                "y": 18383
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of a large sub sandwich sticking out a melting block of ice",
+            "location": {
+                "x": 111,
+                "y": 18504
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sara Fischer",
+            "location": {
+                "x": 111,
+                "y": 19324
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sara Fischer",
+            "location": {
+                "x": 111,
+                "y": 20237
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of a quill resting in a computer as if it were an ink well. ",
+            "location": {
+                "x": 111,
+                "y": 20357
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Adriel Bettelheim",
+            "location": {
+                "x": 111,
+                "y": 21204
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Alayna Treene",
+            "location": {
+                "x": 111,
+                "y": 22116
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sens. Kyrsten Sinema and Thom Tillis side by side",
+            "location": {
+                "x": 111,
+                "y": 22236
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Alexi McCammond",
+            "location": {
+                "x": 111,
+                "y": 23056
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hans Nichols",
+            "location": {
+                "x": 111,
+                "y": 23996
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Andrew Solender",
+            "location": {
+                "x": 111,
+                "y": 25008
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of a hanging microphone under a red spotlight. ",
+            "location": {
+                "x": 111,
+                "y": 25161
+            },
+            "size": {
+                "height": 443,
+                "width": 787
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            250,
+            250
+        ],
+        [
+            233,
+            233,
+            238
+        ]
+    ],
+    "desc": "Smart, efficient news worthy of your time, attention, and trust. Covering local news, politics, health, climate, tech, media, business, sports, world, science and more.",
+    "text": "Skip to main content\nAxios\nSections\nLocal news\nAxios Pro\nAbout Axios\nSign up\nLog In\nAll top stories\nAlayna Treene\n, author of\nAxios Sneak Peek\n5 hours ago - Politics & Policy\nTrump's horrific month\nTrump leaves the stage after speaking at Mar-a-Lago in November. Photo: Joe Raedle/Getty Images\nDonald Trump's 2024 presidential campaign is only three weeks old, and it's been nothing but nightmares so far: He's faced setbacks in court, dismal polls, scandals of his own making — then today his company was convicted of tax fraud.\nWhy it matters: He doesn't even have an opponent yet. But Trump is struggling to regain his frontrunner's luster after those disappointing midterm setbacks.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nSophia Cai\n5 hours ago - Politics & Policy\nExclusive: GOP launches probe into handling of Afghanistan withdrawal\nPhoto illustration: Sarah Grillo/Axios. Photos: Saul Loeb/AFP, Farshad Usyan/AFP, and Javeed Tanveer/AFP via Getty Images\nHouse Republicans are planting targets for their first Biden administration investigations in the majority next year, starting with the U.S. withdrawal from Afghanistan.\nWhy it matters: It's the start of an investigation into an evacuation of unprecedented scale that saw more than 120,000 people airlifted out of the country after the Taliban swept into Kabul.\nGo deeper (2 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nEmma Hurt\n3 hours ago - Politics & Policy\nRaphael Warnock defeats Herschel Walker in Georgia Senate runoff\nPhoto: Megan Varner/Getty Images\nGeorgia Democratic Sen. Raphael Warnock has fended off a challenge from Republican Herschel Walker in a December runoff, clinching a full term in the chamber, the AP reported.\nWhy it matters: Warnock’s victory expands Democrats’ Senate majority to 51 seats, bolstering their ability to move judicial nominations through the confirmation process — and easing the procedural burden of a 50-50 Senate.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nLachlan Markay\n5 hours ago - Politics & Policy\nNew campaign tool: Monetizing friends\nIllustration: Annelise Capossela/Axios\nDemocrats have activated a novel organizing tool ahead of Tuesday's Georgia Senate runoff: thousands of Georgians paid to plug Sen. Raphael Warnock in conversations with friends and family.\nWhy it matters: The tactic, known as relational organizing, helped propel key Democratic wins in the 2022 midterm elections, and those employing it hope to ramp up the tactic ahead of the 2024 presidential election.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nSareen Habeshian\nUpdated 8 hours ago - World\nJudge dismisses suit against MBS over Khashoggi killing\nSaudi Crown Prince Mohammed bin Salman attends the Asia-Pacific Economic Cooperation summit in Bangkok on Nov. 18, 2022. Photo: Athit Perawongmetha/Pool/AFP via Getty Images\nA federal judge dismissed a lawsuit Tuesday against Saudi Crown Prince Mohammed bin Salman over the 2018 killing of Washington Post columnist Jamal Khashoggi.\nDriving the news: The dismissal came after the Biden administration attracted criticism for supporting the crown prince's immunity in the suit.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nErin Doherty\nUpdated 9 hours ago - Politics & Policy\nTrump Organization found guilty in tax fraud case\nFormer President Trump speaks at Mar-a-Lago in Palm Beach, Florida on Nov. 15. Photo: Eva Marie Uzcategui/Bloomberg via Getty Images\nThe Trump Organization was convicted Tuesday over what prosecutors say was a 15-year scheme to defraud state and federal tax authorities, the Manhattan District Attorney's Office announced.\nWhy it matters: Former President Trump's company could face up to $1.6 million in fines, and the guilty verdict could hinder his ability to conduct business in New York City.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nErin Doherty\n12 hours ago - Politics & Policy\nJustice Dept. subpoenas election officials in key states for Trump comms\nFormer President Trump arrives on stage to speak during an event at Mar-a-Lago on Nov. 15 in Palm Beach, Florida. Photo: Joe Raedle/Getty Images\nSpecial counsel Jack Smith has subpoenaed local election officials in Arizona, Michigan and Wisconsin for communication with former President Trump and his allies during the lead up to the 2020 election and its aftermath, the Washington Post reports.\nThe big picture: The subpoenas signal that Smith is extending the breadth of the investigation into Trump and his involvement with the Jan. 6 attack to include local officials and representatives, per the Post.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nBethany Allen-Ebrahimian\n, author of\nAxios China\n12 hours ago - World\nBeijing no longer requires negative COVID test to enter many public spaces\nA demonstrator holds a blank sign and chants slogans during a protest in Beijing on Nov. 28. Photo: Bloomberg via Getty Images\nThe demonstrations that rocked many Chinese cities last week were quickly suppressed but succeeded in getting China's leaders to rework the zero-COVID policy they've implemented for almost three years.\nWhy it matters: Loosened restrictions will relieve the hardship and uncertainty that many Chinese people have faced and could boost a struggling economy. But an end to zero-COVID will also mean a surge in COVID cases, serious illness and deaths.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nMiriam Kramer\n, author of\nAxios Space\n13 hours ago - Science\nThe solar system's strangest objects are unlocking its history\nIllustration: Natalie Peeples/Axios\nA clutch of upcoming space missions will give scientists unprecedented views of some of the oddest objects in the solar system.\nWhy it matters: The solar system is still a largely mysterious place. Scientists aren't sure exactly how planets came together billions of years ago or how life developed on Earth — and whether it took hold on other worlds.\nGo deeper (2 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nAndrew Solender\nUpdated 13 hours ago - Politics & Policy\nRep. Andy Biggs challenges McCarthy for speaker\nRep. Andy Biggs (R-Ariz.). Photo: Drew Angerer/Getty Images.\nRep. Andy Biggs (R-Ariz.), the former chair of the right-wing Freedom Caucus, on Tuesday announced he is running against House Minority Leader Kevin McCarthy (R-Calif.) for speaker of the House.\nWhy it matters: Biggs' candidacy gives McCarthy detractors a candidate to rally around, further complicating his already perilous path to the speakership.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nAndrew Solender\nUpdated 13 hours ago - Politics & Policy\nJan. 6 committee nears criminal referrals\nRep. Bennie Thompson (D-Miss.). Photo: Drew Angerer/Getty Images.\nThe Jan. 6 select committee is closing in on criminal referrals to the Department of Justice, the panel's chair Rep. Bennie Thompson (D-Miss.) said Tuesday.\nWhy it matters: The issue is one of the last the committee is trying to nail down before it issues its final report and disbands by the end of the year.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nSam Sabin\n, author of\nAxios Codebook\n14 hours ago - Technology\nRansomware gangs overwhelmingly targeted U.S. orgs in early 2022\nData: LookingGlass Cyber Solutions; Chart: Axios Visuals\nRansomware gangs were hyper-focused on organizations in the U.S. in the first half of 2022, according to a report released by LookingGlass Cyber Solutions on Monday.\nWhy it matters: The data underscores U.S. government officials' increasingly dire warnings about ransomware getting worse — despite officials' best efforts to squash the problem.\nGo deeper (<1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nIvana Saric\n14 hours ago - Politics & Policy\nClub Q shooting suspect charged with 305 counts\nClub Q and the memorial for the victims of the shooting photographed in Colorado Springs on Nov. 29. Photo: Hyoung Chang/The Denver Post via Getty Images\nThe suspected gunman in the deadly Colorado Springs LGBTQ nightclub shooting that killed five people last month has been formally charged with 305 counts, including first-degree murder, attempted first-degree murder, assault and bias-motivated crimes.\nDriving the news: Anderson Lee Aldrich, the suspect in the Club Q shooting, appeared in person at a court hearing Tuesday in El Paso County District Court, where prosecutors filed the charges.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nBen Geman\n, author of\nAxios Generate\n15 hours ago - Technology\nNew report projects massive renewable energy growth — with caveats\nData: International Energy Agency; Chart: Axios Visuals\nA pair of new reports show analysts are getting more bullish about renewables and electric vehicle adoption — and that gaming out the energy future is really tough.\nDriving the news: The International Energy Agency just dropped its largest-ever upward revision of renewable power forecasts.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nErin Davis\nSara Fischer\n17 hours ago - Technology\nEngagement with Musk's tweets explodes post takeover\nNote: Change in followers calculated between Jan. 1 and Dec. 4, 2022. Analysis excludes Musk's own replies and retweets; Data: Twitter, Social Blade, Axios research; Chart: Erin Davis/Axios Visuals\nSince Elon Musk took over Twitter, engagement with his tweets has increased significantly, growing much faster than his actual follower count, according to an analysis by Axios.\nWhy it matters: For Musk, owning Twitter, and using the app to present and defend his plans for the company, has energized his personal platform.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nIvana Saric\n18 hours ago - World\nThird Russian airfield hit with drone attack in 2 days\nA Tu-160 bomber lands at Engels airbase Russia in 2008. Photo: Wojtek Laski/Getty Images\nA drone strike on an airfield in Russia's Kursk region ignited an oil tanker on Tuesday, in the third reported attack on a location inside Russia this week.\nDriving the news: \"As a result of a drone attack, an oil storage tank caught fire in the area of the Kursk airfield. There were no casualties,\" Kursk Governor Roman Starovoit wrote in a Telegram post Tuesday, adding that the \"fire is localized.\"\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nMatt Phillips\n, author of\nAxios Markets\n18 hours ago - Economy & Business\nSome 70 years later, the West has an answer for OPEC\nIllustration: Aïda Amer/Axios\nThe Russian oil price cap that went into effect Monday could, over time, be an important Western counterweight to OPEC in determining world oil prices.\nDriving the news: After months of wrangling, the mechanism to try to cap prices of Russian crude oil shipped by sea went into effect on Monday.\nGo deeper (2 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nEmma Hurt\n19 hours ago - Politics & Policy\nGeorgia voters are tired\nIllustration: Allie Carl/Axios\nIt's Election Day in Georgia — again.\nWhy it matters: After two high-profile runoffs in two years, four elections in 2022 alone, thousands of ads and text messages jamming Georgians' televisions, phones and radio stations, some Georgia voters are tired.\nGo deeper (2 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nJennifer A. Kingson\n20 hours ago - Economy & Business\nGet ready for \"thaw and eat\" foods\nIllustration: Annelise Capossela/Axios\nFrom frozen sandwiches that don't need to be nuked to pies and waffles that go from freezer to plate, food manufacturers are racing to introduce products in the nascent \"thaw and eat\" category.\nWhy it matters: Americans have gotten used to eating more meals at home during the pandemic. Now that schools and offices are beckoning people back, they're seeking easier-than-ever options.\nGo deeper (2 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nSara Fischer\n, author of\nAxios Media Trends\n20 hours ago - Economy & Business\nGE buys out entire NYT print paper in historic first\nPhoto of GE's cover wrap on top of NYT paper it sponsored on December 6th 2022, Photo: Sara Fischer/Axios\nThe New York Times on Tuesday unveiled a unique version of its weekday print paper featuring more than two dozen ads from just one advertiser — General Electric.\nWhy it matters: It’s the first time in the paper’s 171-year history that any advertiser has gotten to own all of The Times’ print real estate exclusively — in addition to most of its premier digital advertising real estate.\nGo deeper (3 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nSara Fischer\n, author of\nAxios Media Trends\n20 hours ago - Economy & Business\nThe alternative-media industrial complex\nIllustration: Aïda Amer/Axios\nElon Musk is the latest patron for an alternative-media ecosystem — right-leaning but not conventionally Republican — that has emerged in the last two years.\nThe big picture: Feeding on resentment against mainstream media, new media players have established a power base via Substack newsletters, podcasts and other independent channels.\nGo deeper (2 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nAdriel Bettelheim\n20 hours ago - Health\nAxios-Ipsos poll: Few COVID worries for the holidays\nData: Axios and Ipsos research; Chart: Tory Lysik/Axios Visuals\nAmericans are entering the holidays for the first time in two years with COVID firmly in the back of their minds, according to the latest installment of the Axios/Ipsos Coronavirus Index.\nThe big picture: Public behavior on masking, social distancing and other precautions hasn't changed significantly since September, and 7 in 10 believe strongly or somewhat that we're moving to a point where the virus won't disrupt our daily lives.\nGo deeper (2 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nAlayna Treene\n, author of\nAxios Sneak Peek\nDec 5, 2022 - Politics & Policy\nBipartisan duo targets immigration reform during lame-duck\nSens. Kyrsten Sinema (D-Ariz.) and Thom Tillis (R-N.C.). Photos: Anna Moneymaker/Getty Images\nA bipartisan duo of senators are reviving negotiations for a potential deal on immigration reform — including providing legal status for 2 million Dreamers and billions of dollars for border security — with the hope they can tackle the issue before the new Congress takes effect next year.\nWhy it matters: Lawmakers in both parties have repeatedly failed to clinch an agreement on bipartisan immigration reform.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nAlexi McCammond\nEmma Hurt\nDec 5, 2022 - Politics & Policy\nDNC faces Georgia roadblock ahead of 2024 presidential primaries\nIllustration: Lindsey Bailey/Axios\nGeorgia election officials are resisting moves by the Democratic National Committee to move their state up in the 2024 primary window, complicating President Biden’s carefully calibrated plans to reorder his party’s nominating schedule.\nWhy it matters: Democratic leaders are committed to adding Georgia to the top five earliest voting states as a nod to voters of color and the crucial role it has played for them in recent cycles.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nHans Nichols\n, author of\nAxios Sneak Peek\nDec 5, 2022 - Politics & Policy\nBiden is heading south of the border\nMexican President Andrés Manuel López Obrador, President Biden and Canadian Prime Minister Justin Trudeau at the White House in 2021. Photo: Chris Kleponis/CNP/Bloomberg via Getty Images\nPresident Biden is planning to head to Mexico City next month for his first scheduled foreign trip of 2023, Axios has learned.\nWhy it matters: White House officials know they need a better political — and policy — response to stem the flow of illegal migration across America’s southern border, but there aren’t any easy solutions at hand.\nGo deeper (1 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nAndrew Solender\nDec 5, 2022 - Politics & Policy\n\"Don't want to be held hostage\": GOP braces for chaotic speaker fight\nIllustration: Aïda Amer/Axios\nThe certainty projected by supporters of House Minority Leader Kevin McCarthy (R-Calif.) is fraying as House Republicans prepare for the prospect of a right-wing revolt hobbling his bid for speaker. \nWhy it matters: McCarthy failing to win on the first ballot could theoretically result in a weeks or even months-long stalemate that dominates the House floor and grinds other business to a halt.\nGo deeper (2 min. read)\nAxios on facebook\nAxios on twitter\nAxios on linkedin\nAxios on email\nMore Top Stories\nNews worthy of your time.\nDownload the app\nAbout\nAbout Axios\nAdvertise with us\nCareers\nEvents\nAxios on HBO\nAxios HQ\nPrivacy and terms\nOnline tracking choices\nContact us\nSubscribe\nAxios newsletters\nAxios Pro\nAxios app\nAxios podcasts\nCourses\nEarn Axios rewards\nAxios",
+    "font": "Atiza, ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Log In",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 927,
+                "y": 28
+            },
+            "size": {
+                "height": 23,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 14,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 1197
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 1197
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 1197
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 1197
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 3094
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 3094
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 3094
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 3094
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 4040
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 4040
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 4040
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 4040
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 4980
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 4980
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 4980
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 4980
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 5884
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 5884
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 5884
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 5884
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 6879
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 6879
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 6879
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 6879
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 7869
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 7869
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 7869
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 7869
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 8842
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 8842
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 8842
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 8842
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 9755
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 9755
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 9755
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 9755
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 10749
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 10749
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 10749
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 10749
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 11636
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 11636
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 11636
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 11636
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 12748
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 12748
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 12748
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 12748
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 13679
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 13679
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 13679
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 13679
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 14676
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 14676
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 14676
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 14676
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 15504
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 15504
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 15504
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 15504
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 16417
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 16417
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 16417
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 16417
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 17303
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 17303
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 17303
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 17303
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 18270
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 18270
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 18270
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 18270
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 19211
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 19211
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 19211
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 19211
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 20124
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 20124
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 20124
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 20124
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 21010
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 21010
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 21010
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 21010
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 22003
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 22003
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 22003
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 22003
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 22943
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 22943
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 22943
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 22943
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 23883
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 23883
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 23883
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 23883
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 24814
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 24814
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 24814
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 24814
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on facebook",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 25868
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on twitter",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 770,
+                "y": 25868
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on linkedin",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 818,
+                "y": 25868
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Axios on email",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 866,
+                "y": 25868
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

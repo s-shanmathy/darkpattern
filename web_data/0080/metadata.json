@@ -1,0 +1,641 @@
+{
+    "title": "草思社",
+    "url": "soshisha.com",
+    "full_url": "https://soshisha.com/",
+    "images": [
+        {
+            "alt": "草思社",
+            "location": {
+                "x": 4,
+                "y": 20
+            },
+            "size": {
+                "height": 60,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 324,
+                "y": 37
+            },
+            "size": {
+                "height": 27,
+                "width": 27
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 372,
+                "y": 37
+            },
+            "size": {
+                "height": 27,
+                "width": 28
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "検索",
+            "location": {
+                "x": 956,
+                "y": 38
+            },
+            "size": {
+                "height": 23,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "検索",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "草思社の新刊",
+            "location": {
+                "x": 414,
+                "y": 203
+            },
+            "size": {
+                "height": 53,
+                "width": 276
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "草思社 文芸社 作家発掘プロジェクト Ｗ出版賞",
+            "location": {
+                "x": 4,
+                "y": 965
+            },
+            "size": {
+                "height": 90,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "草思社 文芸社 作家発掘プロジェクト Ｗ出版賞",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 180,
+                "width": 630
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TOPICSはこちら",
+            "location": {
+                "x": 346,
+                "y": 965
+            },
+            "size": {
+                "height": 90,
+                "width": 316
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "編集者（正社員）募集のお知らせ",
+            "location": {
+                "x": 688,
+                "y": 965
+            },
+            "size": {
+                "height": 90,
+                "width": 316
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "間違いだらけのクルマ選び",
+            "location": {
+                "x": 6,
+                "y": 1086
+            },
+            "size": {
+                "height": 210,
+                "width": 485
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "21世紀の啓蒙",
+            "location": {
+                "x": 518,
+                "y": 1086
+            },
+            "size": {
+                "height": 210,
+                "width": 485
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "裏切られた自由",
+            "location": {
+                "x": 6,
+                "y": 1567
+            },
+            "size": {
+                "height": 210,
+                "width": 485
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "なぞぺー",
+            "location": {
+                "x": 518,
+                "y": 1567
+            },
+            "size": {
+                "height": 210,
+                "width": 485
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TOPICS",
+            "location": {
+                "x": 428,
+                "y": 2046
+            },
+            "size": {
+                "height": 26,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "世界のカマキリ観察図鑑乱丁",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "考える力がつく 読解力なぞぺーレベルアップ編 p70",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "考える力がつく 読解力なぞぺーレベルアップ編 p106",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "考える力がつく　社会科なぞぺー85ページ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "考える力がつく　社会科なぞぺー86ページ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "このエントリーをはてなブックマークに追加",
+            "location": {
+                "x": 598,
+                "y": 3254
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ページのトップに戻る",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "草思社サイト内で書籍検索",
+            "type": "text",
+            "location": {
+                "x": 723,
+                "y": 30
+            },
+            "size": {
+                "height": 40,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            54,
+            73,
+            54
+        ],
+        [
+            230,
+            226,
+            223
+        ]
+    ],
+    "text": "草思社ブログはこちら 会社案内\n最新刊\n・既刊\n話題\nの本\n草思社\n文庫\n本を\n探す\n12345\n営業時間変更のお知らせ\n当社では現在の状況を踏まえて実施していたオフピーク通勤の時間を変更し、現在平日の午前10時から午後4時30分までとしておりました営業時間を、当面の間、平日の午前10時から午後5時30分までといたします。\nご不便をおかけすることもございますが、何卒よろしくお願いいたします。なお、書店様等への出庫に際しては、通常より若干時間がかかることもございますが、何卒ご容赦いただきますよう、よろしくお願いいたします。\n2021年11月1日\n草思社\n2021年12月24日発売\n『2022年版間違いだらけのクルマ選び』\n車種別徹底批評。国産車の小改良・新型を網羅。\n定番バイヤーズガイド、今年も刊行。\n→『間違いだらけのクルマ選び』公式twitter\n『21世紀の啓蒙――理性、科学、ヒューマニズム、進歩』\n世界をよりよいものにする意志に満ちた全米ベストセラー\n本書の一部,「第１部啓蒙主義とは何か」の冒頭の文章を掲載。\n裏切られた自由\n――フーバー大統領が語る第二次世界大戦の隠された歴史とその後遺症\n半世紀の封印を破って刊行された驚愕の第二次世界大戦史。待望の邦訳！\nシリーズ累計75万部突破！\n考える力がつくなぞぺーシリーズ\n子どもが自分からやりたがる。考えることが好きになる。大人気学習教室「花まる学習会」のメソッドが詰まった、なぞなぞのように楽しいパズル集です！\n2022/08/18 草思社では現在、書籍編集者（正社員）を募集しております。\n2022/05/17 「中銀カプセルタワービル 最後の記録」に関するお詫びと訂正\n\n\n\n2022/05/16 「フランスの高校生が学んでいる10人の哲学者」に関するお詫びと訂正\n2022/04/12文庫『アスリートは歳を取るほど強くなる』に関するお詫びと訂正\n\n\n\n\n\n\n\n2022/03/23スリップレス化のおしらせ\n\n\n\n\n\n\n\n\n2022/02/25 『雲のカタログ』『世界のカマキリ観察図鑑』『蝶が来る庭』 不良発生のお知らせ\n\n\n\n\n\n\n\n\n2022/02/04 『考える力がつく 読解力なぞぺーレベルアップ編＜小学3年～4年生＞』に関するお詫びと訂正\n\n2022/02/01 文庫『子どもの話にどんな返事をしてますか？』に関するお詫びと訂正\n\n\n\n2021/06/01 『文庫 天皇と接吻』に関するお詫びと訂正\n\n\n\n\n\n\n\n2021/05/06 『水の大陸　アジア』著者、スニール・アムリス氏　ウェブセミナー開催のお知らせ\n\n\n2021/03/09 文庫『ヒトラーとスターリン』の原註について\n2021/03/04 『「陽」 HARU Light＆Letters』　お詫びと訂正\n\n\n\n\n\n\n\n2021/03/04 文庫『日本のピアノ１００年』　お詫びと訂正\n\n2021/01/26 『考える力がつく　社会科なぞぺー』お詫びと訂正\n\n\n\n\n\n\n\n\n\n\n2020/10/20 追悼　鬼海弘雄さん\n草思社50年の歩み\n\n草思社 会社案内 プライバシーポリシー\nご意見・ご感想はこちら\nIllustration © Chiharu Sakazaki Copyright © Soshisha Publishing Co.,Ltd.2000-2018 All Rights Reserved.",
+    "font": "-apple-system, \"system-ui\", \"Helvetica Neue\", \"游ゴシック Medium\", YuGothic, YuGothicM, \"Hiragino Kaku Gothic ProN\", メイリオ, Meiryo, sans-serif",
+    "iframes": [
+        {
+            "title": "Twitter Tweet Button",
+            "src": "https://platform.twitter.com/widgets/tweet_button.644279d1635fd969e87af94a98bd232b.ja.html#dnt=false&hashtags=%E8%8D%89%E6%80%9D%E7%A4%BE%E5%85%AC%E5%BC%8F%E3%82%B5%E3%82%A4%E3%83%88&id=twitter-widget-0&lang=ja&original_referer=https%3A%2F%2Fsoshisha.com%2F&size=m&text=%E8%8D%89%E6%80%9D%E7%A4%BE&time=1670576412848&type=share&url=http%3A%2F%2Fwww.soshisha.com%2F",
+            "location": {
+                "x": 391,
+                "y": 3254
+            },
+            "size": {
+                "height": 20,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.soshisha.com%2F&send=false&layout=button_count&width=110&show_faces=false&action=like&colorscheme=light&font&height=21&appId=110639362403519",
+            "location": {
+                "x": 484,
+                "y": 3253
+            },
+            "size": {
+                "height": 21,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Twitter settings iframe",
+            "src": "https://platform.twitter.com/widgets/widget_iframe.644279d1635fd969e87af94a98bd232b.html?origin=https%3A%2F%2Fsoshisha.com",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter analytics iframe",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 947,
+                "y": 30
+            },
+            "size": {
+                "height": 31,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 534,
+                "y": 531
+            },
+            "size": {
+                "height": 16,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 554,
+                "y": 531
+            },
+            "size": {
+                "height": 16,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 574,
+                "y": 531
+            },
+            "size": {
+                "height": 16,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "4",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 594,
+                "y": 531
+            },
+            "size": {
+                "height": 16,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "5",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 614,
+                "y": 531
+            },
+            "size": {
+                "height": 16,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

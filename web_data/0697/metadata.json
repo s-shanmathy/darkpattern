@@ -1,0 +1,731 @@
+{
+    "title": "Купити Акції та розпродаж — на Онлайн Криївка",
+    "url": "kryivka.net",
+    "full_url": "https://kryivka.net/",
+    "images": [
+        {
+            "alt": "Книга дивностей",
+            "location": {
+                "x": 117,
+                "y": 282
+            },
+            "size": {
+                "height": 213,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Злотий, долар, євро: історія незаплаканої заробітчанки",
+            "location": {
+                "x": 282,
+                "y": 270
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Коли приходить Ві",
+            "location": {
+                "x": 447,
+                "y": 270
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Доблесть ацтеків",
+            "location": {
+                "x": 612,
+                "y": 288
+            },
+            "size": {
+                "height": 207,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Радуниця",
+            "location": {
+                "x": 777,
+                "y": 270
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ватрослав Ягич і проблеми слов’янознавства",
+            "location": {
+                "x": 942,
+                "y": 283
+            },
+            "size": {
+                "height": 212,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Футболка \"Порву за мову\"",
+            "location": {
+                "x": 117,
+                "y": 713
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ремінь \"Олекса Довбуш\"",
+            "location": {
+                "x": 282,
+                "y": 713
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Вишиванка \"Подолянка\"",
+            "location": {
+                "x": 447,
+                "y": 713
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ремінь \"Іван Климів\"",
+            "location": {
+                "x": 612,
+                "y": 713
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Герб від Катерини Речинської",
+            "location": {
+                "x": 777,
+                "y": 713
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Прапор України (атлас)",
+            "location": {
+                "x": 117,
+                "y": 1149
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Прапор УПА автомобільний",
+            "location": {
+                "x": 282,
+                "y": 1149
+            },
+            "size": {
+                "height": 225,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Плакат \"Свобода\"",
+            "location": {
+                "x": 447,
+                "y": 1160
+            },
+            "size": {
+                "height": 214,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Кулон \"Тризуб УПА\"",
+            "location": {
+                "x": 612,
+                "y": 1224
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Кулон \"Наше сонце\"",
+            "location": {
+                "x": 777,
+                "y": 1224
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Пошук",
+            "type": "text",
+            "location": {
+                "x": 818,
+                "y": 112
+            },
+            "size": {
+                "height": 29,
+                "width": 412
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 1036,
+                "y": 112
+            },
+            "size": {
+                "height": 28,
+                "width": 52
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "Купити акції та розпродаж онлайн в інтернет-магазині Онлайн Криївка — широкий асортимент літератури, новинки та бестселери. Ми здійснюємо доставку книг по Україні та по всьому світу. ",
+    "navbar": "Доставка і оплата Доставка закордон Контакти Зворотній зв'язок E-MAIL РОЗСИЛКА Акції та пропозиції Особистий кабінет",
+    "text": "Доставка і оплата Доставка закордон Контакти Зворотній зв'язок E-MAIL РОЗСИЛКА Акції та пропозиції Особистий кабінет\n467 50 78\n(044)\n  Книги\nХудожні\nДитячі\nІсторія\nПубліцистичні\nБізнес\nВійськова справа\nДовідкові\nДозвілля\nЗдоров'я\nНаукові\nЩе\nСимволіка\nОдяг\n\n\n\nТижневі акції\nКнига дивностей\nLaurus\n86 грн\nВ кошик\nЗлотий, долар, євро: історія незаплаканої заробітчанки\nГамазин\n148 грн\nВ кошик\nКоли приходить Ві\nАкадемія\n114 грн\nВ кошик\nДоблесть ацтеків\nСаміт-Книга\n144 грн\nВ кошик\nРадуниця\nУкраїнський пріоритет\n175 грн\nСповістити про\nнадходження\n\n\n\n\n\n\n\nРекомендуємо одяг\nРозмір M L XL\nФутболка \"Порву за мову\"\nНаш Формат\n89 грн\nВ кошик\nРемінь \"Олекса Довбуш\"\nГрушовий Віктор\n429 грн\nО\nВ кошик\nРозмір S M L XL XXL\nВишиванка \"Подолянка\"\nLesia\n219 грн\nО\nВ кошик\nРемінь \"Іван Климів\"\nГрушовий Віктор\n350 грн\nО\nВ кошик\nРозмір S M L XL XXL\nГерб від Катерини Речинської\nНюкрейн\n449 грн\nО\nВ кошик\nРекомендуємо символіку\nПрапор України (атлас)\nГеральдика\n245 грн\nС\nВ кошик\nПрапор УПА автомобільний\nГеральдика\n67 грн\nС\nВ кошик\nПлакат \"Свобода\"\nЛюта справа\n39 грн\nС\nВ кошик\nКулон \"Тризуб УПА\"\nIvan Dadiverin\n380 грн\nС\nВ кошик\nКулон \"Наше сонце\"\nIvan Dadiverin\n400 грн\nС\nВ кошик\n0\nМій кошик\nВхід\nЗареєструватись\nПро нас Контакти Доставка і оплата Зворотній зв'язок Умови використання сайту Як використати промо-код. Користувацька угода Користувацька угода (договір Оферти)\n© 2022 kryivka.net\n\n\n\n\n\n\n\n3036\nШвидко з Бітрікс",
+    "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Ще",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1027,
+                "y": 157
+            },
+            "size": {
+                "height": 27,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

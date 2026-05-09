@@ -1,0 +1,147 @@
+{
+    "title": "Your Personal Dashboard | NETVIBES",
+    "url": "netvibes.com",
+    "full_url": "https://www.netvibes.com/consent?url=https%3A%2F%2Fwww.netvibes.com%2F",
+    "images": [
+        {
+            "alt": "NETVIBES logo",
+            "location": {
+                "x": 347,
+                "y": 40
+            },
+            "size": {
+                "height": 66,
+                "width": 330
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NETVIBES logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            61,
+            61,
+            61
+        ],
+        [
+            148,
+            185,
+            72
+        ]
+    ],
+    "text": "Accept cookies from NETVIBES\nWe use cookies to help personalize, improve content and provide a safer experience. You can review your cookies controls at any time.\nLearn more about cookies uses and controls in our cookies policy.\nManage cookies settings\nAccept only necessary cookies\nAccept all",
+    "font": "\"Open Sans\"",
+    "buttons": [
+        {
+            "text": "Accept only necessary cookies",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 327,
+                "y": 434
+            },
+            "size": {
+                "height": 52,
+                "width": 261
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Accept all",
+            "bg-color": "rgba(145, 186, 57, 1)",
+            "location": {
+                "x": 598,
+                "y": 434
+            },
+            "size": {
+                "height": 52,
+                "width": 129
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(145, 186, 57, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

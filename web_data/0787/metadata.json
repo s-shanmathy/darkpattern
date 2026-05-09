@@ -1,0 +1,1028 @@
+{
+    "title": "Kansas City News, Weather, Sports | FOX4KC WDAF-TV",
+    "url": "fox4kc.com",
+    "full_url": "https://fox4kc.com/",
+    "images": [
+        {
+            "alt": "wooly worm",
+            "location": {
+                "x": 347,
+                "y": 641
+            },
+            "size": {
+                "height": 80,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "wooly worm",
+            "location": {
+                "x": 10,
+                "y": 2052
+            },
+            "size": {
+                "height": 55,
+                "width": 55
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple logo in red",
+            "location": {
+                "x": 10,
+                "y": 7260
+            },
+            "size": {
+                "height": 55,
+                "width": 55
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mar-A-Lago",
+            "location": {
+                "x": 342,
+                "y": 7260
+            },
+            "size": {
+                "height": 55,
+                "width": 55
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img",
+            "location": {
+                "x": 712,
+                "y": 2864
+            },
+            "size": {
+                "height": 80,
+                "width": 43
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img",
+            "location": {
+                "x": 712,
+                "y": 3066
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img",
+            "location": {
+                "x": 712,
+                "y": 3268
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 789,
+                "y": 95
+            },
+            "size": {
+                "height": 20,
+                "width": 33
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 822,
+                "y": 85
+            },
+            "size": {
+                "height": 40,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Your email",
+            "type": "text",
+            "location": {
+                "x": 33,
+                "y": 1420
+            },
+            "size": {
+                "height": 44,
+                "width": 403
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Your email",
+            "type": "text",
+            "location": {
+                "x": 33,
+                "y": 4003
+            },
+            "size": {
+                "height": 44,
+                "width": 403
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Your email",
+            "type": "text",
+            "location": {
+                "x": 33,
+                "y": 5373
+            },
+            "size": {
+                "height": 44,
+                "width": 403
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            28,
+            28,
+            28
+        ],
+        [
+            0,
+            27,
+            232
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "Kansas City, Missouri and Kansas news, weather and sports. Working for you covering Overland Park, Olathe, Lee's Summit, Independence and more.",
+    "navbar": "",
+    "text": "Skip to content\nFOX 4 Kansas City WDAF-TV | News, Weather, Sports\nSIGN UP\nKANSAS CITY\n49°\nPrimary Menu\nNews\nWeather\nSports\nWatch FOX4\nMornings\nMore\nSearch\nHEADLINES\nTOP STORY\nMan found shot overnight, dies at KC gas station\nNews\n2 hours ago\nMissouri personal property tax jumps lead to questions\nNews\n23 hours ago\nRock band’s drummer scheduled to be in KC courtroom\nNews\n3 hours ago\nWeather folklore could give hints about winter forecast\nWeather\n2 hours ago\nMORE STORIES\nKelce brothers launch merch line for their podcast\nKansas City Chiefs\n5 hours ago\nPHOTOS: Elms Hotel completes multimillion-dollar reno\nBusiness\n54 mins ago\nMO marijuana buyers still need a card on Dec. 8\nMarijuana in Missouri\n22 hours ago\nKC leaders host meeting over racial slur at school\nEducation\n4 hours ago\nJoe’s Blog: How accurate are our winter forecasts\nWeather Blog\n6 hours ago\nFOX4 Forecast: Staying cloudy with showers Thursday\nWeather\n3 hours ago\nQUICK LINKS\nKC Weather: Latest forecast, radar, more\nDownload the FOX4 Kansas City news app\nGet Breaking News emails in your inbox\nRemarkable Women: Nominations open for 2023\nCountdown to Chiefs Kickoff\nDECEMBER 11 2022 07:20 PM\n04\nDays\n03\nHours\n27\nMinutes\nSUBSCRIBE NOW\nPolitics Newsletter\nSIGN UP NOW\nNEWS\n35 years later, KCK political leader’s murder unsolved\nNews\n2 mins ago\nSingle-family project proposed in south Overland …\nBusiness\n13 mins ago\nNorthPoint completes HQ reno at former Cerner campus\nBusiness\n39 mins ago\nWhere’s Yoda? Statue missing from Steve’s Hot Dogs\nNews\n41 mins ago\nHistoric KC building could be converted to apartments\nBusiness\n45 mins ago\nMore News\nWEATHER\nWeather folklore could give hints about winter forecast\nWeather\n2 hours ago\nFOX4 Forecast: Staying cloudy with showers Thursday\nWeather\n3 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nJoe’s Blog: How accurate are our winter forecasts\nWeather Blog\n6 hours ago\nJoe’s Blog: Does 3rd year La Niña mean more snow?\nWeather Blog\n1 day ago\nJoe’s Blog: Snow could be in forecast next week\nWeather Blog\n2 days ago\nMore Weather\nSPORTS\nKC Current signs two midfielders to roster\nKansas City Current\n4 hours ago\nKelce brothers launch merch line for their podcast\nKansas City Chiefs\n5 hours ago\nRoyals announce meeting for new Ballpark District\nKansas City Royals\n4 hours ago\nChiefs release DT Taylor Stallworth\nKansas City Chiefs\n1 day ago\nChiefs potential playoff tickets on sale Monday\nKansas City Chiefs\n1 day ago\nChiefs QB Patrick Mahomes ‘Man of the Year’ nominee\nKansas City Chiefs\n1 day ago\nKC native scores game winning touchdown on MNF\nSports\n2 days ago\nShow More\nBUSINESS\nSingle-family project proposed in south Overland …\nBusiness\n13 mins ago\nNorthPoint completes HQ reno at former Cerner campus\nBusiness\n39 mins ago\nHistoric KC building could be converted to apartments\nBusiness\n45 mins ago\nPHOTOS: Elms Hotel completes multimillion-dollar …\nBusiness\n54 mins ago\nMore Business\nSUBSCRIBE NOW\nDaily Weather Forecast\nSIGN UP NOW\nCHECK THESE OUT\nPrevious\nFOX4 Forecast: Staying cloudy with showers Thursday\nWeather\n3 hours ago\nWatch FOX4 News live streaming online\nNews\nShare a story with FOX4\nNext\nTRACKING CORONAVIRUS\nDemocrats make major concession on vaccine mandate\nPolitics from The Hill\n20 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nCOVID-19 prompts REAL ID deadline extension\nPolitics\n1 day ago\n.cls-4{fill:#000;}\nPfizer seeks FDA OK for omicron shot in kids under …\nHealth\n2 days ago\n.cls-4{fill:#000;}\nWidow of KC musician sues feds over COVID pandemic\nTracking Coronavirus\n5 days ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nChildren’s Mercy nears capacity due to flu, RSV\nHealth\n6 days ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nMore on Coronavirus\nMORNINGS\nPaying it forward to barbers who donate Thanksgiving …\nPay It Forward\n1 week ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nRECIPE: White bean & sausage soup\nRecipes\n1 week ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nHoliday Reflections opens in KC: Get an inside look\nEntertainment\n2 weeks ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nRetired Cristo Rey employee pays it forward to bus …\nPay It Forward\n2 weeks ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nExperience KC’s Nutcracker with a 21st Century twist\nEntertainment\n3 weeks ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nMore Mornings\nSUBSCRIBE NOW\nDaily Headlines\nSIGN UP NOW\n  IDAHO COLLEGE KILLINGS\n‘I knew them’: 2 Idaho victims visited frat house …\nYOUR MONEY\nHere’s why you may need to file a 1099-K form this …\nBUSINESS\nWalmart CEO: Stores could close with uptick in shoplifting\nMORNING IN AMERICA\nUS faces dog flu outbreak\nTECH\nElon Musk fires Twitter general counsel Jim Baker\nRELIGION\nPlans for After School Satan Club make parents nervous\nFIND OUT HOW YOU CAN WATCH\nBESTREVIEWS\nPrevious\n12 best gifts for grandparents\nHoliday\n11 hours ago\nBest gifts for young adults\nHoliday\n12 hours ago\n12 best gifts for couples\nHoliday\nNext\nMore reviews\nLatest Video\nPrevious\nKC Parks & Rec to hold planning meeting for aquatics …\n3 hours ago\nTriangle traffic mess and closures\n3 hours ago\nKCPD investigating after woman found dead inside …\n18 hours ago\nNext\nMore Videos\nLATEST STORIES FROM THE HILL\nApple rolls out more encryption of iCloud data\nTechnology\n48 mins ago\nItems with classified markings found in Trump storage …\nBlog Briefing Room\n2 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nWordle beats out election results, Ukraine as most-searched …\nTechnology\n3 hours ago\nLidl recalls Advent calendar due to possible salmonella …\nPrevention & Cures\n4 hours ago\n.cls-5{fill:#fff;fill-rule:evenodd}\nWatch live: White House press briefing\nNews\n4 hours ago\nBorder Patrol agent dies in ATV accident while on …\nNews\n4 hours ago\nMore from The Hill\n4WARN FORECAST\nCurrent\n49°\nSunny\nTonight\n41°\nCloudy\nPrecip: 30%\nTomorrow\n48°\nRain\nPrecip: 100%\nTRENDING STORIES\nMO marijuana buyers still need a card on Dec. 8\nMissouri personal property tax jumps lead to questions\nWeather folklore could give hints about winter forecast\nWheat pennies could bring you a pretty penny\nMan found shot overnight, dies at KC gas station\nKC leaders host meeting over racial slur at school\nGREAT DAY KC\nPrevious\nArea Students To Perform In ‘The Nutcracker’\nSponsored Content: Kansas City Ballet\n2 hours ago\nNext\nSee More\nDIGITAL FIRST\nGardner Edgerton approves plan to stock Narcan\nSections of I-435 to close for repairs Tuesday\nOverland Park launches police transparency website\nMahomes’ daughter adjusting to new baby brother\nJoCo weighs plan to limit semi trucks on rural roads\nBuild KCI crews start checking projects off list\nView All digital first\nHOLIDAY DEALS FROM\nHunter Women's Original Tall Rain Boot\n$160.00\n$81.70\n49% OFF at Amazon\nSEE DEAL\nRead the review\nColeman Cabin Tent with Instant Setup\n$459.99\n$287.99\n37% OFF at Amazon\nSEE DEAL\nRead the review\nCrock-Pot Programmable Cook and Carry Oval Slow Co...\n$69.99\n$59.49\n15% OFF at Amazon\nSEE DEAL\nRead the review\nBestReviews is reader-supported and may earn an\naffiliate commission. Details\nFOX4KC WDAF-TV\nFollow Us\nNews App\nGet the iOS app\nGet the Android app from Google Play\nWeather App\nGet the iOS Weather app\nGet the Android Weather app from Google Play\nNews\nMornings\nWatch Live\nContests\nGreat Day KC\nSponsored Content: Ask The Experts\nSports\nCommunity\nOnline Public File\nPublic File Help\nEEO Reports\nFCC Applications\nPrivacy Policy\nTerms Of Use\nCovers\nDo Not Sell My Personal Information\nPublic File Assistance Contact\nThe Hill\nNewsNation\nBestReviews\nContent Licensing\nNexstar Digital\nJournalistic Integrity\n© 1998 - 2022 Nexstar Media Inc. | All Rights Reserved.",
+    "font": "\"Source Sans Pro\", arial, helvetica, verdana, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 23,
+                "width": 29
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SIGN UP NOW",
+            "bg-color": "rgba(28, 28, 28, 1)",
+            "location": {
+                "x": 446,
+                "y": 1420
+            },
+            "size": {
+                "height": 44,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Show More",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 10,
+                "y": 3110
+            },
+            "size": {
+                "height": 47,
+                "width": 121
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SIGN UP NOW",
+            "bg-color": "rgba(28, 28, 28, 1)",
+            "location": {
+                "x": 446,
+                "y": 4003
+            },
+            "size": {
+                "height": 44,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 18,
+                "y": 4278
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 4278
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SIGN UP NOW",
+            "bg-color": "rgba(28, 28, 28, 1)",
+            "location": {
+                "x": 446,
+                "y": 5373
+            },
+            "size": {
+                "height": 44,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 18,
+                "y": 6211
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 6211
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 16,
+                "y": 6995
+            },
+            "size": {
+                "height": 30,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 640,
+                "y": 6995
+            },
+            "size": {
+                "height": 30,
+                "width": 13
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 684,
+                "y": 1886
+            },
+            "size": {
+                "height": 265,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 979,
+                "y": 1886
+            },
+            "size": {
+                "height": 265,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

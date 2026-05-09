@@ -1,0 +1,100 @@
+{
+    "title": "Online Social Fundraising Donation Platform | Givey",
+    "url": "givey.com",
+    "full_url": "https://www.givey.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 191,
+                "y": 30
+            },
+            "size": {
+                "height": 60,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search for a Charity or Fundraiser",
+            "type": "text",
+            "location": {
+                "x": 191,
+                "y": 30
+            },
+            "size": {
+                "height": 60,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            85,
+            89,
+            90
+        ]
+    ],
+    "desc": "Fundraise and donate with Givey, an online fundraising platform. Givey is free to use for charities and non-profits so all of your donation goes to good causes.",
+    "navbar": "Explore\nLogin\nSign up",
+    "text": "We use cookies to make Givey a better experience for you. More info on our Privacy Policy Accept\nExplore\nLogin\nSign up\n100% of your donation goes to the cause you support\nStart Fundraising\nAcross the community\n257% of £5,000 Target\n£12,846.00 Raised\nLondon to Brighton Bike Ride\nOn Sunday the 11th of September we’ll once again be leaving our Sunday traditions at home to cycle 55 miles from London to Brighton. And this year ...\nRead more\n362% of £500 Target\n£1,810.00 Raised\nWalk for Jane\nThank you for visiting our Givey page. When you make your donation through Givey, the Charity receives 100% of the donation. Your details are safe ...\nRead more\nSee what your friends are supporting or raising money for\nSign in with Facebook\nSign in with Givey\nView more campaigns\nChampions for small to medium-sized charities\nLevel playing field\n90% of donations go to large charities, just 6.6% of the market. Our mission is to change this!\nMore info\nCommunity\nGivey is the platform to connect donors with the communities and causes they care about, especially locally.\nMore info\nCharity market\nSmaller charities account for nearly 95% of the market, we strive to support these charities.\nMore info\nWe're trusted by all sorts of Charities and Projects\nRegister your charity\nAbout Givey\nAbout us\nFAQ and support\nGivey Blog\nSite\nTerms and conditions\nPrivacy policy & GDPR\nContact us\nGetting started\nCreating a Charity\nCreating a Project\nSetting up a Fundraiser\nNews\nCharity Digital\nGivey Community\nSwitch2Givey\n© 2022 Givey. All rights reserved",
+    "font": "open-sans",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 489,
+                "y": 40
+            },
+            "size": {
+                "height": 40,
+                "width": 37
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

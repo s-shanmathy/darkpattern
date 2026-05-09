@@ -1,0 +1,701 @@
+{
+    "title": "Uzebox - The ATMega Game Console",
+    "url": "uzebox.org",
+    "full_url": "https://uzebox.org/index.php",
+    "images": [
+        {
+            "alt": "Main",
+            "location": {
+                "x": 0,
+                "y": 118
+            },
+            "size": {
+                "height": 25,
+                "width": 68
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wiki",
+            "location": {
+                "x": 68,
+                "y": 118
+            },
+            "size": {
+                "height": 25,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "More details on the Uzebox",
+            "location": {
+                "x": 144,
+                "y": 118
+            },
+            "size": {
+                "height": 25,
+                "width": 126
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tutorials to help get started",
+            "location": {
+                "x": 270,
+                "y": 118
+            },
+            "size": {
+                "height": 25,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Downloads the project files",
+            "location": {
+                "x": 370,
+                "y": 118
+            },
+            "size": {
+                "height": 25,
+                "width": 125
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Help forums",
+            "location": {
+                "x": 495,
+                "y": 118
+            },
+            "size": {
+                "height": 25,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow Uzebox on Facebook",
+            "location": {
+                "x": 146,
+                "y": 156
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow Uzebox on Twitter",
+            "location": {
+                "x": 169,
+                "y": 156
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Megatris Movie",
+            "location": {
+                "x": 197,
+                "y": 1336
+            },
+            "size": {
+                "height": 88,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Uzebox AVCore Movie",
+            "location": {
+                "x": 320,
+                "y": 1336
+            },
+            "size": {
+                "height": 88,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ESD Attack Movie",
+            "location": {
+                "x": 442,
+                "y": 1336
+            },
+            "size": {
+                "height": 88,
+                "width": 119
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Moon Patrol Movie",
+            "location": {
+                "x": 565,
+                "y": 1336
+            },
+            "size": {
+                "height": 88,
+                "width": 119
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Halloween Demo Movie",
+            "location": {
+                "x": 197,
+                "y": 1428
+            },
+            "size": {
+                "height": 88,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Music Engine Demo",
+            "location": {
+                "x": 320,
+                "y": 1427
+            },
+            "size": {
+                "height": 89,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Video Player Demo",
+            "location": {
+                "x": 442,
+                "y": 1428
+            },
+            "size": {
+                "height": 88,
+                "width": 119
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Uzebox Games Recap",
+            "location": {
+                "x": 565,
+                "y": 1428
+            },
+            "size": {
+                "height": 88,
+                "width": 119
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Buy Uzebox Kit at Adafruit",
+            "location": {
+                "x": 725,
+                "y": 191
+            },
+            "size": {
+                "height": 74,
+                "width": 292
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Buy EUzebox Kit",
+            "location": {
+                "x": 725,
+                "y": 265
+            },
+            "size": {
+                "height": 91,
+                "width": 292
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Circuit Maze Thumbnail",
+            "location": {
+                "x": 733,
+                "y": 513
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Circuit Maze Title",
+            "location": {
+                "x": 853,
+                "y": 513
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Simon Thumb",
+            "location": {
+                "x": 733,
+                "y": 596
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Simon Title",
+            "location": {
+                "x": 853,
+                "y": 596
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Block Boy Thumbnail",
+            "location": {
+                "x": 733,
+                "y": 679
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Columns Title",
+            "location": {
+                "x": 853,
+                "y": 679
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pong Thumb",
+            "location": {
+                "x": 733,
+                "y": 762
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pong Title",
+            "location": {
+                "x": 853,
+                "y": 762
+            },
+            "size": {
+                "height": 17,
+                "width": 148
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SharpGunner Gallery Thumbnail",
+            "location": {
+                "x": 733,
+                "y": 845
+            },
+            "size": {
+                "height": 112,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sharp Gunner Gallery Title",
+            "location": {
+                "x": 853,
+                "y": 845
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Thumbnail",
+            "location": {
+                "x": 733,
+                "y": 965
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Title",
+            "location": {
+                "x": 853,
+                "y": 965
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "roguze Thumbnail",
+            "location": {
+                "x": 733,
+                "y": 1048
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "roguze Title",
+            "location": {
+                "x": 853,
+                "y": 1048
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "chickens in choppers Thumb",
+            "location": {
+                "x": 733,
+                "y": 1131
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "chickens in choppers Title",
+            "location": {
+                "x": 853,
+                "y": 1131
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Memeory Thumb",
+            "location": {
+                "x": 733,
+                "y": 1214
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Memory Title",
+            "location": {
+                "x": 853,
+                "y": 1214
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lode Runner Thumb",
+            "location": {
+                "x": 733,
+                "y": 1297
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lode Runner Title",
+            "location": {
+                "x": 853,
+                "y": 1297
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Uzesweeper",
+            "location": {
+                "x": 733,
+                "y": 1380
+            },
+            "size": {
+                "height": 75,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Uzesweeper Title",
+            "location": {
+                "x": 853,
+                "y": 1380
+            },
+            "size": {
+                "height": 17,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GPL V3 Logo",
+            "location": {
+                "x": 422,
+                "y": 1592
+            },
+            "size": {
+                "height": 31,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Creative Commons Logo",
+            "location": {
+                "x": 514,
+                "y": 1592
+            },
+            "size": {
+                "height": 31,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            241,
+            241,
+            241
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "text": "  New Game Alert: Hat Trick!\nMarch 4, 2022 at 6:50 pm\nKilo just released his latest game! Hat Trick is a port of the famous Commodore 64 game. It supports one-on-one action with multiple difficulty levels. Check out the forum post […]\nGame Update: Corrida Nebososa 2!\nFebruary 6, 2022 at 10:25 am\nKilo just released an update to the original Corrida Nebososa. In the main menu you can now choose between “Single Race” and “Championship”. Championship consists of 10 races of 9 laps each. […]\nGame Update: Arkanoid!\nJanuary 30, 2022 at 10:18 am\nKilo just released an update to the classic Arkanoid with many improvement such a title screen, scoring and lives count. Check out the forum post and the wiki page for roms and all the details.\nNew Game Alert: Circuit Puzzle!\nAugust 1, 2020 at 10:11 am\nArtcfox just released his latest game for the Uzebox! Circuit Puzzle is an electricity-based puzzle game with 60 levels, divided up into 4 skill levels. For each circuit, arrange the tokens to […]\nNew Game Alert: Sharp Gunner Gallery!\nMay 20, 2020 at 8:45 pm\nGgvicviper releases  his first game for the Uzebox! Sharp Gunner Gallery is a vertical-screen shooting game for the Uzebox JAMMA arcade board. It uses only background tiles in Mode 3 and no […]\nMore News...\nAbout\n\nThe Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C. The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.\n\nCurrent Features\nLow parts count and cost: The system is made of only two chips and discrete components.\nInterrupt driven kernel: No cycle counting required, sound mixing and video generation are all made in the background.\n256 simultaneous colors: Accomplished by using a simple weighted resistor video DAC.\n5 channels sound engine: The sound subsystem is composed of 3 wavetable channels, 1 noise channel and 1 PCM channel mixed at 15.7Khz.\nMIDI In: With a music sequencer, allows the creation of music directly on the console.\nRetro controllers: The joypad inputs uses standard NES/SNES controllers interface.\nSNES Mouse Support\nSD/MicroSD card interface\nExpandable: I/O lines and peripherals are still available, like the UART and SPI port for one to experiment.\nEmulator: A fully cycle-perfect emulator (CUzebox)\nGameloader: 4K Bootloader that loads and flash games stored on SD cards!\nAPI: Develop games using an API that provides multiple video modes, sound driver and more.\nOpen Source: The software and hardware design are totally free and licensed under the GPL.\nSpecifications\n\nCPU: ATmega644 microcontroller\nTotal RAM: 4K\nProgram Memory: 64K\nSpeed: 28.61818Mhz (Overclocked)\nColors: 256 simultaneous colors arranged in a 3:3:2 color space (Red:3 bits, Green:3 bits, Blue: 2 bits)\nResolution: Up to 360x224 pixels (tiles-only and tiles-and-sprites modes)\nSprites: 32+ simultaneous sprites on screen (depending on video mode)\nVideo output: NTSC Composite and S-Video (Works without changes on most PAL/SECAM TVs)\nSound: 5 channels, 8-bit mono, mixed at ~15Khz and output via PWM\nInputs: Two NES/SNES compatible joypad inputs, SNES Mouse\nOptions: MIDI-in interface, Uzenet interface (ESP8266 wifi modules + 128K External RAM)\n\nShowcase\n\nThese videos demonstrates some of the features of the Uzebox. The first one is a Tetris clone named \"AVR Megatris\". The game is fully functional and implements most of the official \"Super Rotation System\" (SRS) system complete with hold block, t-spins and ghost piece...it even plays classic Tetris songs!\n\nDownload latest versions  \n\nMatt Pandina (Artcfox)\n\nDownload...\n\nHartmut Wendt\n\nDownload...\n\nLee Weber\n\nDownload...\n\nDaveyPocket\n\nDownload...\n\nMarc Marta (ggvicviper)\n\nDownload...\n\nLawrence Brooks\n\nDownload...\n\nYllawwally\n\nDownload...\n\nCunningFellow\n\nDownload...\n\nHartmut Wendt\n\nDownload...\n\nUze\n\nDownload...\n\nLee Weber\n\nDownload...\n\nAll Games and Demos...\n\n\n\nCopyright (c) 2008-2021 Belogic (tm)\nThe Uzebox (including source code and hardware design) is released under the GNU GPL 3.0 Public Licence.\nPictures and content of this site is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported License.\nUzebox is a reserved trademark.",
+    "font": "arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

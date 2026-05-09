@@ -1,0 +1,386 @@
+{
+    "title": "Panama Tours – Virtual Tourism Center",
+    "url": "panamatours.com",
+    "full_url": "https://panamatours.com/",
+    "images": [
+        {
+            "alt": "Logo Panama Tours",
+            "location": {
+                "x": 20,
+                "y": 48
+            },
+            "size": {
+                "height": 65,
+                "width": 218
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Español",
+            "location": {
+                "x": 798,
+                "y": 38
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Inglés",
+            "location": {
+                "x": 313,
+                "y": 108
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo Panama Tours",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Español",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Inglés",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "location": {
+                "x": 514,
+                "y": 4086
+            },
+            "size": {
+                "height": 43,
+                "width": 485
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 514,
+                "y": 4129
+            },
+            "size": {
+                "height": 41,
+                "width": 485
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            14,
+            49
+        ],
+        [
+            17,
+            162,
+            146
+        ]
+    ],
+    "navbar": "INICIO\nNOSOTROS\nTOURS\nBLOG\nCONTACTO",
+    "text": "INICIO\nNOSOTROS\nTOURS\nBLOG\nCONTACTO\nAlístate para comenzar un viaje excitante.\nPanamá un real paraíso tropical\nNUESTROS TOURS\n1.000+ Toures Locales\nDestinos\n98% Viajeros Felices\nAtrapa la emoción\nPanamá tiene una amplia gama de paisajes tropicales que incluyen playas vírgenes, selvas tropicales, bosques nubosos, más de 900 especies de aves, 1500 especies de árboles y más de 7000 plantas vasculares. Sin duda, Panamá es un verdadero paraíso tropical para los amantes de la naturaleza y los aventureros al aire libre.\nEn Panamá\nTop Tours\nCanyoning\nVelero Maluco\nCity Tour Aéreo\nTour De Café En Boquete (Grupal)\nLos Mejores Tours\nPara Aventureros\nTour De Café En Boquete (Privado)\nTour Venas Azules Y Playa Blanca Colon\nCanyoning\nHoteles en Panamá\nLos mejores lugares junto al mar\n¡No se han encontrado publicaciones!\n0\nGuías turísticos\n0\nDestinos\n0\nNuevos Tours\n0\n+\nViajeros Felices\nOpiniones de nuestros clientes\n\"Lectus, nonummy et. Occaecat delectus erat, minima dapibus ornare nunc, autem.\"\n\nDiana Burnwood\n\"Lectus, nonummy et. Occaecat delectus erat, minima dapibus ornare nunc, autem.\"\n\nJessica Foxx\n\"Lectus, nonummy et. Occaecat delectus erat, minima dapibus ornare nunc, autem.\"\n\nLily Granger\n¡Recibe notificaciones de nuevos destinos!\nSuscríbete y recibe todas las notificaciones de destinos relacionados.\nEnlaces útiles\nPolítica de Privacidad\nTérminos, Condiciones y Políticas\nTours\nContacto\nContacto\n  Email: info@panamatours.com\n  Llámanos o Escríbenos:\n60705512 - 67478519\n  Dirección:\nPH Dorasol apt 11 Ave. Miguel Brostella\nCopyright © Panama Tours 2022\nUsamos cookies para asegurar que te damos la mejor experiencia en nuestra web. Si continúas usando este sitio, asumiremos que estás de acuerdo con ello.AceptarNoPolítica de privacidad",
+    "font": "Poppins, sans-serif",
+    "iframes": [
+        {
+            "title": "reCAPTCHA",
+            "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Leh0EMeAAAAAOxDqOzxO3o67Y704H9r2vkmJeyR&co=aHR0cHM6Ly9wYW5hbWF0b3Vycy5jb206NDQz&hl=en&v=pn3ro1xnhf4yB8qmnrhh9iD2&size=invisible&cb=174mfl6wu7ii",
+            "location": {
+                "x": 939,
+                "y": 826
+            },
+            "size": {
+                "height": 60,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 172, 156, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 172, 156, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 172, 156, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1416,
+                "y": 8
+            },
+            "size": {
+                "height": 40,
+                "width": 52
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

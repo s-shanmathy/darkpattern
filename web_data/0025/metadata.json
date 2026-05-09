@@ -1,0 +1,360 @@
+{
+    "title": "Wahoo's Fish Taco",
+    "url": "wahoos.com",
+    "full_url": "https://www.wahoos.com/",
+    "images": [
+        {
+            "alt": "Accessibility Widget",
+            "location": {
+                "x": 942,
+                "y": 392
+            },
+            "size": {
+                "height": 57,
+                "width": 57
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Spinner: White decorative",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Wahoos Logo Lstroke",
+            "location": {
+                "x": 20,
+                "y": 27
+            },
+            "size": {
+                "height": 92,
+                "width": 211
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wahoos New Logo Notaglinefull Color",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Wahoos New Logo Notaglinefull Color",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Hand holding Chicken Taco",
+            "location": {
+                "x": 0,
+                "y": 49
+            },
+            "size": {
+                "height": 532,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hand holding Chicken Taco",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Skinny Taco Combo With Cauliflower",
+            "location": {
+                "x": 59,
+                "y": 925
+            },
+            "size": {
+                "height": 232,
+                "width": 232
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ceviche Small",
+            "location": {
+                "x": 388,
+                "y": 925
+            },
+            "size": {
+                "height": 232,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sunset Chopped Salad Dish",
+            "location": {
+                "x": 718,
+                "y": 925
+            },
+            "size": {
+                "height": 232,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kahuna Style Dish",
+            "location": {
+                "x": 59,
+                "y": 1326
+            },
+            "size": {
+                "height": 232,
+                "width": 232
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hawaiian Burrito",
+            "location": {
+                "x": 388,
+                "y": 1326
+            },
+            "size": {
+                "height": 232,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cocorita Drink",
+            "location": {
+                "x": 718,
+                "y": 1326
+            },
+            "size": {
+                "height": 232,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter a Location",
+            "type": "text",
+            "location": {
+                "x": 90,
+                "y": 745
+            },
+            "size": {
+                "height": 50,
+                "width": 690
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            247,
+            247,
+            247
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "navbar": "menus\nlocations\nmerchandise",
+    "text": "freshly made. pacific inspired.\ngift card balance\ncart\nmenus\nlocations\nmerchandise\nORDER ONLINE\nfind a location\nSearch your Location\nSearch\nfavorites\nCauliflower Rice\nCauliflower, green onions, lime juice & salt\nCeviche\nShrimp, green onion, tomato, cilantro, jalapeño, pico de gallo, lemon juice, lime juice, avocado & chips\nSunset Chopped Chicken Salad\nCharbroiled or blackened chicken, romaine lettuce, avocado, red cabbage, tomato, roasted corn, green onion, cilantro, queso fresco, pepitas and tortilla strips with Honey Lime Vinaigrette\nKahuna Style\nAdd sour cream, guacamole, cheese, Mexican corn and lettuce for $2 extra\nHawaiian Onion Ring Burrito\nTeriyaki steak, Maui Onion Rings, cheese, rice, sour cream and spicy Maria’s green sauce\nCocorita\nA delicious Wahoo's Margarita with the addition of coconut makes it the perfect summer refreshment!\nVIEW FULL MENU\nfollow us @wahoosfishtaco\nFollow on Instagram\ncompany\nAbout\nColorado Jobs\nLas Vegas Jobs\nNew Jersey Jobs\nSouthern California Jobs\nContact\ninfo\nGift Card Balance\nFrequently Asked Questions\nNutrition Information\nAllergens\nTerms and Conditions\nSafety Commitment\nfollow us\nAccessibility Info\nWe are extremely cautious and all efforts are made to avoid cross contact from allergens. However, we cannot guarantee that food items have not inadvertently come in contact with one another during preparation or in the supply chain.\n© Wahoo's All Rights Reserved",
+    "font": "abel, sans-serif",
+    "iframes": [
+        {
+            "title": "UserWay Accessibility Menu",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 45,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(51, 122, 183, 1)",
+            "location": {
+                "x": 781,
+                "y": 745
+            },
+            "size": {
+                "height": 50,
+                "width": 138
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

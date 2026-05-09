@@ -1,0 +1,247 @@
+{
+    "title": "Mister Worker™ | Worldwide Supplier of Professional Work Tools",
+    "url": "misterworker.com",
+    "full_url": "https://www.misterworker.com/",
+    "images": [
+        {
+            "alt": "Mister Worker™",
+            "location": {
+                "x": 34,
+                "y": 0
+            },
+            "size": {
+                "height": 96,
+                "width": 340
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mister Worker - Banner",
+            "location": {
+                "x": 34,
+                "y": 127
+            },
+            "size": {
+                "height": 264,
+                "width": 940
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Play video",
+            "location": {
+                "x": 60,
+                "y": 355
+            },
+            "size": {
+                "height": 15,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mister Worker - Banner",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Play video",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            238,
+            238,
+            238
+        ],
+        [
+            223,
+            6,
+            31
+        ]
+    ],
+    "desc": "Welcome to Mister Worker™! Shop more than 100,000 Tools of the Best Brands online.Technical Advice, Worldwide Shipping & Custom Quotes.",
+    "text": "International Site >\nYOUR PROFESSIONAL WORK TOOLS\nWORLDWIDE SUPPLIER\nThe Most Complete Catalog for Maintenance & Repair Operations.\nTechnical Advice, Worldwide Shipping & Custom Quotes.\nWatch Our Video\n\n\n\n\n\nSELECT YOUR SHIPPING COUNTRY\nAmerica\nAfrica\nEurope\nMiddle-East\nAsia-Pacific\nRussia & CIS\nMister Worker™, the Professional Work Tools Online Store\nMister Worker™ is the online store for professionals where you can buy the best work tools for maintenance and repair operations. We are an official global dealer of the leading brands in the tooling sector. On our store you can buy the complete catalogue of Facom, DeWalt, Usag, Stahlwille, Stanley, Knipex, Festool, Wiha, Ampco Non-Sparking Tools, Tesa Technology, and many other top brands.\nMister Worker™ is the new frontier for industrial tools supply and the perfect partner for every Company. Our Team ensures a whole B2B support, offering technical counselling, custom quotes and worldwide shipping on the complete catalogue of the best tool brands.\nWith a 100.000 tools catalogue, our product range includes professional hand tools, power tools, air tools, torque tools, insulated tools, non-sparking tools, precision measuring instruments, workwear and safety shoes, tool storage solutions and small parts organizers. We serve a wide range of industries and companies around the world with our catalogue of top-quality tools for Industrial Maintenance, Oil & Gas, Steel & Mining, Automotive, Aerospace and other sectors.\nMister Worker™ is certified by the European Ecommerce Trustmark, it won the award for Best B2B e-commerce at the Netcomm Award 2018 and the first prize in the Digital Export category at the Netcomm Award 2019. Furthermore, Mister Worker™ was recognised by Forbes France among the most promising Italian start-ups.",
+    "font": "\"Titillium Web\", Helvetica, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Watch Our Video",
+            "bg-color": "rgba(224, 8, 25, 1)",
+            "location": {
+                "x": 44,
+                "y": 339
+            },
+            "size": {
+                "height": 44,
+                "width": 181
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(224, 8, 25, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "America",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 34,
+                "y": 469
+            },
+            "size": {
+                "height": 38,
+                "width": 120
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Africa",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 192,
+                "y": 469
+            },
+            "size": {
+                "height": 38,
+                "width": 120
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Europe",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 350,
+                "y": 469
+            },
+            "size": {
+                "height": 38,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Middle-East",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 508,
+                "y": 469
+            },
+            "size": {
+                "height": 38,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Asia-Pacific",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 666,
+                "y": 469
+            },
+            "size": {
+                "height": 38,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Russia & CIS",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 824,
+                "y": 469
+            },
+            "size": {
+                "height": 38,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

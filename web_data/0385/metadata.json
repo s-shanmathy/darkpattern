@@ -1,0 +1,1353 @@
+{
+    "title": "Lehigh University Athletics - Official Athletics Website",
+    "url": "lehighsports.com",
+    "full_url": "https://lehighsports.com/",
+    "images": [
+        {
+            "alt": "Lehigh University Athletics logo",
+            "location": {
+                "x": 21,
+                "y": 0
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lehigh University Athletics wordmark",
+            "location": {
+                "x": 122,
+                "y": 10
+            },
+            "size": {
+                "height": 60,
+                "width": 203
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MTEN 2022 Huddle",
+            "location": {
+                "x": 24,
+                "y": 101
+            },
+            "size": {
+                "height": 541,
+                "width": 961
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WTEN Schedule Release",
+            "location": {
+                "x": 24,
+                "y": 769
+            },
+            "size": {
+                "height": 120,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jack Sarkos",
+            "location": {
+                "x": 24,
+                "y": 914
+            },
+            "size": {
+                "height": 120,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lehigh Sports Central",
+            "location": {
+                "x": 24,
+                "y": 1058
+            },
+            "size": {
+                "height": 120,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lehigh Valley Orthopedic Institute",
+            "location": {
+                "x": 262,
+                "y": 1413
+            },
+            "size": {
+                "height": 50,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wisconsin logo",
+            "location": {
+                "x": 84,
+                "y": 1577
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oral Roberts University Athletics",
+            "location": {
+                "x": 189,
+                "y": 1577
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oral Roberts University Athletics",
+            "location": {
+                "x": 412,
+                "y": 1577
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "St. Elizabeth logo",
+            "location": {
+                "x": 518,
+                "y": 1577
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oral Roberts University Athletics",
+            "location": {
+                "x": 742,
+                "y": 1577
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Delaware logo",
+            "location": {
+                "x": 847,
+                "y": 1577
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sign Up for the Lehigh Athletics Email Newsletter",
+            "location": {
+                "x": 315,
+                "y": 2084
+            },
+            "size": {
+                "height": 24,
+                "width": 379
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PSEC 150X50",
+            "location": {
+                "x": 282,
+                "y": 2348
+            },
+            "size": {
+                "height": 24,
+                "width": 113
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook post image",
+            "location": {
+                "x": 49,
+                "y": 2535
+            },
+            "size": {
+                "height": 419,
+                "width": 419
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "#TitleIXatLehigh led Lehigh Swimming and Diving alumna Sue Schlicht Marck to hold a Jacobs Pool record and be awarded the Karen A. Adam’s Award during her Lehigh career.\n\nToday, Sue is serving as District Sales Manager at OFS Brands!",
+            "location": {
+                "x": 49,
+                "y": 3189
+            },
+            "size": {
+                "height": 220,
+                "width": 419
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lehigh Valley Orthopedic Institute",
+            "location": {
+                "x": 48,
+                "y": 4542
+            },
+            "size": {
+                "height": 48,
+                "width": 157
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pepsi Footer Logo",
+            "location": {
+                "x": 305,
+                "y": 4542
+            },
+            "size": {
+                "height": 24,
+                "width": 149
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hotel Bethlehem Footer Logo",
+            "location": {
+                "x": 554,
+                "y": 4542
+            },
+            "size": {
+                "height": 48,
+                "width": 157
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Honey Stinger Footer Logo",
+            "location": {
+                "x": 807,
+                "y": 4542
+            },
+            "size": {
+                "height": 48,
+                "width": 157
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lehigh University",
+            "location": {
+                "x": 99,
+                "y": 4795
+            },
+            "size": {
+                "height": 72,
+                "width": 307
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Patriot League",
+            "location": {
+                "x": 71,
+                "y": 5033
+            },
+            "size": {
+                "height": 80,
+                "width": 146
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "EIWA",
+            "location": {
+                "x": 359,
+                "y": 5023
+            },
+            "size": {
+                "height": 100,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NCAA",
+            "location": {
+                "x": 613,
+                "y": 5023
+            },
+            "size": {
+                "height": 100,
+                "width": 103
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Patriot League",
+            "location": {
+                "x": 858,
+                "y": 5022
+            },
+            "size": {
+                "height": 101,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lehigh University Athletics loading logo",
+            "location": {
+                "x": 434,
+                "y": 380
+            },
+            "size": {
+                "height": 140,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Site logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Youvisit Pixel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 24,
+                "width": 113
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 80
+            },
+            "size": {
+                "height": 60,
+                "width": 939
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            90,
+            49,
+            27
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            127,
+            127,
+            127
+        ]
+    ],
+    "desc": "The official athletics website for the Lehigh University Mountain Hawks",
+    "navbar": "",
+    "text": "Men's Tennis / December 8, 2022\nMEN'S TENNIS ANNOUNCES 2023 SCHEDULE\nWomen's Tennis / December 7, 2022\nWOMEN'S TENNIS UNVEILS 2023 SCHEDULE\nMen's Soccer / December 7, 2022\nSARKOS NAMED TO UNITED SOCCER COACHES ALL-REGION SECOND TEAM\nPlay Video\nFeatures / December 7, 2022\nLEHIGH SPORTS CENTRAL: WOMEN'S TRACK AND FIELD\nMORE STORIES\nLEHIGH CALENDAR\nEVENTS\nRESULTS\nMEN'S BASKETBALL\n12.15 / 7:00 PM\nat Wisconsin\nMadison, Wis.\nMEN'S BASKETBALL\n12.17 / 7:00 PM\nvs St. Elizabeth\nBethlehem, Pa.\nWOMEN'S BASKETBALL\n12.18 / 2:00 PM\nvs Delaware\nBethlehem, Pa.\nPrevious\nNext\n1\n2\n3\n4\nPrevious\nNext\n1\n2\n3\nLEHIGH MEDIA WALL\n@LehighAthletics\nThe honors just keep on rolling in for Lehigh Men's’s Jack Sarkos. Sarkos was named to the United Soccer Coaches All-Region Team! 👏⚽️ 🔗: bit.ly/3VKgKvR\n@LehighSports\nThe honors just keep on rolling in for @LehighMSoccer’s Jack Sarkos. Sarkos was named to the United Soccer Coaches All-Region Team! 👏⚽️ 🔗: https://t.co/Bs6B6M5VOU https://t.co/eCECnVEL5R\n@lehigh_sports\n#TitleIXatLehigh led Lehigh Swimming and Diving alumna Sue Schlicht Marck to hold a Jacobs Pool record and be awarded the Karen A. Adam’s Award during her Lehigh career. Today, Sue is serving as District Sales Manager at OFS Brands!\n@LehighSports\n.@LehighTFXC Women's Track & Field head coach Khayla Atte and assistant coach Brooke Astor discuss the team's performance at the Fast Times Before Finals meet on Lehigh Sports Central presented by Lehigh Valley Orthopedic Institute, part of @LVHN https://t.co/Jpu3TMV25h\nLOAD MORE\nLEARN.GROW.LEAD.\nPrevious\nNext\n1\n2\n3\nPrevious\nPause\nNext\nCOPYRIGHT © 2022 LEHIGH UNIVERSITY ATHLETICS\nAll rights reserved.\nTerms of Service\nPrivacy Policy\nLearfield, opens a new window\nSidearm Sports Learfield, opens a new window",
+    "font": "\"Open Sans\", arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Double click",
+            "src": "https://6593519.fls.doubleclick.net/activityi;src=6593519;type=count0;cat=sitev0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=4804255516256.588?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Double click",
+            "src": "https://6593519.fls.doubleclick.net/activityi;src=6593519;type=counter;cat=sitev0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=4667983904303.276?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "tracking frame 0 1670528043167",
+            "src": "https://6593519.fls.doubleclick.net/activityi;src=6593519;type=counter;cat=pagev0;ord=8460914991600;gtm=2wgbu0;auiddc=552855339.1670528041;u15=undefined;~oref=https%3A%2F%2Flehighsports.com%2F?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "tracking frame 1 1670528043168",
+            "src": "https://6593519.fls.doubleclick.net/activityi;src=6593519;type=counter;cat=sitev0;ord=1;num=3329583658172;gtm=2wgbu0;auiddc=552855339.1670528041;u15=undefined;~oref=https%3A%2F%2Flehighsports.com%2F?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "empty",
+            "src": "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=so4l4yxm2&kxt=https%3A%2F%2Flehighsports.com&kxcl=cdn&kxp=",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": -31995,
+                "y": 5
+            },
+            "size": {
+                "height": 42,
+                "width": 155
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 881,
+                "y": 0
+            },
+            "size": {
+                "height": 80,
+                "width": 58
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 939,
+                "y": 80
+            },
+            "size": {
+                "height": 60,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 872,
+                "y": 88
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Play Video",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 195,
+                "y": 1064
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 24,
+                "y": 1874
+            },
+            "size": {
+                "height": 72,
+                "width": 320
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 665,
+                "y": 1874
+            },
+            "size": {
+                "height": 72,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 444,
+                "y": 1904
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 480,
+                "y": 1904
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 516,
+                "y": 1904
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "4",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 552,
+                "y": 1904
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 24,
+                "y": 2316
+            },
+            "size": {
+                "height": 72,
+                "width": 320
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 665,
+                "y": 2316
+            },
+            "size": {
+                "height": 72,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 444,
+                "y": 2346
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 480,
+                "y": 2346
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 516,
+                "y": 2346
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 552,
+                "y": 2346
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 2108
+            },
+            "size": {
+                "height": 72,
+                "width": 336
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 673,
+                "y": 2108
+            },
+            "size": {
+                "height": 72,
+                "width": 336
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 462,
+                "y": 2138
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 498,
+                "y": 2138
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 534,
+                "y": 2138
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 2,
+                "y": 2402
+            },
+            "size": {
+                "height": 84,
+                "width": 165
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(197, 173, 125, 1)",
+            "location": {
+                "x": 166,
+                "y": 2402
+            },
+            "size": {
+                "height": 84,
+                "width": 165
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(197, 173, 125, 1)",
+            "location": {
+                "x": 330,
+                "y": 2402
+            },
+            "size": {
+                "height": 84,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(197, 173, 125, 1)",
+            "location": {
+                "x": 495,
+                "y": 2402
+            },
+            "size": {
+                "height": 84,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(197, 173, 125, 1)",
+            "location": {
+                "x": 659,
+                "y": 2402
+            },
+            "size": {
+                "height": 84,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(197, 173, 125, 1)",
+            "location": {
+                "x": 823,
+                "y": 2402
+            },
+            "size": {
+                "height": 84,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "LOAD MORE",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 433,
+                "y": 3698
+            },
+            "size": {
+                "height": 46,
+                "width": 144
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 4422
+            },
+            "size": {
+                "height": 72,
+                "width": 336
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 673,
+                "y": 4422
+            },
+            "size": {
+                "height": 72,
+                "width": 336
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 462,
+                "y": 4452
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 498,
+                "y": 4452
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(196, 196, 196, 1)",
+            "location": {
+                "x": 534,
+                "y": 4452
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 0,
+                "y": 4638
+            },
+            "size": {
+                "height": 72,
+                "width": 336
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Pause",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 336,
+                "y": 4638
+            },
+            "size": {
+                "height": 72,
+                "width": 336
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(101, 56, 25, 1)",
+            "location": {
+                "x": 673,
+                "y": 4638
+            },
+            "size": {
+                "height": 72,
+                "width": 336
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

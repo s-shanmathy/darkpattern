@@ -1,0 +1,625 @@
+{
+    "title": "MSF - Médecins Sans Frontières | Medical humanitarian organisation",
+    "url": "msf.org",
+    "full_url": "https://www.msf.org/",
+    "images": [
+        {
+            "alt": "Cholera intervention in South Kivu",
+            "location": {
+                "x": 51,
+                "y": 996
+            },
+            "size": {
+                "height": 109,
+                "width": 164
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "MSF Measles Vaccination in DRC",
+            "location": {
+                "x": 307,
+                "y": 901
+            },
+            "size": {
+                "height": 139,
+                "width": 209
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Aden besieged",
+            "location": {
+                "x": 535,
+                "y": 901
+            },
+            "size": {
+                "height": 139,
+                "width": 209
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "COVID-19 Project in Mons, Belgium",
+            "location": {
+                "x": 764,
+                "y": 901
+            },
+            "size": {
+                "height": 139,
+                "width": 209
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Patients waiting for MSF mobile clinic primary and mental health care consultations",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 490,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HIV MEDICATIONS",
+            "location": {
+                "x": 252,
+                "y": 1143
+            },
+            "size": {
+                "height": 434,
+                "width": 706
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cholera in NW Syria, MSF responses",
+            "location": {
+                "x": 252,
+                "y": 1592
+            },
+            "size": {
+                "height": 150,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cholera vaccination campaign in Lebanon",
+            "location": {
+                "x": 495,
+                "y": 1592
+            },
+            "size": {
+                "height": 150,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cholera MSF Community Response",
+            "location": {
+                "x": 738,
+                "y": 1592
+            },
+            "size": {
+                "height": 150,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Floods in N'Djamena area",
+            "location": {
+                "x": 252,
+                "y": 3041
+            },
+            "size": {
+                "height": 202,
+                "width": 202
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Patients waiting for MSF mobile clinic primary and mental health care consultations",
+            "location": {
+                "x": 494,
+                "y": 3041
+            },
+            "size": {
+                "height": 202,
+                "width": 202
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HIV MEDICATIONS",
+            "location": {
+                "x": 737,
+                "y": 3041
+            },
+            "size": {
+                "height": 202,
+                "width": 202
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cholera in NW Syria, MSF responses",
+            "location": {
+                "x": 979,
+                "y": 3041
+            },
+            "size": {
+                "height": 202,
+                "width": 202
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Damaged buildings in Chernihiv",
+            "location": {
+                "x": 252,
+                "y": 3569
+            },
+            "size": {
+                "height": 269,
+                "width": 221
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rotation 1 Rescue 6",
+            "location": {
+                "x": 495,
+                "y": 3569
+            },
+            "size": {
+                "height": 269,
+                "width": 221
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "East Aleppo",
+            "location": {
+                "x": 737,
+                "y": 3569
+            },
+            "size": {
+                "height": 269,
+                "width": 221
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "COVID-19 Project in Mons, Belgium",
+            "location": {
+                "x": 979,
+                "y": 3569
+            },
+            "size": {
+                "height": 269,
+                "width": 221
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Thumbnail",
+            "location": {
+                "x": 0,
+                "y": 4188
+            },
+            "size": {
+                "height": 505,
+                "width": 505
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo - Médecins Sans Frontières",
+            "location": {
+                "x": 50,
+                "y": 4920
+            },
+            "size": {
+                "height": 87,
+                "width": 202
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter keywords here...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "MSF is an international, independent organisation. We provide medical assistance to people affected by conflict, epidemics, disasters, or exclusion from healthcare",
+    "navbar": "WORK WITH MSF\nMSF WEBSITES\nENGLISH\nالعربية\nABOUT US\nWHAT WE DO\nWHERE WE WORK\nRESOURCES\nLATEST\nDONATE",
+    "text": "Skip to main content\nWORK WITH MSF\nMSF WEBSITES\nENGLISH\nالعربية\nABOUT US\nWHAT WE DO\nWHERE WE WORK\nRESOURCES\nLATEST\nDONATE\nUkraine\nAbsence of medical care for the elderly caught between the frontlines\nProject Update 2 Dec 2022\nOur mobile clinics in Ukraine's Kharkiv region have been providing general healthcare and mental health support to elderly women who have been without care since February.\nCopy link\nAn international, independent medical humanitarian organisation\nWe provide medical assistance to people affected by conflict, epidemics, disasters, or exclusion from healthcare. Our teams are made up of tens of thousands of health professionals, logistic and administrative staff - most of them hired locally. Our actions are guided by medical ethics and the principles of impartiality, independence and neutrality.\nLEARN MORE\n12.6M\nOUTPATIENT CONSULTATIONS\n1.6M\nVACCINATIONS AGAINST MEASLES IN RESPONSE TO AN OUTBREAK\n1M\nPATIENTS ADMITTED\n72\nCOUNTRIES\nInternational Activity Report 2021\nREAD REPORT\nFEATURED\nHIV/AIDS\nHIV/AIDS in the DRC: Behind the progress, huge challenges remain\n25 NOV 2022\nSYRIA\nCombatting cholera amidst displacement and the remnants of war\n22 NOV 2022\nLEBANON\nAccess to vaccines and clean water essential as cholera spreads in Lebanon\n18 NOV 2022\nHAITI\nVaccines and urgent response needed as cholera wave rises\n17 NOV 2022\nWhere we work\nIn more than 70 countries, Médecins Sans Frontières provides medical humanitarian assistance to save lives and ease the suffering of people in crisis situations.\nVIEW ALL COUNTRIES\nLIST VIEW\nMAP VIEW\nThe place names and boundaries in this map do not reflect any position by MSF on their legal status.\nLATEST\nCHAD\nChad floods deepen humanitarian crisis with high risk of disease outbreaks\n5 DEC 2022\nUKRAINE\nAbsence of medical care for the elderly caught between the frontlines\n2 DEC 2022\nHIV/AIDS\nHIV/AIDS in the DRC: Behind the progress, huge challenges remain\n25 NOV 2022\nSYRIA\nCombatting cholera amidst displacement and the remnants of war\n22 NOV 2022\nVIEW MORE\nIN FOCUS\nIN FOCUS\nWar in Ukraine\nRussian forces have attacked multiple cities in Ukraine. The war in Ukraine has caused the displacement of millions of people and high emergency medical and humanitarian needs. MSF teams are responding to the c…\nIN FOCUS\nMediterranean migration\nEvery year, thousands of people fleeing war, persecution and poverty at home attempt the treacherous journey across the Mediterranean. Countless lives are lost on the way.\nIN FOCUS\nAttacks on medical care\nAttacks against medical facilities and health workers, whether deliberate or indiscriminate, are part of generalised violence and atrocities committed against civilians in armed conflict. They deprive p…\nIN FOCUS\nCoronavirus COVID-19 pandemic\nMédecins Sans Frontières' (MSF) update on the coronavirus disease COVID-19 pandemic.\nVIEW MORE\nVIDEO\nWelcome to Médecins Sans Frontières/Doctors Without Borders\nWORKING WITH MSF\nWhat's it like to work with MSF?\nWE RELY ON A STRONG NETWORK OF PROFESSIONALS TO DELIVER LIFE-SAVING MEDICAL AID.\nEach year, thousands of international and locally-hired staff work together around the globe to provide lifesaving medical assistance to people who would otherwise be denied access to healthcare.\nLEARN MORE\nHow your donations are used\nYour donations pay for millions of consultations, surgeries, treatments and vaccinations every year.\nFIND OUT MORE\n80.5%\nSOCIAL MISSION\n15.1%\nFUNDRAISING\n4.4%\nMANAGEMENT & GENERAL ADMIN\nEXPLORE\nWhat we do\nMedical activities\nCrisis settings\nIn focus\nWhere we work\nNews\nResource centre\nInternational Activity Report\nABOUT MSF\nWho we are\nHow we're run\nHow we work\nContact us\nGET INVOLVED\nWork with MSF\nJobs in the field\nJobs in the office\nDonate\nPRIVACY POLICY\n© Médecins Sans Frontières\n78 Rue de Lausanne CP 1016 1211 Geneva Switzerland\nFederal identification number: UID CH-660.1.555.004-1",
+    "font": "sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 962,
+                "y": 678
+            },
+            "size": {
+                "height": 11,
+                "width": 11
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 945,
+                "y": 451
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(32, 32, 32, 1)",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 820,
+                "y": 3407
+            },
+            "size": {
+                "height": 27,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 864,
+                "y": 3407
+            },
+            "size": {
+                "height": 27,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 831,
+                "y": 4041
+            },
+            "size": {
+                "height": 27,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 875,
+                "y": 4041
+            },
+            "size": {
+                "height": 27,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(238, 0, 0, 1)",
+            "location": {
+                "x": 50,
+                "y": 4587
+            },
+            "size": {
+                "height": 68,
+                "width": 68
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(238, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(238, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 822
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "title": "Silver-law.net",
+    "url": "silver-law.net",
+    "full_url": "https://silver-law.net/",
+    "images": [
+        {
+            "alt": "networksolutions",
+            "location": {
+                "x": 833,
+                "y": 12
+            },
+            "size": {
+                "height": 50,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 619,
+                "y": 676
+            },
+            "size": {
+                "height": 37,
+                "width": 326
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 945,
+                "y": 676
+            },
+            "size": {
+                "height": 37,
+                "width": 53
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            222,
+            222,
+            222
+        ],
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "text": "Silver-law.net\nThis Page Is Under Construction - Coming Soon!\nWhy am I seeing this 'Under Construction' page?\nRELATED SEARCHES:\nLegal Services\nLegal Compensation\nLegal Appeals\nLegal Cases\nLegal Process\nTrademark Free Notice Review our Privacy Policy Service Agreement Legal Notice\nPrivacy Policy",
+    "font": "open-sans, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

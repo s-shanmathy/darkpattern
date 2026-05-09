@@ -1,0 +1,63 @@
+{
+    "title": "The Regulatory Oversight Committee - ROC",
+    "url": "leiroc.org",
+    "full_url": "https://www.leiroc.org/",
+    "images": [
+        {
+            "alt": "The Legal Entity Identifier Regulatory Oversight Committee - LEIROC",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 64,
+                "width": 260
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Latest News",
+            "location": {
+                "x": 593,
+                "y": 249
+            },
+            "size": {
+                "height": 154,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            190,
+            197,
+            194
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "The Regulatory Oversight Committee - ROC",
+    "navbar": "About the ROC\nHome\nOverview\nMembers and Observers\nFAQ\nHistory\nROC Charter\nOrganisational Structure\nGlobal LEI System\nInternational Governance Body for Derivatives Data Elements\nPublications\nContact",
+    "text": "  About the ROC\nHome\nOverview\nMembers and Observers\nFAQ\nHistory\nROC Charter\nOrganisational Structure\nGlobal LEI System\nInternational Governance Body for Derivatives Data Elements\nPublications\nContact\nHome About the ROC Home\nThe Regulatory Oversight Committee - ROC\nThe Regulatory Oversight Committee (ROC) is a group of more than 65 financial markets regulators and other public authorities and 19 observers from more than 50 countries. It promotes the broad public interest by improving the quality of data used in financial data reporting, improving the ability to monitor financial risk, and lowering regulatory reporting costs through the harmonization of these standards across jurisdictions.\nThe ROC was established in November 2012 to coordinate and oversee a worldwide framework of legal entity identification, the Global LEI System (GLEIS). In October 2020 the ROC expanded its mandate to become the International Governance Body (IGB) of the globally harmonised Unique Transaction Identifier (UTI), the Unique Product Identifier (UPI) and the Critical Data Elements (CDE) for derivatives transactions. As IGB of the UTI, UPI and CDE, the ROC is the overseer of the designated UPI service provider, The Derivatives Service Bureau (DSB).\nThe Global LEI System\nIn 2011, the G20 called on the Financial Stability Board (FSB) to provide recommendations for a global LEI and a supporting governance structure. This led to the development of the GLEIS which, through the issuance of LEIs, now provides unique identification of legal entities participating in financial transactions across the globe.\nThe Legal Entity Identifier (LEI) is a 20-character, alpha-numeric code that uniquely identifies legally distinct entities that engage in financial transactions. The LEI supports authorities and market participants in identifying and managing financial risks. In particular, LEIs may be used for reporting and other regulatory purposes in the various jurisdictions represented in the ROC (more about regulatory uses of the LEI).\nThe GLEIS is composed of the ROC, the Global LEI Foundation (GLEIF) and LEI issuers, also known as Local Operating Units (LOUs).\nInternational Governance Body for derivatives identifiers and data elements\nG20 leaders agreed at the Pittsburgh Summit in 2009, as part of a package of reforms to strengthen the resilience of the OTC derivatives markets, that all OTC derivatives transactions should be reported to trade repositories. A lack of transparency in these markets was one of the key problems identified by the global financial crisis. Trade reporting, by providing authorities with data on trading activity, is key to identify potential vulnerabilities to financial stability in these markets.\nGlobally harmonised identifiers and data elements can help authorities obtain a comprehensive global view of the OTC derivatives markets. The UPI will identify the products reported to trade repositories consistently across FSB jurisdictions. The UTI will identify individual transactions reported to trade repositories and allow authorities to follow their modifications during their whole lifecycle. The CDE will capture other important characteristics of the transactions. Reference to the LEI in the harmonised derivatives identifiers and data elements will allow consistent monitoring of legal entities' trading activity, exposures and interconnectedness in the global over-the-counter (OTC) derivatives markets.\nUPIs are assigned and maintained by The Derivatives Service Bureau (DSB). DSB is currently setting up its UPI service, performing the function of issuer of UPI codes as well as operator of the UPI reference data library. In the third quarter of 2022, the DSB expects to start issuing UPIs for OTC derivatives. The ROC has been tasked with finalising appropriately rigorous oversight arrangements of DSB.\nLatest news\nPlease register here to be notified of press releases, new publications, public consultations, and other news alerts.\n25 January 2022 – The ROC published today its Progress Report 2019-2021, which summarizes a number of important developments that have taken place for the ROC between 2019 and 2021.\n11 January 2022 – The ROC published today a Revision of ROC policies related to the Level 2 parent relationship data, which is focused on the Provisional Node Identifier (PNI) data collection and the acceptable reasons for opting-out of reporting parent relationship data.\n24 November 2021: The ROC is inviting applications from market participants for a newly established Derivatives Data Elements Industry Representation Group (DDE IRG). Relevant stakeholders interested in contributing to the DDE IRG are invited to submit their applications by 15 January 2022 cob. Details on the DDE IRG and on the application process are available here.\n22 September 2021: The ROC publishes today a revised version of the CDE Technical Guidance (version 2), which includes corrections that the ROC considers appropriate to facilitate its jurisdictional implementations. The ROC acknowledges the contributions to the public consultation that provided valuable inputs for finalising this revised version of the CDE Technical Guidance. \n11 August 2021: The ROC announces the finalisation of the Memorandum of Understanding with DSB and the connected Notifications Protocol – Press Release.\n5 May 2021: The ROC publishes the consultative document Revised CDE Technical Guidance (Corrections), for comments by cob 26 May 2021.\n26 April 2021: The Regulatory Oversight Committee announces three industry fora to promote awareness of the Unique Product Identifier (UPI) amongst market participants – Press release. Register now to attend a forum, hosted with the UPI service provider, the Derivatives Service Bureau.\n4 February 2021: The LEI ROC publishes today an updated list of regulatory uses of the LEI as of end-January 2021 (also available in Excel format)\n29 December 2020: The LEI ROC publishes today its final Guidance on LEI Eligibility for General Government Entities, which provides clarifications on the implementation of LEIs for General Government Entities. The ROC acknowledges the contributions to the public consultation that provided valuable inputs for finalising this guidance.\n1 October 2020:The ROC becomes the International Governance Body for the Unique Transaction Identifier, Unique Product Identifier and Critical Data Elements - Press release\n19 June 2020: The Regulatory Oversight Committee (ROC) publishes a Statement on GLEIF Mapping Service.\n4 February 2020: \"The Value of the LEI for Identification in Digital Processes\" - Remarks by Financial Stability Board Vice Chair Klaas Knot at the Global LEI Foundation Meet the Market Event in Amsterdam\nTerms and conditions of use Privacy policy",
+    "font": "Arial, Geneva, Helvetica, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

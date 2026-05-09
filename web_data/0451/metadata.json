@@ -1,0 +1,520 @@
+{
+    "title": "TinyTap & Animoca Brands | TinyTap",
+    "url": "tinytap.com",
+    "full_url": "https://www.start.tinytap.com/animoca-brands/?source=3",
+    "images": [
+        {
+            "alt": "tiny logo_3x.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "logo_2x.png",
+            "location": {
+                "x": 14,
+                "y": 11
+            },
+            "size": {
+                "height": 67,
+                "width": 66
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TinyTap-Animoca-V3.gif",
+            "location": {
+                "x": -98,
+                "y": 998
+            },
+            "size": {
+                "height": 200,
+                "width": 348
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Group 17088 (1).png",
+            "location": {
+                "x": 14,
+                "y": 2522
+            },
+            "size": {
+                "height": 450,
+                "width": 451
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "games12.jpg",
+            "location": {
+                "x": 0,
+                "y": 3234
+            },
+            "size": {
+                "height": 756,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "App_Store_Badge_wht_092917.png",
+            "location": {
+                "x": -100,
+                "y": 4408
+            },
+            "size": {
+                "height": 40,
+                "width": 120
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Play store.png",
+            "location": {
+                "x": 38,
+                "y": 4408
+            },
+            "size": {
+                "height": 40,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amazon.png",
+            "location": {
+                "x": 190,
+                "y": 4408
+            },
+            "size": {
+                "height": 40,
+                "width": 136
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Creator tools.png",
+            "location": {
+                "x": -272,
+                "y": 4614
+            },
+            "size": {
+                "height": 568,
+                "width": 704
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Students and teachers.jpeg",
+            "location": {
+                "x": 484,
+                "y": 5237
+            },
+            "size": {
+                "height": 577,
+                "width": 600
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BG grey.jpg",
+            "location": {
+                "x": 0,
+                "y": 5833
+            },
+            "size": {
+                "height": 610,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BG grey.jpg",
+            "location": {
+                "x": -42,
+                "y": 5878
+            },
+            "size": {
+                "height": 500,
+                "width": 1093
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BG white.jpg",
+            "location": {
+                "x": 0,
+                "y": 6450
+            },
+            "size": {
+                "height": 378,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "animoca brands.png",
+            "location": {
+                "x": 10,
+                "y": 6922
+            },
+            "size": {
+                "height": 53,
+                "width": 94
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "App store white_Grey.png",
+            "location": {
+                "x": 154,
+                "y": 6923
+            },
+            "size": {
+                "height": 40,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Play Store white_Grey.png",
+            "location": {
+                "x": 154,
+                "y": 6968
+            },
+            "size": {
+                "height": 40,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amazon white_Grey.png",
+            "location": {
+                "x": 154,
+                "y": 7013
+            },
+            "size": {
+                "height": 40,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Artwork 62.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "animoca brands.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "App store white_Grey.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Play Store white_Grey.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Amazon white_Grey.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "ETH address",
+            "type": "text",
+            "location": {
+                "x": -98,
+                "y": 1751
+            },
+            "size": {
+                "height": 45,
+                "width": 488
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter Email",
+            "type": "email",
+            "location": {
+                "x": -98,
+                "y": 1796
+            },
+            "size": {
+                "height": 45,
+                "width": 488
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            34,
+            27,
+            19
+        ]
+    ],
+    "desc": "TinyTap, the world’s largest library of games by teachers, becomes a part of Animoca Brands to build an open education system on blockchain",
+    "text": "Create +\nPlay Games\nEducators\nJoin us\nPublisher NFT\nBreak the limits of your child’s education \nWith over 200,000 games made by teachers worldwide\nStart Playing\nStart Creating\nBlockchain & Education\nComprehensive curriculum for ages 2-8\nMath\nLanguage Arts\nReading\nScience\nSocial Skills\nTinyTap and Animoca Brands introduce the Publisher NFT bringing Education to Web3\nRead the announcement and follow TinyTap on Twitter to find out more.\nRead about Publisher NFTs\nWhere we’re headed\nBuilding an open education system on blockchain\nWe are taking TinyTap to the next level by integrating it with blockchain and tokenizing the learning process:\nSupporters will be able to endorse the subjects they care about, educators will own their content and students will gain a life-long record of their learning achievements.\nGet notified\nConnect your wallet to be eligible to participate in future airdrops\nConnect Wallet\nSupporters\nSupporters can endorse curriculum subjects by buying ownership in subject domains and enjoy revenue generated from content hosted on their domain.\nEducators\nContent creators own their content by minting it as an NFT which they can host or sell on a subject domain, allowing them to earn revenue directly without needing TinyTap as an intermediate.\nStudents\nFrom childhood to college, students learning with TinyTap will be able to store their certificates on blockchain and earn access passes to additional content.\n Where we are now\nBreaking borders in education\nFor the past ten years, our mission has been to decentralize education by connecting teachers and families worldwide, to enable them to fulfill their learning needs independently of governments and businesses.\nStart learning\n\nThe world’s largest library of games\nmade by educators\nOver 200,000 activities and courses created by teachers,\ntherapists and educational experts worldwide\n🇺🇸 🇬🇧 🇮🇱 🇦🇺 🇨🇦 🇵🇭 🇸🇦 🇮🇩 🇲🇽 🇦🇪 🇿🇦 🇲🇾 🇳🇿 🇸🇬 🇩🇪 🇮🇳 🇳🇱 🇭🇰 🇪🇸 🇰🇼\nParents, turn screen time\ninto an active learning experience\nPlay anywhere, even offline\nStay informed with weekly progress reports\nBoost results with recommendations\nEnjoy ad-free and state-aligned content\nStart playing\nEducators, teach with interactive games for free. Can’t find the topic you want? Create it and start earning!\nTransform your knowledge into learning games, without any coding needed! It is as easy as making a presentation. Generate earnings from families who play your games on TinyTap. Or you can sell your courses directly via Tiny Courses.\nCreate a game\nTeach with TinyTap\nSell with Tiny Courses\n Chosen by thousands of schools worldwide\n\nJoin us in shaping the future of education\nAre you passionate about education technology or blockchain? Help us transform education, by making it more accessible and by helping teachers become better valued.\nPing us at work@tinytap.com\n Blog\nMeet the team\nPress kit\nCareers\nHelp\nEducators Community\nFAQ",
+    "font": "Arial, Helvetica, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 410,
+                "y": 60
+            },
+            "size": {
+                "height": 0,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(125, 197, 238, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Get notified",
+            "bg-color": "rgba(33, 219, 134, 1)",
+            "location": {
+                "x": 218,
+                "y": 1796
+            },
+            "size": {
+                "height": 45,
+                "width": 172
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Connect Wallet",
+            "bg-color": "rgba(125, 197, 238, 0.2)",
+            "location": {
+                "x": -98,
+                "y": 1983
+            },
+            "size": {
+                "height": 45,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -8,
+                "y": 6116
+            },
+            "size": {
+                "height": 23,
+                "width": 10
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1008,
+                "y": 6116
+            },
+            "size": {
+                "height": 23,
+                "width": 10
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

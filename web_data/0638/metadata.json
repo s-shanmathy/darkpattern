@@ -1,0 +1,713 @@
+{
+    "title": "The Constitution Project",
+    "url": "constitutionproject.org",
+    "full_url": "https://www.pogo.org/the-constitution-project",
+    "images": [
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 786,
+                "y": 16
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 822,
+                "y": 16
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "instagram",
+            "location": {
+                "x": 858,
+                "y": 16
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "youtube",
+            "location": {
+                "x": 894,
+                "y": 19
+            },
+            "size": {
+                "height": 13,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "instagram",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "youtube",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 423,
+                "y": 4316
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 464,
+                "y": 4316
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "instagram",
+            "location": {
+                "x": 506,
+                "y": 4316
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "youtube",
+            "location": {
+                "x": 547,
+                "y": 4318
+            },
+            "size": {
+                "height": 13,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Better Business Bureau Accredited Charity",
+            "location": {
+                "x": 408,
+                "y": 4514
+            },
+            "size": {
+                "height": 55,
+                "width": 145
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CharityWatch Top Rated Charity",
+            "location": {
+                "x": 571,
+                "y": 4497
+            },
+            "size": {
+                "height": 89,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Great Nonprofits 2021 Top-Rated",
+            "location": {
+                "x": 678,
+                "y": 4508
+            },
+            "size": {
+                "height": 66,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Charity Navigator Four-Star Charity",
+            "location": {
+                "x": 784,
+                "y": 4514
+            },
+            "size": {
+                "height": 55,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Project On Government Oversight logo",
+            "location": {
+                "x": 36,
+                "y": 4356
+            },
+            "size": {
+                "height": 300,
+                "width": 327
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "People, places, things...",
+            "type": "search",
+            "location": {
+                "x": 1059,
+                "y": 73
+            },
+            "size": {
+                "height": 52,
+                "width": 360
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 1074,
+                "y": 204
+            },
+            "size": {
+                "height": 18,
+                "width": 2
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 1074,
+                "y": 274
+            },
+            "size": {
+                "height": 18,
+                "width": 2
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 1074,
+                "y": 344
+            },
+            "size": {
+                "height": 18,
+                "width": 2
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 1074,
+                "y": 414
+            },
+            "size": {
+                "height": 18,
+                "width": 2
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 1074,
+                "y": 484
+            },
+            "size": {
+                "height": 18,
+                "width": 2
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            113,
+            71,
+            119
+        ],
+        [
+            96,
+            60,
+            101
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "The Constitution Project seeks to safeguard our constitutional rights when the government exercises power in the name of national security and domestic policing, including ensuring our institutions serve as a check on that power.",
+    "navbar": "ABOUT\nPROJECTS\nRESOURCES\nProject On Government Oversight\nTHE CONSTITUTION PROJECT\nTAKE ACTION\nSIGN UP\nDONATE",
+    "text": "SEARCH\nABOUT\nPROJECTS\nRESOURCES\nProject On Government Oversight\nTHE CONSTITUTION PROJECT\nTAKE ACTION\nSIGN UP\nDONATE\nLATEST\nARTICLES\nCongress can Rein in the Office of Legal Counsel\nOCTOBER 25, 2022\nPolice Quietly Obtain Private Location Data with a Checkbook and not a Warrant\nOCTOBER 11, 2022\nDOJ Can and Must Improve Data on Deaths in Custody\nOCTOBER 3, 2022\nThe Justice Department Must Improve Death in Custody Data\nSEPTEMBER 20, 2022\nIs a Presidential Coup a Federal Crime? DOJ Owes Us an Answer\nJUNE 1, 2022\nSEE MORE\nFeatured Articles\nProtecting Supreme Court Impartiality Through Ethics Reform\nCongress can Rein in the Office of Legal Counsel\nCONSTITUTIONAL PRINCIPLES\nThe Office of Legal Counsel distorts the relationship between Congress and the presidency. Congress can work to change that.\nREAD\nCONSTITUTIONAL PRINCIPLES\nPolice Quietly Obtain Private Location Data with a Checkbook and not a Warrant\nOVERSIGHT\nDOJ Can and Must Improve Data on Deaths in Custody\nCONSTITUTIONAL PRINCIPLES\nIs a Presidential Coup a Federal Crime? DOJ Owes Us an Answer\nPOGO\nSERIES & COLLECTIONS\nExplore our serialized collections of themes, features, investigations, and ongoing stories.\nView All\nThe Continuous Action\nThe Continuous Action, a podcast exploring the labor of democracy, will work to pin down what our troubled republic demands of us, ordinary citizens, right now.\nBROWSE\nThe Bridge\nBreaking down one complex topic in an easy-to-read newsletter with Spurthi Kontham.\nBROWSE\nThe Bunker\nMilitary intelligence for the rest of us, from POGO's Mark Thompson, every Wednesday.\nBROWSE\nState Secrecy\nAs part of the commemoration of 9/11, this series looks at how government secrecy imperils the democratic process and harms sound policy-making.\nBROWSE\nWatching the Watchdogs\nInspectors General serve as independent watchdogs within federal agencies and are essential to a well-functioning federal government.\nBROWSE\nCorrupted: The COVID-19 Response\nCorrupted: The COVID-19 Response is a weekly newsletter diving into corruption in the time of coronavirus.\nBROWSE\nBlowing the Whistle\nWhistleblowers are our nation's first line of defense against waste, fraud, and abuse in the federal government.\nBROWSE\nCOVID-19 and the Constitution\nTimes of crisis require extraordinary actions. But in these moments, the risk that our constitutional rights and civil liberties are eroded increases as well.\nBROWSE\nYour Financial Security On the Line\nA federal watchdog you’ve probably never heard of is supposed to be protecting your financial security. But in key respects it’s been doing a feeble job.\nBROWSE\nImmigration\nAn effective immigration enforcement strategy requires respect for constitutional rights and a commitment to exercise our laws in a fair and equitable manner.\nBROWSE\nPrivacy & Surveillance\nThe revolution in digital technology has upended our society in many ways. Chief among these is that it has forced Americans to scramble to preserve the foundational balance of power between government and the people.\nBROWSE\nImpeachment: Checking the Executive\nImpeachment is the legislative branch’s ultimate check on the executive. But it is rarely used and has few rules to govern it.\nBROWSE\nF-35: The Most Expensive Weapons Program in History\nThe F-35 program serves as the ideal case study to understand the Military-Industrial-Congressional Complex. The program encapsulates all the problems with the business of purchasing weapons in the United States.\nBROWSE\nThe Military-Industrial Circus\nThe Military-Industrial Circus is a regular column by Pulitzer-prize winning National Security Analyst Mark Thompson for CDI at POGO.\nBROWSE\nDrilling Down\nDrilling Down is an investigative series scrutinizing the government's oversight of offshore drilling.\nBROWSE\nBefore the Storm\nRelief efforts should be prepared before natural disasters occur. A collection of POGO's work on how the government can more effectively plan for natural disasters.\nBROWSE\nPentagon Labyrinth\nThe Pentagon Labyrinth, a podcast by POGO's Center for Defense Information, discusses key issues and current challenges for military and Pentagon reform.\nBROWSE\nWe the People\nA collection of TCP's work celebrating our founding charter and the rights and liberties it enshrines, and a chance to take stock of the work that remains to ensure its protections extend to everyone in the country.\nBROWSE\nDrug Problems\nDrug Problems: This series investigates the intersection of pharmaceutical dollars and federal policy.\nBROWSE\nPaper Cuts\nPaper Cuts is an occasional POGO feature examining and explaining primary sources relevant to current events connected to the federal government.\nBROWSE\nMOST POPULAR\nRed Flags: The First Year of COVID-19 Loan Fraud Cases\nThe U.S. Navy's Titanium “Tin Can”\nCaught Between Conscience and Career\nThese Police Drones are Watching You\nThe Limits of Executive Privilege\nMOST SHARED\nExclusive: F-35 Program Facing Another Setback\nUnconstitutional Presidential Wars\nForeign Influence at the Witness Table?\nRevoking Clearances on a Whim Hurts Whistleblowers—and the Rest of Us\nDocument Contradicts Administration’s Denials about Family Separation\nSite Footer\nPRESS CENTER\nCONTACT US\nCAREERS\nBRIEFING\nNEWSLETTERS\nPUBLICATIONS\nREPORT CORRUPTION\n©2022 POGO | PRIVACY POLICY\nPROJECT ON GOVERNMENT OVERSIGHT",
+    "font": "ClearSans, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "SEARCH",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 962,
+                "y": 92
+            },
+            "size": {
+                "height": 471,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 996,
+                "y": 69
+            },
+            "size": {
+                "height": 37,
+                "width": 108
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(54, 241, 205, 1)",
+            "location": {
+                "x": 1009,
+                "y": 787
+            },
+            "size": {
+                "height": 55,
+                "width": 460
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 21,
+                "width": 22
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "ABOUT",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 36,
+                "y": 97
+            },
+            "size": {
+                "height": 35,
+                "width": 65
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "PROJECTS",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 117,
+                "y": 97
+            },
+            "size": {
+                "height": 35,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "RESOURCES",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 223,
+                "y": 97
+            },
+            "size": {
+                "height": 35,
+                "width": 103
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 71,
+                "width": 389
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

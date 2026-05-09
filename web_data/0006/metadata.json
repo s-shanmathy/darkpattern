@@ -1,0 +1,113 @@
+{
+    "title": "MusicBrainz - The Open Music Encyclopedia",
+    "url": "musicbrainz.org",
+    "full_url": "https://musicbrainz.org/",
+    "images": [
+        {
+            "alt": "MusicBrainz",
+            "location": {
+                "x": 16,
+                "y": 20
+            },
+            "size": {
+                "height": 26,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Search",
+            "location": {
+                "x": 978,
+                "y": 10
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 706,
+                "y": 5
+            },
+            "size": {
+                "height": 25,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            238,
+            238,
+            238
+        ],
+        [
+            185,
+            72,
+            141
+        ]
+    ],
+    "text": "Log In\nCreate Account\nArtist\nEvent\nRecording\nRelease\nRelease Group\nSeries\nWork\nArea\nInstrument\nLabel\nPlace\nAnnotation\nTag\nCD Stub\nEditor\nDocumentation\nAbout Us ▾\nProducts ▾\nSearch ▾\nDocumentation ▾\nEnglish ▾\nWelcome to MusicBrainz!\nMusicBrainz is an open music encyclopedia that collects music metadata and makes it available to the public.\nMusicBrainz aims to be:\nThe ultimate source of music information by allowing anyone to contribute and releasing the data under open licenses.\nThe universal lingua franca for music by providing a reliable and unambiguous form of music identification, enabling both people and machines to have meaningful conversations about music.\nLike Wikipedia, MusicBrainz is maintained by a global community of users and we want everyone — including you — to participate and contribute.\nMore Information — FAQs — Contact Us\nMusicBrainz is operated by the MetaBrainz Foundation, a California based 501(c)(3) tax-exempt non-profit corporation dedicated to keeping MusicBrainz free and open source.\nMetaBrainz Blog\nLatest posts:\nPicard 2.8.5 released\nListenBrainz Year in Music 2022: Coming in 4 January 2023\nEnd-of-life for external access to MusicBrainz search server\nPicard 2.8.4 released\nFresh Releases – My (G)SoC journey with MetaBrainz\nEnsembling: Endelig Belg MiniVersion\nRead more »\nTag Your Music\nMusicBrainz Picard\nAudioRanger\nMp3tag\nYate Music Tagger\nQuick Start\nBeginners guide\nEditing introduction\nStyle guidelines\nFAQs\nHow to add artists\nHow to add releases\nCommunity\nHow to Contribute\nBug Tracker\nForums\nMusicBrainz Database\nThe majority of the data in the MusicBrainz Database is released into the Public Domain and can be downloaded and used for free.\nDevelopers\nUse our XML web service or development libraries to create your own MusicBrainz-enabled applications.\nRecent Additions\nDonateWikiForumsChat (IRC)Bug TrackerBlogTwitterUse beta site\nBrought to you by MetaBrainz Foundation and our sponsors and supporters. Cover Art provided by the Cover Art Archive.",
+    "font": "\"Bitstream Vera Sans\", Verdana, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 970,
+                "y": 5
+            },
+            "size": {
+                "height": 25,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,665 @@
+{
+    "title": "Welcome to the Minecraft Official Site | Minecraft",
+    "url": "minecraft.net",
+    "full_url": "https://www.minecraft.net/en-us",
+    "images": [
+        {
+            "alt": "hamburger",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minecraft logo ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minecraft block",
+            "location": {
+                "x": 25,
+                "y": 110
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minecraft Dungeons block",
+            "location": {
+                "x": 25,
+                "y": 155
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minecraft Legends block",
+            "location": {
+                "x": 25,
+                "y": 200
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minecraft: Education Edition block",
+            "location": {
+                "x": 25,
+                "y": 245
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minecraft logo ",
+            "location": {
+                "x": 417,
+                "y": 56
+            },
+            "size": {
+                "height": 40,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Minecraft Live logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minecraft education edition box art",
+            "location": {
+                "x": -22,
+                "y": 887
+            },
+            "size": {
+                "height": 369,
+                "width": 240
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minecraft box art",
+            "location": {
+                "x": 248,
+                "y": 887
+            },
+            "size": {
+                "height": 369,
+                "width": 240
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Minecraft dungeons box art",
+            "location": {
+                "x": 518,
+                "y": 887
+            },
+            "size": {
+                "height": 369,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Minecraft Legends box art",
+            "location": {
+                "x": 788,
+                "y": 887
+            },
+            "size": {
+                "height": 369,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mob Menagerie: Frog",
+            "location": {
+                "x": -116,
+                "y": 1681
+            },
+            "size": {
+                "height": 187,
+                "width": 326
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "An epic image showing Aang, Korra and friends as part of the new Avatar Legends DLC!",
+            "location": {
+                "x": 305,
+                "y": 1650
+            },
+            "size": {
+                "height": 187,
+                "width": 326
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A fence next to a lake!",
+            "location": {
+                "x": 800,
+                "y": 1681
+            },
+            "size": {
+                "height": 187,
+                "width": 326
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Minecraft Avatar DLC Key Art",
+            "location": {
+                "x": 160,
+                "y": 2233
+            },
+            "size": {
+                "height": 198,
+                "width": 330
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Minecraft Shop Holiday Collection Key art",
+            "location": {
+                "x": 520,
+                "y": 2524
+            },
+            "size": {
+                "height": 198,
+                "width": 330
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Minecraft Fauna Faire key art",
+            "location": {
+                "x": 160,
+                "y": 2805
+            },
+            "size": {
+                "height": 198,
+                "width": 330
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A new Avatar adventure img",
+            "location": {
+                "x": 160,
+                "y": 3562
+            },
+            "size": {
+                "height": 223,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Minecraft 1.19.3 Release Candidate 3 img",
+            "location": {
+                "x": 393,
+                "y": 3562
+            },
+            "size": {
+                "height": 223,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Block of the Month: Fence img",
+            "location": {
+                "x": 626,
+                "y": 3562
+            },
+            "size": {
+                "height": 223,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Minecraft 1.19.3 Release Candidate 1 img",
+            "location": {
+                "x": 160,
+                "y": 3795
+            },
+            "size": {
+                "height": 223,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mojang Studios logo",
+            "location": {
+                "x": 94,
+                "y": 4561
+            },
+            "size": {
+                "height": 85,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Xbox Game Studios logo",
+            "location": {
+                "x": 80,
+                "y": 4693
+            },
+            "size": {
+                "height": 71,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ESRB Ratings logo Everyone 10+ Fantasy Violence",
+            "location": {
+                "x": 760,
+                "y": 4561
+            },
+            "size": {
+                "height": 139,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mojang Studios logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Xbox Game Studios logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Microsoft logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Microsoft logo",
+            "location": {
+                "x": 840,
+                "y": 5040
+            },
+            "size": {
+                "height": 25,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            0,
+            115,
+            177
+        ],
+        [
+            23,
+            22,
+            21
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "desc": "Explore new gaming adventures, accessories, & merchandise on the Minecraft Official Site. Buy & download the game here, or check the site for the latest news.",
+    "navbar": "LOG IN\nREDEEM\nGAMES\nCOMMUNITY\nMERCH\nSUPPORT\nGET MINECRAFT",
+    "text": "LOG IN\nREDEEM\nGAMES\nCOMMUNITY\nMERCH\nSUPPORT\nGET MINECRAFT\nWELCOME TO THE OFFICIAL SITE OF MINECRAFT\nWith new games, new updates, and new ways to play, join one of the biggest communities in gaming and start crafting today!\nGET MINECRAFT\nEXPLORE MINECRAFT GAMES\nPREVIOUS ARROW\nMINECRAFT\nExplore your own unique world, survive the night, and create anything you can imagine!\nMINECRAFT DUNGEONS\nDiscover an all-new action adventure game, inspired by classic dungeon crawlers!\nNEXT ARROW\nNEWEST NEWS\nMOB MENAGERIE: FROG\nMARKETPLACE\nA NEW AVATAR ADVENTURE\nAang, Korra, and friends are coming to Minecraft!\nBLOCK OF THE MONTH: FENCE\nYOU ARE THE AVATAR!\nMaster all four elements and learn new skills from Team Avatar and Team Korra, meet up with Katara, Zuko, and others, and complete quests in this element bending game.\nLEARN MORE\nSHOP THE HOLIDAY GIFT GUIDE\nDon’t miss out on exclusive Minecraft holiday merch, including cozy sweaters, mugs, stockings, ornaments, and the newest Minecraft toys!\nSHOP NOW\nCOME TOGETHER AT THE FAIRE!\nFauna Faire is setting up camp, bringing with it both blazing activities and fun festivities. Unite with friends and take on new challenges together.\nLEARN MORE\nCOMMUNITY CREATIONS\nDiscover the best add-ons, mods, and more being built by the incredible Minecraft community!\nEXPLORE\nMARKETPLACE\nA NEW AVATAR ADVENTURE\nNEWS\nMINECRAFT 1.19.3 RELEASE CANDIDATE 3\nDEEP DIVES\nBLOCK OF THE MONTH: FENCE\nNEWS\nMINECRAFT 1.19.3 RELEASE CANDIDATE 1\nLOAD MORE\nCross-platform play available on Xbox, PlayStation 4, Nintendo Switch, iOS, Android, and Windows. Cross-play requires Microsoft account. Xbox Live Gold required for online multiplayer on Xbox. PlayStation Plus Membership required for online multiplayer on PlayStation 4. Nintendo Switch Online membership required for online multiplayer on Nintendo Switch.\nFOLLOW MINECRAFT\nGAMES\nMinecraft\nMinecraft Dungeons\nMinecraft Legends\nMinecraft: Education Edition\nCOMMUNITY\nCommunity\nCreator Learning Portal\nMojang Studios Careers\nSHOP\nMarketplace\nMinecraft Shop\nSUPPORT\nDiscussions & Help\nFeedback\nSite Map\nDownload\nACCOUNT\nProfile\nRedeem\nMojang ©2009-2022. \"Minecraft\" is a trademark of Mojang Synergies AB\nView Mojang Terms and Conditions\nView Mojang Brand and Assets Guidelines\nEnglish (United States)\nPrivacy and Cookies\nTerms of use\nTrademarks\nAbout our ads\n© 2022 Microsoft",
+    "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "GAMES",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 13,
+                "y": 35
+            },
+            "size": {
+                "height": 83,
+                "width": 81
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "PREVIOUS ARROW",
+            "bg-color": "rgba(59, 133, 38, 1)",
+            "location": {
+                "x": 180,
+                "y": 1004
+            },
+            "size": {
+                "height": 53,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "NEXT ARROW",
+            "bg-color": "rgba(59, 133, 38, 1)",
+            "location": {
+                "x": 780,
+                "y": 1004
+            },
+            "size": {
+                "height": 53,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(59, 133, 38, 1)",
+            "location": {
+                "x": 234,
+                "y": 1744
+            },
+            "size": {
+                "height": 53,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(59, 133, 38, 1)",
+            "location": {
+                "x": 724,
+                "y": 1744
+            },
+            "size": {
+                "height": 53,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "LOAD MORE",
+            "bg-color": "rgba(59, 133, 38, 1)",
+            "location": {
+                "x": 418,
+                "y": 4114
+            },
+            "size": {
+                "height": 52,
+                "width": 172
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "English (United States)",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 40,
+                "y": 5039
+            },
+            "size": {
+                "height": 37,
+                "width": 127
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

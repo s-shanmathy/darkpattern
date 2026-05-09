@@ -1,0 +1,131 @@
+{
+    "title": "Amusingthings.com",
+    "url": "amusingthings.com",
+    "full_url": "https://amusingthings.com/",
+    "images": [
+        {
+            "alt": "networksolutions",
+            "location": {
+                "x": 819,
+                "y": 12
+            },
+            "size": {
+                "height": 50,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 610,
+                "y": 676
+            },
+            "size": {
+                "height": 37,
+                "width": 321
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 931,
+                "y": 676
+            },
+            "size": {
+                "height": 37,
+                "width": 52
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            226,
+            226,
+            226
+        ],
+        [
+            250,
+            250,
+            250
+        ],
+        [
+            251,
+            251,
+            251
+        ]
+    ],
+    "text": "Amusingthings.com\nThis Page Is Under Construction - Coming Soon!\nWhy am I seeing this 'Under Construction' page?\nRELATED SEARCHES:\nAmusing Things\nFunny Stuff\nFunny Jewish Jokes\nVery Funny Pictures\nAnimated Jokes\nTrademark Free Notice Review our Privacy Policy Service Agreement Legal Notice\nPrivacy Policy",
+    "font": "open-sans, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

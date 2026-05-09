@@ -1,0 +1,278 @@
+{
+    "title": "Gephi - The Open Graph Viz Platform",
+    "url": "gephi.org",
+    "full_url": "https://gephi.org/",
+    "images": [
+        {
+            "alt": "Gephi - The Open Graph Viz Platform",
+            "location": {
+                "x": 24,
+                "y": 0
+            },
+            "size": {
+                "height": 100,
+                "width": 334
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "screenshot",
+            "location": {
+                "x": 414,
+                "y": 125
+            },
+            "size": {
+                "height": 358,
+                "width": 570
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "paper",
+            "location": {
+                "x": 664,
+                "y": 629
+            },
+            "size": {
+                "height": 262,
+                "width": 202
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 938,
+                "y": 1307
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 912,
+                "y": 1307
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 886,
+                "y": 1307
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Flickr",
+            "location": {
+                "x": 860,
+                "y": 1307
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTube",
+            "location": {
+                "x": 834,
+                "y": 1307
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "RSS",
+            "location": {
+                "x": 808,
+                "y": 1307
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "image",
+            "location": {
+                "x": 428,
+                "y": 532
+            },
+            "size": {
+                "height": 47,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            235,
+            235,
+            235
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "",
+    "text": "Home\nFeatures\nLearn\nDevelop\nPlugins\nDownload | Blog | Wiki | Ask a question | Support | Bug tracker\nThe Open Graph Viz Platform\nGephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.\nRuns on Windows, Mac OS X and Linux.\nLearn More on Gephi Platform »\nRelease Notes | System Requirements\nFeatures\nScreenshots\nQuick start\nVideos\nSupport us! We are non-profit. Help us to innovate and empower the community by donating only 8€:\n\nAPPLICATIONS\nExploratory Data Analysis: intuition-oriented analysis by networks manipulations in real time.\nLink Analysis: revealing the underlying structures of associations between objects.\nSocial Network Analysis: easy creation of social data connectors to map community organizations and small-world networks.\nBiological Network analysis: representing patterns of biological data.\nPoster creation: scientific work promotion with hi-quality printable maps.\nLearn More »\nMETRICS READY\nCentrality: used in sociology to indicate how well a node is connected. Available: degree (power-law), betweenness, closeness.\nAnd more: density, path length, diameter, HITS, modularity, clustering coefficient.\nLearn More »\nTECHNOLOGY\nErgonomic interface: no programming skills needed\nHigh-performance: built-in rendering engine.\nNative file formats: GDF (GUESS), GraphML (NodeXL), GML, NET (Pajek), GEXF and more.\nCustomizable by plugins: layouts, metrics, data sources, manipulation tools, rendering presets and more.\nLearn More »\nLike Photoshop™ for graphs.\n— the Community\nLATEST NEWS\nCall for participants: Gephi code sustainability retreat 2022\nTransition to semantic versioning\nGephi 0.9.3 released!\nCode sustainability retreat 2021: debriefing\nGephi road map, Summer 2021\nSee All »\nTweets by @Gephi\nPAPERS\nBastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media. From AAAI [PDF].\nLearn More »\nGEPHI 0.9.7 IS HERE!\n\nThe latest Gephi version just got released, let us know what you think on Twitter or Facebook.\nLearn More »\nGephi.org © All Rights Reserved 2008-2022\nhome legal about spread! press",
+    "font": "Verdana, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Twitter Timeline",
+            "location": {
+                "x": 344,
+                "y": 876
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter settings iframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter analytics iframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

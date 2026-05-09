@@ -1,0 +1,671 @@
+{
+    "title": "MyNSLC | NSLC | Nova Scotia Liquor Corporation",
+    "url": "mynslc.com",
+    "full_url": "https://www.mynslc.com/",
+    "images": [
+        {
+            "alt": "NSLC Logo",
+            "location": {
+                "x": 24,
+                "y": 65
+            },
+            "size": {
+                "height": 37,
+                "width": 182
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NSLC Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Purple background with Nordic sweater design along the top. White text the reads Cheers to holiday gifting ",
+            "location": {
+                "x": 24,
+                "y": 196
+            },
+            "size": {
+                "height": 225,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Holiday Recipes. ",
+            "location": {
+                "x": 24,
+                "y": 927
+            },
+            "size": {
+                "height": 133,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blue background with ",
+            "location": {
+                "x": 24,
+                "y": 1359
+            },
+            "size": {
+                "height": 133,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Perfect Stocking Stuffers",
+            "location": {
+                "x": 714,
+                "y": 2355
+            },
+            "size": {
+                "height": 57,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "holiday recipes",
+            "location": {
+                "x": 512,
+                "y": 2924
+            },
+            "size": {
+                "height": 110,
+                "width": 472
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Good We Give",
+            "location": {
+                "x": 24,
+                "y": 3050
+            },
+            "size": {
+                "height": 110,
+                "width": 472
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Purple wave background",
+            "location": {
+                "x": 512,
+                "y": 3050
+            },
+            "size": {
+                "height": 110,
+                "width": 472
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter address, city or postal code",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "search",
+            "location": {
+                "x": 671,
+                "y": 134
+            },
+            "size": {
+                "height": 34,
+                "width": 265
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 38,
+                "y": 1894
+            },
+            "size": {
+                "height": 26,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 526,
+                "y": 1894
+            },
+            "size": {
+                "height": 26,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 770,
+                "y": 1894
+            },
+            "size": {
+                "height": 26,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 1014,
+                "y": 1894
+            },
+            "size": {
+                "height": 26,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Postal Code",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            112,
+            37,
+            128
+        ],
+        [
+            240,
+            240,
+            240
+        ]
+    ],
+    "desc": "Discover seasonal beer, wine, spirits and coolers at the NSLC. ",
+    "navbar": "MyNSLC.com\nNSLC Cannabis\nGift Card Balance Stores Careers Contact / Aide\nMY STORE\nSIGN IN\nMY CART (0)",
+    "text": "MyNSLC.com\nNSLC Cannabis\nGift Card Balance Stores Careers Contact / Aide\nMY STORE\nSIGN IN\nMY CART (0)\nGIFTS\nOFFERS\nWINE\nSPIRITS\nBEER\nCIDER\nCOOLERS\nLOCAL\nAll\nDISCOVER GIFT PACKS\nFind My Store\nPrevious\nBaileys Irish Cream Giftpack\nLiqueur - Cream\nIreland\n750ml\n1002122\n$36.49\nADD TO MY LIST\nCheck store availability\nFireball Cinnamon Holiday Pack\nLiqueur - Herbs & Spice\nCanada\n15x50ml\n1031988\n$24.99\nADD TO MY LIST\nCheck store availability\nChurch Brewing Gift Pack\nBeer Variety Pack\nCanada\n2X473ml\n1039949\n$16.99\nADD TO MY LIST\nCheck store availability\nCompass Distillers Gin Christmas Gift Pack\nSpirits Variety Pack\nCanada\n2X375ml\n1037156\n$58.99\nADD TO MY LIST\nCheck store availability\nNext\n<section> <h2> <h1 style=\"text-align:center;\">Holiday Gift Guide Quiz</h1> </h2> <p> <p style=\"text-align:center;\">A gift is so much more than a box or a bow. Discover our gifting recommendations for the adults on your list and share the cheer this holiday season. </p> </p> </section><section> <h2> <h2 style=\"text-align:center;\">Mix &amp; Match Local Gifts</h2> </h2> <p> <p style=\"text-align:center;\">Discover Mix and Match Local products for the perfect gift for the person on your list</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Wine New Arrivals&nbsp;</h1> </h3> <p> <p style=\"text-align:center;\">If the person on your list loves to try new wines there are so many wines to choose from this season, there is everything from Prosecco to Sparkling Red for everyone on your list.</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Beer New Arrivals&nbsp;</h1> </h3> <p> <p style=\"text-align:center;\">Discover all of our new beers including a variety of gift packs that feature seasonal flavours like mint, chocolate and orange. There is something for everyone on your list.</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Spirit New Arrivals</h1> </h3> <p> <p style=\"text-align:center;\">Discover new spirit arrivals for the perfect gift for the person on your list.</p> </p> </section><section> <h3> <h2 style=\"text-align:center;\">Gift Cooler New Arrivals</h2> </h3> <p> <p style=\"text-align:center;\">From refreshing new flavours like sour cherry, watermelon and cranberry lemonade to advent calendars and mixer packs you are sure to find the perfect gift for everyone on your list that loves new coolers.&nbsp;</p> </p> </section><section> <h3> <h2 style=\"text-align:center;\">Gift Cider New Arrivals&nbsp;</h2> </h3> <p> <p style=\"text-align:center;\">The cider lover on your list will love these new arrivals which include a variety of gift packs and seasonal flavours.</p> </p> </section><section> <h3> <h2 style=\"text-align:center;\"><span style=\"font-size:1.5em;\">Gift Holiday New Arrivals</span></h2> </h3> <p> <p style=\"text-align:center;\">Discover all new arrivals for everyone on your list there is something for everyone with advent calendars, gift packs and new seasonal flavours your sure to find the perfect gift.&nbsp;</p> </p> </section><section> <h3> <h2 style=\"text-align:center;\">Gift Local Wine</h2> </h3> <p> <p style=\"text-align:center;\">White, red, sparkling and rose we make it all here in Nova Scotia you are sure to find the perfect gift for the wine lovers on your list from one of our many local producers.</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Local Beer</h1> </h3> <p> <p style=\"text-align:center;\">For that hard to buy for beer lover you cant go wrong with beer from one of our local breweries, with seasonal flavours and gift packs to choose from your sure to discover the perfect gift.&nbsp;</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Local Spirits</h1> </h3> <p> <p style=\"text-align:center;\">Discover the perfect gift from our local distilleries for the spirit lover on your list from seasonal flavours to classic spirits like gin and whisky your sure to find just what you are looking for everyone on your list.</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Local Coolers</h1> </h3> <p> <p style=\"text-align:center;\">Looking for the perfect gift for the cooler lover on your list discover refreshing flavours like watermelon and raspberry dragon fruit or get them a variety of flavours to try with a mixer pack.&nbsp;</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Local Cider</h1> </h3> <p> <p style=\"text-align:center;\">Nova Scotia is Canada&rsquo;s oldest apple growing region our local producers are making amazing ciders that make the perfect gift for the cider lover on your list.&nbsp;</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Local </h1> </h3> <p> <p style=\"text-align:center;\">There are so many amazing local wineries, breweries, distilleries and cideries in Nova Scotia you are sure to find the perfect local gift for the everyone on your list. </p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Best of 2022 Wine</h1> </h3> <p> <p style=\"text-align:center;\">Discover the best wines of 2022! These wines are the popular picks for the year, you cant go wrong with the wines that everyone keeps going back too.</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Best of 2022 Beer</h1> </h3> <p> <p style=\"text-align:center;\">Discover the best beers of 2022! You are sure to find the for everyone on your list with these popular picks</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Best of 2022 Spirits</h1> </h3> <p> <p style=\"text-align:center;\">Looking for spirit gift recommendations, look no further. Find the perfect gift for the spirit lover on your list that are everyone loved in 2022. &nbsp;</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Best of 2022 Coolers</h1> </h3> <p> <p style=\"text-align:center;\">Discover the coolers that everyone loved this year from variety packs to new flavours you are sure to find the perfect gift from our best of 2022 coolers</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Best of 2022 Cider</h1> </h3> <p> <p style=\"text-align:center;\">Sweet, tart or dry you will find the perfect cider for the person on your list with these favourite ciders of 2022.&nbsp;</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Best of 2022</h1> </h3> <p> <p style=\"text-align:center;\">Looking for a gift that you know they will love. Discover the best of 2022 wines, spirits, beer, cider and coolers for everyone on your list.&nbsp;</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Sparkling Wine</h1> </h3> <p> <p style=\"text-align:center;\">Add sparkle to your gift? Discover sparkling wines that are sure to make your gift pop!</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Sipping Spirits</h1> </h3> <p> <p style=\"text-align:center;\">Discover sipping spirits that are sure to please the spirit lover that is hard to buy for. From whiskey to rum, you are sure to find a gift that will make a splash</p> </p> </section><section> <h3> <h1 style=\"text-align:center;\">Gift Wine Stocking Stuffers</h1> </h3> <p> <p style=\"text-align:center;\">Discover the perfect stocking stuffer for the wine lover on your list from sparkling&rsquo;s to roses you&rsquo;re sure to find the perfect wine for their stocking.</p> </p> </section><section> <h3> <h2></h2> <h1 style=\"text-align:center;\">Gift Beer Stocking Stuffers</h1> </h3> <p> <p style=\"text-align:center;\">Chocolate orange, milk and cookies and latte are some of the single-serve seasonal flavours that will make the perfect stocking stuffer for the beer lover on your list</p> </p> </section><section> <h3> <h2></h2> <h1 style=\"text-align:center;\">Gift Spirit Stocking Stuffers</h1> </h3> <p> <p style=\"text-align:center;\">There are so many options for the spirit enthusiast on your list, from seasonal flavours like gingerbread and cinnamon to gift packs that split up to cross multiple people off your list.</p> </p> </section><section> <h3> <h2></h2> <h1 style=\"text-align:center;\">Gift Cooler Stocking Stuffers</h1> </h3> <p> <p style=\"text-align:center;\">Coolers can be enjoyed all year round and with seasonal flavours like spiced eggnog and gingerbread the cider lover in your life is sure to be excited to find these in their stocking.&nbsp;</p> </p> </section><section> <h3> <h2></h2> <h1 style=\"text-align:center;\">Gift Cider Stocking Stuffers&nbsp;</h1> </h3> <p> <p style=\"text-align:center;\">With returning favourites and new seasonal flavours there are so many ciders to discover for the perfect stocking stuffer</p> </p> </section><section> <h3> <h2></h2> <h1 style=\"text-align:center;\">Gift Stocking Stuffers</h1> </h3> <p> <p style=\"text-align:center;\">Discover all the perfect stocking stuffers for the everyone on your list from Gingerbread Gin Mule to Mint Chocolate Stout your sure to find the perfect stocking stuffer. </p> </p> </section><section> <h2> <h1 style=\"text-align:center;\"><strong>How much are you planning on spending on this gift?</strong></h1> </h2> </section><section> <h3> <h1 style=\"text-align:center;\">What is your recipient&rsquo;s go-to drink?&nbsp;&nbsp;</h1> </h3> </section><section> <h3> <h1 style=\"text-align:center;\">How would your recipient choose a restaurant?&nbsp;</h1> </h3> </section>\nPARTNERS FOR THE GOOD\nFind My Store\nPrevious\nAlexander Keith's IPA 12 Can Pack\nAle - India Pale Ale - IPA\nCanada\n12X355ml\n1001939\n$28.49\nADD TO CART\nAdd to My List\nCheck store availability\nBenjamin Bridge Wild Rock Sauvignon Blanc\nWhite - Sauvignon Blanc\nCanada\n750ml\n1038506\n$23.49\nADD TO MY LIST\nCheck store availability\nColdstream Peach Vodka Iced Tea\nTeas - Vodka\nCanada\n6X355ml\n1032552\n$19.99\nADD TO CART\nAdd to My List\nCheck store availability\nMoosehead Lager 12 Bottle Pack\nLager - Pale Lager\nCanada\n12X341ml\n1000708\n$29.98\nADD TO CART\nAdd to My List\nCheck store availability\nNext\nSHOP\nNEW ARRIVALS\nSHOP\nPROUDLY NOVA SCOTIAN\nSHOP\nBEST OF 2022\nPerfect Stocking Stuffers\n  SHOP NOW\nSHOP STOCKING STUFFERS\nFind My Store\nPrevious\nNEW\nWriters Tears Giftpack\nWhisky/Whiskey - Irish Whiskey\nIreland\n3X50ml\n1038822\n$36.00\nADD TO MY LIST\nCheck store availability\nNEW\nGlencadam 10 Years Old\nWhisky/Whiskey - Single Malt\nScotland\n50ml\n1038781\n$14.29\nADD TO MY LIST\nCheck store availability\nNEW\nBenjamin Bridge Piquette Stocking Stuffer\nWhite - Other White\nCanada\n3X250ml\n1039847\n$16.99\nADD TO MY LIST\nCheck store availability\nNEW\nFreixenet Italian Rose\nRosé - Sparkling\nItaly\n200ml\n1034206\n$8.99\nADD TO MY LIST\nCheck store availability\nNext\nDISCOVER\nJD SHORE\nLEARN\nHOW YOU CAN HELP\nLEARN ABOUT\nTHE GOOD WE GIVE\nSHOP\nHOME DELIVERY\nDISCOVER\nGet to Know JD Shore\nHoliday Recipes\nHoliday New Arrivals\nDiscover Your Tastes\nSHOP WITH US\nHome Delivery\nThe Port\nStores\nSpecial Orders\nReturns & Exchanges\nABOUT US\nWho We Are\nApply for Support\nCareer Opportunities\nMedia Centre\nCorporate Governance\nPolicies & Regulations\nDOING BUSINESS WITH US\nInfo for Agency Stores\nInfo for Licensees\nPermit Information\nWholesale Portal\nRESOURCES\nContact Us\nGift Card Balance\nJoin the Customer Panel\nTerms and Conditions\nFAQ\n®™ Trademarks of AM Royalties Limited Partnership used under license by LoyaltyOne, Co. and NSLC\n© 2022 NSLC. All rights reserved",
+    "font": "proxima-condensed, \"Open Sans\", \"Helvetica Neue Light\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Personality Test - Holiday Gift Guide Quiz",
+            "location": {
+                "x": 24,
+                "y": 1076
+            },
+            "size": {
+                "height": 276,
+                "width": 960
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "All",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 614,
+                "y": 134
+            },
+            "size": {
+                "height": 34,
+                "width": 59
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 934,
+                "y": 134
+            },
+            "size": {
+                "height": 34,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(30, 30, 30, 0.5)",
+            "location": {
+                "x": 24,
+                "y": 607
+            },
+            "size": {
+                "height": 40,
+                "width": 27
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(30, 30, 30, 0.9)",
+            "location": {
+                "x": 958,
+                "y": 607
+            },
+            "size": {
+                "height": 40,
+                "width": 27
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(30, 30, 30, 0.5)",
+            "location": {
+                "x": 24,
+                "y": 1683
+            },
+            "size": {
+                "height": 40,
+                "width": 27
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(30, 30, 30, 0.9)",
+            "location": {
+                "x": 958,
+                "y": 1683
+            },
+            "size": {
+                "height": 40,
+                "width": 27
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(30, 30, 30, 0.5)",
+            "location": {
+                "x": 24,
+                "y": 2598
+            },
+            "size": {
+                "height": 40,
+                "width": 27
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(30, 30, 30, 0.9)",
+            "location": {
+                "x": 958,
+                "y": 2598
+            },
+            "size": {
+                "height": 40,
+                "width": 27
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

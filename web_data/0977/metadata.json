@@ -1,0 +1,231 @@
+{
+    "title": "Geektime",
+    "url": "geektime.com",
+    "full_url": "https://www.geektime.com/",
+    "images": [
+        {
+            "alt": "Geektime Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Geektime Logo",
+            "location": {
+                "x": 25,
+                "y": 40
+            },
+            "size": {
+                "height": 44,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Human Founder: The journey of a seasoned B2C investor",
+            "location": {
+                "x": 270,
+                "y": 696
+            },
+            "size": {
+                "height": 180,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fraudster Holiday Season Must-Haves",
+            "location": {
+                "x": 270,
+                "y": 1034
+            },
+            "size": {
+                "height": 180,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "What is a VP of Communications and What Do They Actually Do?",
+            "location": {
+                "x": 270,
+                "y": 1397
+            },
+            "size": {
+                "height": 180,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Geektime",
+            "location": {
+                "x": 30,
+                "y": 23
+            },
+            "size": {
+                "height": 30,
+                "width": 136
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 26,
+                "y": 125
+            },
+            "size": {
+                "height": 30,
+                "width": 161
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "youremail@example.com",
+            "type": "text",
+            "location": {
+                "x": 382,
+                "y": 1796
+            },
+            "size": {
+                "height": 43,
+                "width": 343
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "youremail@example.com",
+            "type": "text",
+            "location": {
+                "x": 234,
+                "y": 482
+            },
+            "size": {
+                "height": 52,
+                "width": 399
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            249,
+            11,
+            124
+        ],
+        [
+            252,
+            236,
+            235
+        ]
+    ],
+    "desc": "Technology, Internet and Startup News",
+    "navbar": "",
+    "text": "Trending\nStartups\nInvestments\nMultinationals\nVideo Content\nHebrew Site\nAbout Us\nRed Mail\nWe cover the israeli hi-tech and startup scene so that you can read about it.\nIntel Ignite: Keep your eye out for these 10 startups\nGeektime\nPublished 5 hours ago\nStartups\nWant to know how to grow top tech talent? Take lessons from the NBA\nGuest Contributor\nPublished a day ago\nStartups\nThe World Cup: How are you watching it?\nGuest Contributor\nPublished 2 days ago\nStartups\nThe latest\nInvestments\nThe Human Founder: The journey of a seasoned B2C investor\nGali Bloch Liran\n6:00 pm IDT • December 07, 2022\nAs part of her day job, Executive Coach Gali Bloch Liran helps founders, CEOs, and investors develop the right skills and mentality. Her podcast takes us through the roller coaster of vulnerability, humanity, and the personalities of these \"top dogs\" of business and tech...\nStartups\nFraudster Holiday Season Must-Haves\nGuest Contributor\n4:00 pm IDT • December 07, 2022\nWhether you’re naughty or nice, holiday shopping is probably on your to-do list. In 2022, the holiday shopping season started earlier than ever as many consumers are planning ahead to prevent problems – such as supply chains and delivery delays – from getting in the way of the perfect gift....\nStartups\nWhat is a VP of Communications and What Do They Actually Do?\nGuest Contributor\n4:00 pm IDT • December 06, 2022\nIf I had a dollar for every time someone asked me this…...\nSubscribe to Geektime\nGet the latest tech news delivered right to your inbox\nSubscribe\nGeektime © 2022. All rights reserved by Sarona Partners",
+    "font": "Arial, \"Helvetica Neue\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 170,
+                "y": 127
+            },
+            "size": {
+                "height": 26,
+                "width": 22
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Subscribe",
+            "bg-color": "rgba(60, 186, 14, 1)",
+            "location": {
+                "x": 736,
+                "y": 1796
+            },
+            "size": {
+                "height": 43,
+                "width": 107
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 649,
+                "y": 482
+            },
+            "size": {
+                "height": 52,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        }
+    ]
+}

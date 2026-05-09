@@ -1,0 +1,179 @@
+{
+    "title": "Forum Hosting, Create a forum with ActiveBoard.com",
+    "url": "activeboard.com",
+    "full_url": "https://activeboard.com/",
+    "images": [
+        {
+            "alt": "Pants-on-head amazing!",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Pants-on-head amazing!",
+            "location": {
+                "x": 48,
+                "y": 348
+            },
+            "size": {
+                "height": 332,
+                "width": 436
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pants-on-head amazing!",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Pants-on-head amazing!",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Pants-on-head amazing!",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Pants-on-head amazing!",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Your Email address",
+            "type": "text",
+            "location": {
+                "x": 236,
+                "y": 960
+            },
+            "size": {
+                "height": 45,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Choose a Password",
+            "type": "password",
+            "location": {
+                "x": 469,
+                "y": 960
+            },
+            "size": {
+                "height": 45,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            245,
+            245,
+            245
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "text": "SPARKLIT\nLogin\nActiveBoard\nEXAMPLE FORUM\nPRICING\nSIGN UP\nStart your 30-day FREE trial\nStart Your Forum Now\nSTART MY FREE 30-DAY TRIAL\nThere is a better way to host your forum\nYour users deserve it. ActiveBoard can help you do it.\nImagine optimizing your forum with:\nThe fastest load times\nUnlimited threads and users\nSparklit's legendary support\nAdvanced spam blocking\nNo servers, software or coding to worry about...\n\nMore than 100,000 amazing\nforums use ActiveBoard to...\nBuild vibrant communities\nProvide first-class support\nUpdate clients on company news and products\nBuild and share with like-minded people\nWhy are people choosing ActiveBoard?\nEveryone from fan clubs to Fortune 500 companies use ActiveBoard. Here's why.\n\nSuper Easy to use\nActiveBoard was designed to be user-friendly. It's easy to set up your forum in minutes. No technical knowledge required.\nFully Customizable\nWhite-labeled Forum\nMatch the look and feel of your site with your own domain name, logo, colors, style and layout.\n\nNo Software to Install\nActiveBoard is a cloud-based app, which means we take care of all the software upgrades for you.\nFacebook-Style\nChat\nYour users can chat and instant message each other with a built-in chat room, complete with user profiles.\nSimple Media\nSharing\nWhether it's a baby photo, a PDF mockup, or a new marketing video, sharing files couldn't be simpler.\nSeamless Website Integration\nSelect your own layout, colors, theme and domain name to integrate seamlessly with your current website.\nDeep Social\nIntegration\nActiveBoard makes it easy to share on all major social platforms, and you can even log in with Facebook.\n\nSpam Proof\nWith active bot blocking and advanced filtering, ActiveBoard deals with SPAM behind the scenes so you don't have to.\n\nActiveBoard API\nDevelopers can access the ActiveBoard API for deep integration into existing platforms and login systems.\n1st party software from the designers who created it.\nGet your forum from the programmers who wrote the code. Because we designed and created ActiveBoard (yes, we wrote every single line of code) we know how it works. We can offer amazing support, amazing scalibity and fewer headaches.\n\n\nGET STARTED",
+    "font": "pn-regular, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Google cookie match frame",
+            "src": "https://bid.g.doubleclick.net/xbbe/pixel?d=KAE",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

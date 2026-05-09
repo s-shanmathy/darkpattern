@@ -1,0 +1,610 @@
+{
+    "title": "Learn a language. Memrise is authentic, useful & personalised.",
+    "url": "memrise.com",
+    "full_url": "https://www.memrise.com/",
+    "images": [
+        {
+            "alt": "memrise logo",
+            "location": {
+                "x": 20,
+                "y": 17
+            },
+            "size": {
+                "height": 40,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "blue underline",
+            "location": {
+                "x": 61,
+                "y": 305
+            },
+            "size": {
+                "height": 23,
+                "width": 313
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Thousands of video examples of language used in real life",
+            "location": {
+                "x": 160,
+                "y": 878
+            },
+            "size": {
+                "height": 489,
+                "width": 242
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Practical phrases taught in courses designed by native speakers",
+            "location": {
+                "x": 160,
+                "y": 878
+            },
+            "size": {
+                "height": 489,
+                "width": 242
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Gamified tests that train your language skills",
+            "location": {
+                "x": 160,
+                "y": 878
+            },
+            "size": {
+                "height": 489,
+                "width": 242
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Immersive learning that makes you feel like you're right there with the locals",
+            "location": {
+                "x": 160,
+                "y": 878
+            },
+            "size": {
+                "height": 489,
+                "width": 242
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "homepagemodule-jan23-offwhite",
+            "location": {
+                "x": 36,
+                "y": 1733
+            },
+            "size": {
+                "height": 291,
+                "width": 436
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Accelerate memory",
+            "location": {
+                "x": 108,
+                "y": 2411
+            },
+            "size": {
+                "height": 81,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Method_TwoTimes",
+            "location": {
+                "x": 402,
+                "y": 2408
+            },
+            "size": {
+                "height": 87,
+                "width": 96
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Method_Immerse",
+            "location": {
+                "x": 676,
+                "y": 2399
+            },
+            "size": {
+                "height": 106,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Method_Goals",
+            "location": {
+                "x": 960,
+                "y": 2404
+            },
+            "size": {
+                "height": 96,
+                "width": 99
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "oneAccount-01",
+            "location": {
+                "x": 527,
+                "y": 3025
+            },
+            "size": {
+                "height": 467,
+                "width": 512
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "app-store-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "google-play-icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "New call-to-action",
+            "location": {
+                "x": 38,
+                "y": 3532
+            },
+            "size": {
+                "height": 54,
+                "width": 278
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New call-to-action",
+            "location": {
+                "x": 373,
+                "y": 3532
+            },
+            "size": {
+                "height": 54,
+                "width": 278
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image-20",
+            "location": {
+                "x": 94,
+                "y": 4018
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image-05",
+            "location": {
+                "x": 422,
+                "y": 4018
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image-02",
+            "location": {
+                "x": 750,
+                "y": 4018
+            },
+            "size": {
+                "height": 180,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "pale-bg",
+            "location": {
+                "x": 0,
+                "y": 4540
+            },
+            "size": {
+                "height": 49,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "memrise",
+            "location": {
+                "x": 480,
+                "y": 4655
+            },
+            "size": {
+                "height": 56,
+                "width": 63
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "webpopup-jan23-yellow",
+            "location": {
+                "x": 776,
+                "y": 783
+            },
+            "size": {
+                "height": 147,
+                "width": 206
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            252,
+            250,
+            243
+        ],
+        [
+            45,
+            54,
+            71
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "Learn a language as it's used now. Immerse yourself in lessons that feature videos of native speakers, so you start speaking real life language, fast.",
+    "navbar": "Log in Download the app",
+    "text": "This website uses cookies and other technologies to enhance your experience and for web analytics. To find out more or change your choices, view our Cookie Policy. By clicking I agree you consent to the use of such cookies.\nI agree\nLog in Download the app\nLearn language\nthat's really useful\nTextbooks are for classrooms.\nWe teach languages for real-life use.\nSelect a language\nGet started\n23\nLANGUAGES\n4.8\n177k ratings\n60 Million\nLEARNERS\nHow it works\nThousands of video examples of language used in real life\nPractical phrases taught in courses designed by native speakers\nGamified tests that train your language skills\nImmersive learning that makes you feel like you're right there with the locals\nChoose a course to start\nGet fluent without catching a flight this year!\n  Want the freedom to create a unique, immersive language learning path based around your interests?\nWhether you're a foodie, music fan, or TikTok addict, we have a lesson for you... Dive into our library of immersive video content, then practice speaking with our new Language Partner Chatbot, called MemBot!\nRegister for free\n  Why Memrise?\nProven memory techniques rooted in science\nLearn more, faster, with a learning algorithm developed with the best cognitive science.\nTwice as fast as learning in a regular classroom setting\nTrain your long term memory with a method that’s faster and better than traditional rote learning.\nImmersive learning. Learn like you live there.\nDon’t waste time with phrases people don’t actually say. Learn the language people really use.\nCover everything from holiday essentials to longer-term goals\nFind the content topics to match what you need: from holiday small talk to meeting your partner’s family.\nOur Learning Philosophy\nOne account\n23 languages\nMultiple devices\nMemrise learners\nshare their success stories\nFrom little wins to big achievements, here's how every word has helped them grow their worlds\nTry Memrise. Real progress happens in a few minutes, and it has its own tricks to get you to memorise words and understand them. The local videos for pronunciation are chef kiss too.\n@khouryrt\nMemrise truly has my heart. I have been using this app for a while now and when I went to France they thought I was a local based off of my pronunciation that Memrise taught me.\nyeehaw ella\nBest app for learning new languages This app is so looked over, I had never heard it in my life till I went looking to the internet trying to find how to learn Spanish easier, it’s so much better than every other program. I especially like the learn with locals feature!\nWillyWilly42_\n\n\n1\n2\n3\n4\n5\n6\n7\nSTART LEARNING\nLearning a language\nAbout Us\nMemrise Blog\nLearn Spanish\nTeam\nEngineering Blog\nLearn French\nJobs\nForums\nLearn Japanese\nPress\nSpanish Phrasebook\nLearn Korean\nContact Us\nFrench Phrasebook\nLearn German\nFAQ & Help\nJapanese Phrasebook\nLearn Italian\nPhrasebooks\nKorean Phrasebook\nSpanish Lessons\nMexican Spanish Lessons\nFrench Lessons\nJapanese Lessons\nKorean Lessons\nGerman Lessons\nItalian Lessons\nRussian Lessons\nMandarin Chinese Lessons\nPortuguese Lessons\nBrazilian Portuguese Lessons\nTurkish Lessons\nDutch Lessons\nSwedish Lessons\nNorwegian Lessons\nDanish Lessons\nIcelandic Lessons\nMongolian Lessons\nSlovenian Lessons\nYoruba Lessons\nTerms of Use\nPrivacy Policy\nCookie Policy\nx\n2023: the year you get fluent with Memrise!\nFind out more",
+    "font": "Boing, Noto, \"Noto Sans JP\", \"Noto Sans KR\", \"Noto Sans SC\", \"Open Sans\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-4000617293200543&output=html&adk=1812271804&adf=3025194257&lmt=1672575068&plat=2%3A16777216%2C3%3A65536%2C4%3A65536%2C9%3A32768%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A1048576%2C32%3A32%2C41%3A32&format=0x0&url=https%3A%2F%2Fwww.memrise.com%2F&ea=0&pra=5&wgl=1&uach=WyIiLCIiLCIiLCIiLCIiLFtdLGZhbHNlLG51bGwsIiIsW10sZmFsc2Vd&dt=1672952197253&bpp=30&bdt=7915&idt=3451&shv=r20230104&mjsv=m202212080101&ptt=9&saldr=aa&abxe=1&nras=1&correlator=4967514577056&frm=20&pv=2&ga_vid=2023809633.1672952201&ga_sid=1672952201&ga_hid=266962279&ga_fc=0&u_tz=-480&u_his=50&u_h=1117&u_w=1728&u_ah=990&u_aw=1728&u_cd=30&u_sd=2&dmc=8&adx=-12245933&ady=-12245933&biw=1024&bih=1024&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759837%2C44777876%2C31071331%2C44779793%2C44773747%2C44780792&oid=2&pvsid=1193369388976889&tmod=209079737&uas=0&nvt=1&eae=2&fc=1920&brdim=0%2C0%2C0%2C0%2C1728%2C38%2C0%2C0%2C1024%2C1024&vis=1&rsz=%7C%7Cs%7C&abl=NS&fu=32768&bc=31&ifi=1&uci=a!1&fsb=1&dtd=3614",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "archetype",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://googleads.g.doubleclick.net/pagead/html/r20230104/r20190131/zrt_lookup.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Get started",
+            "bg-color": "rgba(255, 192, 0, 1)",
+            "location": {
+                "x": 61,
+                "y": 472
+            },
+            "size": {
+                "height": 48,
+                "width": 319
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(43, 54, 71, 1)",
+            "location": {
+                "x": 180,
+                "y": 4490
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(199, 200, 198, 1)",
+            "location": {
+                "x": 221,
+                "y": 4490
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(199, 200, 198, 1)",
+            "location": {
+                "x": 262,
+                "y": 4490
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "4",
+            "bg-color": "rgba(199, 200, 198, 1)",
+            "location": {
+                "x": 303,
+                "y": 4490
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "5",
+            "bg-color": "rgba(199, 200, 198, 1)",
+            "location": {
+                "x": 344,
+                "y": 4490
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6",
+            "bg-color": "rgba(199, 200, 198, 1)",
+            "location": {
+                "x": 385,
+                "y": 4490
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "7",
+            "bg-color": "rgba(199, 200, 198, 1)",
+            "location": {
+                "x": 426,
+                "y": 4490
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "x",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 974,
+                "y": 683
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

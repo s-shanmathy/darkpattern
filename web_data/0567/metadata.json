@@ -1,0 +1,815 @@
+{
+    "title": "KUOW - KUOW Public Radio",
+    "url": "kuow.org",
+    "full_url": "https://kuow.org/",
+    "images": [
+        {
+            "alt": "skip to main content",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NPR Inverted Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 30,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "caption: Canada's Moresby and Saltspring islands as seen from Turn Point, Stuart Island, Washington. Washington's deepest spot is hidden beneath the waves in between.",
+            "location": {
+                "x": -169,
+                "y": 214
+            },
+            "size": {
+                "height": 500,
+                "width": 1045
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Johnryan",
+            "location": {
+                "x": 208,
+                "y": 661
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Amazon on Wednesday announced it is planning to lay off more than 18,000 jobs amid a push to cut costs.",
+            "location": {
+                "x": 51,
+                "y": 739
+            },
+            "size": {
+                "height": 187,
+                "width": 290
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "coronavirus covid",
+            "location": {
+                "x": 366,
+                "y": 739
+            },
+            "size": {
+                "height": 187,
+                "width": 290
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "soda pop generic",
+            "location": {
+                "x": 51,
+                "y": 1128
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amazon generic",
+            "location": {
+                "x": 289,
+                "y": 1128
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Fans call for autographs after an NFL football preseason game between the Seattle Seahawks and the Los Angeles Chargers, Saturday, Aug. 28, 2021, in Seattle. The Seahawks won 27-0. ",
+            "location": {
+                "x": 527,
+                "y": 1128
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Homes are shown in the Beacon Hill neighborhood of Seattle in July of 2020. ",
+            "location": {
+                "x": 765,
+                "y": 1128
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Bryan Kohberger, the 28-year-old criminology PhD student accused of killing four University of Idaho students in November.",
+            "location": {
+                "x": 51,
+                "y": 1450
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "electricity power lines electric ",
+            "location": {
+                "x": 289,
+                "y": 1450
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Dan Price, as pictured in 2015. Price is the CEO of Gravity Payments, which has offices in Seattle, Boise, and Hawaii. ",
+            "location": {
+                "x": 527,
+                "y": 1450
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Washington Senator Patty Murray is sworn in as president pro tem, January 3, 2023. ",
+            "location": {
+                "x": 765,
+                "y": 1450
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "kid kids children child preschool child care childcare generic",
+            "location": {
+                "x": 51,
+                "y": 1815
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: An angler fishes off a dock in Lake Washington with a backdrop of autumn color Monday, Oct. 28, 2019, in Seattle.",
+            "location": {
+                "x": 289,
+                "y": 1815
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Seattle City Councilmember Alex Pedersen was elected to the job in 2019, and officially took office in 2020. ",
+            "location": {
+                "x": 527,
+                "y": 1815
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "gas pump gasoline petroleum fuel generic",
+            "location": {
+                "x": 765,
+                "y": 1815
+            },
+            "size": {
+                "height": 138,
+                "width": 208
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KUOW Newsroom",
+            "location": {
+                "x": 355,
+                "y": 2280
+            },
+            "size": {
+                "height": 175,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Soundside",
+            "location": {
+                "x": 551,
+                "y": 2280
+            },
+            "size": {
+                "height": 175,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Seattle Now",
+            "location": {
+                "x": 747,
+                "y": 2280
+            },
+            "size": {
+                "height": 175,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KUOW Blog Header.jpg",
+            "location": {
+                "x": 355,
+                "y": 2648
+            },
+            "size": {
+                "height": 147,
+                "width": 273
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "soda pop generic",
+            "location": {
+                "x": 659,
+                "y": 2799
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amazon generic",
+            "location": {
+                "x": 659,
+                "y": 2923
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: The Microsoft logo is pictured outside the headquarters in Paris, Jan. 8, 2021. A group of video game testers is forming Microsoft's first labor union in the U.S. and the largest in the video game industry. Communications Workers of America said Tuesday, Jan. 3, 2023, that about 300 quality assurance workers at Microsoft video game subsidiary ZeniMax Studios have voted to join the union.",
+            "location": {
+                "x": 659,
+                "y": 3046
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The RIPPLE EFFECT 1400x600",
+            "location": {
+                "x": 355,
+                "y": 3258
+            },
+            "size": {
+                "height": 147,
+                "width": 273
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: This Habitat for Humanity rowhouse project in Renton, Washington, is home to Wanda Maldonado and her family.",
+            "location": {
+                "x": 659,
+                "y": 3470
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Bunthay Cheam, right, leads a dinner party conversation on Thursday, October 6, 2022, in South Park.  ",
+            "location": {
+                "x": 659,
+                "y": 3587
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Michael Mason, who goes by \"Chef Mason\" selling cheesecake and talking community at the Proctor Farmers Market in Tacoma",
+            "location": {
+                "x": 659,
+                "y": 3727
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Sian Cullen, left, with her daughter Aine.",
+            "location": {
+                "x": 355,
+                "y": 3968
+            },
+            "size": {
+                "height": 147,
+                "width": 273
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Anna Scott with a \"shockingly long\" needle for invitro fertilization treatments.",
+            "location": {
+                "x": 659,
+                "y": 4161
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Katy Sewall poses for a photo in the Trastevere neighborhood of Rome during a recent trip to Italy, where she fell sick with Covid. ",
+            "location": {
+                "x": 659,
+                "y": 4291
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caption: Ella Chung, right, and a friend at homecoming in 2018. ",
+            "location": {
+                "x": 659,
+                "y": 4431
+            },
+            "size": {
+                "height": 70,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KUOW App on iPhone",
+            "location": {
+                "x": 368,
+                "y": 4820
+            },
+            "size": {
+                "height": 181,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple App Store Download Icon",
+            "location": {
+                "x": 497,
+                "y": 4928
+            },
+            "size": {
+                "height": 30,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google Play Icon",
+            "location": {
+                "x": 493,
+                "y": 4991
+            },
+            "size": {
+                "height": 26,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KUOW Logo",
+            "location": {
+                "x": 51,
+                "y": 5238
+            },
+            "size": {
+                "height": 41,
+                "width": 158
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NPR Logo",
+            "location": {
+                "x": 258,
+                "y": 5244
+            },
+            "size": {
+                "height": 30,
+                "width": 88
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "First Name",
+            "type": "text",
+            "location": {
+                "x": 66,
+                "y": 4873
+            },
+            "size": {
+                "height": 44,
+                "width": 116
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Last Name",
+            "type": "text",
+            "location": {
+                "x": 207,
+                "y": 4873
+            },
+            "size": {
+                "height": 44,
+                "width": 116
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email Address",
+            "type": "email",
+            "location": {
+                "x": 66,
+                "y": 4940
+            },
+            "size": {
+                "height": 44,
+                "width": 185
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email Address",
+            "type": "submit",
+            "location": {
+                "x": 251,
+                "y": 4940
+            },
+            "size": {
+                "height": 44,
+                "width": 72
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            74,
+            76,
+            88
+        ],
+        [
+            60,
+            61,
+            70
+        ]
+    ],
+    "navbar": ". an station.\nNEWS\nPODCASTS\nRADIOACTIVE\nSUPPORT\nCONNECT\nEVENTS\nSearch",
+    "text": "LISTEN LIVE\nSCHEDULE\nSIGN IN / / SIGN UP\nDONATE\n. an station.\nNEWS\nPODCASTS\nRADIOACTIVE\nSUPPORT\nCONNECT\nEVENTS\nSearch\nKUOW NEWSCAST\n3 MINS\nUPDATED 01.05 at 8:47AM\nKUOW NEWSROOM\nWASHINGTON STATE'S HIGH POINT HAS A NATIONAL PARK. ITS LOW POINT DOESN’T HAVE A NAME\n2 MINS\nJohn Ryan\nKUOW BLOG\nAmazon CEO says company will lay off more than 18,000 workers\nBobby Allyn\nKUOW BLOG\nFlu and RSV on the decline in Washington state, Covid trajectory unclear\nBrandon Hollingsworth\nREACH THE KUOW AUDIENCE\n  BECOME A BUSINESS SPONSOR »\nTRENDING\n1\nTesla driver is charged with intentionally plunging his family off a California cliff\n2\nWashington state's new solution for foster parents and child care\n3\n2 Puyallup men arrested for Christmas attacks on Pierce County substations\nKUOW BLOG\nCould bottle deposits be coming to Washington state?\nKUOW NEWSROOM\nAmazon layoffs reflect 'change in mindset for the company'\n5 MINS\nSOUNDSIDE\nPlayoffs or not, Seahawks surpass preseason expectations\n19 MINS\nKUOW NEWSROOM\nWhat does 2023 hold for the Seattle area housing market?\n6 MINS\nInvestigators reveal new information tying Idaho murders to Bryan Kohlberger\nKUOW BLOG\nWhy did they attack substations in Pierce County?: Today So Far\nSOUNDSIDE\nDan Price branded himself as a benevolent CEO. Some former employees challenge that portrayal\n18 MINS\nKUOW BLOG\nMurray becomes first woman president pro tem of the Senate\nKUOW BLOG\nWashington state's new solution for foster parents and child care\nKUOW BLOG\nSome fish in King County aren't safe to eat. How do you warn the right people?\nKUOW BLOG\nSeattle Councilmember Alex Pedersen will not run for reelection in 2023\nKUOW NEWSROOM\nWashington state starts 2023 with ambitious new climate efforts\n1 MIN\nMORE STORIES\nLATEST\nPODCASTS\nLooking for your favorite show? Need a new one to love? Pull out your ear buds and start subscribing.\nVIEW ALL\nPrevious\nNext\nKUOW Newsroom\nSoundside\nSeattle Now\nLATEST\nSERIES\nKUOW's award-winning newsroom brings you in-depth reporting you won't find anywhere else. Follow our original series to experience stories about the Pacific Northwest, the communities who inhabit it, how we help or hurt our corner of the world and everything in between.\nVIEW ALL\nKUOW BLOG\nNews, factoids, and insights from KUOW's newsroom. And maybe some peeks behind the scenes. Check back daily for updates.\nCould bottle deposits be coming to Washington state?\nAmazon layoffs reflect 'change in mindset for the company'\n5 MINS\nVideo game testers approve the first union at Microsoft\nAll Stories\nTHE RIPPLE EFFECT\nThe Seattle area is growing. Because we're not building enough homes, people are getting pushed farther and farther out. This is the ripple effect of growth. In KUOW's four-part series \"The Ripple Effect,\" reporter Joshua McNichols covers the issue and explores some potential solutions.\nReporter's Notebook: How The Ripple Effect series was born\nReporter's notebook: centering underrepresented communities in the stories we tell\nHow to create community out of a bunch of buildings: The Ripple Effect\n50 MINS\nAll Stories\nSEATTLE STORY PROJECT\nFirst-person reflections published at KUOW.org. These are essays, stories told on stage, photos and zines. To submit a story — or note one that deserves more notice — contact Isolde Raftery at iraftery@kuow.org or 206-616-2035.\nThings I lost this year: A passport, a pregnancy, a marriage\nI traveled to Italy after 2 years of pandemic isolation. Then I got Covid\n7 MINS\nThe last homecoming queen at Edmonds-Woodway High School\nAll Stories\nCONNECT WITH US\nGet a quick look at the most important local stories of the day with KUOW's Today So Far newsletter.\nFirst Name\nLast Name\nEmail Address\nUPCOMING EVENTS\nVIEW ALL\nJAN\n20\n7:00 PM\nThe Moth StorySLAM\nLISTEN TO THE STORIES YOU CARE ABOUT IN OUR MOBILE APP\nDOWNLOAD FROM\nAPP STORE\nGET IT ON\nPLAY STORE\nKUOW is the Puget Sound region’s #1 radio station for news. Our independent, nonprofit newsroom produces award-winning stories, podcasts and events.\nABOUT\nSTAFF\nBOARD\nKUOW on Facebook\nKUOW on Instagram\nKUOW on Twitter\nKUOW on YouTube\nINSIDE KUOW\nContact Us / Feedback\nSecure News Tips\nCareers\nImpact Report\nPress\nSchedule (PDF)\nSUPPORT\nDonate / Become a Member\nWills and Estate Planning\nDonate Your Car\nGift of Securities\nBusiness Sponsorship\nVolunteer\n© 2022 KUOW News and Information v1.51.0\nCorrections\nPrivacy Policy\nTerms of Use\nFCC Public File\n LIVE NOW ON KUOW 94.9FM\nKUOW LIVE STREAM\nUP NEXT: ALL THINGS CONSIDERED IN 30 MINS\nSCHEDULE\nPRINT SCHEDULE\nLATEST NEWSCAST: THURSDAY, JAN 5\n3 MINS\nUpdated: 08:00 AM PT\nTODAY\nALL THINGS CONSIDERED\n3:00 PM PST\nTODAY, EXPLAINED\n6:00 PM PST\nMARKETPLACE\n6:30 PM PST\nFRESH AIR\n7:00 PM PST\nSOUNDSIDE\n8:00 PM PST\nTHE TAKEAWAY\n9:00 PM PST\nAS IT HAPPENS\n10:00 PM PST\nCBC'S Q\n11:00 PM PST\nTOMORROW\nBBC WORLD SERVICE\n12:00 AM PST\nBBC WORLD NEWS\n1:00 AM PST\nMORNING EDITION\n4:00 AM PST\nHERE & NOW\n9:00 AM PST\nON POINT\n11:00 AM PST\nWEEK IN REVIEW\n12:00 PM PST\nBBC NEWSHOUR\n1:00 PM PST\nTHE DAILY\n2:00 PM PST\nMARKETPLACE\n2:30 PM PST\nALL THINGS CONSIDERED\n3:00 PM PST\nTODAY, EXPLAINED\n6:00 PM PST\nMARKETPLACE\n6:30 PM PST\nWEEK IN REVIEW\n7:00 PM PST\nREVEAL\n8:00 PM PST\nTHE TAKEAWAY\n9:00 PM PST\nAS IT HAPPENS\n10:00 PM PST\nPlay Audio\n LIVE NOW ON KUOW 94.9FM\nKUOW LIVE STREAM\nUP NEXT: ALL THINGS CONSIDERED IN 29 MINS\nSCHEDULE\nLATEST NEWSCAST: THURSDAY, JAN 5\n3 MINS\nUpdated: 08:00 AM PT\nTODAY\nALL THINGS CONSIDERED\n3:00 PM PST\nTODAY, EXPLAINED\n6:00 PM PST\nMARKETPLACE\n6:30 PM PST\nFRESH AIR\n7:00 PM PST\nSOUNDSIDE\n8:00 PM PST\nTHE TAKEAWAY\n9:00 PM PST\nAS IT HAPPENS\n10:00 PM PST\nCBC'S Q\n11:00 PM PST\nTOMORROW\nBBC WORLD SERVICE\n12:00 AM PST\nBBC WORLD NEWS\n1:00 AM PST\nMORNING EDITION\n4:00 AM PST\nHERE & NOW\n9:00 AM PST\nON POINT\n11:00 AM PST\nWEEK IN REVIEW\n12:00 PM PST\nBBC NEWSHOUR\n1:00 PM PST\nTHE DAILY\n2:00 PM PST\nMARKETPLACE\n2:30 PM PST\nALL THINGS CONSIDERED\n3:00 PM PST\nTODAY, EXPLAINED\n6:00 PM PST\nMARKETPLACE\n6:30 PM PST\nWEEK IN REVIEW\n7:00 PM PST\nREVEAL\n8:00 PM PST\nTHE TAKEAWAY\n9:00 PM PST\nAS IT HAPPENS\n10:00 PM PST\nPRINT SCHEDULE\nTODAY\n|\nTHIS WEEK\nTOP STORIES\nWashington state's high point has a national park. Its low point doesn’t have a name\n2 MINS\nFlu and RSV on the decline in Washington state, Covid trajectory unclear\nAmazon CEO says company will lay off more than 18,000 workers\nPlay Audio",
+    "font": "din-2014, Calibri, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://www.googletagmanager.com/ns.html?id=GTM-WHVHKCZ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://4d18f90a6640c1d992ed4592d8de6eff.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Usabilla Feedback Button",
+            "src": "https://kuow.org/",
+            "location": {
+                "x": 984,
+                "y": 447
+            },
+            "size": {
+                "height": 130,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

@@ -1,0 +1,83 @@
+{
+    "title": "Check Spelling, Style, and Grammar with After the Deadline",
+    "url": "polishmywriting.com",
+    "full_url": "https://polishmywriting.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 469,
+                "y": 543
+            },
+            "size": {
+                "height": 20,
+                "width": 87
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            36,
+            153,
+            34
+        ],
+        [
+            252,
+            252,
+            252
+        ]
+    ],
+    "text": "After the Deadline is no longer actively maintained and the hosted service has been shut down. All of the source code is available for download if you wish to run your own AtD server.\nAfter the Deadline\nAbout\nDownload\nDemonstration\nDevelopers\nFAQ\nContact\nTry After the Deadline\nInstructions: paste or compose a document below. Click Check Writing to get feedback on your writing. Click an underlined spelling error, grammar suggestion, or style suggestion to see more options.\nAN INVENTION\nBlog\n|\nTerms of Service\n|\nPrivacy Policy",
+    "font": "\"Lucida Grande\", Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "javascript:\"\"",
+            "location": {
+                "x": 133,
+                "y": 282
+            },
+            "size": {
+                "height": 250,
+                "width": 758
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.polishmywriting.com&layout=standard&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=80",
+            "location": {
+                "x": 122,
+                "y": 572
+            },
+            "size": {
+                "height": 80,
+                "width": 450
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

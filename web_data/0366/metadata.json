@@ -1,0 +1,2007 @@
+{
+    "title": "FOX 5 New York",
+    "url": "fox5ny.com",
+    "full_url": "https://www.fox5ny.com/",
+    "images": [
+        {
+            "alt": "FOX 5 New York",
+            "location": {
+                "x": 16,
+                "y": 18
+            },
+            "size": {
+                "height": 48,
+                "width": 116
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FOX 5 New York",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 76,
+                "width": 253
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Brooklyn subway shooting: New video evidence released against Frank James",
+            "location": {
+                "x": 16,
+                "y": 426
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3rd child dies from injuries suffered in Staten Island house fire",
+            "location": {
+                "x": 16,
+                "y": 864
+            },
+            "size": {
+                "height": 87,
+                "width": 154
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mask mandates return at several NJ school districts",
+            "location": {
+                "x": 16,
+                "y": 983
+            },
+            "size": {
+                "height": 87,
+                "width": 154
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man attacked, robbed 85-year-old woman in Queens parking garage",
+            "location": {
+                "x": 276,
+                "y": 1103
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'Mutant Ape Planet' NFT developer charged in multi-million dollar scheme",
+            "location": {
+                "x": 276,
+                "y": 1192
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NY, NJ residents moving out in high numbers in 2022, but to where?",
+            "location": {
+                "x": 276,
+                "y": 1281
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman charged with repeatedly poisoning vet husband with animal drugs",
+            "location": {
+                "x": 276,
+                "y": 1371
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Idaho murders: Roommate saw masked man night of killings; cops used DNA, cell phone records to crack case",
+            "location": {
+                "x": 276,
+                "y": 1460
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man wanted for New Year’s Day subway stabbings in Queens",
+            "location": {
+                "x": 276,
+                "y": 1582
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "8 family members found dead in Utah home was result of murder-suicide, officials say",
+            "location": {
+                "x": 276,
+                "y": 1671
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "George Santos does not appear to have an office or staff in his district",
+            "location": {
+                "x": 276,
+                "y": 1760
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'Concerned citizen and family friend' posted Takeoff murder suspect's bond, attorney says",
+            "location": {
+                "x": 276,
+                "y": 1850
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NFL will not resume Bills-Bengals game, AP reports",
+            "location": {
+                "x": 276,
+                "y": 1939
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Weather Condition",
+            "location": {
+                "x": 589,
+                "y": 386
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NYC weather forecast",
+            "location": {
+                "x": 584,
+                "y": 1093
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brooklyn subway shooting: New video evidence released against Frank James",
+            "location": {
+                "x": 584,
+                "y": 1182
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Actor, Long Island native Nick Barrotta discusses 'Tyler Perry’s The Oval'",
+            "location": {
+                "x": 584,
+                "y": 1279
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3rd child dies from injuries suffered in Staten Island house fire",
+            "location": {
+                "x": 584,
+                "y": 1369
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Second 24-hour strike underway for NYC Uber drivers",
+            "location": {
+                "x": 584,
+                "y": 1458
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tips for 'Dry January' success",
+            "location": {
+                "x": 584,
+                "y": 1547
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FOX 5 NY on YouTube",
+            "location": {
+                "x": 708,
+                "y": 682
+            },
+            "size": {
+                "height": 169,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vote in today's poll!",
+            "location": {
+                "x": 708,
+                "y": 912
+            },
+            "size": {
+                "height": 169,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "82-year-old Walmart employee retires after viral TikTok leads to $100,000 GoFundMe",
+            "location": {
+                "x": 908,
+                "y": 1172
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man fired from Zulily after stealing money using 'Office Space' inspired theme",
+            "location": {
+                "x": 908,
+                "y": 1270
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Incoming California congressman takes oath of office on Superman comic",
+            "location": {
+                "x": 908,
+                "y": 1359
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sparks fly when truck is struck by lightning in North Carolina, video shows",
+            "location": {
+                "x": 908,
+                "y": 1448
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ex-Waffle House employee recalls fighting 'extremely drunk' customer in viral brawl: 'Adrenaline and instinct'",
+            "location": {
+                "x": 908,
+                "y": 1538
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Get our morning newsletter!",
+            "location": {
+                "x": 708,
+                "y": 1671
+            },
+            "size": {
+                "height": 169,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FOX 5 TV Schedule",
+            "location": {
+                "x": 908,
+                "y": 1930
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "placeholder",
+            "location": {
+                "x": 512,
+                "y": 2399
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'Mutant Ape Planet' NFT developer charged in multi-million dollar scheme",
+            "location": {
+                "x": 16,
+                "y": 2510
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brooklyn subway shooting: New video evidence released against Frank James",
+            "location": {
+                "x": 584,
+                "y": 2510
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3rd child dies from injuries suffered in Staten Island house fire",
+            "location": {
+                "x": 584,
+                "y": 2640
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man wanted for New Year’s Day subway stabbings in Queens",
+            "location": {
+                "x": 584,
+                "y": 2754
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man attacked, robbed 85-year-old woman in Queens parking garage",
+            "location": {
+                "x": 584,
+                "y": 2868
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amber Alert canceled for 7-month-old girl in New Jersey; suspect in custody",
+            "location": {
+                "x": 584,
+                "y": 2983
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Idaho murders: Roommate saw masked man night of killings; cops used DNA, cell phone records to crack case",
+            "location": {
+                "x": 16,
+                "y": 3162
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GOP stalemate remains as Kevin McCarthy fails again to win House speakership",
+            "location": {
+                "x": 584,
+                "y": 3162
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Biden announces new immigration rules ahead of US-Mexico border visit on Sunday",
+            "location": {
+                "x": 584,
+                "y": 3276
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "8 family members found dead in Utah home was result of murder-suicide, officials say",
+            "location": {
+                "x": 584,
+                "y": 3406
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman charged with repeatedly poisoning vet husband with animal drugs",
+            "location": {
+                "x": 584,
+                "y": 3536
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hurricane hunters fly missions to California to study atmospheric river amid powerful storm",
+            "location": {
+                "x": 584,
+                "y": 3650
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man fired from Zulily after stealing money using 'Office Space' inspired theme",
+            "location": {
+                "x": 16,
+                "y": 3845
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Incoming California congressman takes oath of office on Superman comic",
+            "location": {
+                "x": 584,
+                "y": 3845
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Polk suspects called 911 to ask deputies for help moving items from home they were burglarizing, officials say",
+            "location": {
+                "x": 584,
+                "y": 3960
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Masters invitation goes to the wrong Scott Stallings",
+            "location": {
+                "x": 584,
+                "y": 4105
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tesla on autopilot leads police on chase before driver finally wakes up",
+            "location": {
+                "x": 584,
+                "y": 4204
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "United flight diverts to remote island; stranded passengers given hotels, tours",
+            "location": {
+                "x": 584,
+                "y": 4318
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Personal loan origination fees: Are they worth the cost?",
+            "location": {
+                "x": 16,
+                "y": 4513
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Secure 2.0 Act will help Americans build emergency savings: Here's how",
+            "location": {
+                "x": 584,
+                "y": 4513
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Create your own set: LEGO announces design competition",
+            "location": {
+                "x": 584,
+                "y": 4643
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Paying off debt is top priority for many consumers in 2023: survey",
+            "location": {
+                "x": 584,
+                "y": 4757
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Secure 2.0 Act: Student loan payments will count toward 401(K) matching contributions",
+            "location": {
+                "x": 584,
+                "y": 4871
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mega Millions jackpot jumps to $940 million after no winner",
+            "location": {
+                "x": 584,
+                "y": 5001
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cancer vaccines being developed at the Tisch Cancer Institute at Mount Sinai",
+            "location": {
+                "x": 16,
+                "y": 5180
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Colorado library reopens after traces of meth found in building",
+            "location": {
+                "x": 584,
+                "y": 5180
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mask mandates return at several NJ school districts",
+            "location": {
+                "x": 584,
+                "y": 5295
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sesame officially added to FDA's major food allergen list",
+            "location": {
+                "x": 584,
+                "y": 5393
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Diabetes likely to surge in US children and teens by 2060, study finds",
+            "location": {
+                "x": 584,
+                "y": 5508
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "More kids being sickened by marijuana edibles at home: Study",
+            "location": {
+                "x": 584,
+                "y": 5622
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GOP stalemate remains as Kevin McCarthy fails again to win House speakership",
+            "location": {
+                "x": 16,
+                "y": 5801
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "House adjourns after Kevin McCarthy loses 6th speaker vote",
+            "location": {
+                "x": 584,
+                "y": 5801
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "South Carolina’s top court strikes down state’s abortion ban",
+            "location": {
+                "x": 584,
+                "y": 5916
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "George Santos does not appear to have an office or staff in his district",
+            "location": {
+                "x": 584,
+                "y": 6030
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Incoming California congressman takes oath of office on Superman comic",
+            "location": {
+                "x": 584,
+                "y": 6144
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FDA expands availability of abortion pills",
+            "location": {
+                "x": 584,
+                "y": 6258
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rapper Theophilus London found safe after LA disappearance",
+            "location": {
+                "x": 16,
+                "y": 6422
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FOX’s ‘MasterChef Junior’ now casting young chefs for 9th season",
+            "location": {
+                "x": 584,
+                "y": 6422
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'Romeo & Juliet' stars sue for more than $500M over 1968 film's teen nude scene",
+            "location": {
+                "x": 584,
+                "y": 6536
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jeremy Renner shares photo from hospital bed after snowplow accident: ‘Thank you all for your kind words’",
+            "location": {
+                "x": 584,
+                "y": 6666
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jeremy Renner was helping stranded motorist before snow-plow accident, Reno mayor says",
+            "location": {
+                "x": 584,
+                "y": 6812
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brad Pitt and Adam Sandler to star together in Netflix movie",
+            "location": {
+                "x": 584,
+                "y": 6942
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NFL will not resume Bills-Bengals game, AP reports",
+            "location": {
+                "x": 16,
+                "y": 7121
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Win $100K in the FOX Bet Super 6 NFL Sunday Challenge Season Finale",
+            "location": {
+                "x": 584,
+                "y": 7121
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UFC President Dana White seen on video slapping his wife",
+            "location": {
+                "x": 584,
+                "y": 7235
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dallas Cowboys superfan wins FOX Bet Super 6 Terry's Vault sweepstakes",
+            "location": {
+                "x": 584,
+                "y": 7349
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Doctors share expertise on cardiac arrest as Bills’ Damar Hamlin’s condition remains uncertain",
+            "location": {
+                "x": 584,
+                "y": 7464
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blue for Damar Hamlin: Tributes pour in for injured Buffalo Bills player",
+            "location": {
+                "x": 584,
+                "y": 7594
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Actor, Long Island native Nick Barrotta discusses 'Tyler Perry’s The Oval'",
+            "location": {
+                "x": 16,
+                "y": 7773
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Iconic local restaurants, shops in New York City",
+            "location": {
+                "x": 584,
+                "y": 7773
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Actor Scott Caan previews FOX's new series Alert: Missing Persons Unit",
+            "location": {
+                "x": 584,
+                "y": 7872
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sweet Catch brings Carolina cuisine to Brooklyn",
+            "location": {
+                "x": 584,
+                "y": 7986
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Working out without a gym",
+            "location": {
+                "x": 584,
+                "y": 8100
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A look at some upcoming 2023 movies",
+            "location": {
+                "x": 584,
+                "y": 8189
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "8 family members found dead in Utah home was result of murder-suicide, officials say",
+            "location": {
+                "x": 16,
+                "y": 8353
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman charged with repeatedly poisoning vet husband with animal drugs",
+            "location": {
+                "x": 584,
+                "y": 8353
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brooklyn subway shooting: New video evidence released against Frank James",
+            "location": {
+                "x": 584,
+                "y": 8467
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Idaho killings: What's next for suspect Bryan Kohberger",
+            "location": {
+                "x": 584,
+                "y": 8597
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man wanted for New Year’s Day subway stabbings in Queens",
+            "location": {
+                "x": 584,
+                "y": 8711
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man attacked, robbed 85-year-old woman in Queens parking garage",
+            "location": {
+                "x": 584,
+                "y": 8826
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Moose rescued from frozen lake after being stuck for hours",
+            "location": {
+                "x": 16,
+                "y": 9005
+            },
+            "size": {
+                "height": 203,
+                "width": 360
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman has Range Rover stolen at Long Island gas station with dog inside",
+            "location": {
+                "x": 584,
+                "y": 9005
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dog tied up, abandoned at Iowa airport while owner catches flight alone",
+            "location": {
+                "x": 584,
+                "y": 9119
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cat dies after swallowing 38 hair ties followed by surgery",
+            "location": {
+                "x": 584,
+                "y": 9234
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "13 bison dead near Yellowstone park after truck driver strikes herd",
+            "location": {
+                "x": 584,
+                "y": 9348
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man, 2 dogs rescued by U.S. Coast Guard as disabled sailboat wrecks against rocks",
+            "location": {
+                "x": 584,
+                "y": 9462
+            },
+            "size": {
+                "height": 56,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "placeholder",
+            "location": {
+                "x": 858,
+                "y": 2471
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FOX 5 New York",
+            "location": {
+                "x": 16,
+                "y": 10175
+            },
+            "size": {
+                "height": 30,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search for keywords",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            4,
+            19,
+            75
+        ],
+        [
+            240,
+            242,
+            245
+        ]
+    ],
+    "desc": "New York news, weather, traffic and sports from FOX 5 NY serving New York City, Long Island, New York, New Jersey and Westchester County. Watch breaking news live and Good Day New York.",
+    "navbar": "Watch Live\nNews\nWeather\nGood Day\nInside FOX 5\nExpand / Collapse search",
+    "text": "Watch Live\nNews\nWeather\nGood Day\nInside FOX 5\nExpand / Collapse search\nTop Stories\nBrooklyn subway shooting: New video evidence released against Frank James\nNew video evidence has been released from inside the train car on the day of last year's Brooklyn subway shooting.\n3rd child dies from injuries suffered in Staten Island house fire\nMask mandates return at several NJ school districts\nMan attacked, robbed 85-year-old woman in Queens parking garage\n'Mutant Ape Planet' NFT developer charged in multi-million dollar scheme\nNY, NJ residents moving out in high numbers in 2022, but to where?\nWoman charged with repeatedly poisoning vet husband with animal drugs\nDEVELOPING\nIdaho murders: Roommate saw masked man night of killings; cops used DNA, cell phone records to crack case\nMan wanted for New Year’s Day subway stabbings in Queens\n8 family members found dead in Utah home was result of murder-suicide, officials say\nGeorge Santos does not appear to have an office or staff in his district\n'Concerned citizen and family friend' posted Takeoff murder suspect's bond, attorney says\nNFL will not resume Bills-Bengals game, AP reports\nManhattan\nCloudy\n49°\nH: --°\nL: 43°\nPowered by\nLatest Videos\nvideo\nNYC weather forecast\nvideo\nBrooklyn subway shooting: New video evidence released against Frank James\nvideo\nActor, Long Island native Nick Barrotta discusses 'Tyler Perry’s The Oval'\nvideo\n3rd child dies from injuries suffered in Staten Island house fire\nvideo\nSecond 24-hour strike underway for NYC Uber drivers\nvideo\nTips for 'Dry January' success\nFOX 5 NY on YouTube\nVote in today's poll!\nViral Stories\nView More\n82-year-old Walmart employee retires after viral TikTok leads to $100,000 GoFundMe\nMan fired from Zulily after stealing money using 'Office Space' inspired theme\nIncoming California congressman takes oath of office on Superman comic\nSparks fly when truck is struck by lightning in North Carolina, video shows\nEx-Waffle House employee says she was punished for defending herself\nGet our morning newsletter!\nFOX 5 TV Schedule\nFOX 5 TV Schedule\nSponsored Stories\nSummarise Any Text With A Click Of A Button. QuillBot is Free!\nSponsored \n|\nQuillBot\nThis Many People Can't Be Wrong: 150,000+ 5-Star Reviews\nSponsored \n|\nLume Deodorant\nAmazon Has Millions Of Prime Subscribers - But Few Know About This Savings Trick\nSponsored \n|\nPremium VIP Offers\nHere Are 7 Legal Discounts Seniors Will Only Get If They Ask\nSponsored \n|\nSenior Discounts By National Penny\n2 Cards Charging 0% Interest Until 2024\nSponsored \n|\nCompareCredit.com\nWashington Residents Get Huge Home Insurance Reduction\nSponsored \n|\nExpertsInMoney\n  Ad Content by Taboola | \nLocal News\nView More\n'Mutant Ape Planet' NFT developer charged in multi-million dollar scheme\nA man is accused of running a multi-million dollar scheme involved with the sale of digital images called \"Mutant Ape Planet\" NFTs\n42 mins ago\nBrooklyn subway shooting: New video evidence released against Frank James\n3 hours ago\n3rd child dies from injuries suffered in Staten Island house fire\n5 hours ago\nMan wanted for New Year’s Day subway stabbings in Queens\n7 hours ago\nMan attacked, robbed 85-year-old woman in Queens parking garage\n8 hours ago\nAmber Alert canceled for 7-month-old girl in New Jersey; suspect in custody\n8 hours ago\nNational News\nView More\nDEVELOPING\nIdaho murders: Roommate saw masked man night of killings; cops used DNA, cell phone records to crack case\nA surviving roommate of the Idaho student killings said she heard crying and saw the alleged killer dressed in all black walk by her as she stood in a \"frozen shock phase,\" according to newly unsealed court documents.\n28 mins ago\nGOP stalemate remains as Kevin McCarthy fails again to win House speakership\n45 mins ago\nBiden announces new immigration rules ahead of US-Mexico border visit on Sunday\n55 mins ago\n8 family members found dead in Utah home was result of murder-suicide, officials say\n1 hour ago\nWoman charged with repeatedly poisoning vet husband with animal drugs\n1 hour ago\nHurricane hunters fly missions to California to study atmospheric river amid powerful storm\n1 hour ago\nUnusual\nView More\nMan fired from Zulily after stealing money using 'Office Space' inspired theme\nThe former software engineer allegedly stole more than $300,000 from the online retailer and moved customers shipping fees to his account.\n21 hours ago\nIncoming California congressman takes oath of office on Superman comic\n21 hours ago\nPolk suspects called 911 to ask deputies for help moving items from home they were burglarizing, officials say\n2 days ago\nMasters invitation goes to the wrong Scott Stallings\n2 days ago\nTesla on autopilot leads police on chase before driver finally wakes up\n2 days ago\nUnited flight diverts to remote island; stranded passengers given hotels, tours\n3 days ago\nMoney\nView More\nPersonal loan origination fees: Are they worth the cost?\nA personal loan origination fee is paid upfront when you take out a loan. If you’re wondering if origination fees are worth the cost, here’s what you should know.\n1 hour ago\nSecure 2.0 Act will help Americans build emergency savings: Here's how\n1 hour ago\nCreate your own set: LEGO announces design competition\n3 hours ago\nPaying off debt is top priority for many consumers in 2023: survey\n22 hours ago\nSecure 2.0 Act: Student loan payments will count toward 401(K) matching contributions\n23 hours ago\nMega Millions jackpot jumps to $940 million after no winner\n1 day ago\nHealth\nView More\nCancer vaccines being developed at the Tisch Cancer Institute at Mount Sinai\nResearchers in New York are doing work on developing cancer vaccines.\n17 hours ago\nColorado library reopens after traces of meth found in building\n23 hours ago\nMask mandates return at several NJ school districts\n1 day ago\nSesame officially added to FDA's major food allergen list\n1 day ago\nDiabetes likely to surge in US children and teens by 2060, study finds\n1 day ago\nMore kids being sickened by marijuana edibles at home: Study\n1 day ago\nPolitics\nView More\nGOP stalemate remains as Kevin McCarthy fails again to win House speakership\nThursday is Day 3 of the standoff between Kevin McCarthy and 20 colleagues who are withholding the support the California Republican needs to become House speaker.\n45 mins ago\nHouse adjourns after Kevin McCarthy loses 6th speaker vote\n2 hours ago\nSouth Carolina’s top court strikes down state’s abortion ban\n2 hours ago\nGeorge Santos does not appear to have an office or staff in his district\n21 hours ago\nIncoming California congressman takes oath of office on Superman comic\n21 hours ago\nFDA expands availability of abortion pills\n1 day ago\nEntertainment\nView More\nRapper Theophilus London found safe after LA disappearance\nTheophilus London, a rapper from Trinidad and Tobago who has collaborated with artists including Travis Scott and Ellie Goulding, has been found safe after disappearing months ago in Los Angeles.\n15 hours ago\nFOX’s ‘MasterChef Junior’ now casting young chefs for 9th season\n1 day ago\n'Romeo & Juliet' stars sue for more than $500M over 1968 film's teen nude scene\n1 day ago\nJeremy Renner shares photo from hospital bed after snowplow accident: ‘Thank you all for your kind words’\n1 day ago\nJeremy Renner was helping stranded motorist before snow-plow accident, Reno mayor says\n1 day ago\nBrad Pitt and Adam Sandler to star together in Netflix movie\n1 day ago\nSports\nView More\nNFL will not resume Bills-Bengals game, AP reports\nBuffalo entered Monday night needing a win to maintain the AFC's No. 1 seed. The Kansas City Chiefs currently hold that spot. The Bengals had a chance to earn that top seed with two more wins and a loss by the Chiefs.\n1 hour ago\nWin $100K in the FOX Bet Super 6 NFL Sunday Challenge Season Finale\n3 hours ago\nUFC President Dana White seen on video slapping his wife\n23 hours ago\nDallas Cowboys superfan wins FOX Bet Super 6 Terry's Vault sweepstakes\n1 day ago\nDoctors share expertise on cardiac arrest as Bills’ Damar Hamlin’s condition remains uncertain\n1 day ago\nBlue for Damar Hamlin: Tributes pour in for injured Buffalo Bills player\n1 day ago\nGood Day New York\nView More\nvideo\nActor, Long Island native Nick Barrotta discusses 'Tyler Perry’s The Oval'\nLong Island native Nick Barrotta is taking on Hollywood and brining his talents to The White House in \"Tyler Perry’s The Oval\" on BET. He discussed the show on Good Day New York.\n4 hours ago\nvideo\nIconic local restaurants, shops in New York City\n1 day ago\nvideo\nActor Scott Caan previews FOX's new series Alert: Missing Persons Unit\n1 day ago\nvideo\nSweet Catch brings Carolina cuisine to Brooklyn\n2 days ago\nvideo\nWorking out without a gym\n2 days ago\nvideo\nA look at some upcoming 2023 movies\n3 days ago\nCrime and Public Safety\nView More\n8 family members found dead in Utah home was result of murder-suicide, officials say\nOfficials in the city of Enoch, Utah, said the family members, including five children, were killed by their father. The man's wife had filed for divorce two weeks earlier, they said.\n1 hour ago\nWoman charged with repeatedly poisoning vet husband with animal drugs\n1 hour ago\nBrooklyn subway shooting: New video evidence released against Frank James\n3 hours ago\nIdaho killings: What's next for suspect Bryan Kohberger\n6 hours ago\nMan wanted for New Year’s Day subway stabbings in Queens\n7 hours ago\nMan attacked, robbed 85-year-old woman in Queens parking garage\n8 hours ago\nPets and animals\nView More\nMoose rescued from frozen lake after being stuck for hours\nAuthorities in Washington state said the attempt to pull the moose to safety was a calculated decision.\n21 hours ago\nWoman has Range Rover stolen at Long Island gas station with dog inside\n23 hours ago\nDog tied up, abandoned at Iowa airport while owner catches flight alone\n3 days ago\nCat dies after swallowing 38 hair ties followed by surgery\n4 days ago\n13 bison dead near Yellowstone park after truck driver strikes herd\n4 days ago\nMan, 2 dogs rescued by U.S. Coast Guard as disabled sailboat wrecks against rocks\nDecember 29, 2022\nNews\nNew York News\nCoronavirus\nNational\nWorld\nEntertainment\nPolitics\nUnusual\nBig Idea\nSeen on TV\nSports\nLew's View\nThe Tape Room podcast\nFOX News Sunday\nNewsletters\nWeather\nClosings\nTraffic\nTravel News\nScience\nFOX 5 NY Weather App\nFOX Weather\nGood Day New York\nGood Day Cafe\nHealth\nWatch Live\nGood Day Street Talk\nWorld Cup\nAbout Us\nMeet the team\nFOX 5 schedule\nFOX shows\nGet Our Apps\nJob Opportunities\nPublic Affairs\nContact Us\nContests\nFCC Public File\nFCC Applications\nIt's 10 p.m.\nRegional News\nNew Jersey News - My9NJ\nPhiladelphia News - FOX 29 Philadelphia\nWashington DC News - FOX 5 DC\nBusiness\nRecalls\nConsumer\nMade on Long Island\nWhat is IT?\nMoney\nPersonal Finance\nfacebook\ninstagram\ntwitter\nemail\nNew Privacy PolicyTerms of ServiceYour Privacy ChoicesFCC Public FileEEO Public FileAbout UsJobs at FOX 5Contact Us\nThis material may not be published, broadcast, rewritten, or redistributed. ©2023 FOX Television Stations",
+    "font": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://my.foxtv.com/xd-channel.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 27,
+                "y": 96
+            },
+            "size": {
+                "height": 250,
+                "width": 970
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Weather Map",
+            "src": "about:blank",
+            "location": {
+                "x": 401,
+                "y": 466
+            },
+            "size": {
+                "height": 280,
+                "width": 282
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "javascript:false",
+            "location": {
+                "x": 400,
+                "y": 819
+            },
+            "size": {
+                "height": 160,
+                "width": 284
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 708,
+                "y": 386
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://e72ab684323fe0ce7c74102d875d0baa.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "about:blank",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "about:blank",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=an-db5",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "javascript:void(0)",
+            "location": {
+                "x": 842,
+                "y": 12
+            },
+            "size": {
+                "height": 150,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Adobe ID Syncing iFrame",
+            "src": "https://fox.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.fox5ny.com",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://acdn.adnxs.com/dmp/async_usersync.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(167, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 31,
+                "width": 54
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 34,
+                "y": 9695
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ]
+}

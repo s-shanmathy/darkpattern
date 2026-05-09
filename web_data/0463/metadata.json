@@ -1,0 +1,100 @@
+{
+    "title": "Free Web Resources for the Quality Conscious - Designcise",
+    "url": "designcise.com",
+    "full_url": "https://designcise.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 22,
+                "width": 198
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            24,
+            26,
+            27
+        ],
+        [
+            23,
+            25,
+            26
+        ],
+        [
+            25,
+            27,
+            28
+        ]
+    ],
+    "desc": "Let's Bake Some Digital Goodness...",
+    "navbar": "INSPIRE\nDESIGN\nDEVELOP\nMARKET",
+    "text": "INSPIRE\nDESIGN\nDEVELOP\nMARKET\nAre You Ready?\nlet's bake some digital goodness...\nHow to Escape Backticks in Inline Markdown Code?\nIn markdown, inline code blocks are defined using backticks (i.e. `inline-code`), which makes it hard to render them within an inline code block. Find out how you can escape backticks in this case.\nblog\nin 2 hours\nHow to Get the Last Digit of an Integer in Ruby?\nFind out how you can get the last digit of an integer in Ruby using various different ways. Knowing different ways would allow you to choose the best one for your projects.\nblog\n3 days ago\nHow to Always Open macOS Text Editor in Plain Text Mode?\nFind it how you can change the macOS Text Editor application settings to always open documents in plain text mode instead of rich text mode. This would preserve formatting of copy/pasted text.\nblog\n4 days ago\nHow to Negate a Number in Python?\nLearn about different ways in which you can negate a number in Python (i.e. return a positive number if the original number is negative and return a negative number if the original number is positive).\nblog\n2 days ago\nHow to Get the Last Digit of an Integer in PHP?\nFind out how you can get the last digit of an integer in PHP using various different ways. Knowing different ways would allow you to choose the best one for your projects.\nblog\n3 days ago\nHow to Access \"n-th\" Element of a PHP Array With Mixed Keys?\nLearn how you can access the \"n-th\" element of an array in PHP that has mixed keys (i.e. it has both, numeric and string keys), with an explanation on how you can do that in a safe way (such as when \"n-th\" offset exist).\nblog\n4 days ago\nHow to Always Return a Negative Number in Python?\nLearn about different ways in which you can ensure that you always return a negative number in Python (regardless of whether the original number is positive or negative).\nblog\n2 days ago\nHow to Get the Last Digit of an Integer in JavaScript?\nFind out how you can get the last digit of an integer in JavaScript using various different ways. Knowing different ways would allow you to choose the best one for your projects.\nblog\n3 days ago\nWhat's the Math.sign() Alternative for BigInt Values in JavaScript?\nThe Math.sign() method in JavaScript only allows for numbers to be passed in as an argument. Find out how you can perform the same operation on JavaScript bigint values.\nblog\n7 days ago\nHow to Convert Positive Numbers to Negative in Python?\nLearn about different ways in which you can convert a positive number (such as an integer, float, etc.) to a negative number in Python. Knowing this will help you quickly negate numbers in your Python code.\nblog\n3 days ago\nHow to Get the Last Digit of an Integer in Python?\nFind out how you can get the last digit of an integer in Python using various different ways. Knowing different ways would allow you to choose the best one for your projects.\nblog\n3 days ago\nHow to Represent \"Infinity\" in PHP?\nIn certain mathematical calculations or operations you might have the requirement to represent infinity values (i.e. positive infinity or negative infinity) in your code. Find out how you can do that in PHP.\nblog\n1 week ago\nView More\nExplore All Topics\nInspire\nDesign\nBlockchain\nMarketing\nManagement\nDesign\nGraphics\nUser Interface\nResources\nDevelop\nBackend\nFrontend\nDevOps\nReliability\nWorkflow\nBlockchain\nSnippets\nResources\nMarket\nSocial Media\nSEO\nResources\n© 2011 - 2022 Designcise. All Rights Reserved.",
+    "font": "Roboto, Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 919,
+                "y": 15
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 965,
+                "y": 19
+            },
+            "size": {
+                "height": 24,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "View More",
+            "bg-color": "rgba(24, 26, 27, 1)",
+            "location": {
+                "x": 418,
+                "y": 1269
+            },
+            "size": {
+                "height": 51,
+                "width": 173
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,533 @@
+{
+    "title": "CYC-Net: The International Child and Youth Care Network",
+    "url": "cyc-net.org",
+    "full_url": "https://cyc-net.org/",
+    "images": [
+        {
+            "alt": "CYC-Net",
+            "location": {
+                "x": 266,
+                "y": 53
+            },
+            "size": {
+                "height": 130,
+                "width": 478
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Our monthly professional journal",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Textbooks and journals",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CYC-Net on Facebook",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CYC-Net on Twitter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Search CYC-Net",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Supervision in Child and Youth Care Practice",
+            "location": {
+                "x": -999,
+                "y": 284
+            },
+            "size": {
+                "height": 400,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Child and Youth Care Practice with Families",
+            "location": {
+                "x": -728,
+                "y": 284
+            },
+            "size": {
+                "height": 400,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Compassionate Caring: Using our Heads and Hearts in Work with Troubled Children and Youth",
+            "location": {
+                "x": -457,
+                "y": 284
+            },
+            "size": {
+                "height": 400,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Making Moments Meaningful in Child and Youth Care Practice",
+            "location": {
+                "x": -186,
+                "y": 284
+            },
+            "size": {
+                "height": 400,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CYC-Online",
+            "location": {
+                "x": 85,
+                "y": 284
+            },
+            "size": {
+                "height": 400,
+                "width": 265
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Caring to Connect",
+            "location": {
+                "x": 356,
+                "y": 284
+            },
+            "size": {
+                "height": 400,
+                "width": 265
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Relational Child and Youth Care Practice",
+            "location": {
+                "x": 627,
+                "y": 284
+            },
+            "size": {
+                "height": 400,
+                "width": 265
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Intentional CYC Supervision: A Developmental Approach",
+            "location": {
+                "x": 898,
+                "y": 284
+            },
+            "size": {
+                "height": 400,
+                "width": 265
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "5th CYC World Conference",
+            "location": {
+                "x": 55,
+                "y": 744
+            },
+            "size": {
+                "height": 505,
+                "width": 898
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CYC Readings",
+            "location": {
+                "x": 65,
+                "y": 1436
+            },
+            "size": {
+                "height": 38,
+                "width": 409
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CYC-Net Employment Bureau",
+            "location": {
+                "x": 534,
+                "y": 1379
+            },
+            "size": {
+                "height": 81,
+                "width": 409
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Homebridge",
+            "location": {
+                "x": 85,
+                "y": 1680
+            },
+            "size": {
+                "height": 113,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Link",
+            "location": {
+                "x": 215,
+                "y": 1718
+            },
+            "size": {
+                "height": 36,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bartimaues",
+            "location": {
+                "x": 345,
+                "y": 1716
+            },
+            "size": {
+                "height": 40,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kibble",
+            "location": {
+                "x": 475,
+                "y": 1715
+            },
+            "size": {
+                "height": 43,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Waypoints",
+            "location": {
+                "x": 605,
+                "y": 1719
+            },
+            "size": {
+                "height": 33,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Transformaction",
+            "location": {
+                "x": 735,
+                "y": 1721
+            },
+            "size": {
+                "height": 30,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Allambi Youth Services",
+            "location": {
+                "x": 865,
+                "y": 1723
+            },
+            "size": {
+                "height": 26,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iOS App",
+            "location": {
+                "x": 349,
+                "y": 2114
+            },
+            "size": {
+                "height": 50,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Android App",
+            "location": {
+                "x": 506,
+                "y": 2114
+            },
+            "size": {
+                "height": 50,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            247,
+            173,
+            64
+        ],
+        [
+            37,
+            203,
+            48
+        ]
+    ],
+    "desc": "CYC-Net Home",
+    "text": "Help keep CYC-Net open access for all ...\nMENU\nVisit conference event page  |  Download Call for Papers Information brochure  |  Download Call for Papers Form\nSUBJECT READING\nVisit our Child and Youth Care Subject Readarounds here\nOUR SUPPORTING PARTNERS\n  These organisations help to keep CYC-Net open access for free to the end user. Without them CYC-Net would be pay walled. Find out how you can help.\nTHE INTERNATIONAL CHILD AND YOUTH CARE NETWORK (CYC-Net)\n\nRegistered Public Benefit Organisation in the Republic of South Africa (PBO 930015296)\nIncorporated as a Not-for-Profit in Canada: Corporation Number 1284643-8\n\nP.O. Box 23199, Claremont 7735, Cape Town, South Africa  |  P.O. Box 21464, MacDonald Drive, St. John's, NL A1A 5G6, Canada\n\nBoard of Governors  |  Constitution  |  Funding  |  Site Content and Usage  |  Advertising  |  Privacy Policy   |   Contact us",
+    "font": "Montserrat, sans-serif",
+    "iframes": [
+        {
+            "title": "AddThis utility frame",
+            "location": {
+                "x": 0,
+                "y": -9999
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 55,
+                "y": 469
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 924,
+                "y": 469
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 55,
+                "y": 1721
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 924,
+                "y": 1721
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

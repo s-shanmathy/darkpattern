@@ -1,0 +1,592 @@
+{
+    "title": "AirportTransfer.com: All Airport Transfers, Taxis & Shuttles",
+    "url": "airporttransfer.com",
+    "full_url": "https://airporttransfer.com/",
+    "images": [
+        {
+            "alt": "airporttransfer.com",
+            "location": {
+                "x": 62,
+                "y": 13
+            },
+            "size": {
+                "height": 55,
+                "width": 184
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Booking Cover",
+            "location": {
+                "x": 0,
+                "y": 96
+            },
+            "size": {
+                "height": 717,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marseille Airport Transfer",
+            "location": {
+                "x": 52,
+                "y": 1789
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Helsinki Airport Transfer",
+            "location": {
+                "x": 370,
+                "y": 1789
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "golfito-airport-bus",
+            "location": {
+                "x": 687,
+                "y": 1789
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rotterdam Airport Transfer",
+            "location": {
+                "x": 52,
+                "y": 2220
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sangstar Airport Transfers",
+            "location": {
+                "x": 370,
+                "y": 2220
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Airport Transfer Menorca",
+            "location": {
+                "x": 687,
+                "y": 2220
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bordeaux Airport to Arcachon",
+            "location": {
+                "x": 52,
+                "y": 3747
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nuremberg Airport to Erlangen",
+            "location": {
+                "x": 370,
+                "y": 3747
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hannover Airport Transfer Taxi Prices",
+            "location": {
+                "x": 687,
+                "y": 3747
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stuttgart Airport taxi Transfers",
+            "location": {
+                "x": 52,
+                "y": 4178
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tampa Airport to Orlando Airport Transfer Taxi Prices",
+            "location": {
+                "x": 370,
+                "y": 4178
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cardiff Airport to Swansea",
+            "location": {
+                "x": 687,
+                "y": 4178
+            },
+            "size": {
+                "height": 250,
+                "width": 269
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "airporttransfer.com",
+            "location": {
+                "x": 394,
+                "y": 6520
+            },
+            "size": {
+                "height": 55,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "powered by stripe",
+            "location": {
+                "x": 576,
+                "y": 6922
+            },
+            "size": {
+                "height": 25,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Card Types",
+            "location": {
+                "x": 350,
+                "y": 6957
+            },
+            "size": {
+                "height": 25,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "powered by paypal",
+            "location": {
+                "x": 493,
+                "y": 6988
+            },
+            "size": {
+                "height": 25,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "airporttransfer.com",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 52,
+                "y": 305
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 173,
+                "y": 305
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search Pickup Location",
+            "type": "search",
+            "location": {
+                "x": 93,
+                "y": 345
+            },
+            "size": {
+                "height": 65,
+                "width": 849
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search Drop off Location",
+            "type": "search",
+            "location": {
+                "x": 93,
+                "y": 426
+            },
+            "size": {
+                "height": 65,
+                "width": 849
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Select date",
+            "type": "text",
+            "location": {
+                "x": 62,
+                "y": 526
+            },
+            "size": {
+                "height": 27,
+                "width": 409
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            62,
+            49,
+            74
+        ],
+        [
+            38,
+            38,
+            38
+        ]
+    ],
+    "desc": "",
+    "navbar": "",
+    "text": "Book Your Airport Transfer\n%100 Refund\nSafe and Secure Payment\n24/7 Customer Help Line\nOne Way\nRoundtrip\nAdd Return\n1\nSEARCH\nAirportTransfer.com offers an exceptional service exclusively for global airport transfers that are comfortable, surprisingly punctual and safe with care! This service is a New World service offering private airport transfer at more than 500 airports worldwide, working with local partners to meet local preferences based on specific customer requirements quickly.\nRIDE\nTake our RIDE, you will feel weightless free and comfortable\nARRIVE\nARRIVE punctually and ENJOY the leisurely walk to the gate.\nENJOY\nENJOY the serenity of privacy as you RIDE\nWhy Choose Us?\nYOU Are Our Strength! In this “New World”, travel has become even harder with all the impact of the pandemic and global changes.\nOur vision, “Flawless, timely, convenient, and friendly airport transfers that ease the latter part of your journey every time, all the time, and anywhere.” Our mission is based on ensuring our technology, people, knowledge, care, and expertise are continuously refreshed with innovation, so every traveler is always happy!\nJust try how exceptional our service is from reservation to pick up and arrival, and you will see…\nThat's Easy!\nAirports\nMarseille Provence (MRS) Airport\nBook your Marseille Provence Airport transfer now! Enjoy a hassle-free journey with Marseille's best drivers.\nHelsinki-Vantaa (HEL) Airport\nEnjoy private airport transfers at Helsinki Vantaa Airport with the advantage of fixed price and without any hidden fees. Book your transfer online within minutes!\nGolfito (GLF) Airport\nBook your transfer with reliable, English-speaking drivers from Golfito Airport to the hotel or city center in Costa Rica.\nRotterdam The Hague (RTM) Airport\nMake your taxi selection and pay online securely with free 48 hour cancellation privilege for Rotterdam The Hague Airport transfers.\nSangster International (MBJ) Airport\nMake your Sangster Airport transfers at fixed prices with Jamaica's best chauffeurs with a 100% refund guarantee.\nMenorca (MAH) Airport\nFor Menorca airport transfer, enter pick-up and drop-off points, make your online payment and start enjoying your Spain journey!\nALL AIRPORTS\nWhat AirportTransfer.com Offers?\nWith AirportTransfer.com, wherever you are in the world, you can make your airport transfers with specially allocated vehicles. What type of vehicle would you like to reserve? What is your reason for traveling? We serve on all continents with our fully equipped, comfortable, and wide range of additional service options. We are everywhere for you!\nAirportTransfer.com is a marketplace that protects the rights and interests of its customers. In this context, It is possible to make free cancellations in case of problems that may occur with all reservations.\nOne of the essential elements in an airport transfer service is experienced and professional customer service. AT offers all its customers receiving private transfer service; it allows them to use airport taxis by making an online reservation in just 3 simple steps.\nCar Types\nStandard Sedan,\nExecutive Sedan (Limousine),\nStandard Crossover,\nExecutive Minivan,\nStandard People Carrier,\nExecutive People Carrier,\nBus, and more\nTransfer Types\nPrivate Airport Transfer,\nBusiness Airport Transfer,\nSki Airport Transfer,\nLeisure Airport Transfer\nHere are some handy little tips for you:\nOur operations are global, and we have a wide range all over the world.\nEnter all required information regarding flight arrival, pickup time, and drop-off locations!\nDo you want to adjust your pickup time according to the landing time of your plane? Or do you want to spend some time at the airport?\nIndicate the drop-off location, as you can always easily select a particular hotel or street.\nIf you want to compare vehicles and prices on AirportTransfer.com, you will likely encounter wide ranges.\nThis is excellent service!\nBlog\nHow to Get from Bordeaux Airport to Arcachon?\nAll the Best Travel Options: How Can You Get from Bordeaux Airport (BOD) to Arcachon or the city center? Tickets, prices, stations and all useful information.\nHow to get from Nuremberg Airport (NUE) to Erlangen?\nHow to get from Nuremberg Airport (NUE) to Erlangen? You can be sure that the employees you can easily contact via Whatsapp will be on hand to help you!\nHow To Get From Hannover Airport to Hannover City Centre?\nHow can I get from Hannover airport to Hanover city centre? We will explain all the options in the best way and the best type of transfer for you!\nHow to get from Stuttgart Airport to Stuttgart Hauptbahnhof?\nHow to get from Stuttgart Airport to Stuttgart Hauptbahnhof ? Humble summary of transportation options from STR to Stuttgart Train Station HBF.\nHow to get from Tampa Airport to Orlando Airport?\nHow to get from Tampa Airport to Orlando Airport? You can choose the most suitable and comfortable option for you.\nHow to Get from Cardiff Airport to Swansea?\nHow much is the transfer fee from Cardiff Airport to Swansea? The total fare between Swansea and Cardiff varies depending on the travel option you choose.\nALL BLOG\nFrequently Asked Questions about Airport Transfer\nWhat is airport transfer?\nHow to book airport transfers?\nDoes all inclusive include airport transfers?\nWhat is the difference between AirportTransfer.com and a transportation company?\nWhy should I prefer AirportTransfer.com?\nHow do airport transfers work?\nHow can I contact you?\nHow can I contact my driver?\nHow much are airport transfers?\nHow much do you tip airport transfer drivers?\nDo I need a visa for an airport transfer?\nALL FAQS\nREGISTER NOW FOR YOUR NEXT TRIP\nBook your airport transfer instantly! Enjoy safe, fast, and easy transportation all around the world.\nREGISTER\nBrowse Airports for Airport Transfers\nFrance\nBordeaux (BOD) Airport\nCannes Mandelieu Airport\nChambery(CMF) Airport\nCharles de Gaulle (CDG) Airport\nLyon Saint-Exupery International (LYS) Airport\nMore >\nScotland\nEdinburgh (EDI) Airport\nAberdeen International (ABZ) Airport\nGlasgow International (GLA) Airport\nGlasgow Prestwick (PIK) Airport\nInverness (INV) Airport\nMore >\nIndia\nIndira Gandhi International (DEL) Airport\nMumbai Airport\nKempegowda International (BLR) Airport\nRajiv Gandhi International (HYD) Airport\nNetaji Subhas Chandra Bose (CCU) Airport\nMore >\nGermany\nBerlin Brandenburg (BER) Airport\nDusseldorf International (DUS) Airport\nFrankfurt (FRA) Airport\nHamburg (HAM) Airport\nFranz Josef Strauss (MUC) Airport\nMore >\ninstagram\nlinkedin\nABOUT US\nCompany\nFAQs\nHow It Works\nSitemap\nContact Us\nPARTNERS\nTransfer Companies\nAffiliate\nAT for Business\nBusiness Solutions\nTERMS OF USE\nTerms & Conditions\nPrivacy Policy\nCookie Policy\nCancellation Policy\nSERVICES\nAirport Water Taxi Transfer\nPort Transfer\nSki Transfer\nGuaranteed safe & secure checkout\nPowered by\nAT AirportTransfer Limited\nCopyright © 2022 AirportTransfer.com",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", Barlow, \"Nunito Sans\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 929,
+                "y": 20
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 32,
+                "width": 41
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 32,
+                "width": 41
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Add Return",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 508,
+                "y": 503
+            },
+            "size": {
+                "height": 73,
+                "width": 449
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 52,
+                "y": 584
+            },
+            "size": {
+                "height": 73,
+                "width": 906
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(75, 37, 102, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SEARCH",
+            "bg-color": "rgba(75, 37, 102, 1)",
+            "location": {
+                "x": 52,
+                "y": 665
+            },
+            "size": {
+                "height": 73,
+                "width": 906
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

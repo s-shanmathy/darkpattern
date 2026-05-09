@@ -1,0 +1,84 @@
+{
+    "title": "Homepage | Secret Garden Party",
+    "url": "secretgardenparty.com",
+    "full_url": "https://www.secretgardenparty.com/",
+    "images": [
+        {
+            "alt": "Secret Garden Party",
+            "location": {
+                "x": 28,
+                "y": 9
+            },
+            "size": {
+                "height": 58,
+                "width": 68
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            0,
+            1,
+            5
+        ],
+        [
+            0,
+            4,
+            9
+        ],
+        [
+            0,
+            4,
+            10
+        ]
+    ],
+    "desc": "This is a serious party",
+    "navbar": "20-23 July 2023\nEpisode XVII: A New Hope\nFaqs\nGallery\nContact\nTickets",
+    "text": "20-23 July 2023\nEpisode XVII: A New Hope\nFaqs\nGallery\nContact\nTickets\nin a garden\nfar far away...\n\nthe future awaits\nthis is a serious party\ntickets tickets tickets tickets tickets\n© Secret Garden Party 2022\nTerms and Conditions\nPrivacy Policy\nCredits\nSign Up",
+    "font": "h2",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1321744231&color=%23171524&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false&visual=true",
+            "location": {
+                "x": 28,
+                "y": 849
+            },
+            "size": {
+                "height": 450,
+                "width": 967
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 15,
+                "width": 28
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

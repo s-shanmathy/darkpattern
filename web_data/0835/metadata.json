@@ -1,0 +1,579 @@
+{
+    "title": "Peterson Institute for International Economics",
+    "url": "piie.com",
+    "full_url": "https://www.piie.com/",
+    "images": [
+        {
+            "alt": "Home",
+            "location": {
+                "x": 47,
+                "y": 81
+            },
+            "size": {
+                "height": 48,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A man walks pass a display window of a store inside a shopping mall in China. Picture taken on December 9, 2022. ",
+            "location": {
+                "x": 32,
+                "y": 162
+            },
+            "size": {
+                "height": 479,
+                "width": 480
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PIIE's most read content of 2022",
+            "location": {
+                "x": 32,
+                "y": 641
+            },
+            "size": {
+                "height": 480,
+                "width": 480
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hungarian Prime Minister Viktor Orbán is seen with other European leaders during the second day of the European Council Summit in Brussels, Belgium. Picture taken on October 21, 2022. ",
+            "location": {
+                "x": 512,
+                "y": 641
+            },
+            "size": {
+                "height": 480,
+                "width": 480
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The incredible rise of Chinese fintech",
+            "location": {
+                "x": 32,
+                "y": 917
+            },
+            "size": {
+                "height": 480,
+                "width": 480
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Stacked containers are shown as ships unload their cargo at the Port of Los Angeles in Los Angeles, California, U.S. November 22, 2021. ",
+            "location": {
+                "x": 512,
+                "y": 917
+            },
+            "size": {
+                "height": 480,
+                "width": 480
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fiscal Policy under Low Interest Rates",
+            "location": {
+                "x": 32,
+                "y": 1450
+            },
+            "size": {
+                "height": 87,
+                "width": 174
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WTO flag",
+            "location": {
+                "x": 32,
+                "y": 1629
+            },
+            "size": {
+                "height": 87,
+                "width": 174
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "U.S. President Joe Biden delivers remarks on the U.S. economy from an auditorium on the White House campus in Washington, U.S. October 26, 2022. ",
+            "location": {
+                "x": 32,
+                "y": 1881
+            },
+            "size": {
+                "height": 87,
+                "width": 174
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lagging energy infrastructure prevents some African countries from cashing in on their critical minerals",
+            "location": {
+                "x": 532,
+                "y": 1450
+            },
+            "size": {
+                "height": 87,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Wages in most US industries are not keeping up with inflation",
+            "location": {
+                "x": 532,
+                "y": 1708
+            },
+            "size": {
+                "height": 87,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Most developing economies reduced tariffs voluntarily, not because of trade agreements (featured)",
+            "location": {
+                "x": 532,
+                "y": 1960
+            },
+            "size": {
+                "height": 87,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "What is inflation and how can policymakers control it?  (Featured)",
+            "location": {
+                "x": 32,
+                "y": 3169
+            },
+            "size": {
+                "height": 293,
+                "width": 293
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "US-China Trade War Tariffs: An Up-to-Date Chart (Featured)",
+            "location": {
+                "x": 365,
+                "y": 3169
+            },
+            "size": {
+                "height": 220,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Russia's war on Ukraine: A sanctions timeline",
+            "location": {
+                "x": 699,
+                "y": 3169
+            },
+            "size": {
+                "height": 293,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Fix Economic Inequality?",
+            "location": {
+                "x": 32,
+                "y": 3524
+            },
+            "size": {
+                "height": 293,
+                "width": 293
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "What Is Globalization?",
+            "location": {
+                "x": 365,
+                "y": 3524
+            },
+            "size": {
+                "height": 293,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Globalization has helped raise incomes almost everywhere since the 1980s",
+            "location": {
+                "x": 699,
+                "y": 3524
+            },
+            "size": {
+                "height": 219,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 80,
+                "y": 166
+            },
+            "size": {
+                "height": 44,
+                "width": 864
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            79,
+            123,
+            163
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            242,
+            241,
+            238
+        ]
+    ],
+    "desc": "The Peterson Institute for International Economics (PIIE) is an independent nonprofit, nonpartisan research organization dedicated to strengthening prosperity and human welfare in the global economy through expert analysis and practical policy solutions.",
+    "navbar": "Newsroom\nBookstore\nSubscribe",
+    "text": "Skip to main content\nNewsroom\nBookstore\nSubscribe\nAbout\nThe Peterson Institute for International Economics (PIIE) is an independent nonprofit, nonpartisan research organization dedicated to strengthening prosperity and human welfare in the global economy through expert analysis and practical policy solutions.\nLEARN MORE\nTopics\nPIIE’s renowned scholars explore and analyze a broad range of economic topics and issues, including globalization, economic and growth prospects, finance, political economy, and trade and investment, as well as economic challenges facing individual regions and countries.\nVIEW ALL\nInflation\nWorld Trade Organization\nLatin America & the Caribbean\nMexico\nUnited States\nResearch\nEconomic policy research by the Institute’s 50+ internationally recognized scholars is the foundation of our mission and work.\nLEARN MORE\nPODCASTS\nMULTIMEDIA\nPIIE CHARTS\nEDUCATIONAL RESOURCES\nWHAT IS GLOBALIZATION?\nExperts\nOur widely recognized specialists on international economics bring their expertise to bear on a vast and diverse range of topics and regions.\nVIEW ALL\nEvents\nSupport PIIE\nNurPhoto/Vernon Yuen\nPhoto Credit: NurPhoto/Vernon Yuen\nChina's dismal closeout of 2022 suggests shaky start for 2023\nChina is closing out the year 2022 with the most dismal economic and social welfare performance in recent decades, write Tianlei Huang and Mary E. Lovely. The abrupt and chaotic exit from President Xi Jinping’s zero-COVID policy effectively acknowledged its intolerable burden on China’s citizens, while the latest data from the Chinese statistical authority show still further slowdown of the Chinese economy.\nNia Kitchin\nPhoto Credit: Nia Kitchin\nREALTIME ECONOMICS\nPIIE's most read content of 2022\nAnjali Bhatt (PIIE)\nDecember 21, 2022\nNurPhoto/Nicolas Economou\nPhoto Credit: NurPhoto/Nicolas Economou\nREALTIME ECONOMICS\nThe EU’s latest bargain with Hungary's Orban unlocks aid to Ukraine\nJacob Funk Kirkegaard (PIIE)\nDecember 22, 2022\nNia Kitchin\nPhoto Credit: Nia Kitchin\nTRADE TALKS\nEpisode 174: The incredible rise of Chinese fintech\nChad P. Bown (PIIE) and Martin Chorzempa (PIIE)\nDecember 18, 2022\nREUTERS/Mike Blake\nPhoto Credit: REUTERS/Mike Blake\nPOLICY BRIEFS\nHave trade agreements been bad for America?\nAlan Wm. Wolff (PIIE), Robert Z. Lawrence (PIIE) and Gary Clyde Hufbauer (PIIE)\nDecember 15, 2022\nTRENDING\nUkraine Indo-Pacific Economic Framework Inflation Section 232 tariffs\nWHAT'S NEW\nBOOKSTORE\nFiscal Policy under Low Interest Rates\nOlivier Blanchard (PIIE)\nJanuary 2023\nPhoto Credit: Flickr/Enrique Mendizabal\nSPEECHES & PAPERS\nBook Review of \"Trade Links: New Rules for a New World\" by James Bacchus\nCambridge University Press\nAlan Wm. Wolff (PIIE)\nDecember 29, 2022\nPhoto Credit: REUTERS/Jonathan Ernst\nOP-EDS\nThe travails of the US economy roll on into 2023\nEast Asia Forum\nGary Clyde Hufbauer (PIIE)\nDecember 25, 2022\nPIIE CHARTS\nPIIE CHART\nLagging energy infrastructure prevents some African countries from cashing in on their critical minerals\nCullen S. Hendrix (PIIE)\nDecember 15, 2022\nPIIE CHART\nWages in most US industries are not keeping up with inflation\nKaren Dynan (PIIE) and Wilson Powell III (Harvard Kennedy School)\nDecember 6, 2022\nPIIE CHART\nMost developing economies reduced tariffs voluntarily, not because of trade agreements\nDouglas A. Irwin (PIIE)\nDecember 2, 2022\nUPCOMING EVENTS\nFINANCIAL STATEMENTS\nPreparing the economy and financial system for hybrid war: Finland's experience\nJanuary 11, 2023, 9:00 AM to 10:00 AM EST\nNicolas Véron (PIIE), Olli Rehn (Bank of Finland) and Julia Friedlander (Atlantik-Brücke)\nJAN\n11\nBook Launch: Fiscal Policy under Low Interest Rates\nJanuary 20, 2023, 1:00 PM to 2:00 PM EST\nOlivier Blanchard (PIIE)\nJAN\n20\nVIEW ALL\nRESOURCES\nFEATURED IMAGE\nSHORT VIDEOS\nWhat is inflation and how can policymakers control it?\nFEATURED IMAGE\nPIIE CHART\nTITLE\nUS-China Trade War Tariffs: An Up-to-Date Chart\nFEATURED IMAGE\nREALTIME ECONOMICS\nTITLE\nRussia's war on Ukraine: A sanctions timeline\nFEATURED IMAGE\nMICROSITE\nTITLE\nHow to Fix Economic Inequality?\nFEATURED IMAGE\nMICROSITE\nTITLE\nWhat is Globalization?\nFEATURED IMAGE\nPIIE CHART\nTITLE\nGlobalization has helped raise incomes almost everywhere since the 1980s\n  Footer\nABOUT\nBoard of Directors\nStaff\nEmployment\nContact\nAnnual Report\nSubscriptions\nTransparency Policy\nTOPICS\nAreas of Expertise\nRegions and Countries\nRESEARCH\nBlogs\nPublications\nCommentary\nPodcasts\nMultimedia\nPIIE Charts\nEducational Resources\nEXPERTS\nSenior Research Staff\nResearch Analysts\nEVENTS\nFinancial Statements\nGlobal Economic Prospects\nNext STEP Global Conference\nTrade Winds\nSUPPORT PIIE\nPETERSON INSTITUTE FOR INTERNATIONAL ECONOMICS\nThe Peterson Institute for International Economics is an independent nonprofit, nonpartisan research organization dedicated to strengthening prosperity and human welfare in the global economy through expert analysis and practical policy solutions.\nLEARN MORE ABOUT PIIE\nADDRESS\n1750 Massachusetts Avenue, NW\nWashington, DC 20036\nPIIE INSIDER WEEKLY NEWSLETTER\nPrivacy Policy\nTerms of Use\n© 2023, PIIE",
+    "font": "\"Gotham A\", \"Gotham B\", Arial, \"Nimbus Sans L\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://clicks.piie.com/l/709263/2019-11-06/7qhq2",
+            "location": {
+                "x": 624,
+                "y": 4573
+            },
+            "size": {
+                "height": 150,
+                "width": 304
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "About",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 390,
+                "y": 88
+            },
+            "size": {
+                "height": 36,
+                "width": 62
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 926,
+                "y": -291
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Topics",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 494,
+                "y": 88
+            },
+            "size": {
+                "height": 36,
+                "width": 63
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 926,
+                "y": -314
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Research",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 600,
+                "y": 88
+            },
+            "size": {
+                "height": 36,
+                "width": 91
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 926,
+                "y": -196
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Experts",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 733,
+                "y": 88
+            },
+            "size": {
+                "height": 36,
+                "width": 76
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 926,
+                "y": -198
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1071,
+                "y": 81
+            },
+            "size": {
+                "height": 50,
+                "width": 2
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 894,
+                "y": 164
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        }
+    ]
+}

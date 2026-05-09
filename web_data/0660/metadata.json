@@ -1,0 +1,152 @@
+{
+    "title": "Ragnarok Rebirth",
+    "url": "ragnarok-rebirth.com",
+    "full_url": "https://ragnarok-rebirth.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Search ...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search ...",
+            "type": "search",
+            "location": {
+                "x": 686,
+                "y": 120
+            },
+            "size": {
+                "height": 38,
+                "width": 238
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search ...",
+            "type": "search",
+            "location": {
+                "x": -335,
+                "y": 88
+            },
+            "size": {
+                "height": 38,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            243,
+            244,
+            246
+        ],
+        [
+            167,
+            167,
+            169
+        ]
+    ],
+    "desc": "Welcome to Ragnarok Rebirth! Come Join us at play.ragnarok-rebirth.com Semi-Survival | PVE | PaperQuests (Optional) | Role Play (Optional) Announcements Forum Store READY TO GET INVOLVED? Join the Adventure Want to get involved in the events and quests? New events regularly and a whole array of ...",
+    "navbar": "",
+    "text": "RAGNAROK REBIRTH\nWelcome to Ragnarok Rebirth!\nCome Join us at\nplay.ragnarok-rebirth.com\nSemi-Survival | PVE | Paper\nQuests (Optional) | Role Play (Optional)\nAnnouncements\nForum\nStore\nREADY TO GET INVOLVED?\nJOIN THE ADVENTURE\nWant to get involved in the events and quests?\nNew events regularly and\na whole array of quests to complete\nClick Here or visit our Discord\nWant to join the staff team?\nDo you feel you have something to offer\nor you want to keep this community strong?\nSend us your application today!\nCOPYRIGHT © 2022 RAGNAROK REBIRTH",
+    "font": "Roboto, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 10,
+                "y": 271
+            },
+            "size": {
+                "height": 675,
+                "width": 989
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 884,
+                "y": 120
+            },
+            "size": {
+                "height": 38,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -64,
+                "y": 87
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

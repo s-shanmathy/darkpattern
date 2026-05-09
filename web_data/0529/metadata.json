@@ -1,0 +1,150 @@
+{
+    "title": "Home | Yarn - Package Manager",
+    "url": "yarnpkg.com",
+    "full_url": "https://yarnpkg.com/",
+    "images": [
+        {
+            "alt": "Yarn",
+            "location": {
+                "x": 16,
+                "y": 46
+            },
+            "size": {
+                "height": 48,
+                "width": 107
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search the documentation",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search the documentation",
+            "type": "text",
+            "location": {
+                "x": 881,
+                "y": 46
+            },
+            "size": {
+                "height": 48,
+                "width": 37
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search packages (i.e. babel, webpack, react…)",
+            "type": "search",
+            "location": {
+                "x": 48,
+                "y": 126
+            },
+            "size": {
+                "height": 32,
+                "width": 936
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            67,
+            134,
+            178
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            91,
+            115,
+            195
+        ]
+    ],
+    "desc": "Fast, reliable, and secure dependency management.",
+    "text": "Important: This documentation covers modern versions of Yarn. For 1.x docs, see classic.yarnpkg.com.\nHOME\nGETTING STARTED\nFEATURES\nCLI\nCONFIGURATION\nADVANCED\nAPI\nThe Yarn team stands with the people of Ukraine during this heinous assault on their freedom, their independence, and their lives.\nTo support Ukraine in their time of need visit this page.\nSafe, stable, reproducible projects\nYarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.\nWorkspaces\nSplit your project into sub-components kept within a single repository.\nStability\nYarn guarantees that an install that works now will continue to work the same way in the future.\nDocumentation\nSpecial care is put into our documentation, and we keep improving it based on your feedback.\nPlugins\nYarn cannot solve all your problems - but it can be the foundation for others to do it.\nInnovation\nWe believe in challenging the status quo. What should the ideal developer experience be like?\nOpenness\nYarn is an independent open-source project tied to no company. Your support makes us thrive.\nYarn · Distributed under BSD License · Code of Conduct\nIcons by Freepik from flaticon.com",
+    "font": "\"Open Sans\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 8,
+                "y": 124
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 984,
+                "y": 126
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,339 @@
+{
+    "title": "conda-forge | community driven packaging for conda",
+    "url": "conda-forge.org",
+    "full_url": "https://conda-forge.org/",
+    "images": [
+        {
+            "alt": "An anvil",
+            "location": {
+                "x": 34,
+                "y": 18
+            },
+            "size": {
+                "height": 18,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "An anvil",
+            "location": {
+                "x": 421,
+                "y": 156
+            },
+            "size": {
+                "height": 100,
+                "width": 167
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Numfocus Logo",
+            "location": {
+                "x": 98,
+                "y": 5338
+            },
+            "size": {
+                "height": 271,
+                "width": 812
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NVIDIA",
+            "location": {
+                "x": 270,
+                "y": 5997
+            },
+            "size": {
+                "height": 392,
+                "width": 470
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MacStadium",
+            "location": {
+                "x": 34,
+                "y": 6592
+            },
+            "size": {
+                "height": 188,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oregon State University Open Source Lab",
+            "location": {
+                "x": 34,
+                "y": 6816
+            },
+            "size": {
+                "height": 239,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "OVHCloud",
+            "location": {
+                "x": 512,
+                "y": 6592
+            },
+            "size": {
+                "height": 306,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Anaconda Inc",
+            "location": {
+                "x": 512,
+                "y": 6933
+            },
+            "size": {
+                "height": 89,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oracle",
+            "location": {
+                "x": 512,
+                "y": 7057
+            },
+            "size": {
+                "height": 206,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IOOS",
+            "location": {
+                "x": 34,
+                "y": 7466
+            },
+            "size": {
+                "height": 53,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Quansight",
+            "location": {
+                "x": 34,
+                "y": 7554
+            },
+            "size": {
+                "height": 463,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "QuantStack",
+            "location": {
+                "x": 34,
+                "y": 8052
+            },
+            "size": {
+                "height": 156,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lab49",
+            "location": {
+                "x": 34,
+                "y": 8244
+            },
+            "size": {
+                "height": 109,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Anaconda Inc",
+            "location": {
+                "x": 512,
+                "y": 7466
+            },
+            "size": {
+                "height": 89,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NVIDIA",
+            "location": {
+                "x": 512,
+                "y": 7590
+            },
+            "size": {
+                "height": 386,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Voltron Data",
+            "location": {
+                "x": 512,
+                "y": 8012
+            },
+            "size": {
+                "height": 260,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Creative Commons License",
+            "location": {
+                "x": 460,
+                "y": 8689
+            },
+            "size": {
+                "height": 31,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            9,
+            9,
+            13
+        ]
+    ],
+    "desc": "",
+    "navbar": "CONDA-FORGE\nABOUT\nDOCS\nBLOG\nCONTRIBUTE\nPACKAGES\nNEWS\nSTATUS\nCONTACT\nDONATE!",
+    "text": "CONDA-FORGE\nABOUT\nDOCS\nBLOG\nCONTRIBUTE\nPACKAGES\nNEWS\nSTATUS\nCONTACT\nDONATE!\nCONDA-FORGE\nA community-led collection of recipes, build infrastructure and distributions for the conda package manager.\n\n\nABOUT CONDA-FORGE\nconda-forge is a GitHub organization containing repositories of conda recipes. Thanks to some awesome continuous integration providers (AppVeyor, Azure Pipelines, CircleCI and TravisCI), each repository, also known as a feedstock, automatically builds its own recipe in a clean and repeatable way on Windows, Linux and OSX.\n402 million monthly downloads\n9.5 billion all-time downloads\n33 core devs\n15 staged-recipes maintainers\n4.5k feedstock maintainers\n18.3k feedstocks\n20.3k packages\n1.2M artifacts\n290.6k issues+PRs\n12.0k/278.6k open/closed\nThe built distributions are uploaded to anaconda.org/conda-forge and can be installed with conda. For example, to install a conda-forge package into an existing conda environment:\nconda config --add channels conda-forge\nconda config --set channel_priority strict\nconda install <package-name>\n\nMiniforge is an effort to provide Miniconda-like installers, with the added feature that conda-forge is the default channel. Unlike Miniconda, these support ARMv8 64-bit (formally known as `aarch64`).\nIf you'd like to credit conda-forge in your work, you can cite our zenodo entry like this\nconda-forge community. (2015). The conda-forge Project: Community-based Software Distribution Built on the conda Package Format and Ecosystem. Zenodo. http://doi.org/10.5281/zenodo.4774216\nor use this bibtex entry\n@misc{conda_forge_community_2015_4774216,\n  author       = {conda-forge community},\n  title        = {{The conda-forge Project: Community-based Software\n                   Distribution Built on the conda Package Format and\n                   Ecosystem}},\n  month        = jul,\n  year         = 2015,\n  publisher    = {Zenodo},\n  doi          = {10.5281/zenodo.4774216},\n  url          = {https://doi.org/10.5281/zenodo.4774216}\n}\n\nLearn more about conda-forge by reading our docs or watching the following episode of Open Source Directions.\n\n\nCONTRIBUTING TO CONDA-FORGE\nFor a package on conda-forge, I want to ...\nreport an issue\nupdate a recipe\nadd a recipe\n\nREPORT AN ISSUE WITH A PACKAGE\nSearch for the appropriate feedstock repository. The list of existing feedstocks is a good place to start.\nTake a look to see if the issue has already been raised on the feedstock's issue tracker. Otherwise, create a new issue, providing appropriate information, such as your operating system, package versions and, a reproducible example of the problem. Even better, if you can automate the test in the conda recipe, it might be worth submitting a PR containing the test.\nCan't find the feedstock? No worries, just raise the issue at conda-forge/conda-forge.github.io and we will make sure the right people see it.\nUPDATE A PACKAGE\nSearch for the appropriate feedstock repository. The list of existing feedstocks is a good place to start.\nFork the feedstock you wish to update.\nCreate a new branch from the feedstock main branch.\nEdit the recipe as desired. You may even consider adding yourself as a recipe maintainer. If you would like to know how to become a maintainer for a feedstock, please go here to learn more.\nPropose the change as a pull request. Your recipe will automatically be built on Windows, Linux, and OSX to test that it works, but the new distribution will not yet be available on the conda-forge channel.\nOnce the recipe is ready it will be merged. The recipe will then automatically be built and uploaded to the conda-forge channel.\nADD A RECIPE\nFork conda-forge/staged-recipes\nCreate a new branch from the staged-recipes main branch.\nAdd a new conda recipe in a new \"recipes/[your-package-name]\" directory. Please make sure to follow these guidelines. You can also refer to an example of a well-written recipe in \"recipes/example\". Further guidance on writing good recipes can be found here. Test your recipe locally using these instructions.\nPropose the change as a pull request. Your recipe will automatically be built on Windows, Linux, and OSX to test that it works, but the distribution will not yet be available on the conda-forge channel.\nOnce the recipe is ready it will be merged and a new \"feedstock\" repository will automatically be created for the recipe. The build and upload processes take place in the feedstock, and once complete the package will be available on the conda-forge channel.\nPlease consider joining our Gitter channel if you want to ask something, need help, or just want to chat with our maintainers. We would love to see you there!\n\nConda-forge is a fiscally sponsored project of NumFOCUS, a nonprofit dedicated to supporting the open source scientific computing community. If you like conda-forge and want to support our mission, please consider making a donation to support our efforts.\n\n\nINSTITUTIONAL PARTNERS\n\nFINANCIAL SUPPORT\nINFRASTRUCTURE SUPPORT\nDEVELOPER SUPPORT\nHome | About | conda-forge on GitHub\n\n\nconda-forge.org is licensed under a\nCreative Commons Attribution 4.0 International License.",
+    "font": "Montserrat, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 224,
+                "y": 2436
+            },
+            "size": {
+                "height": 315,
+                "width": 560
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": true
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 34
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

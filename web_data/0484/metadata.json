@@ -1,0 +1,99 @@
+{
+    "title": "Privacy error",
+    "url": "handmadeinsanfrancisco.com",
+    "full_url": "https://handmadeinsanfrancisco.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            32,
+            33,
+            36
+        ],
+        [
+            154,
+            160,
+            166
+        ],
+        [
+            136,
+            181,
+            245
+        ]
+    ],
+    "navbar": "Reload\nAdvanced",
+    "text": "Your connection is not private\nAttackers might be trying to steal your information from handmadeinsanfrancisco.com (for example, passwords, messages, or credit cards). Learn more\nNET::ERR_CERT_INVALID\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo get Chrome’s highest level of security, turn on enhanced protection\nReload\nAdvanced",
+    "font": "system-ui, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Reload",
+            "bg-color": "rgba(138, 180, 248, 1)",
+            "location": {
+                "x": 738,
+                "y": 528
+            },
+            "size": {
+                "height": 32,
+                "width": 74
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(32, 33, 36, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 18,
+                "width": 34
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Advanced",
+            "bg-color": "rgba(32, 33, 36, 1)",
+            "location": {
+                "x": 212,
+                "y": 528
+            },
+            "size": {
+                "height": 34,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

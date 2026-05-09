@@ -1,0 +1,266 @@
+{
+    "title": "GossipCenter",
+    "url": "celebrity-gossip.net",
+    "full_url": "https://gossipcenter.com/",
+    "images": [
+        {
+            "alt": "GossipCenter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "GossipCenter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "GossipCenter",
+            "location": {
+                "x": 392,
+                "y": 2
+            },
+            "size": {
+                "height": 40,
+                "width": 222
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Newcastle United Is Interested in Signing Cristiano Ronaldo as a Replacement for Their Striker",
+            "location": {
+                "x": 10,
+                "y": 590
+            },
+            "size": {
+                "height": 221,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GossipCenter",
+            "location": {
+                "x": 190,
+                "y": 1295
+            },
+            "size": {
+                "height": 0,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 40,
+                "y": 66
+            },
+            "size": {
+                "height": 42,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": -300,
+                "y": 20
+            },
+            "size": {
+                "height": 40,
+                "width": 280
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            216,
+            216,
+            216
+        ],
+        [
+            212,
+            43,
+            63
+        ]
+    ],
+    "desc": "GossipCenter is the premier source for celebrity news and gossip. Stay up-to-date with the latest on your favorite stars, film reviews, countdowns to events and more.",
+    "navbar": "",
+    "text": "NEWS\nNewcastle United Is Interested in Signing Cristiano Ronaldo as a Replacement for Their Striker\nLatest News\nNEWS\nNewcastle United Is Interested in Signing Cristiano Ronaldo as a Replacement for Their Striker\nNOVEMBER 24, 2022\nFACEBOOK TWITTER INSTAGRAM\nGossipCenter is a premier celebrity news and gossip website, providing exclusive content on the latest happenings in Hollywood. GossipCenter offers engaging entertainment news for fans of the stars.\n\n\n\n\nCATEGORIES\nNews\nImportant Links\nGossipCenter\nAbout Us\nDisclaimer\nPrivacy Policy\nContact Us\n© GossipCenter - All rights reserved 2003-2022.",
+    "font": "Heebo, Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 934,
+                "y": 46
+            },
+            "size": {
+                "height": 40,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -58,
+                "y": 20
+            },
+            "size": {
+                "height": 40,
+                "width": 38
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,413 @@
+{
+    "title": "San Francisco Chronicle - Bay Area news, sports, tech, food - San Francisco Chronicle",
+    "url": "sfchronicle.com",
+    "full_url": "https://www.sfchronicle.com/",
+    "images": [
+        {
+            "alt": "People walk and cycle along Lake Street during a community parade in support of the slow street in San Francisco’s Richmond District on April 30, 2022.",
+            "location": {
+                "x": 297,
+                "y": 306
+            },
+            "size": {
+                "height": 270,
+                "width": 404
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "People walk and cycle along Lake Street during a community parade in support of the slow street in San Francisco’s Richmond District on April 30, 2022.",
+            "location": {
+                "x": 297,
+                "y": 306
+            },
+            "size": {
+                "height": 270,
+                "width": 404
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "People walk and cycle along Lake Street during a community parade in support of the slow street in San Francisco’s Richmond District on April 30, 2022.",
+            "location": {
+                "x": 297,
+                "y": 306
+            },
+            "size": {
+                "height": 270,
+                "width": 404
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "People walk and cycle along Lake Street during a community parade in support of the slow street in San Francisco’s Richmond District on April 30, 2022.",
+            "location": {
+                "x": 297,
+                "y": 306
+            },
+            "size": {
+                "height": 270,
+                "width": 404
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "People walk and cycle along Lake Street during a community parade in support of the slow street in San Francisco’s Richmond District on April 30, 2022.",
+            "location": {
+                "x": 297,
+                "y": 306
+            },
+            "size": {
+                "height": 270,
+                "width": 404
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Supervisor Aaron Peskin speaks at the San Francisco Board of Supervisors meeting at City Hall in San Francisco, Calif. on Tuesday, September 6, 2022.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "One of Restaurant Nisei’s yakitori offerings: unagi glazed with unagi no tare (eel sauce), shishito peppers, and spring onions. Chef David Yoshimura sources live eels from American Unagi in Maine, the only glass eel aquaculture farm in the U.S.",
+            "location": {
+                "x": 762,
+                "y": 615
+            },
+            "size": {
+                "height": 147,
+                "width": 221
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter’s headquarters seen in 2019. San Francisco officials are investigating an allegation that some office space was illegally converted into bedrooms.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "NEW YORK, NEW YORK - OCTOBER 22: Aaron Judge #99 of the New York Yankees reacts after striking out against the Houston Astros during the sixth inning in game three of the American League Championship Series at Yankee Stadium on October 22, 2022 in New York City. (Photo by Elsa/Getty Images)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "sfchronicle logo",
+            "location": {
+                "x": 393,
+                "y": 259
+            },
+            "size": {
+                "height": 25,
+                "width": 222
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "E-mail address",
+            "type": "email",
+            "location": {
+                "x": 642,
+                "y": 1844
+            },
+            "size": {
+                "height": 25,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "email",
+            "location": {
+                "x": 56,
+                "y": 5373
+            },
+            "size": {
+                "height": 54,
+                "width": 732
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            89,
+            89,
+            89
+        ],
+        [
+            6,
+            6,
+            6
+        ],
+        [
+            21,
+            21,
+            21
+        ]
+    ],
+    "desc": "Exclusive Bay Area and San Francisco breaking news, sports, tech, and food and wine coverage, plus enhanced coverage of Giants, 49ers and Warriors",
+    "navbar": "",
+    "text": "San Francisco Chronicle\nSkip to main content\nSan Francisco Chronicle Homepage\nEND OF YEAR SALE!\n6 MONTHS FOR 99¢\nSign In\nBAY AREA\nSAN FRANCISCO\nWEATHER\nPOLITICS\nCLIMATE\nCOVID-19\nDATA\nSPORTS\nFOOD\nDATEBOOK\nOPINIONS\nPODCASTS\nIN-DEPTH\nPUZZLES\nTop of the News\nSan Francisco’s plan to open 12 supervised drug consumption sites stalled\nAlameda County stops short of setting national standard on housing\nS.F. tourism spending expected to almost double in 2022 as pandemic eases\nCalifornia announces plan to close prisons, including last private facility\nS.F. legacy business destroyed in fire, along with adjacent brewery\nCOVID levels ‘skyrocketing’ in Bay Area wastewater. Is the surge here?\nSAN FRANCISCO 10:38 PM\nS.F. Slow Streets are here to stay after transportation board approves plan\nRoughly half the Slow Streets instituted in San Francisco early in the pandemic are here to stay — including the hotly-debated Lake Street — after a vote by the city’s Municipal Transportation Agency Tuesday night.\nData shows crashes have dropped on most Slow Streets. Here’s by how much\nS.F.’s Great Highway will remain car-free on weekends until 2025\nPOLICE REFORM\nS.F. halts ‘killer robots’ police policy after huge backlash — for now\nSan Francisco supervisors have walked back their approval of a controversial policy that would have allowed police to kill some suspects with robots in extreme cases.\nFOOD NEWS\nMichelin stars: These Bay Area restaurants won (and lost)\nYou can now have a Michelin-starred meal at a winery in California\nEND OF YEAR SALE\n6 MONTHS FOR\nONLY 99¢\nUnlimited Digital Access\nACT NOW\nSALE ENDS JAN. 3 | CANCEL ANYTIME",
+    "font": "Times",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 29,
+                "y": 18
+            },
+            "size": {
+                "height": 44,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 940,
+                "y": 18
+            },
+            "size": {
+                "height": 44,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(253, 218, 1, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(27, 27, 27, 1)",
+            "location": {
+                "x": 880,
+                "y": 1839
+            },
+            "size": {
+                "height": 30,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(44, 185, 191, 1)",
+            "location": {
+                "x": 788,
+                "y": 5373
+            },
+            "size": {
+                "height": 54,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "ACT NOW",
+            "bg-color": "rgba(253, 218, 1, 1)",
+            "location": {
+                "x": 399,
+                "y": 561
+            },
+            "size": {
+                "height": 47,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

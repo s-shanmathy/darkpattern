@@ -1,0 +1,846 @@
+{
+    "title": "BBC - Homepage",
+    "url": "bbc.com",
+    "full_url": "https://www.bbc.com/",
+    "images": [
+        {
+            "alt": "Warnock",
+            "location": {
+                "x": 16,
+                "y": 401
+            },
+            "size": {
+                "height": 270,
+                "width": 481
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A banner depicting Argentina's Vice President Cristina Fernandez de Kirchner hangs inside the Diego Maradona stadium, where Fernandez de Kirchner will attend a party rally, in La Plata, on the outskirts of Buenos Aires, Argentina November 17, 2022.",
+            "location": {
+                "x": 512,
+                "y": 401
+            },
+            "size": {
+                "height": 129,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clubbers kiss as they attend a large dance party at GWK Cultural Park early August 27, 2005 in Jimbaran, Bali, Indonesia.",
+            "location": {
+                "x": 761,
+                "y": 401
+            },
+            "size": {
+                "height": 131,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Goncalo Ramos celebrates",
+            "location": {
+                "x": 512,
+                "y": 541
+            },
+            "size": {
+                "height": 131,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lotus",
+            "location": {
+                "x": 761,
+                "y": 541
+            },
+            "size": {
+                "height": 131,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Georgia Democratic Senate candidate U.S. Sen. Raphael Warnock",
+            "location": {
+                "x": 16,
+                "y": 739
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Court sketch of Judge Juan Merchan",
+            "location": {
+                "x": 237,
+                "y": 739
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "File photo showing a protester wearing a T-shirt saying \"We will fight. We will die. We will take back Iran\" and gesturing on a highway in Karaj, west of Tehran, on 3 November 2022",
+            "location": {
+                "x": 457,
+                "y": 739
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cristiano Ronaldo",
+            "location": {
+                "x": 16,
+                "y": 1146
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Achraf Hakimi (left)",
+            "location": {
+                "x": 237,
+                "y": 1146
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Luis Enrique (centre)",
+            "location": {
+                "x": 457,
+                "y": 1146
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Why maggots are a medical marvel",
+            "location": {
+                "x": 16,
+                "y": 1767
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Why this is nature's most versatile material",
+            "location": {
+                "x": 347,
+                "y": 1767
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'How I forgave myself for accidentally killing my friend'",
+            "location": {
+                "x": 678,
+                "y": 1767
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "\"It's our island and we run it the way we want it to be run\"",
+            "location": {
+                "x": 16,
+                "y": 2108
+            },
+            "size": {
+                "height": 363,
+                "width": 646
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "What happens to our brains when we learn Braille?",
+            "location": {
+                "x": 16,
+                "y": 2609
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gen Z and millennials want a voice in the workplace. Are they too young?",
+            "location": {
+                "x": 237,
+                "y": 2609
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Qatar's goalkeeper Meshaal Barsham during Qatar 2022 (Credit: Jewel Samad/Getty Images)",
+            "location": {
+                "x": 457,
+                "y": 2609
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Can the right kind of parenting heal early trauma?",
+            "location": {
+                "x": 16,
+                "y": 2957
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Former SIA flight crew Clara Fu.",
+            "location": {
+                "x": 237,
+                "y": 2957
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Duke and Duchess of Sussex seen in the trailer for Harry & Meghan",
+            "location": {
+                "x": 457,
+                "y": 2957
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Alpine villages powered by streams",
+            "location": {
+                "x": 16,
+                "y": 3430
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Should air miles schemes be scrapped?",
+            "location": {
+                "x": 347,
+                "y": 3430
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The floating solar revolution",
+            "location": {
+                "x": 678,
+                "y": 3430
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Beyond meat pork product",
+            "location": {
+                "x": 16,
+                "y": 3757
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A person using the Whoscall app",
+            "location": {
+                "x": 678,
+                "y": 3757
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Republican leaders",
+            "location": {
+                "x": 16,
+                "y": 4113
+            },
+            "size": {
+                "height": 550,
+                "width": 977
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Republican leaders",
+            "location": {
+                "x": 48,
+                "y": 4678
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A fan celebrates Morocco's win in Doha, Qatar",
+            "location": {
+                "x": 386,
+                "y": 4700
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kirstie Alley",
+            "location": {
+                "x": 725,
+                "y": 4700
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "South Korea's ambassador to Brazil Kyong Lim Choi",
+            "location": {
+                "x": 1063,
+                "y": 4678
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The vehicles, including two Porsches and a rare Ariel Atom car, were taken from an industrial unit.",
+            "location": {
+                "x": 1402,
+                "y": 4700
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Plume of hot ash after Indonesia's volcano eruption",
+            "location": {
+                "x": 1740,
+                "y": 4678
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Neil Diamond",
+            "location": {
+                "x": 2079,
+                "y": 4700
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Serafet Muhammed Ali",
+            "location": {
+                "x": 2417,
+                "y": 4700
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "An astronaut's hand in from of the Earth from above",
+            "location": {
+                "x": 2756,
+                "y": 4700
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vicky and Caitlin",
+            "location": {
+                "x": 3094,
+                "y": 4700
+            },
+            "size": {
+                "height": 86,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Burnt forest in the Amazon basin",
+            "location": {
+                "x": 347,
+                "y": 4968
+            },
+            "size": {
+                "height": 363,
+                "width": 646
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Greg Becker",
+            "location": {
+                "x": 347,
+                "y": 5488
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Child unwell with flu",
+            "location": {
+                "x": 568,
+                "y": 5488
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Louis Theroux",
+            "location": {
+                "x": 788,
+                "y": 5488
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kirstie Alley on a red carpet in 2013",
+            "location": {
+                "x": 347,
+                "y": 5775
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "747 and rocket",
+            "location": {
+                "x": 568,
+                "y": 5775
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A stock image of computers mining cryptocurrency",
+            "location": {
+                "x": 788,
+                "y": 5775
+            },
+            "size": {
+                "height": 115,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Goodstrain Pharma warehouse",
+            "location": {
+                "x": 16,
+                "y": 6125
+            },
+            "size": {
+                "height": 176,
+                "width": 313
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rian Johnson, Knives Out Director",
+            "location": {
+                "x": 680,
+                "y": 6125
+            },
+            "size": {
+                "height": 176,
+                "width": 313
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Covid testing workers hold a silence in Bazhou in China's western Xinjiang region",
+            "location": {
+                "x": 16,
+                "y": 6418
+            },
+            "size": {
+                "height": 270,
+                "width": 481
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "‘Pac-Man scale & polish’",
+            "location": {
+                "x": 512,
+                "y": 6418
+            },
+            "size": {
+                "height": 270,
+                "width": 481
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kenyan actress Lupita Nyong'o takes to the red carpet at an event in New York City on Saturday.",
+            "location": {
+                "x": 16,
+                "y": 6704
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mauna Loa volcano erupts on November 28, 2022 on the Island of Hawaii.",
+            "location": {
+                "x": 347,
+                "y": 6704
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mother and child in Gujarat",
+            "location": {
+                "x": 678,
+                "y": 6704
+            },
+            "size": {
+                "height": 177,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            235,
+            235,
+            235
+        ]
+    ],
+    "desc": "Breaking news, sport, TV, radio and a whole lot more.\n        The BBC informs, educates and entertains - wherever you are, whatever your age.",
+    "navbar": "Homepage\nAccessibility links\nBBC Account\nHome\nNews\nSport\nReel\nWorklife\nTravel\nFuture\nMore menu\nSearch BBC",
+    "text": "Homepage\nAccessibility links\nBBC Account\nHome\nNews\nSport\nReel\nWorklife\nTravel\nFuture\nMore menu\nSearch BBC\nADVERTISEMENT\nAs it happened: Democrats win outright Senate majority after Georgia victory\nRaphael Warnock thanks God and his family after beating Republican Herschel Walker to hold his Senate seat in Georgia.\nUS & CANADA\nAs it happened: Democrats win outright Senate majority after Georgia victory\nArgentina's Cristina Fernández guilty of corruption\nLATIN AMERICA & CARIBBEAN\nArgentina's Cristina Fernández guilty of corruption\nIndonesia's new sex laws and what they could mean for tourism\nASIA\nIndonesia's new sex laws and what they could mean for tourism\nRonaldo replacement Ramos stars as Portugal advance\nWORLD CUP\nRonaldo replacement Ramos stars as Portugal advance\nInside Japan's most minimalist homes\nCULTURE\nInside Japan's most minimalist homes\nADVERTISEMENT\nNews\nWhat Warnock's win means for him, the Senate and Georgia\nRaphael Warnock's re-election gives Democrats total Senate control - and some breathing room.\nUS & CANADA\nWhat Warnock's win means for him, the Senate and Georgia\nTrump Organization found guilty of tax crimes\nThe business is synonymous with the former president, but neither he or his family were on trial.\nUS & CANADA\nTrump Organization found guilty of tax crimes\nIran must heed protesters' demands - ex-president\nA former Iranian president makes rare public comments praising anti-government protesters.\nMIDDLE EAST\nIran must heed protesters' demands - ex-president\nSport\n'Ronaldo reduced to role of superstar nobody wants'\nCristiano Ronaldo is reduced to the role of the superstar nobody wants as Portugal follow Man Utd's lead in deciding they might just be better off without him, writes Phil McNulty\nFOOTBALL\n'Ronaldo reduced to role of superstar nobody wants'\nHakimi seizes moment and delivers Moroccan elation\nMorocco's history-making win is given the royal seal of approval with a call from their King after Achraf Hakimi’s penalty proves him the coolest man in the stadium.\nFOOTBALL\nHakimi seizes moment and delivers Moroccan elation\nWhat next for 'boring' Spain after 'great fiasco'?\nSpain are out of the World Cup after losing on penalties to Morocco in the last 16, so what next for the team and manager Luis Enrique?\nFOOTBALL\nWhat next for 'boring' Spain after 'great fiasco'?\nVisit Reel\nThe most amazing videos from the BBC\nWhy maggots are a medical marvel\nWhy this is nature's most versatile material\n'How I forgave myself for accidentally killing my friend'\nEditor’s Picks\nBritain's defiant outlier island\n\"It's our island and we run it the way we want it to be run\"\nTRAVEL\nBritain's defiant outlier island\n'Reading it is like codebreaking'\nWhat happens to our brains when we learn Braille?\nCULTURE\n'Reading it is like codebreaking'\nThe big paradox facing young workers\nGen Z and millennials want a voice in the workplace. Are they too young?\nWORKLIFE\nThe big paradox facing young workers\nWhat would a green World Cup look like?\nIts ballooning size raises huge questions about its sustainability\nFUTURE PLANET\nWhat would a green World Cup look like?\nAdoption: my lessons as a dad\nCan the right kind of parenting heal early trauma?\nFUTURE\nAdoption: my lessons as a dad\nHow pregnant flight crew were forced to quit\nSingapore Airlines dropped its policy in July, after demands from human rights groups\nBUSINESS\nHow pregnant flight crew were forced to quit\nHarry and Meghan trailers criticised as misleading\nThere are at least five allegations of material being used in editorially questionable ways\nENTERTAINMENT & ARTS\nHarry and Meghan trailers criticised as misleading\nLATEST BUSINESS NEWS\n1\nChip-maker TSMC to invest $40bn in Arizona plants\n2\nBank Morgan Stanley to cut 1,600 jobs\n3\nCEO Secrets: Silicon Valley Bank boss shares his advice\n4\nMeta threatens to remove US news content\nFuture Planet\nSolutions for a sustainable world\nThe Alpine villages powered by streams\nShould air miles schemes be scrapped?\nThe floating solar revolution\nTECHNOLOGY OF BUSINESS\nBUSINESS\nAfter the hype plant-based proteins face leaner times\nAfter the hype plant-based proteins face leaner times\nADVERTISEMENT\nNEW TECH ECONOMY\nBUSINESS\nTaiwan's front-line battle against mobile phone fraud\nTaiwan's front-line battle against mobile phone fraud\nFeatured video\nHandshake snub for top Republicans at award ceremony\nThe family of deceased Capitol officer refuses to shake hands with top Republicans at an awards ceremony.\nUS & CANADA\nHandshake snub for top Republicans at award ceremony\nHandshake snub for top Republicans at award...\nUS & CANADA\nHandshake snub for top Republicans at award ceremony\nWatch Morocco fans celebrate historic World...\nWORLD\nWatch Morocco fans celebrate historic World Cup win\nEmmy-winning actress Kirstie Alley dies of...\nENTERTAINMENT & ARTS\nEmmy-winning actress Kirstie Alley dies of cancer at 71\nS Korea ambassador parties with Brazil fans\nWORLD\nS Korea ambassador parties with Brazil fans\nWatch: Thieves steal luxury cars worth £700k\nESSEX\nWatch: Thieves steal luxury cars worth £700k\nIndonesian volcano spews ash 15km into sky\nASIA\nIndonesian volcano spews ash 15km into sky\nDiamond surprises with 'Sweet Caroline'...\nUS & CANADA\nDiamond surprises with 'Sweet Caroline' singalong\nChina fire was government's fault - victim's...\nCHINA\nChina fire was government's fault - victim's daughter\nOut on a spacewalk with Nasa astronauts\nUS & CANADA\nOut on a spacewalk with Nasa astronauts\nEngland fans 'can't wait for the...\nUK\nEngland fans 'can't wait for the quarter-finals'\nBBC WORLD SERVICE\nON AIR: Newsday\nMore around the BBC\nUN calls for 'peace pact with nature'\nCountries are meeting in Montreal for a once-a-decade opportunity to put nature on the path to...\nSCIENCE & ENVIRONMENT\nUN calls for 'peace pact with nature'\nCEO Secrets: Silicon Valley Bank boss shares his advice\nBUSINESS\nCEO Secrets: Silicon Valley Bank boss shares his advice\nStrep A: Why it can be dangerous and what to know\nHEALTH\nStrep A: Why it can be dangerous and what to know\nLouis Theroux rap among TikTok's top trends of 2022\nENTERTAINMENT & ARTS\nLouis Theroux rap among TikTok's top trends of 2022\nCheers actress Kirstie Alley dies of cancer at 71\nUS & CANADA\nCheers actress Kirstie Alley dies of cancer at 71\nDate set for historic Cornwall rocket launch\nSCIENCE & ENVIRONMENT\nDate set for historic Cornwall rocket launch\nEthereum change cut cryptocurrency power demand\nTECHNOLOGY\nEthereum change cut cryptocurrency power demand\nFROM OUR CORRESPONDENTS\nApple sued by women over AirTag stalking\nBy James Clayton\nNasa's Orion spacecraft is homeward-bound\nBy Jonathan Amos\nBillie Eilish: Growing up in public has been bruising\nBy Megha Mohan and Yousef Eldin\nNew Malaysia PM's honeymoon will be brutally short\nBy Jonathan Head\nLiz Truss: 11 gambles that went wrong\nBy Nick Robinson\nUS turns its back on paid sick leave - again\nBy Natalie Sherman\n'5G makes my phone pretty worthless'\nBy Zoe Kleinman\nWanted: Somewhat bloodthirsty NYC rat catcher\nBy Sam Cabral\nTECHNOLOGY OF BUSINESS\nIndia makes big strides in African healthcare\nBUSINESS\nIndia makes big strides in African healthcare\nPODCASTS\nKnives Out director shares the method behind the magic\nNOW STREAMING\nKnives Out director shares the method behind the magic\nWorld in pictures\nIn pictures: China bids farewell to Jiang Zemin\nCHINA\nIn pictures: China bids farewell to Jiang Zemin\nThe photographer who puts little people in the frame\nSCOTLAND\nThe photographer who puts little people in the frame\nAfrica's top shots: Dripping diamonds and football fever\nAFRICA\nAfrica's top shots: Dripping diamonds and football fever\nIn Pictures: Mauna Loa erupts\nIN PICTURES\nIn Pictures: Mauna Loa erupts\nThe photographer who preserved rural Indian life\nINDIA\nThe photographer who preserved rural Indian life\nBBC IN OTHER LANGUAGES\nPersian\nاعتراضات ایران؛ «فرمانده نیروی انتظامی انزلی در ارتباط با قتل مهران سماک بازداشت شد»\nSpanish\nEl pequeño país cuya economía ha crecido 10% este año gracias a la guerra en Ucrania\nMore Languages\nArabic عربي\nAzeri AZƏRBAYCAN\nBangla বাংলা\nBurmese မြန်မာ\nChinese 中文网\nFrench AFRIQUE\nHausa HAUSA\nHindi हिन्दी\nIndonesian INDONESIA\nJapanese 日本語\nKinyarwanda GAHUZA\nKirundi KIRUNDI\nKyrgyz Кыргыз\nMarathi मराठी\nNepali नेपाली\nPashto پښتو\nPersian فارسی\nPortuguese BRASIL\nRussian НА РУССКОМ\nSinhala සිංහල\nSomali SOMALI\nSpanish MUNDO\nSwahili SWAHILI\nTamil தமிழ்\nTurkish TÜRKÇE\nUkrainian УКРАЇНСЬКA\nUrdu اردو\nUzbek O'ZBEK\nVietnamese TIẾNG VIỆT\nExplore the BBC\nHome\nNews\nSport\nReel\nWorklife\nTravel\nFuture\nCulture\nTV\nWeather\nSounds\nTerms of Use\nAbout the BBC\nPrivacy Policy\nCookies\nAccessibility Help\nParental Guidance\nContact the BBC\nBBC emails for you\nAdvertise with us\nAdChoices / Do Not Sell My Info\nCopyright © 2022 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.",
+    "font": "ReithSans, Arial, Helvetica, freesans, sans-serif",
+    "buttons": []
+}

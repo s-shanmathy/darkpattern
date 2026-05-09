@@ -1,0 +1,914 @@
+{
+    "title": "Voice Cloning Software for Content Creators | Respeecher",
+    "url": "respeecher.com",
+    "full_url": "https://www.respeecher.com/",
+    "images": [
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 20,
+                "y": 24
+            },
+            "size": {
+                "height": 31,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Respeecher-voice-cloning-software-client-lucasfilm",
+            "location": {
+                "x": 189,
+                "y": 691
+            },
+            "size": {
+                "height": 85,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Respeecher-voice-cloning-software-client-digital_domain",
+            "location": {
+                "x": 322,
+                "y": 732
+            },
+            "size": {
+                "height": 14,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Respeecher-voice-cloning-software-client-deezer",
+            "location": {
+                "x": 456,
+                "y": 703
+            },
+            "size": {
+                "height": 62,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Respeecher-voice-cloning-software-client-telemundo",
+            "location": {
+                "x": 589,
+                "y": 691
+            },
+            "size": {
+                "height": 85,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Respeecher-voice-cloning-software-client-ddb",
+            "location": {
+                "x": 750,
+                "y": 688
+            },
+            "size": {
+                "height": 91,
+                "width": 54
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Respeecher-voice-cloning-software-client-VeritoneLogo_Black",
+            "location": {
+                "x": 856,
+                "y": 725
+            },
+            "size": {
+                "height": 21,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "yle",
+            "location": {
+                "x": 189,
+                "y": 817
+            },
+            "size": {
+                "height": 98,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Snorble-Logo",
+            "location": {
+                "x": 322,
+                "y": 832
+            },
+            "size": {
+                "height": 68,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "aloe_logo",
+            "location": {
+                "x": 456,
+                "y": 811
+            },
+            "size": {
+                "height": 109,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "simgraphics_logo-1",
+            "location": {
+                "x": 589,
+                "y": 811
+            },
+            "size": {
+                "height": 109,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Metaphysic_Logo-1",
+            "location": {
+                "x": 722,
+                "y": 870
+            },
+            "size": {
+                "height": 9,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "homepage7",
+            "location": {
+                "x": 157,
+                "y": 1600
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon1",
+            "location": {
+                "x": 481,
+                "y": 1600
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon22",
+            "location": {
+                "x": 804,
+                "y": 1600
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon14",
+            "location": {
+                "x": 392,
+                "y": 3981
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon10",
+            "location": {
+                "x": 715,
+                "y": 3981
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "homepage8",
+            "location": {
+                "x": 68,
+                "y": 4291
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon13",
+            "location": {
+                "x": 392,
+                "y": 4291
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "homepage9",
+            "location": {
+                "x": 715,
+                "y": 4291
+            },
+            "size": {
+                "height": 39,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "homepage11",
+            "location": {
+                "x": 723,
+                "y": 4785
+            },
+            "size": {
+                "height": 201,
+                "width": 218
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon7",
+            "location": {
+                "x": 157,
+                "y": 5533
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon1",
+            "location": {
+                "x": 481,
+                "y": 5533
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon2",
+            "location": {
+                "x": 804,
+                "y": 5533
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon3",
+            "location": {
+                "x": 157,
+                "y": 5800
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon4",
+            "location": {
+                "x": 481,
+                "y": 5800
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "applications-icon5",
+            "location": {
+                "x": 804,
+                "y": 5800
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 7285
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 7425
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 7565
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 7705
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 7846
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 7986
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 8126
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 8266
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 8406
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 8546
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 44,
+                "y": 8686
+            },
+            "size": {
+                "height": 84,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 15,
+                "y": 8802
+            },
+            "size": {
+                "height": 237,
+                "width": 216
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "review_avatar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "investitor6",
+            "location": {
+                "x": 293,
+                "y": 9188
+            },
+            "size": {
+                "height": 59,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DEG-digital-entertainment-group",
+            "location": {
+                "x": 293,
+                "y": 9279
+            },
+            "size": {
+                "height": 54,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cai",
+            "location": {
+                "x": 638,
+                "y": 9288
+            },
+            "size": {
+                "height": 36,
+                "width": 119
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Respeecher-logo-footer",
+            "location": {
+                "x": 769,
+                "y": 10221
+            },
+            "size": {
+                "height": 34,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            21,
+            21,
+            22
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            29,
+            29,
+            31
+        ]
+    ],
+    "desc": "Voice cloning: create speech that's indistinguishable from the original speaker. Perfect for filmmakers, game developers, and other content creators.",
+    "navbar": "",
+    "text": "PRODUCT\nAPPLICATIONS\nCOMPANY\nVOICE MARKETPLACE\nRESOURCES\nCONTACT US\nREQUEST A CALL\nVoice Cloning for Content Creators\nCreate speech that's indistinguishable from the original speaker. Perfect for filmmakers, game developers, and other content creators.\nTRY IT NOW\nTrusted by\nImportant Update\nWe stay in Ukraine. We keep on working. Respeecher is fully operational. We believe in justice and the Armed Forces of Ukraine! Ukraine will resist. 🇺🇦 ✊\n  Respeecher calls famous people to speak Ukrainian using our technology. Please check the link below for more detail:\nSpeak Ukrainian initiative\nIt. Just. Works.\nWith perfect quality our synthetically created voices are a spot-on match.\nNatural Never Robotic\nEvery nuance and emotion from the original speech pattern is captured in our digitally replicated voices.\nCreative Control\nChange content deep into the creative process without the hassle of re-recording the original voice.\nCase studies\nRespeecher synthesized a younger Luke Skywalker's voice for Disney+'s The Mandalorian\nSep 16, 2021 12:23:47 PM\nThe Mandalorian is a Star Wars television series created by Jon Favreau for the streaming...\nRead Article\nRespeecher Helps Aloe Blacc Pay Tribute to Avicii and Sing a ‘Wake Me Up’ in Five Languages\nApr 27, 2022 2:01:03 PM\nSince Aloe planned to sing flawlessly, not only in English but also in Mandarin, Spanish,...\nRead Article\nHow Respeecher Can Influence Victim Assistance and Witness Protection\nMar 29, 2022 10:00:00 AM\nCrime has a severe influence on the people affected by it. Victims suffer from emotional,...\nRead Article\nRespeecher Helps Patients with Speech Disabilities Recover Their Voice\nMar 25, 2022 12:10:28 PM\nIn order to help laryngeal cancer patients achieve a higher quality of life, Respeecher...\nRead Article\nMaye Musk Spoke Ukrainian with the Help of AI Voice Generation Technology\nMay 11, 2022 11:14:00 AM\n“You are brave and you will win”, said Maye Musk in Ukrainian in her own voice. Maye Musk...\nRead Article\nRespeecher and Rephrase.AI Collaborate with MondelēZ International, Ogilvy, Wavemaker to Create Revolutionary Ad Campaign for the Indian Market\nJan 31, 2022 11:25:50 AM\nThousands of local retailers entered their credentials and received personalized ads from...\nRead Article\nRespeecher Voice Marketplace\nConvert your voice to 60+ completely natural human voices\nKeep the full range of emotion of your performance\nUse the same tech as Hollywood studios\nLearn More\nBenefits\nQuick Start\nWe’ll have you up and running quickly. Just give us a high-quality recording of the voice you want to replicate to get started.\nResurrect Voices From the Past\nGive new life to someone who has passed away.\nIdea Insurance\nWe all need a backup plan. If you’re not happy with an actor’s recording, they quit during production, or pass away — replicate their voice to keep your project on track.\nChildren’s Voices in a Snap\nKids say the darndest things … but recording with them can be challenging. With Respeecher, you can easily have an adult actor sound just like a kid.\nExpress Emotions\nFrom whiny to angry, our system picks up every nuance to produce synthetic recordings that are indistinguishable from the real thing.\nOur Method\nWe use advanced artificial intelligence and machine learning to master every aspect of your target voice. We combine classical digital signal processing algorithms with proprietary deep generative modeling techniques. The result? A computer-generated voice that’s a spot-on match.\nPRODUCT PAGE\nWho is this For?\nRespeecher is for anyone who would benefit from voice replication technology — from Hollywood movie studios to game developers. If you want full creative control of your project and impeccable quality — Respeecher is for you.\nFilmmakers & TV producers\nFIND OUT MORE\nDubbing & Localization\nFIND OUT MORE\nGame Developers\nFIND OUT MORE\nAdvertising\nFIND OUT MORE\nAudiobooks & Podcasts\nFIND OUT MORE\nFuture Applications\nFIND OUT MORE\nWho Are We?\nWe're computer programmers who obsess over audio. Like many of you, we were frustrated by the robotic voices in our video games and automotive navigation systems. So we built something better.\nWe used our expertise in artificial intelligence and machine learning to replicate voices and produce synthetic recordings that are indistinguishable from the originals.\nNow we're sharing our technology with filmmakers, TV producers, game developers, advertisers, podcasters, and content creators of all types.\nWe know voice replication technology could be dangerous in the wrong hands, so we implemented a strict code of ethics and strong security measures. We vow to ensure that our tech is only used for positive purposes.\nREAD FULL\nEthics\nWe're committed to ensuring that our groundbreaking technology is only used for ethical projects — and doesn't fall into the wrong hands.\nLEARN MORE\nReviews\nHalsey Burgund\nCo-Director In Event of Moon Disaster\nRyan Steelberg\nPresident and co-founder of Veritone\nDavid Romberg\nMedia, Communication & Film Studies, Muhlenberg College\nAbigail Savage\nSound Designer and Supervisor, Actress\nMichael York\nActor, Producer\nTim Jones\nEmmy Award Winning Animation Producer\nJoseph López Osorio\nMarketing Technology Director, DDB Latina\nEdgardo Rivera\nPresident & CEO, DDB Puerto Rico\nJoshua Madoff\nComposer, Actor\nJames Tumminia\nProducer & President at Italus Films\n141 Productions\nProduction & Distribution Group\nWe worked with Respeecher on a film called ‘In Event of Moon Disaster’ first shown at the Amsterdam Documentary Film Festival 2019. They helped us create a synthetic voice of Richard Nixon to bring to life a never-read contingency speech in case the Apollo 11 mission went badly. We created a highly realistic film, in a large part due to their work. ‘In Event of Moon Disaster’ shows the creative possibility of voice replacement technology as well as highlighting just how realistic deepfake technologies can be, acting as a civic engagement project for the public along with contextual and educational resources.\nParticipating at\nReady to Replicate Voices?\nWant to see our technology in action? Get a demo today.\nREQUEST A DEMO\nTo Top\nAPPLICATIONS\nFilm and TV\nGame Developers\nAdvertising\nAnimation\nPodcasts and Audiobooks\nDubbing and Localization\nFuture Applications\nRESOURCES\nBlog\nCase studies\nVideo demos\nSupport program for small creators\nFAQ\nWhite papers\nCOMPANY\nAbout Us\nOur Ethics\nCareers\nFollow us on Facebook\nFollow us on Facebook\nFollow us on Facebook\nFollow us on Facebook\nRespeecher on Imdb\n© 2021 Respeecher. All rights reserved.",
+    "font": "Ubuntu, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 601,
+                "y": 120
+            },
+            "size": {
+                "height": 218,
+                "width": 388
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": true
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 601,
+                "y": 362
+            },
+            "size": {
+                "height": 218,
+                "width": 388
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": true
+        }
+    ],
+    "buttons": []
+}

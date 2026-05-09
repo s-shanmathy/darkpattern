@@ -1,0 +1,1600 @@
+{
+    "title": "Seeking Alpha | Stock Market Analysis & Tools for Investors",
+    "url": "seekingalpha.com",
+    "full_url": "https://seekingalpha.com/",
+    "images": [
+        {
+            "alt": "Start now",
+            "location": {
+                "x": 589,
+                "y": 154
+            },
+            "size": {
+                "height": 304,
+                "width": 338
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Robert & Sam Kovacs profile picture",
+            "location": {
+                "x": 42,
+                "y": 733
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tradevestor profile picture",
+            "location": {
+                "x": 42,
+                "y": 794
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rida Morwa profile picture",
+            "location": {
+                "x": 42,
+                "y": 847
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wall Street Breakfast profile picture",
+            "location": {
+                "x": 42,
+                "y": 900
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Luca Socci profile picture",
+            "location": {
+                "x": 42,
+                "y": 953
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valuentum profile picture",
+            "location": {
+                "x": 42,
+                "y": 1014
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ray Merola profile picture",
+            "location": {
+                "x": 42,
+                "y": 1075
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dividend Sensei profile picture",
+            "location": {
+                "x": 42,
+                "y": 1136
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stock Waves profile picture",
+            "location": {
+                "x": 42,
+                "y": 1197
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brad Thomas profile picture",
+            "location": {
+                "x": 42,
+                "y": 1250
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dividend Yield Theorist profile picture",
+            "location": {
+                "x": 42,
+                "y": 1311
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rational Expectations profile picture",
+            "location": {
+                "x": 42,
+                "y": 1364
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Create a portfolio to track your stocks",
+            "location": {
+                "x": 287,
+                "y": 1602
+            },
+            "size": {
+                "height": 240,
+                "width": 680
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Josh Klein profile picture",
+            "location": {
+                "x": 42,
+                "y": 1936
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ralph Wakerly profile picture",
+            "location": {
+                "x": 42,
+                "y": 2033
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "From Growth to Value profile picture",
+            "location": {
+                "x": 42,
+                "y": 2130
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "John Overstreet profile picture",
+            "location": {
+                "x": 42,
+                "y": 2207
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Sunday Investor profile picture",
+            "location": {
+                "x": 42,
+                "y": 2304
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Donovan Jones profile picture",
+            "location": {
+                "x": 42,
+                "y": 2996
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SA Transcripts profile picture",
+            "location": {
+                "x": 42,
+                "y": 3093
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SA Transcripts profile picture",
+            "location": {
+                "x": 42,
+                "y": 3190
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SA Transcripts profile picture",
+            "location": {
+                "x": 42,
+                "y": 3287
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SA Transcripts profile picture",
+            "location": {
+                "x": 42,
+                "y": 3384
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Heinsite Capital profile picture",
+            "location": {
+                "x": 538,
+                "y": 2996
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A. Vandendael profile picture",
+            "location": {
+                "x": 538,
+                "y": 3093
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tariq Dennison profile picture",
+            "location": {
+                "x": 538,
+                "y": 3190
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bernhard Kainz profile picture",
+            "location": {
+                "x": 538,
+                "y": 3287
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stephen Simpson profile picture",
+            "location": {
+                "x": 538,
+                "y": 3384
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Symbols, authors, keywords",
+            "type": "search",
+            "location": {
+                "x": 186,
+                "y": 10
+            },
+            "size": {
+                "height": 30,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            43,
+            43,
+            43
+        ],
+        [
+            243,
+            244,
+            247
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "Join Seeking Alpha, the largest investing community in the world. Get stock market news and analysis, investing ideas, earnings calls, charts and portfolio analysis tools.",
+    "text": "Seeking Alpha - Go to Homepage\nEntering text into the input field will update the search result below\nSign In\nPRO\nMarketplace\nSubscribe\nPremium\nMy Portfolio\nMy Authors\nTop Stocks\nLatest News\nMarkets\nStock Ideas\nDividends\nETFs\nEducation\nSupport\nDiscover new investing ideas\nwith Seeking Alpha Premium.\nStart now\nSeeking Alpha - Stock Market Analysis & Tools for Investors\nUS\nWorld\nCommodities\nFutures\nCrypto\nUsStock Indices\nSymbol\nDow Jones\n33,552.13\n-44.21\n-0.13%\nS&P 500\n3,928.74\n-12.52\n-0.32%\nNasdaq\n10,949.00\n-65.89\n-0.60%\nCrude Oil\n71.93\n-2.32\n-3.13%\nGold\n1,786.95\n16.04\n+0.91%\nBitcoin\n16,793.40\n-177.43\n-1.05%\nActivating the buttons will update the chart content below.\n1D\n5D\n1M\n6M\nYTD\n1Y\n5Y\n10Y\nMAX\nDJI chart is shown\nDow Jones price and volume\n12 PM\n3 PM\n33,500\n33,600\n33,700\n33,800\nEnd of interactive chart.\nLatest News\nSee All News »\n1m\nAcademy Sports and Outdoors runs to new 52-week high after profit guidance impresses\n4m\nCostco earnings preview: Memberships and margins in focus\n5m\nAvid Bioservices falls 14% on wider-than-expected quarterly loss\n6m\nLions Gate stock slips double digits on JPM double downgrade\n9m\nS&P, Nasdaq, Dow struggle as recession fears, concerns over economy weigh\n13m\nSalesforce plumbs depths not seen in almost three years as executive changes add up\nTrending Analysis\nHow We Beat The S&P 500 By 25% Year To Date With Dividend Stocks\nAmazon: The Last Time It Was $88\nGenius Ways To Earn Real Estate Passive Income\nWall Street Breakfast: Down To Georgia\nApple: Why Buybacks Won't Stop Once It Reaches Cash Neutrality\nAI Could Seriously Challenge Alphabet's Search Dominance But Not Immediately\nEnergy Transfer: You Wanted Consistency, You Got Consistency\n8 High-Yield Blue Chips That Yield 3X Your 60/40 Retirement Portfolio\nCoke Vs. Pepsi: Which One Is The King Of Pop?\nHannon Armstrong: A 5% Yield In A Trillion-Dollar Growth Market\nMy 11 Best Dividend Kings For December 2022\nChatGPT Highlights An Emerging Threat To Google's Search Business\nSee All Analysis »\nTrending News\n1\nSalesforce plumbs depths not seen in almost three years as executive changes add up\n2\nBlackstone's Schwarzman finds worry surrounding BREIT 'baffling'\n3\nS&P, Nasdaq, Dow struggle as recession fears, concerns over economy weigh\n4\nCostco earnings preview: Memberships and margins in focus\n5\nCarvana stock crashes over 30% amid rising bankruptcy risk (update)\n6\nCarvana in talks with Moelis, Kirkland on debt restructuring - Bloomberg\n7\nActivision ticks lower amid report Sony unlikely to accept Microsoft offer\n8\nLions Gate stock slips double digits on JPM double downgrade\n9\nMcEwen Mining, Endeavour Silver among major Energy/Material gainers; ASP Isotopes leads losers\n10\nApple working on new encryption system to keep hackers at bay, protect data: report\n11\nMarijuana banking left out of national defense bill; cannabis multi-state operators fall\n12\nCathie Wood: ‘Fed is making a serious mistake’ as she points to the inverted yield curve\nSee All News »\nCreate a portfolio to track your stocks\nGet immediate alerts when we publish news or articles on stocks you are watching.\n\nStay up to date on your investments\nTrack your stocks\nEditors' Picks\nBM Technologies: Major Catalysts Imminent, High Short Interest, And A Misunderstood Business\nEditors' PickJosh Klein4 Comments\nTIPS Performance Could Rival That Of The S&P 500 Over The Next Decade\nEditors' PickRalph Wakerly9 Comments\nCrowdStrike's Future Still Looks Good\nEditors' PickFrom Growth to Value17 Comments\nDBE: Energy Prices Likely To Start Leading Market Down\nEditors' PickJohn Overstreet14 Comments\nIHF: The Best Health Care ETF Money Can Buy?\nEditors' PickThe Sunday Investor8 Comments\nMore Editors' Picks »\nNotable Calls & Insights\nPhilip Morris, Starbucks among new ideas in BofA's Alpha Surprise screen\nExclusive Insight4 Comments\nKimberly Clark, Conagra cut to Sell as DB eyes more difficult operating environment\nNotable Calls3 Comments\nMorgan Stanley's Mike Wilson says it's time to fade the rally\nExclusive Insight61 Comments\nNissan, Stellantis among top picks as Nomura assesses auto stocks\nNotable Calls11 Comments\nJolly Old Jerome's market gift comes early, but Fed could still bring a lump of coal\nExclusive Insight45 Comments\nMore Notable Calls & Insights »\nDay Watch\nTop Gainers\n1D chg\nRXDX\nPrometheus Biosciences Inc\n172.35%\nVOR\nVor Biopharma Inc\n45.00%\nGACQ\nGlobal Consumer Acquisition Corp\n23.38%\nREPL\nReplimune Group Inc\n20.43%\nMDB\nMongoDB Inc - Class A\n20.82%\nIn The News\n1D chg\nUS10Y\nUnited States 10-Year Bond Yield\n-2.43%\nUS2Y\nUnited States 2-Year Bond Yield\n-2.29%\nMTR\nMesa Royalty Trust\n-10.06%\nGASS\nStealthGas Inc.\n5.31%\nEXK\nEndeavour Silver Corp.\n6.43%\nMost Active\n1D chg\nCVNA\nCarvana Co. - Class A\n-41.80%\nTSLA\nTesla Inc\n-3.75%\nSMMT\nSummit Therapeutics Inc\n18.18%\nAMZN\nAmazon.com Inc.\n-0.02%\nMMAT\nMeta Materials Inc\n2.56%\nTop Losers\n1D chg\nCVNA\nCarvana Co. - Class A\n-41.80%\nMRTX\nMirati Therapeutics Inc\n-29.10%\nLOVE\nLovesac Company\n-21.08%\nEZPW\nEZCorp, Inc. - Class A\n-18.37%\nZUO\nZuora Inc - Class A\n-18.45%\nTech 5\n1D chg\nAMZN\nAmazon.com, Inc.\n-0.02%\nAAPL\nApple Inc.\n-1.39%\nGOOG\nAlphabet Inc.\n-1.94%\nMETA\nMeta Platforms, Inc.\n-0.37%\nMSFT\nMicrosoft Corporation\n-0.30%\nCryptocurrencies\n1D chg\nBTC-USD\nBitcoin USD\n-1.05%\nETH-USD\nEthereum USD\n-1.58%\nBNB-USD\nBinance Coin USD\n-2.09%\nXRP-USD\nRipple USD\n-1.93%\nADA-USD\nCardano USD\n-2.16%\nLatest Articles\nLizhi Continues Profitable Results But Nasdaq Delisting Looms\nDonovan Jones\nGreen Dot Corporation 2022 Q3 - Results - Earnings Call Presentation\nSA Transcripts\nShift4 Payments, Inc. 2022 Q3 - Results - Earnings Call Presentation\nSA Transcripts\nEnvestnet, Inc. 2022 Q3 - Results - Earnings Call Presentation\nSA Transcripts\nDollarama Inc. 2023 Q3 - Results - Earnings Call Presentation\nSA Transcripts\nMore Latest Articles »\nStock Ideas\nEngageSmart: Be Smart, Ride On This Wave Of Digitization\nHeinsite Capital\nEtsy: Marketplace Growing With Upside In Acquisitions And User Activity\nA. Vandendael1 Comment\nTop Blue Chip Stocks To Invest In For 2023 - Our Top Pick Is Unilever\nTariq Dennison1 Comment\nRaiffeisen Bank International: A Contrarian View On A Bank With Significant Russia Exposure\nBernhard Kainz\nNRG Energy And Vivint: Paying For Transformation, The Street Prefers Buybacks\nStephen Simpson6 Comments\nMore Stock Ideas »\nDividend Investing\nTrending Dividend Stocks\nYield\nTSM\nTaiwan Semiconductor Manufacturing Company Limited\n2.35%\nMPW\nMedical Properties Trust, Inc.\n9.26%\nBX\nBlackstone Inc.\n6.27%\nO\nRealty Income Corporation\n4.75%\nBDN\nBrandywine Realty Trust\n12.16%\nJNJ\nJohnson & Johnson\n2.57%\nPDI\nPIMCO Dynamic Income Fund\n13.13%\nVZ\nVerizon Communications Inc.\n7.08%\nABBV\nAbbVie Inc.\n3.62%\nXOM\nExxon Mobil Corporation\n3.50%\nUpcoming Exdates\nExDate\nGRX\nThe Gabelli Healthcare & Wellness Rx Trust\n12/08\nVCTR\nVictory Capital Holdings, Inc.\n12/08\nGGZ\nGabelli Global Small and Mid-Cap Value fund\n12/08\nFMNB\nFarmers National Banc Corp.\n12/08\nKMB\nKimberly-Clark Corporation\n12/08\nESEA\nEuroseas Ltd.\n12/08\nCJEWY\nChow Tai Fook Jewellery Group Limited\n12/08\nCLPHY\nCLP Holdings Limited\n12/08\nSPG\nSimon Property Group, Inc.\n12/08\nFFIC\nFlushing Financial Corporation\n12/08\nDividends & Income\nETFs & Portfolio Strategy\nMarkets\nInvesting Strategy\nManage Email Newsletters\nSubscribe\nMore Newsletters »\nU.S. Equity Markets\nIndex\nETF\nToday\n1 Month\nYTD\n1 Year\n3 Years\nDay Range\n52 Week Range\nU.S. Equity Sectors\nSector\nETF\nToday\n1 Month\nYTD\n1 Year\n3 Years\nDay Range\n52 Week Range\nU.S. Equity Factors\nFactor\nETF\nToday\n1 Month\nYTD\n1 Year\n3 Years\nDay Range\n52 Week Range\nGlobal Equities\nRegion\nETF\nToday\n1 Month\nYTD\n1 Year\n3 Years\nDay Range\n52 Week Range\nCountries\nCountry\nETF\nToday\n1 Month\nYTD\n1 Year\n3 Years\nDay Range\n52 Week Range\nLearn About Investing\nMore Education »\nAbout Seeking Alpha\nOur mission: Power to Investors. We empower investors to make the absolute best investing decisions by leveraging our independent and balanced stock research, fundamental analysis tools, crowdsourced debate, reliable news, and actionable market data.\nOur research is created by investors, for investors. It is carefully vetted by in-house editors, then read and debated by millions of people. Our stock coverage is wider and deeper than any other. We provide diverse opinions on each stock so that investors can weigh the bull and bear case and make an informed decision.\nOur news enables investors to understand why the market and the stocks in their portfolio are moving or are about to move. Investors read our financial news to gain insight into stocks’ future earnings and price trajectory, and to find new and exciting opportunities.\nOur data places professional-caliber tools in the hands of every investor. Our factor grades and quant ratings summarize each stock’s characteristics, and SA author ratings provide a snapshot of our contributors’ qualitative opinions.\nOur community includes everyone from new investors to fund managers. By helping them to invest successfully, we help them to achieve life goals such as buying their first house, sending their children to college, and securing their retirement.\nBecome A Contributor\nSeeking Alpha publishes research from thousands of contributors. Investors contribute articles to Seeking Alpha because they receive payment, exposure, fame, the opportunity to get feedback on their ideas, and the ability to run their own subscription research business in our Marketplace.\nOur contributors include professional investors and individual investors. We believe that individual investors are often underestimated, when many individual investors have better investment track records than professionals and possess valuable insights that can help other investors.\nTo become a contributor you must be accepted by our editors, who ensure each author and article meets our quality and compliance standards.\nTo become a Seeking Alpha contributor,\nsubmit an article here.\nSeeking Alpha - Power to Investors\nPower to Investors\nRSS Feed\nSitemap\nAffiliate Program\nAbout Us\nFeedback\nCareers\nContact Us\nTerms Of Use\nPrivacy\nDo Not Sell My Personal Information\nMarket Data Sources\n© 2022 Seeking Alpha",
+    "font": "-apple-system, \"system-ui\", Roboto, Arial, \"Segoe UI\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Sign In",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 641,
+                "y": 10
+            },
+            "size": {
+                "height": 30,
+                "width": 57
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "US",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 18,
+                "y": 484
+            },
+            "size": {
+                "height": 14,
+                "width": 17
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "World",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 52,
+                "y": 484
+            },
+            "size": {
+                "height": 14,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Commodities",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 105,
+                "y": 484
+            },
+            "size": {
+                "height": 14,
+                "width": 74
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Futures",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 200,
+                "y": 484
+            },
+            "size": {
+                "height": 14,
+                "width": 43
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Crypto",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 262,
+                "y": 484
+            },
+            "size": {
+                "height": 14,
+                "width": 38
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1D",
+            "bg-color": "rgba(85, 85, 85, 1)",
+            "location": {
+                "x": 297,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "5D",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 328,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1M",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 359,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6M",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 390,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "YTD",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 421,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1Y",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 452,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "5Y",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 483,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "10Y",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 514,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "MAX",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 545,
+                "y": 482
+            },
+            "size": {
+                "height": 18,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 297,
+                "y": 593
+            },
+            "size": {
+                "height": 24,
+                "width": 349
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Track your stocks",
+            "bg-color": "rgba(255, 114, 0, 1)",
+            "location": {
+                "x": 42,
+                "y": 1786
+            },
+            "size": {
+                "height": 36,
+                "width": 186
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Subscribe",
+            "bg-color": "rgba(219, 219, 219, 1)",
+            "location": {
+                "x": 360,
+                "y": 4908
+            },
+            "size": {
+                "height": 28,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Index",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 42,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "ETF",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 220,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 23
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Today",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 320,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Month",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 420,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "YTD",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 520,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Year",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3 Years",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 720,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Day Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 822,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "52 Week Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 906,
+                "y": 5088
+            },
+            "size": {
+                "height": 14,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Sector",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 42,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "ETF",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 220,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 23
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Today",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 320,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Month",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 420,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "YTD",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 520,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Year",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3 Years",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 720,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Day Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 822,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "52 Week Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 906,
+                "y": 5358
+            },
+            "size": {
+                "height": 14,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Factor",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 42,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 39
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "ETF",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 220,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 23
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Today",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 320,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Month",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 420,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "YTD",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 520,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Year",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3 Years",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 720,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Day Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 822,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "52 Week Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 906,
+                "y": 5806
+            },
+            "size": {
+                "height": 14,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Region",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 42,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "ETF",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 220,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 23
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Today",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 320,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Month",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 420,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "YTD",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 520,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Year",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3 Years",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 720,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Day Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 822,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "52 Week Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 906,
+                "y": 6165
+            },
+            "size": {
+                "height": 14,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Country",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 42,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 49
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "ETF",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 220,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 23
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Today",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 320,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Month",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 420,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "YTD",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 520,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1 Year",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3 Years",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 720,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Day Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 822,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "52 Week Range",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 906,
+                "y": 6436
+            },
+            "size": {
+                "height": 14,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

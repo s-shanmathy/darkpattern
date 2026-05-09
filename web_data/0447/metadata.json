@@ -1,0 +1,81 @@
+{
+    "title": "Monergism Books :: Reformed Books - Discount Prices",
+    "url": "monergismbooks.com",
+    "full_url": "https://monergismbooks.com/",
+    "images": [
+        {
+            "alt": "header02.jpg",
+            "location": {
+                "x": 54,
+                "y": 8
+            },
+            "size": {
+                "height": 120,
+                "width": 900
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Grey Header",
+            "location": {
+                "x": 54,
+                "y": 162
+            },
+            "size": {
+                "height": 14,
+                "width": 900
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            47,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "Carefully chosen reformed books and Christian resources at deep discount prices, free shipping in U.S. for orders over $35 when you select Economy Shipping and excellent customer service. Christian Books from an evangelical, Reformed perspective.",
+    "text": "  HOME CATALOG BANNER NEWSLETTER ABOUT",
+    "font": "Times",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://monergismbooks.com/readersguide2.html",
+            "location": {
+                "x": 54,
+                "y": 176
+            },
+            "size": {
+                "height": 5000,
+                "width": 900
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

@@ -1,0 +1,459 @@
+{
+    "title": "Welcome to Outlook Tips",
+    "url": "outlook-tips.net",
+    "full_url": "https://outlook-tips.net/",
+    "images": [
+        {
+            "alt": "Outlook 2013 Absolute Beginner's Guide ",
+            "location": {
+                "x": 759,
+                "y": 37
+            },
+            "size": {
+                "height": 150,
+                "width": 115
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Diane Poremsky [Outlook MVP]",
+            "location": {
+                "x": 878,
+                "y": 37
+            },
+            "size": {
+                "height": 150,
+                "width": 97
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Quick actions by the sender name and subject",
+            "location": {
+                "x": 30,
+                "y": 898
+            },
+            "size": {
+                "height": 173,
+                "width": 482
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "quick actions on the far right",
+            "location": {
+                "x": 30,
+                "y": 1138
+            },
+            "size": {
+                "height": 167,
+                "width": 580
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "right-click menu options",
+            "location": {
+                "x": 30,
+                "y": 1583
+            },
+            "size": {
+                "height": 461,
+                "width": 398
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Where is File tab in Outlook?",
+            "location": {
+                "x": 710,
+                "y": 969
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to bulk move Outlook folders",
+            "location": {
+                "x": 710,
+                "y": 1042
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Icons found in the Inbox, Message Headers, and Toolbars",
+            "location": {
+                "x": 710,
+                "y": 1115
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Reset the View on Outlook folders",
+            "location": {
+                "x": 710,
+                "y": 1211
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Understanding Tasks and To-Do List",
+            "location": {
+                "x": 710,
+                "y": 1284
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Change or cancel meetings without sending update messages",
+            "location": {
+                "x": 710,
+                "y": 1357
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How to Find Folder Paths in Outlook Mailboxes",
+            "location": {
+                "x": 710,
+                "y": 1453
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iCloud Contacts are not showing in Address Book",
+            "location": {
+                "x": 710,
+                "y": 1526
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Change Outlook's Open or Save Attachments Folder",
+            "location": {
+                "x": 710,
+                "y": 1600
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google Translate",
+            "location": {
+                "x": 696,
+                "y": 4965
+            },
+            "size": {
+                "height": 13,
+                "width": 37
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google Translate",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 804,
+                "y": 368
+            },
+            "size": {
+                "height": 29,
+                "width": 176
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "email",
+            "location": {
+                "x": 804,
+                "y": 422
+            },
+            "size": {
+                "height": 29,
+                "width": 176
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 804,
+                "y": 476
+            },
+            "size": {
+                "height": 25,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 710,
+                "y": 581
+            },
+            "size": {
+                "height": 29,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "search",
+            "type": "text",
+            "location": {
+                "x": 720,
+                "y": 616
+            },
+            "size": {
+                "height": 20,
+                "width": 163
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 889,
+                "y": 844
+            },
+            "size": {
+                "height": 31,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            13,
+            113
+        ],
+        [
+            226,
+            235,
+            250
+        ]
+    ],
+    "desc": "Tips, How To guides, Beginner guides, Training, FAQs and other resources for all versions of Microsoft Outlook.",
+    "navbar": "Home\nTips Archive\nHow to...\nBeginner\nOutlook.com",
+    "text": "Skip to main content\nSkip to primary sidebar\nSkip to footer\nOutlook Tips\nLearning Microsoft Outlook One Tip At A Time\nHome\nTips Archive\nHow to...\nBeginner\nOutlook.com\nOutlook on the web Quick Actions moved to the right\nUsers began complaining last week that the quick actions in Outlook on the web (when the reading pane is off or on the bottom) moved from the From field on the left side of the message list to the far right, in the Received column, which for many users, is a long mouse movement to use the quick actions.\nQuick Actions on the left, between the sender name and subject field:\nQuick Actions on the right, in the Received date field:\n\nUsers cannot change this back, only Microsoft can move it. I highly recommend leaving feedback by voting and commenting on this suggestion: QUICK ACTIONS\nWorkarounds\nUntil Microsoft fixes this, assuming they move it back to the left side, you can use keyboard shortcuts or the right-click context menu. Note that not all the options available for Quick Actions are on the right-click menu.\nInstead of using a mouse to use a quick action, use the keyboard, it’s often faster than using a mouse. Yes, I know, breaking the mouse habit is hard. Even though I know all the common shortcuts and have my hand on or near the keyboard, I often grab for the mouse to click buttons. Like I said, it's a hard habit to break.\nShortcuts to replace Quick Actions:\nDelete the message Delete or Shift+Delete to permanently delete\nFlag the message Insert\nArchive E\nMark the message as read Q or Ctrl+Q\nMark the message as unread U or Ctrl+U\nUnfortunately, there is not a keyboard shortcut for Pin message.\nAlthough not available as quick actions, these are the shortcuts for common actions.\nMark this message as junk  J\nSnooze the message  B\nCategorize the message  C\nMove to a folder  V\nFor a complete list of Outlook on the web shortcuts, see the Accessibility section in Outlook on the web's Settings (gear icon) > View all Outlook settings > General > Accessibility.\nRecent Articles\nAutomatically sign out of Outlook.com\n… or stop automatically signing in to Outlook.com. When I open Outlook.com, I'm always automatically signed into my account. I don't want this to happen. According to Help, I just need to uncheck the box to \"stay logged in\" but that doesn't seem to make a difference. How do I prevent this? If you don't […]\nQuick Actions in Outlook\nAn Outlook user wondered why he his accounts had different icons on the right side of the message list. I have two accounts setup in Outlook. In one account, I have the Mark as Read/Unread icon appear when I select a message. In the other account, I only have Flag and Delete. How do I […]\nOutlook Autocomplete Bug\nThere is a bug in the current Office update, April 29, 2021 Version 2104 (Build 13929.20296). Microsoft is aware of the issue. The autocomplete menu is larger than in the previous build, lacks the ability to delete entries from the list, and may open upward. This autocomplete list looked this like in the Outlook 2019 […]\nOutlook on the web Address Book sort order\nThanks to a change in the address book in Outlook on the web, contacts are listed in most frequently users order, not in alphabetical order.\nOutlook & iCloud: Your setup couldn't be started because the iCloud server stopped responding.\niCloud stopped syncing with Outlook and return this error message: Your setup couldn't be started because the iCLoud server stopped responding.\nCreate an appointment from a message in Outlook on the web\nCreate an appointment from an email message using Outlook on the web.\nPrimary Sidebar\nSubscribe to Outlook Tips by Email\nName\nEmail *\nSearch OutlookTips\nSEARCH\nTraining and one-on-one assistance\nDo you need help setting up Outlook or want some one-on-one training? I'm available for hire. See Training and one-on-one assistance for fees and to check availability.\nPopular Posts this Week\nWhere is File tab in Outlook?\nHow to bulk move Outlook folders\nIcons found in the Inbox, Message Headers, and Toolbars\nHow to Reset the View on Outlook folders\nUnderstanding Tasks and To-Do List\nChange or cancel meetings without sending update messages\nHow to Find Folder Paths in Outlook Mailboxes\niCloud Contacts are not showing in Address Book\nChange Outlook's Open or Save Attachments Folder\nOutlook's Calendar and Task Icons\nAll-Time Most Popular Posts\nHow to start Outlook in safe mode\nDelete a message stuck in Outlook's Outbox\nHow to use Outlook's Command line switches\nHow to Reset the View on Outlook folders\nWhere are my Outlook Files?\nHow to Find Folder Paths in Outlook Mailboxes\nHow to use Scanpst.exe to repair Outlook data files\nOutlook's Missing Holidays\nOpen an existing personal data file (*.pst) in Outlook\nIcons found in the Inbox, Message Headers, and Toolbars\nFooter\nRecent Posts\nOutlook on the web Quick Actions moved to the right\nAutomatically sign out of Outlook.com\nQuick Actions in Outlook\nOutlook Autocomplete Bug\nOutlook on the web Address Book sort order\nRecent Bug List\nMicrosoft keeps a running list of issues affecting recently released updates at Fixes or workarounds for recent issues in Outlook for Windows.\nOffice Update History\nUpdate history for supported Office versions is at Update history for Office\nResources\nAsk questions and share your knowledge in Outlook Forums.\nTranslate\nSelect Language\nAfrikaans\nAlbanian\nAmharic\nArabic\nArmenian\nAssamese\nAymara\nAzerbaijani\nBambara\nBasque\nBelarusian\nBengali\nBhojpuri\nBosnian\nBulgarian\nCatalan\nCebuano\nChichewa\nChinese (Simplified)\nChinese (Traditional)\nCorsican\nCroatian\nCzech\nDanish\nDhivehi\nDogri\nDutch\nEsperanto\nEstonian\nEwe\nFilipino\nFinnish\nFrench\nFrisian\nGalician\nGeorgian\nGerman\nGreek\nGuarani\nGujarati\nHaitian Creole\nHausa\nHawaiian\nHebrew\nHindi\nHmong\nHungarian\nIcelandic\nIgbo\nIlocano\nIndonesian\nIrish\nItalian\nJapanese\nJavanese\nKannada\nKazakh\nKhmer\nKinyarwanda\nKonkani\nKorean\nKrio\nKurdish (Kurmanji)\nKurdish (Sorani)\nKyrgyz\nLao\nLatin\nLatvian\nLingala\nLithuanian\nLuganda\nLuxembourgish\nMacedonian\nMaithili\nMalagasy\nMalay\nMalayalam\nMaltese\nMaori\nMarathi\nMeiteilon (Manipuri)\nMizo\nMongolian\nMyanmar (Burmese)\nNepali\nNorwegian\nOdia (Oriya)\nOromo\nPashto\nPersian\nPolish\nPortuguese\nPunjabi\nQuechua\nRomanian\nRussian\nSamoan\nSanskrit\nScots Gaelic\nSepedi\nSerbian\nSesotho\nShona\nSindhi\nSinhala\nSlovak\nSlovenian\nSomali\nSpanish\nSundanese\nSwahili\nSwedish\nTajik\nTamil\nTatar\nTelugu\nThai\nTigrinya\nTsonga\nTurkish\nTurkmen\nTwi\nUkrainian\nUrdu\nUyghur\nUzbek\nVietnamese\nWelsh\nXhosa\nYiddish\nYoruba\nZulu\nPowered by Translate\nYou Might Like\nWhere is File tab in Outlook?\nUsing Two-factor authentication\nWhere are my Outlook Files?\nHow to use Outlook's Command line switches\n© 2003–2022 · Outlook Tips\nPrivacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.\nTo find out more, including how to control cookies, see here: Cookie Policy",
+    "font": "Lato, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(6, 39, 133, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 10,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SEARCH",
+            "bg-color": "rgba(206, 206, 206, 1)",
+            "location": {
+                "x": 910,
+                "y": 633
+            },
+            "size": {
+                "height": 27,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

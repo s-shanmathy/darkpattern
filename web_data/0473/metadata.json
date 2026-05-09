@@ -1,0 +1,1545 @@
+{
+    "title": "Click2Houston | Houston News, Texas News, Weather, Sports | KPRC 2",
+    "url": "click2houston.com",
+    "full_url": "https://www.click2houston.com/",
+    "images": [
+        {
+            "alt": "Cloudy icon",
+            "location": {
+                "x": 70,
+                "y": 20
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Click2Houston.com",
+            "location": {
+                "x": 70,
+                "y": -40
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "2 dead in 11-vehicle crash involving motorcyclist on I-45 North Freeway and SH-242 southbound in Montgomery County: DPS",
+            "location": {
+                "x": 24,
+                "y": 804
+            },
+            "size": {
+                "height": 364,
+                "width": 635
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man who raped another man at bar sentenced ",
+            "location": {
+                "x": 675,
+                "y": 804
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kenia Osoria",
+            "location": {
+                "x": 675,
+                "y": 995
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Water plant needs upgrades and replacements ",
+            "location": {
+                "x": 24,
+                "y": 1381
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Search continues for missing former UH student who disappeared during weekend camping trip, officials say",
+            "location": {
+                "x": 350,
+                "y": 1381
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Former Fort Worth Police Officer Aaron Dean looks towards his attorneys during the second day of his murder trial on Tuesday, Dec. 6, 2022, in Fort Worth, Texas. Dean is accused of fatally shooting Atatiana Jefferson in 2019 during a welfare check. (Amanda McCoy/Star-Telegram via AP, Pool)",
+            "location": {
+                "x": 24,
+                "y": 1709
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Manhattan District Attorney Alvin Bragg exits the courtroom after the jury found the Trump Organization guilty on all counts in a criminal tax fraud case, Tuesday, Dec. 6, 2022, in New York. (AP Photo/Julia Nikhinson)",
+            "location": {
+                "x": 350,
+                "y": 1709
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BOREHAMWOOD, ENGLAND - AUGUST 16:  Kirstie Alley enters the Celebrity Big Brother house at Elstree Studios on August 16, 2018 in Borehamwood, England.  (Photo by Stuart C. Wilson/Getty Images)",
+            "location": {
+                "x": 24,
+                "y": 2200
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "10-day Forecast",
+            "location": {
+                "x": 350,
+                "y": 2200
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KPRC 2 Investigates illegal paper tags on vehicles around Houston.",
+            "location": {
+                "x": 24,
+                "y": 2503
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Man found dead with multiple gunshot wounds in east Houston, police say",
+            "location": {
+                "x": 350,
+                "y": 2503
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KPRC 2 Insiders have a chance to win tickets to the Trans-Siberian Orchestra performance on Dec. 29 at the Toyota Center",
+            "location": {
+                "x": 24,
+                "y": 2995
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Grammy-nominated gospel singer Jekalyn Carr visits Houston Life",
+            "location": {
+                "x": 350,
+                "y": 2995
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Get in on these exclusive Insider Deals!",
+            "location": {
+                "x": 24,
+                "y": 3520
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "12 stellar Cyber Monday",
+            "location": {
+                "x": 350,
+                "y": 3520
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FILE - In this photo released by the U.S. Navy, the destroyer USS Shaw explodes after being hit by bombs during the Japanese surprise attack on Pearl Harbor, Hawaii, December 7, 1941. A few centenarian survivors of the attack on Pearl Harbor are expected to gather at the scene of the Japanese bombing on Wednesday, Dec. 7, 2022, to remember those who perished 81 years ago. (U.S. Navy via AP)",
+            "location": {
+                "x": 680,
+                "y": 1727
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A burned-out warehouse is seen, Tuesday, Dec. 6, 2022, in Baltimore. A man was found dead inside the building Sunday morning, hours after firefighters extinguished the blaze. (AP Photo/Lea Skene)",
+            "location": {
+                "x": 680,
+                "y": 1809
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "People attend a service at St. Nicholas Greek Orthodox Church in New York, Tuesday, Dec. 6, 2022. After a rebuilding process that lasted more than two decades, the Greek Orthodox church that was destroyed in the Sept. 11 attacks has reopened at the World Trade Center site. The St. Nicholas Greek Orthodox Church and National Shrine, designed by architect Santiago Calatrava, now overlooks the Trade Center memorial pools from an elevated park. (AP Photo/Seth Wenig)",
+            "location": {
+                "x": 680,
+                "y": 1892
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FILE - Diana Scott holds up a sign while taking part in a demonstration about the use of robots by the San Francisco Police Department outside of City Hall in San Francisco, Monday, Dec. 5, 2022. San Francisco supervisors have voted put the brakes on a controversial policy that would let police use robots for deadly force. The Board of Supervisors voted Tuesday to send the issue back to a committee for further discussion. (AP Photo/Jeff Chiu, File)",
+            "location": {
+                "x": 680,
+                "y": 1974
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Houston Texans quarterback Davis Mills warms up before an NFL football game against the Tennessee Titans Sunday, Oct. 30, 2022, in Houston. (AP Photo/Eric Christian Smith)",
+            "location": {
+                "x": 24,
+                "y": 3898
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "This combination of photos shows, Sen. Raphael Warnock, D-Ga., speaking to reporters on Capitol Hill in Washington, Aug. 3, 2021, left, and Republican Senate candidate Herschel Walker speaking in Perry, Ga., Sept. 25, 2021. Walker is in a runoff election with incumbent Warnock. (AP Photo)",
+            "location": {
+                "x": 350,
+                "y": 3898
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Push by parents, current and former students to keep special ed program at T.H. Rogers School ",
+            "location": {
+                "x": 24,
+                "y": 4226
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FILE - A Southwest Airlines jetliner sits at a gate on the C concourse of Denver International Airport on Wednesday, Oct. 6, 2021, in Denver.  A Southwest Airlines pilot is suing the company, her union and a former colleague who pleaded guilty last year to stripping naked in front of her during a flight, Wednesday, Oct. 5, 2022. C(AP Photo/David Zalubowski)",
+            "location": {
+                "x": 350,
+                "y": 4226
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Indoor playground in The Woodlands facing concerns from parents ",
+            "location": {
+                "x": 24,
+                "y": 4579
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "League City weighs banning certain books from library ",
+            "location": {
+                "x": 350,
+                "y": 4579
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "State's plan to prevent maternal deaths ",
+            "location": {
+                "x": 24,
+                "y": 4907
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "‘They are just making excuses’: Residents at apartment complex in northwest Harris County say they’ve been without hot water for months ",
+            "location": {
+                "x": 350,
+                "y": 4907
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dissident Chinese artist and activist Ai Weiwei poses for a photo in the garden of his country house in Montemor-o-Novo, Portugal, Tuesday, Dec. 6, 2022. Ai is taking heart from recent public protests in China over the authorities' strict COVID-19 policy, but he doesn't see them bringing about any significant political change. (AP Photo/Ana Brigida)",
+            "location": {
+                "x": 24,
+                "y": 5497
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The mother and father of a four-month-old baby that urgently needs a heart operation leave the High Court in Auckland, New Zealand, Tuesday, Dec. 6, 2022. The court on Wednesday, Dec. 7, 2022, ruled against the family who had refused blood transfusions for their baby son unless the blood came from donors who hadn't been vaccinated against COVID-19. (Michael Craig/New Zealand Herald via AP)",
+            "location": {
+                "x": 350,
+                "y": 5497
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "‘Tis the Season for Zoo Lights at The Houston Zoo and Who Knows? You Might Even Spot a Giant Yeti",
+            "location": {
+                "x": 24,
+                "y": 6036
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HOUSTON, TX - JANUARY 07:  A general view of The Galleria mall on January 7, 2013 in Houston, Texas. More than 26 million visitors each year visit the shopping and dining environment which is Texas' largest shopping center and fourth largest nationally.  (Photo by Scott Halleran/Getty Images)",
+            "location": {
+                "x": 350,
+                "y": 6036
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "David Wilshusen, 69, outside his home in Houston County on Wednesday, Nov. 30, 2022.",
+            "location": {
+                "x": 680,
+                "y": 3898
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Former President Donald Trump speaks during a rally in Robstown on Oct. 22.",
+            "location": {
+                "x": 680,
+                "y": 3988
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gov. Greg Abbott said he will nominate longtime state Sen. Jane Nelson to be secretary of state.",
+            "location": {
+                "x": 680,
+                "y": 4079
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gov. Greg Abbott and Lt. Gov. Dan Patrick at a joint press conference on the lawn of the Governors Mansion on Jan. 9, 2019.",
+            "location": {
+                "x": 680,
+                "y": 4169
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Courtesy photo. Blue Key National Honor Society",
+            "location": {
+                "x": 24,
+                "y": 6428
+            },
+            "size": {
+                "height": 113,
+                "width": 201
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A man having coffee in the early morning hours at a campsite in Badlands National Park, South Dakota.",
+            "location": {
+                "x": 241,
+                "y": 6428
+            },
+            "size": {
+                "height": 113,
+                "width": 201
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Do you know how to best work with flight attendants?",
+            "location": {
+                "x": 458,
+                "y": 6428
+            },
+            "size": {
+                "height": 113,
+                "width": 201
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Galveston County reports first flu-related pediatric death in 2022",
+            "location": {
+                "x": 24,
+                "y": 6877
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Prairie View A&M",
+            "location": {
+                "x": 350,
+                "y": 6877
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FILE - Bill Cosby arrives for a sentencing hearing following his sexual assault conviction at the Montgomery County Courthouse in Norristown Pa., on Sept. 25, 2018. Jurors at a civil trial found Tuesday, June 21, 2022, that Cosby sexually abused a 16-year-old girl at the Playboy Mansion in 1975. (AP Photo/Matt Rourke, File)",
+            "location": {
+                "x": 24,
+                "y": 7230
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Check out this week's adoptable pets at the Houston Humane Society in the article below.",
+            "location": {
+                "x": 350,
+                "y": 7230
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gov. Greg Abbott and Lt. Gov. Dan Patrick at a joint press conference on the lawn of the Governors Mansion on Jan. 9, 2019.",
+            "location": {
+                "x": 24,
+                "y": 7559
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FILE - Argentine Vice President Cristina Fernandez greets supporters as she leaves her home in Buenos Aires, Argentina, Aug. 23, 2022. Federal court judges are preparing on Tuesday, Dec. 6, 2022, to announce their verdict in the corruption trial of Fernandez who is accused of running a criminal organization that defrauded the state of $1 billion during her presidency through public works contracts granted to a construction magnate closely tied to her family. (AP Photo/Rodrigo Abd, File)",
+            "location": {
+                "x": 350,
+                "y": 7559
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman driving wrong way on I-10 East Freeway at N. Main airlifted to hospital after crash: Baytown PD",
+            "location": {
+                "x": 24,
+                "y": 7887
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KPRC 2 Investigates: Bank cancels account, keeps $6,300 from customer",
+            "location": {
+                "x": 350,
+                "y": 7887
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Courtesy: Houston Police Department",
+            "location": {
+                "x": 24,
+                "y": 8403
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Report shows aging Houston water plants require multimillion-dollar upgrades, replacements",
+            "location": {
+                "x": 350,
+                "y": 8403
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jeremy Peña #3 of the Houston Astros poses for photo during Photo Day at The Ballpark of the Palm Beaches on March 16, 2022 in West Palm Beach, Florida. (Photo by Michael Reaves/Getty Images)",
+            "location": {
+                "x": 24,
+                "y": 8731
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Harris Health Lyndon B. Johnson Hospital has the new DaVinci XI Surgery Robotic System for surgeries, and now through portable simulators can show staff technology up close.",
+            "location": {
+                "x": 350,
+                "y": 8731
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Police lights generic",
+            "location": {
+                "x": 24,
+                "y": 9084
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kirstie Alley attends the LA premiere of \"The Fanatic\" at the Egyptian Theatre on Thursday, Aug. 22, 2019, in Los Angeles. (Photo by Richard Shotwell/Invision/AP)",
+            "location": {
+                "x": 350,
+                "y": 9084
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "In this image taken from El Paso County District Court video, Anderson Lee Aldrich, 22, center, sits during a court appearance in Colorado Springs, Colo., Tuesday, Dec. Nov. 6, 2022. Aldrich, the suspect accused of entering a Colorado gay nightclub clad in body armor and opening fire with an AR-15-style rifle, killing five people and wounding 17 others, was charged by prosecutors Tuesday with 305 criminal counts including hate crimes and murder. (El Paso County District Court via AP)",
+            "location": {
+                "x": 24,
+                "y": 9387
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Taste of the Texans 2022 charity event",
+            "location": {
+                "x": 350,
+                "y": 9387
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ask 2: How’s the progress coming along with the work on the Ship Channel Bridge?",
+            "location": {
+                "x": 680,
+                "y": 6428
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ask 2: What's the update on construction on State Highway 242?",
+            "location": {
+                "x": 680,
+                "y": 6505
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ask 2: What's causing traffic problems in Gulton area? ",
+            "location": {
+                "x": 680,
+                "y": 6583
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ask 2: Flashing red & blue lights on tow trucks-- are those legal? ",
+            "location": {
+                "x": 680,
+                "y": 6660
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gov. Greg Abbott said he will nominate longtime state Sen. Jane Nelson to be secretary of state.",
+            "location": {
+                "x": 24,
+                "y": 9707
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Imperial Sugar refinery, as photographed in 2002 by the Associated Press.",
+            "location": {
+                "x": 350,
+                "y": 9707
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Non-profit helping people on the road to recovery by offering dog boarding ",
+            "location": {
+                "x": 24,
+                "y": 10035
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Houston Texans linebacker Christian Kirksey (58) lines up for the snap during an NFL game against the Washington Commanders on Sunday, November 20, 2022, in Houston. (AP Photo/Matt Patterson)",
+            "location": {
+                "x": 350,
+                "y": 10035
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Forecast and records for this Tuesday",
+            "location": {
+                "x": 24,
+                "y": 10338
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "(Left to right: Patrick Paul Carrier, Eduardo Quinones Fuentes, Jaquille Carl Chefney)",
+            "location": {
+                "x": 350,
+                "y": 10338
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "All lanes blocked on I-45 North Freeway at Airline due to multi-vehicle crash, HPD says",
+            "location": {
+                "x": 24,
+                "y": 10616
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Philadelphia 76ers forward Tobias Harris (12) shoots as Houston Rockets center Alperen Sengun, center, defends during the second half of an NBA basketball game, Monday, Dec. 5, 2022, in Houston. (AP Photo/Eric Christian Smith)",
+            "location": {
+                "x": 350,
+                "y": 10616
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KPRC 2 Investigates illegal paper tags on vehicles around Houston.",
+            "location": {
+                "x": 680,
+                "y": 9755
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Report shows aging Houston water plants require multimillion-dollar upgrades, replacements",
+            "location": {
+                "x": 680,
+                "y": 9845
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KPRC 2 Investigates: Bank cancels account, keeps $6,300 from customer",
+            "location": {
+                "x": 680,
+                "y": 9936
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Costly, questionable ambulance modifications ",
+            "location": {
+                "x": 680,
+                "y": 10026
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman fatally struck by vehicle while crossing street in Channelview, HCSO says",
+            "location": {
+                "x": 24,
+                "y": 10935
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman shot during carjacking outside check cashing business in SW Houston; possible suspect detained after chase: HPD ",
+            "location": {
+                "x": 350,
+                "y": 10935
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Disabled man dies from injuries after subjected to torturous ‘holistic’ procedures by mother, stepfather, Hitchcock police say",
+            "location": {
+                "x": 24,
+                "y": 11288
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hertz $166 Million false car theft claims settlement ",
+            "location": {
+                "x": 350,
+                "y": 11288
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Missing 16-year-old with autism",
+            "location": {
+                "x": 24,
+                "y": 11642
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HOUSTON, TEXAS - NOVEMBER 05: Jose Altuve #27 of the Houston Astros lifts the commissioner's trophy after defeating the Philadelphia Phillies 4-1 to win the 2022 World Series in Game Six of the 2022 World Series at Minute Maid Park on November 05, 2022 in Houston, Texas. (Photo by Harry How/Getty Images)",
+            "location": {
+                "x": 350,
+                "y": 11642
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kaipo Meyer",
+            "location": {
+                "x": 24,
+                "y": 11945
+            },
+            "size": {
+                "height": 174,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "10-day Forecast",
+            "location": {
+                "x": 680,
+                "y": 10983
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Forecast and records for this Tuesday",
+            "location": {
+                "x": 680,
+                "y": 11061
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The August 24th headlines tell the horrific story of what happened the prior night.",
+            "location": {
+                "x": 680,
+                "y": 11210
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Omne Results Logo",
+            "location": {
+                "x": 793,
+                "y": 12393
+            },
+            "size": {
+                "height": 56,
+                "width": 192
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Graham Media Group Logo",
+            "location": {
+                "x": 24,
+                "y": 12590
+            },
+            "size": {
+                "height": 43,
+                "width": 96
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Graham Digital Logo",
+            "location": {
+                "x": 136,
+                "y": 12590
+            },
+            "size": {
+                "height": 42,
+                "width": 96
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search for anything...",
+            "type": "text",
+            "location": {
+                "x": 24,
+                "y": -805
+            },
+            "size": {
+                "height": 48,
+                "width": 961
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            11,
+            14,
+            19
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            255,
+            254,
+            254
+        ]
+    ],
+    "desc": "Visit Click2Houston.com for breaking news in Houston, Texas from KPRC. Houston, Texas breaking news, headlines, weather, and sports. The latest local Houston, Texas news and more from NBC TV's local affiliate in Houston, Texas, KPRC - Houston's Channel 2.",
+    "navbar": "",
+    "text": "72º\nJoin Insider\nSign In\nNEWS\nWEATHER\nSPORTS\nTHINGS TO DO\nYOUR CITY\nDISCOVER\nHOUSTON LIFE\nTRAFFIC\nNEWSLETTERS\nNEWSLETTERS\nLIVE\nINSIDER\nHIDE\n35 MINUTES AGO\n2 dead in 11-vehicle crash involving motorcyclist on I-45 North Freeway and SH-242 southbound in Montgomery County: DPS\n02:32\n7 HOURS AGO\nPearland man sentenced to 82 years in prison for brutal attack, sexual assault of another man at bar in 2021\n14 HOURS AGO\n‘Only God knows why’: Family identifies woman killed in murder-suicide outside Texas Children’s Hospital in west Harris County\n02:39\n12 HOURS AGO\n‘What’s next?’: City leaders address next steps after Houston water emergency\n01:42\n17 HOURS AGO\nSearch continues for missing former UH student who disappeared during weekend camping trip, officials say\n13 HOURS AGO\nTexas cop didn’t say ‘gun’ before fatally shooting Black woman\n9 HOURS AGO\nDonald Trump’s company found guilty of tax fraud in scheme hatched by top executives\n21 HOURS AGO\nKirstie Alley: These are 5 of the beloved star’s most memorable, acclaimed roles\n22 MINUTES AGO\nRecord highs possible again this afternoon\n39 MINUTES AGO\nKPRC 2 Investigates: ‘Big problem’ with new design of Texas temp tags\n1 HOUR AGO\nMan found dead with multiple gunshot wounds in east Houston, police say\n🔒 VIP tickets and more are up for grabs in this Trans-Siberian Orchestra sweepstakes\nGrammy-nominated gospel singer Jekalyn Carr visits Houston Life\nCLICK2SAVE\nGet in on these exclusive Insider Deals!\nScore points this Holiday Season with these 12 stellar Cyber Monday deals all under $30\nNATIONAL NEWS\n1 HOUR AGO\nHawaii remembrance to draw handful of Pearl Harbor survivors\n11 HOURS AGO\nBrother finds body Baltimore firefighters missed in building\n11 HOURS AGO\nGreek Orthodox church at World Trade Center reopens at last\n11 HOURS AGO\nAmid outcry, San Francisco pauses on 'killer police robots'\nMORE HEADLINES\n1 HOUR AGO\nSources: Texans go back to Davis Mills, original QB1, as starter for Cowboys game\n9 HOURS AGO\nDemocratic Sen. Raphael Warnock defeats Republican Herschel Walker in Georgia runoff\n10 HOURS AGO\n‘We’re not going to back down’: Parents of special needs students at HISD school plan to fight district over decision to remove their children\n11 HOURS AGO\nJudge reduces award for flight attendant who sued Southwest\n1 DAY AGO\nIndoor playground in The Woodlands shuts down to make repairs after parents complain about safety concerns\n8 HOURS AGO\nSome residents concerned about possible new book policy for public libraries in League City\n12 HOURS AGO\nTexas State Health Services aiming to address maternal depression, mortality and morbidity\n12 HOURS AGO\n‘They are just making excuses’: Residents at apartment complex in northwest Harris County say they’ve been without hot water for months\nCORONAVIRUS HEADLINES\n1 HOUR AGO\nDissident artist Weiwei says China unrest won't alter regime\n2 HOURS AGO\nNew Zealand court rules against anti-vax parents of ill baby\nHOLIDAYS\n13 HOURS AGO\n‘Tis the Season for Zoo Lights at The Houston Zoo and Who Knows? You Might Even Spot a Giant Yeti\n2 DAYS AGO\nGalleria launches buy in store, deliver to home service for holiday shopping\nTEXAS NEWS\n1 HOUR AGO\nA boil-water notice in Houston made national news. In rural Texas, it’s a way of life.\n15 HOURS AGO\nCruz: “Of course” Trump was wrong to call for terminating Constitution\n18 HOURS AGO\nGov. Greg Abbott says he will nominate retiring state Sen. Jane Nelson to be secretary of state\n1 DAY AGO\nGreg Abbott and Dan Patrick diverge ahead of the legislative session on property taxes, power grid\nTRAVEL\nThese are so cool! Snow sculptures make this town the place to be in winter\nThe top U.S. travel destinations you shouldn’t overlook\nHow to get what you want while traveling: Advice from flight attendants\nMORE NEWS HEADLINES\n12 HOURS AGO\nGalveston County reports first flu-related pediatric death in 2022\n12 HOURS AGO\nBaker Hughes Foundation gives $1M to 4 HBCUs, including TSU, Prairie View to help promote educational opportunities\n14 HOURS AGO\nBill Cosby, NBC, studio face new sex abuse lawsuit from 5 women in NY\n15 HOURS AGO\nNew pet for Christmas? Houston Humane Society offering $25 adoptions on pets six months and older\n1 DAY AGO\nGreg Abbott and Dan Patrick diverge ahead of the legislative session on property taxes, power grid\n12 HOURS AGO\nArgentina's VP Fernández guilty in $1B fraud, gets 6 years\n17 HOURS AGO\nWoman driving wrong way on I-10 East Freeway at N. Main airlifted to hospital after crash: Baytown PD\n1 DAY AGO\nKPRC 2 Investigates: Bank cancels account, keeps $6,300 from customer\n15 HOURS AGO\nTake a good look: Low-budget thief violently punches, kicks woman outside SE Houston store for $20, police say\n1 DAY AGO\nReport shows aging Houston water plants require multimillion-dollar upgrades, replacements\n15 HOURS AGO\nAstros’ Jeremy Peña helps kids access sports in wake of MVP win\n18 HOURS AGO\nHarris Health LBJ Hospital receives latest robotic system that allows surgeons to improve patient procedures for surgery\n23 HOURS AGO\n1 dead in crash involving 18-wheeler in northwest Harris County, HCSO says\n20 HOURS AGO\nKirstie Alley, Emmy-winning ‘Cheers’ star, dies at 71\n10 HOURS AGO\nColorado gay club shooting suspect charged with hate crimes\n19 HOURS AGO\nTexans give back at annual Taste of the Texans charity event\nASK 2\nAsk 2: How’s the progress coming along with the work on the Ship Channel Bridge?\nAsk 2: What’s going on with construction on SH-242?\nAsk 2: What’s causing traffic problems in Gulfton neighborhood?\nAsk 2: Are flashing red, blue lights reserved just for law enforcement officers?\n18 HOURS AGO\nGov. Greg Abbott says he will nominate retiring state Sen. Jane Nelson to be secretary of state\n20 HOURS AGO\nSugar Land Imperial sites’ future at center of 2 town hall events hosted by city, developer\n20 HOURS AGO\nNon-profit helping people on the road to recovery by offering dog boarding\n21 HOURS AGO\nTexans’ Christian Kirksey nominated for Walter Payton Man of the Year\n18 HOURS AGO\nRecord highs possible this afternoon\n1 DAY AGO\n3 of Texas’ Top 10 Most Wanted Fugitives back in custody\n1 DAY AGO\nAll lanes blocked on I-45 North Freeway at Airline due to multi-vehicle crash, HPD says\n1 DAY AGO\nRockets outlast 76ers in 2 OTs; Harden 4 for 19 in return\n2 INVESTIGATES\n39 MINUTES AGO\nKPRC 2 Investigates: ‘Big problem’ with new design of Texas temp tags\n1 DAY AGO\nReport shows aging Houston water plants require multimillion-dollar upgrades, replacements\n1 DAY AGO\nKPRC 2 Investigates: Bank cancels account, keeps $6,300 from customer\n1 DAY AGO\nWaller County EMS ambulances found with emissions defeat devices\n1 DAY AGO\nWoman fatally struck by vehicle while crossing street in Channelview, HCSO says\n1 DAY AGO\nWoman shot during carjacking outside check cashing business in SW Houston; possible suspect detained after chase: HPD\n20 HOURS AGO\nDisabled man dies from injuries after subjected to torturous ‘holistic’ procedures by mother, stepfather, Hitchcock police say\n12 HOURS AGO\nHertz will pay $168 million to settle hundreds of false car theft claims\n1 DAY AGO\nHave you seen Chace Perez? 16-year-old with autism reported missing in northeast Houston\n1 DAY AGO\n6 Houston Astros players selected to All-MLB team\n1 DAY AGO\nSuspect arrested after man claims he was held hostage at gunpoint, assaulted at apartment complex in Spring\nWEATHER NEWS\n22 MINUTES AGO\nRecord highs possible again this afternoon\n18 HOURS AGO\nRecord highs possible this afternoon\nHOUSTON HISTORY\nHouston Newsmakers: Largest murder trial in US history one reason behind clemency efforts for convicted Camp Logan soldiers\nTV Listings\nContests and Rules\nEmail Newsletters\nRSS Feeds\nClosed Captioning / Audio Description\nContact Us\nMeet the Team\nCareers at KPRC\nTerms of Use\nPrivacy Policy\nPublic File\nFCC Applications\nDo Not Sell My Info\nFOLLOW US\nfacebook\ntwitter\ninstagram\nrss\nGET RESULTS WITH OMNE\nIf you need help with the Public File, call (713) 778-4745.\nCopyright © 2022 Click2Houston.com is managed by Graham Digital and published by Graham Media Group, a division of Graham Holdings.",
+    "font": "OpenSans, Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "Join Insider",
+            "bg-color": "rgba(59, 130, 246, 1)",
+            "location": {
+                "x": 750,
+                "y": 32
+            },
+            "size": {
+                "height": 32,
+                "width": 114
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Sign In",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 879,
+                "y": 32
+            },
+            "size": {
+                "height": 32,
+                "width": 106
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(59, 130, 246, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 32,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 839,
+                "y": 382
+            },
+            "size": {
+                "height": 16,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 865,
+                "y": 382
+            },
+            "size": {
+                "height": 16,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 890,
+                "y": 382
+            },
+            "size": {
+                "height": 16,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "HIDE",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 924,
+                "y": 380
+            },
+            "size": {
+                "height": 22,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

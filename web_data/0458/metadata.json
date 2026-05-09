@@ -1,0 +1,500 @@
+{
+    "title": "PsychonautWiki",
+    "url": "psychonautwiki.org",
+    "full_url": "https://psychonautwiki.org/wiki/Main_Page",
+    "images": [
+        {
+            "alt": "Star-o.svg",
+            "location": {
+                "x": 940,
+                "y": 370
+            },
+            "size": {
+                "height": 20,
+                "width": 19
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Psychonauticsicon.png",
+            "location": {
+                "x": 909,
+                "y": 413
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Visual.png",
+            "location": {
+                "x": 909,
+                "y": 603
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cognitive.png",
+            "location": {
+                "x": 909,
+                "y": 864
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Subjective effects.png",
+            "location": {
+                "x": 909,
+                "y": 1147
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Responsible use2.png",
+            "location": {
+                "x": 909,
+                "y": 1431
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Psychedelics123.png",
+            "location": {
+                "x": 909,
+                "y": 1691
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Psychedelics123.png",
+            "location": {
+                "x": 909,
+                "y": 1789
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dissicon2.png",
+            "location": {
+                "x": 909,
+                "y": 2119
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Del.png",
+            "location": {
+                "x": 909,
+                "y": 2310
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Weedz.png",
+            "location": {
+                "x": 909,
+                "y": 2408
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stimmys2.png",
+            "location": {
+                "x": 909,
+                "y": 2529
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Downers2.png",
+            "location": {
+                "x": 909,
+                "y": 2882
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nootsicon.png",
+            "location": {
+                "x": 909,
+                "y": 3351
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Natural sources.png",
+            "location": {
+                "x": 909,
+                "y": 3565
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pharmicon.png",
+            "location": {
+                "x": 909,
+                "y": 3733
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Neuroscience.png",
+            "location": {
+                "x": 909,
+                "y": 3993
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tutorials.png",
+            "location": {
+                "x": 909,
+                "y": 4184
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oneironautics.png",
+            "location": {
+                "x": 909,
+                "y": 4398
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Experiences.png",
+            "location": {
+                "x": 909,
+                "y": 4519
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Devel.png",
+            "location": {
+                "x": 909,
+                "y": 4756
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Comm.png",
+            "location": {
+                "x": 909,
+                "y": 4831
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tasks.svg",
+            "location": {
+                "x": 605,
+                "y": 355
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pencil.svg",
+            "location": {
+                "x": 608,
+                "y": 898
+            },
+            "size": {
+                "height": 20,
+                "width": 17
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search PsychonautWiki",
+            "type": "search",
+            "location": {
+                "x": 788,
+                "y": 48
+            },
+            "size": {
+                "height": 28,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Go to a page with this exact name if it exists",
+            "type": "submit",
+            "location": {
+                "x": 968,
+                "y": 49
+            },
+            "size": {
+                "height": 26,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            253,
+            253,
+            253
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            246,
+            246,
+            246
+        ]
+    ],
+    "navbar": "",
+    "text": "Jump to navigation\nJump to search\nWelcome to\nThe open encyclopedia of psychonautics\nTor: vvedndyt433kopnhv6vejxnut54y5752vpxshjaqmj7ftwiu6quiv2ad.onion\nI2P: psy.i2p\nFeatured articles\nPsychonautics\nSubjective effect index ⋅ Psychoactive substance index ⋅ Replication index ⋅ Hallucinogens ⋅ Entheogens ⋅ Naturally occurring sources ⋅ Meditation ⋅ Sensory deprivation ⋅ Lucid dreaming ⋅ Spokespeople ⋅ Network\nVisual effects\nAcuity enhancement ⋅ Autonomous entities ⋅ Colour enhancement ⋅ Colour shifting ⋅ Drifting ⋅ Environmental cubism ⋅ External hallucinations ⋅ Geometry ⋅ Internal hallucinations ⋅ Magnification ⋅ Pattern recognition enhancement ⋅ Recursion ⋅ Scenery slicing ⋅ Shadow people ⋅ Symmetrical texture repetition ⋅ Tracers ⋅ Visual disconnection\nCognitive effects\nAnxiety suppression ⋅ Conceptual thinking ⋅ Creativity enhancement ⋅ Compulsive redosing ⋅ Delusions ⋅ Derealization ⋅ Disinhibition ⋅ Ego death ⋅ Ego inflation ⋅ Emotion enhancement ⋅ Memory suppression ⋅ Mindfulness ⋅ Novelty enhancement ⋅ Personal bias suppression ⋅ Thought connectivity ⋅ Thought disorganization ⋅ Thought loop ⋅ Time distortion\nMiscellaneous effects\nAuditory distortion ⋅ Auditory enhancement ⋅ Auditory hallucinations ⋅ Bodily control enhancement ⋅ Component controllability ⋅ Detachment plateaus ⋅ Machinescapes ⋅ Motor control loss ⋅ Physical autonomy ⋅ Physical euphoria ⋅ Pupil dilation ⋅ Sedation ⋅ Spontaneous bodily sensations ⋅ Stimulation ⋅ Synaesthesia ⋅ Tactile enhancement ⋅ Unity and interconnectedness\nResponsible drug use\nBad trip ⋅ Cold turkey ⋅ Cotton fever ⋅ Dosage ⋅ Dosage measurement ⋅ Dosage classification ⋅ Drug overdose ⋅ Drug withdrawal ⋅ Milligram scale ⋅ Recovery position ⋅ Route of administration ⋅ Safer injection guide ⋅ Seizure ⋅ Set and setting · Serotonin syndrome ⋅ Sharing injection materials · Tapering · Trip sitter ⋅ Volumetric liquid dosing\nClassical psychedelics\nAyahuasca ⋅ DMT ⋅ LSD ⋅ Mescaline ⋅ Psilocybin mushrooms\nNovel psychedelics\n1P-LSD ⋅ 25B-NBOMe ⋅ 25C-NBOMe ⋅ 25I-NBOMe ⋅ 25N-NBOMe ⋅ 2C-B ⋅ 2C-B-FLY ⋅ 2C-C ⋅ 2C-D ⋅ 2C-E ⋅ 2C-I ⋅ 2C-P ⋅ 2C-T-2 ⋅ 2C-T-7 ⋅ 4-AcO-DET ⋅ 4-AcO-DMT ⋅ 4-HO-DiPT ⋅ 4-HO-DPT ⋅ 4-AcO-MET ⋅ 4-AcO-MiPT ⋅ 4-HO-MET ⋅ 4-HO-MiPT ⋅ 5-MeO-DALT ⋅ 5-MeO-DiBF ⋅ 5-MeO-DMT ⋅ 5-MeO-MiPT ⋅ AL-LAD ⋅ αMT ⋅ Bromo-DragonFLY ⋅ DiPT ⋅ DOB ⋅ DOC ⋅ DOI ⋅ DOM ⋅ Efavirenz ⋅ ETH-LAD ⋅ Ibogaine ⋅ LSA ⋅ MDA ⋅ MiPT ⋅ MET ⋅ Psilocin\nDissociatives\n2-FDCK ⋅ 3-MeO-PCE ⋅ 3-MeO-PCMo ⋅ 3-MeO-PCP ⋅ 4-MeO-PCP ⋅ DXM ⋅ Diphenidine ⋅ DCK ⋅ Ephenidine ⋅ Ketamine ⋅ Memantine ⋅ Methoxetamine ⋅ Methoxphenidine ⋅ Nitrous oxide ⋅ O-PCE ⋅ PCP ⋅ Salvinorin A\nDeliriants\nBenzydamine ⋅ Datura ⋅ Diphenhydramine (DPH)\nCannabinoids\nCannabis ⋅ 5F-AKB48 ⋅ 5F-PB-22 ⋅ AB-FUBINACA ⋅ APICA ⋅ JWH-018 ⋅ JWH-073 ⋅ THJ-018 ⋅ THJ-2201 ⋅ STS-135\nStimulants\n2-AI ⋅ 2-FA ⋅ 2-FMA ⋅ 3,4-CTMP ⋅ 3-FEA ⋅ 3-FPM ⋅ 4-FA ⋅ 5-APB ⋅ 6-APB ⋅ 6-APDB ⋅ A-PVP ⋅ A-PHP ⋅ Amphetamine ⋅ Butylone ⋅ Caffeine ⋅ Cocaine ⋅ Desoxypipradrol ⋅ Dichloropane ⋅ Ethylphenidate ⋅ Ethylone ⋅ Hexedrone ⋅ Hexen ⋅ Isopropylphenidate ⋅ Lisdexamfetamine ⋅ Mephedrone ⋅ MDAI ⋅ MDEA ⋅ MDMA ⋅ MDPV ⋅ Methamphetamine ⋅ Methiopropamine ⋅ Methylone ⋅ Methylphenidate ⋅ Methylnaphthidate ⋅ Mexedrone ⋅ NEP ⋅ Nicotine ⋅ NM-2-AI\nDepressants\n1,4-Butanediol ⋅ 2M2B ⋅ Acetylfentanyl ⋅ Alcohol ⋅ Alprazolam ⋅ Buprenorphine ⋅ Clonazolam ⋅ Clonazepam ⋅ Codeine ⋅ Deschloroetizolam ⋅ Dextropropoxyphene ⋅ Diazepam ⋅ Diclazepam ⋅ Dihydrocodeine ⋅ Ethylmorphine ⋅ Etizolam ⋅ Fentanyl ⋅ Flubromazepam ⋅ Flubromazolam ⋅ F-Phenibut ⋅ Gabapentin ⋅ GBL ⋅ GHB ⋅ Heroin ⋅ Hydrocodone ⋅ Kratom ⋅ Lorazepam ⋅ Methadone ⋅ Methaqualone ⋅ Nifoxipam ⋅ O-Desmethyltramadol ⋅ Oxycodone ⋅ Pethidine ⋅ Pentobarbital ⋅ Phenibut ⋅ Phenobarbital ⋅ Pregabalin ⋅ Pyrazolam ⋅ Quetiapine ⋅ Secobarbital ⋅ Sufentanil ⋅ Tapentadol ⋅ Tianeptine ⋅ Tramadol ⋅ U-47700 ⋅ Zopiclone ⋅ Zolpidem\nNootropics\nAlpha-GPC ⋅ Armodafinil ⋅ Bromantane ⋅ Choline bitartrate ⋅ Citicoline ⋅ Coluracetam ⋅ Creatine ⋅ L-Theanine ⋅ N-Methylbisfluoromodafinil ⋅ N-Acetylcysteine ⋅ S-Adenosyl methionine ⋅ Modafinil ⋅ Noopept ⋅ Oxiracetam ⋅ Piracetam ⋅ Pramiracetam ⋅ Tianeptine ⋅ Tyrosine\nBotany & Mycology\nAmanita muscaria ⋅ Cannabis ⋅ Coffea ⋅ Nicotiana ⋅ Peganum harmala ⋅ Psilocybe cubensis ⋅ Psilocybe mexicana ⋅ Salvia divinorum ⋅ Echinopsis pachanoi (San Pedro)\nPharmacology\nAgonist ⋅ Antagonist ⋅ Antihistamine ⋅ Arylcyclohexylamine ⋅ Benzodiazepine ⋅ Isomer ⋅ Lysergamide ⋅ MAOI (RIMA) ⋅ Morphinan ⋅ Opioid ⋅ Phenethylamine ⋅ Research chemicals ⋅ Reuptake inhibitor ⋅ Releasing agent ⋅ Substituted amphetamine ⋅ Substituted cathinone ⋅ Substituted pyrrolidine ⋅ Tropane alkaloid ⋅ Tryptamine\nNeuroscience\nAcetylcholine ⋅ Adrenaline ⋅ Dopamine ⋅ GABA ⋅ Glutamate ⋅ Hormone ⋅ Melatonin ⋅ Neuron ⋅ Neurotransmitter ⋅ Noradrenaline ⋅ Receptor ⋅ Serotonin ⋅ Serotonin syndrome ⋅ Substance P ⋅ Synapse\nTutorials\nAcid-base DXM extraction ⋅ Simple ayahuasca recipes ⋅ Ayahuasca brew ⋅ Changa recipe ⋅ Naphtha/Sodium hydroxide DMT extraction ⋅ Extraction of opioids from painkiller products ⋅ Kratom resin/extraction tek ⋅ LSA extract tincture ⋅ Mushroom tea ⋅ Volumetric liquid dosing\nOneironautics\nDreams ⋅ Dream characters ⋅ Dream signs ⋅ Intuitive awareness ⋅ Lucid dreaming ⋅ Reality checks ⋅ Sleep paralysis\nExperiences\nMy first experience with unity ⋅ Becoming God (my second experience with unity) ⋅ The building blocks of consciousness ⋅ You do not need to understand ⋅ I designed it this way myself ⋅ A tall humanoid figure ⋅ Results of experiment ⋅ Oneness through meditation ⋅ To the dextroverse! ⋅ Ego death in the snow\nDevelopment\nRecent changes ⋅ Guidelines\nCommunity\nNetwork ⋅ Twitter ⋅ Facebook ⋅ Good vibes\nList of articles\nPurpose\nPosted on September 17, 2022\nObjectives\nPsychonautWiki is a community-driven online encyclopedia that aims to document the emerging field of psychonautics in a comprehensive, scientifically-grounded manner. Our primary motivations include:\ndocumenting all aspects of psychonautic theory and practice (including meditation, lucid dreaming, psychoactive substance use, sensory deprivation, ritual, etc.) from an evidence-based, academic perspective\nproviding accessible education, encouraging safe practices, and reforming cultural taboos around the use of psychoactive substances, using both expert and crowd-based sources\npromoting a culture of secularism, free thought, and personal autonomy by safeguarding the information needed to make informed decisions over one's body and mind\nPlease don't crawl the wiki. Use our API instead.\nPsychonautWiki ❤️ Developers. Please report any obstacles.\nParticipate\nPsychonautWiki is an open content platform, meaning anyone can get involved. Contributions of any kind are always appreciated — don't hesitate to ask a fellow contributor or the team for help getting started. Our primary methods of collaboration include:\ncreating new articles, in accordance with the community guidelines\nimproving upon existing articles by adding content, removing errors, checking grammar and spelling, and finding missing citations from reliable sources (please refer to our style guide)\nengaging in constructive discussion with community members and staff by contacting us through our Telegram support channel, user profiles, or by emailing us directly\nhelping our project grow through donations\nPlease read our disclaimer\nCreate account\nLog in\nMain page\nDiscussion\nRead\nView source\nView history\nSearch\nDonate\nContact\nHome\nSubstances\nEffects\nTripsitting\nReplications\nExperiences\nTutorials\nResponsible use\nList of articles\nRandom article\nDevelopment\nDonate\nContact us\nGuidelines\nRecent changes\nOpen source\nCommunity\nNetwork\nGood vibes\nBad vibes\nTools\nWhat links here\nRelated changes\nSpecial pages\nPrintable version\nPermanent link\nPage information\nCite this page\nBrowse properties\nspecial thanks\n.st0{fill:#424141}\n—\n.st0{fill:#23ffde}.st1{fill:#ffc75e}.st2{fill:#34ca51}.st4{fill:#b12fe5}.st6{fill:#e9462b}.st7{fill:#0326ff}\n—\n.st0{fill:#231f20}\n—\nHe who marches out of line hears another drum.\nThis page was last modified on 22 April 2022, at 02:24.\nContent is available under Creative Commons Attribution-ShareAlike 4.0 International unless otherwise noted.\nPrivacy policy\nAbout PsychonautWiki\nDisclaimers\nMobile view",
+    "font": "sans-serif",
+    "iframes": [],
+    "buttons": []
+}

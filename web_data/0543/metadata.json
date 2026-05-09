@@ -1,0 +1,81 @@
+{
+    "title": "NN Investment Partners",
+    "url": "nnip.com",
+    "full_url": "https://www.nnip.com/choose-locale-and-audience",
+    "images": [
+        {
+            "alt": "NN IP Carbon Neutral",
+            "location": {
+                "x": 763,
+                "y": 1112
+            },
+            "size": {
+                "height": 49,
+                "width": 107
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            195,
+            192,
+            192
+        ],
+        [
+            239,
+            234,
+            232
+        ]
+    ],
+    "navbar": "",
+    "text": "",
+    "font": "NN-Dagny-Text, calibri, corbel, verdana, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Professional investor",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 216,
+                "y": 688
+            },
+            "size": {
+                "height": 47,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Non-professional investor",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 448,
+                "y": 688
+            },
+            "size": {
+                "height": 47,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

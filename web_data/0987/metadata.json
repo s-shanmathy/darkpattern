@@ -1,0 +1,211 @@
+{
+    "title": "Welcome to the United Nations",
+    "url": "un.org",
+    "full_url": "https://www.un.org/",
+    "images": [
+        {
+            "alt": "A young girl holding a soccer ball",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 842,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A young girl holding a soccer ball",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 683,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "UN Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "UN Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "UN Logo",
+            "location": {
+                "x": 201,
+                "y": 50
+            },
+            "size": {
+                "height": 86,
+                "width": 102
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            77,
+            77,
+            77
+        ],
+        [
+            81,
+            208,
+            249
+        ],
+        [
+            0,
+            184,
+            244
+        ]
+    ],
+    "text": "    عربي\n中文\nEnglish\nFrançais\nРусский\nEspañol\n ",
+    "font": "Roboto, sans-serif",
+    "buttons": [
+        {
+            "text": "عربي",
+            "bg-color": "rgba(77, 77, 77, 1)",
+            "location": {
+                "x": 169,
+                "y": 166
+            },
+            "size": {
+                "height": 50,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "中文",
+            "bg-color": "rgba(77, 77, 77, 1)",
+            "location": {
+                "x": 169,
+                "y": 236
+            },
+            "size": {
+                "height": 50,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "English",
+            "bg-color": "rgba(77, 77, 77, 1)",
+            "location": {
+                "x": 169,
+                "y": 306
+            },
+            "size": {
+                "height": 50,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Français",
+            "bg-color": "rgba(77, 77, 77, 1)",
+            "location": {
+                "x": 169,
+                "y": 376
+            },
+            "size": {
+                "height": 50,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Русский",
+            "bg-color": "rgba(77, 77, 77, 1)",
+            "location": {
+                "x": 169,
+                "y": 446
+            },
+            "size": {
+                "height": 50,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Español",
+            "bg-color": "rgba(77, 77, 77, 1)",
+            "location": {
+                "x": 169,
+                "y": 516
+            },
+            "size": {
+                "height": 50,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

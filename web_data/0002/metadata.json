@@ -1,0 +1,131 @@
+{
+    "title": "Goodfuture.com",
+    "url": "goodfuture.com",
+    "full_url": "https://goodfuture.com/",
+    "images": [
+        {
+            "alt": "network solutions",
+            "location": {
+                "x": 887,
+                "y": 26
+            },
+            "size": {
+                "height": 35,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 641,
+                "y": 602
+            },
+            "size": {
+                "height": 30,
+                "width": 279
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 926,
+                "y": 602
+            },
+            "size": {
+                "height": 30,
+                "width": 66
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            6,
+            6,
+            6
+        ],
+        [
+            24,
+            24,
+            24
+        ],
+        [
+            0,
+            106,
+            141
+        ]
+    ],
+    "text": "Goodfuture.Com\n\nThis Page Is Under Construction - Coming Soon!\nWhy am I seeing this 'Under Construction' page?\nRELATED SEARCHES:\nEnergy Future Trading\nLearn Future Trading\nOnline Future Trading\nCommodity Future Trading System\nInformation Technology Research\nElectronic Future Trading\nForex Future Trading\nStock Future Trading\nTrademark Free Notice Review our Privacy Policy Service Agreement Legal Notice Domain Registration Information\nPrivacy Policy",
+    "font": "Arial, Helvetica, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

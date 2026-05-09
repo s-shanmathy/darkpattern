@@ -1,0 +1,601 @@
+{
+    "title": "Attentive | Personalized Text Messaging for Innovative Brands",
+    "url": "attentivemobile.com",
+    "full_url": "https://www.attentive.com/",
+    "images": [
+        {
+            "alt": "attentive logo black",
+            "location": {
+                "x": 29,
+                "y": 22
+            },
+            "size": {
+                "height": 27,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "phone with plant ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "sunglasses",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "image with text bubbles",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "phone with integrations",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Thread 2022",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "attentive logo black",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A stylized image of Bonnie beauty eye shadow sticks behind a SMS conversation",
+            "location": {
+                "x": 536,
+                "y": 144
+            },
+            "size": {
+                "height": 471,
+                "width": 409
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shopify Plus Certified App Badge",
+            "location": {
+                "x": 123,
+                "y": 4823
+            },
+            "size": {
+                "height": 200,
+                "width": 155
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "G2 Leader Winter 2022 Badge",
+            "location": {
+                "x": 427,
+                "y": 4823
+            },
+            "size": {
+                "height": 200,
+                "width": 155
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Salesforce Marketing Cloud Logo",
+            "location": {
+                "x": 731,
+                "y": 4823
+            },
+            "size": {
+                "height": 200,
+                "width": 155
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "illustration of computer screens with plant, credit card, lightbulb, clock, shopping bags",
+            "location": {
+                "x": 80,
+                "y": 6431
+            },
+            "size": {
+                "height": 165,
+                "width": 262
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "illustration of mailbox on a phone to symbolize SMS delivery",
+            "location": {
+                "x": 374,
+                "y": 6431
+            },
+            "size": {
+                "height": 165,
+                "width": 262
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "phone with video and text message",
+            "location": {
+                "x": 667,
+                "y": 6431
+            },
+            "size": {
+                "height": 165,
+                "width": 262
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn circle icon",
+            "location": {
+                "x": 507,
+                "y": 7738
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram circle icon",
+            "location": {
+                "x": 567,
+                "y": 7738
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter circle icon",
+            "location": {
+                "x": 627,
+                "y": 7738
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook circle icon",
+            "location": {
+                "x": 687,
+                "y": 7738
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "black messaging icon\n",
+            "location": {
+                "x": 817,
+                "y": 7745
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn circle icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Instagram circle icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Twitter circle icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Facebook circle icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "black messaging icon\n",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "LinkedIn circle icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Instagram circle icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Twitter circle icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Facebook circle icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "black messaging icon\n",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Business email",
+            "type": "email",
+            "location": {
+                "x": 64,
+                "y": 548
+            },
+            "size": {
+                "height": 52,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 272,
+                "y": 548
+            },
+            "size": {
+                "height": 52,
+                "width": 201
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Business email",
+            "type": "email",
+            "location": {
+                "x": 64,
+                "y": 7173
+            },
+            "size": {
+                "height": 52,
+                "width": 240
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 304,
+                "y": 7173
+            },
+            "size": {
+                "height": 52,
+                "width": 201
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            242,
+            140
+        ],
+        [
+            26,
+            30,
+            34
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "Attentive is the most comprehensive personalized text messaging solution. 99% open rates, 30%+ click-through rates, and 25x+ ROI.",
+    "navbar": "Products\nCustomers\nResources\nPartners\nCompany\nSign in\nRequest a Demo",
+    "text": "Products\nCustomers\nResources\nPartners\nCompany\nSign in\nRequest a Demo\nDrive more sales with conversational commerce\nAttentive's text message marketing solution drives 18.5% of total online revenue for leading brands. Get a free demo today.\nBLOG POST\nSMS Marketing Strategy Guide—best practices for driving results\nLearn More\nSlide 1 of 2.\n5,000+ pioneering brands rely on Attentive to scale further and faster\nMove beyond the “no-reply” world with SMS\nOur Conversational Commerce platform provides you with all the tools you need to deliver timely messages that your customers actually want to receive.\nWatch Video\nCreate customer-first connections with personalized text messaging\nAttentive® drives billions in attributable revenue for our customers\nScale with our playbook\nAccess our best practices and support to quickly make SMS one of your top 3 revenue channels.\nLearn More\nGrow your list 3x+ faster\nScale your list of SMS and email subscribers more effectively than any other solution.\nLearn More\nTarget the right audience\nUnderstand your audience with valuable first-party data and send personalized messages that inspire action.\nLearn More\nDrive 10x+ more revenue\nEngage your mobile subscribers and see more powerful results per message than with email alone.\nLearn More\nIntegrate seamlessly\nExtend the value of Attentive by connecting with the rest of your technology stack.\nLearn More\nCompliance & deliverability\nConfidently build a revenue-generating SMS marketing program with compliance at the forefront.\nLearn More\nEngage high-value mobile subscribers with relevant messages\nAll the tools you need to grow and interact with your mobile-first audience\nDiscover Our Products\n\nWe work hard to make things simple for you\nShopify Plus Certified App Partner\nLearn More\nG2 Leader for SMS and Mobile Marketing, 2022\nLearn More\nSalesforce AppExchange Partner\nLearn More\nProud to partner with industry innovators\n\n“Implementing text messaging into our strategy has allowed us to have a lot more engagement from our customers. We’ve seen high conversion rates, which tells us that we’re getting the right messages to the right people, and they’re taking action on those.\"\nBrandy Butler\nDirector of Marketing, Jason’s Deli\nSlide 4 of 5.\nThe latest from our blog\nSMS STRATEGIES\nConversational Strategies to Add to Your SMS Program\nRead Now\nSMS STRATEGIES\nWhat is SMS Delivery, and How Can You Reach the Main Inbox?\nRead Now\nNEWS\nAttentive Product Spotlight: Volume 3\nRead Now\nSee Attentive in action\nDrive more digital revenue with personalized mobile messaging.\nPlatform\nOverview\nIntegrations\nCompliance\nDeliverability\nPlaybook\nSolutions\nGrowth\nAudience Manager\nMessaging\nBusiness Intelligence\nText-to-Buy\nCustomers\nCase Studies\nIndustries\nResources\nBlog\nTexts We Love\nGuides & Research\nEvents & Webinars\nHelp Center\nRevenue Calculator\nDevelopers\nPartners\nPartner with Attentive\nBrowse Partners\nCompany\nAbout\nCareers\nPress\nText Me SMS Tips\n© 2022 Attentive Mobile Inc.\nSitemap\nSecurity\nPrivacy Policy\nCookie Notice\nCalifornia Notice\nTerms of Use\nContent Policy",
+    "font": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "Blank",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Blank",
+            "src": "https://consentcdn.cookiebot.com/sdk/bc-v4.min.html",
+            "location": {
+                "x": 0,
+                "y": -9999
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

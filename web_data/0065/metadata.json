@@ -1,0 +1,496 @@
+{
+    "title": "Low Vision – Freedom Scientific",
+    "url": "zoomtext.com",
+    "full_url": "https://www.freedomscientific.com/products/lowvision/",
+    "images": [
+        {
+            "alt": "Freedom Scientific",
+            "location": {
+                "x": 15,
+                "y": 11
+            },
+            "size": {
+                "height": 73,
+                "width": 209
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eyedaptic EYE3",
+            "location": {
+                "x": 31,
+                "y": 862
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fusion Software",
+            "location": {
+                "x": 276,
+                "y": 862
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "omniReader®",
+            "location": {
+                "x": 520,
+                "y": 862
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Onyx Deskset HD",
+            "location": {
+                "x": 765,
+                "y": 862
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Onyx OCR",
+            "location": {
+                "x": 31,
+                "y": 1240
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ONYX Pro magnifying a book",
+            "location": {
+                "x": 276,
+                "y": 1240
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "openbook",
+            "location": {
+                "x": 520,
+                "y": 1240
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pearl",
+            "location": {
+                "x": 765,
+                "y": 1240
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ruby",
+            "location": {
+                "x": 520,
+                "y": 1596
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ruby 10 Front screen with text",
+            "location": {
+                "x": 765,
+                "y": 1596
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ruby 7 HD magnifier",
+            "location": {
+                "x": 31,
+                "y": 1952
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ruby HD",
+            "location": {
+                "x": 276,
+                "y": 1952
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ruby XL HD",
+            "location": {
+                "x": 520,
+                "y": 1952
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Topaz EZ",
+            "location": {
+                "x": 765,
+                "y": 1952
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Topaz HD",
+            "location": {
+                "x": 31,
+                "y": 2330
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Topaz OCR",
+            "location": {
+                "x": 276,
+                "y": 2330
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TOPAZ PHD magnifying takeout menu",
+            "location": {
+                "x": 520,
+                "y": 2330
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Topaz ultra with crossword puzzle on screen",
+            "location": {
+                "x": 765,
+                "y": 2330
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Topaz XL HD",
+            "location": {
+                "x": 31,
+                "y": 2709
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ZoomText Software",
+            "location": {
+                "x": 276,
+                "y": 2709
+            },
+            "size": {
+                "height": 213,
+                "width": 213
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Freedom Scientific",
+            "location": {
+                "x": 15,
+                "y": 3138
+            },
+            "size": {
+                "height": 73,
+                "width": 209
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Freedom Scientific Facebook",
+            "location": {
+                "x": 856,
+                "y": 3255
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Freedom Scientific Twitter",
+            "location": {
+                "x": 910,
+                "y": 3255
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Enhanced Vision",
+            "location": {
+                "x": 296,
+                "y": 3405
+            },
+            "size": {
+                "height": 48,
+                "width": 101
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Freedom Scientific",
+            "location": {
+                "x": 401,
+                "y": 3405
+            },
+            "size": {
+                "height": 48,
+                "width": 101
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Optelec",
+            "location": {
+                "x": 507,
+                "y": 3405
+            },
+            "size": {
+                "height": 48,
+                "width": 101
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TPG Interactive",
+            "location": {
+                "x": 612,
+                "y": 3405
+            },
+            "size": {
+                "height": 48,
+                "width": 101
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            252,
+            251,
+            251
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "navbar": "Home\nProducts\nSoftware\nServices\nSupport\nDownloads\nFind A Dealer\nShop Online",
+    "text": "Skip to content\nCall Today!1(800) 444-4443\nHome\nProducts\nSoftware\nServices\nSupport\nDownloads\nFind A Dealer\nShop Online\nHome  »  Low Vision\nLow Vision\nLow Vision Solutions\nIncreased demand for low vision devices means many more choices are becoming available. More than 3.3 million Americans older than 40 already have blindness or low vision — and that number is expected to increase to 5.5 million by 2020, according to the National Eye Institute.\nIf you are among the growing numbers of people with low vision, you may find that a low vision magnifier can assist with tasks such as reading fine print, sewing or viewing classroom presentations. We offer a wide range of low vision solutions from portable to desktop to assist with many low vision conditions. Get back to life with Freedom Scientific’s electronic video magnifiers and other low vision aids.\nRefine Search:\nAll Products\nPortable\nDesktop\nRUBY Family\nTOPAZ Family\nSoftware\nEyedaptic EYE3\nFusion\nomniReader®\nONYX® Deskset HD\nONYX® OCR\nONYX® PRO\nOpenBook®\nPEARL®\nRUBY®\nRUBY® 10\nRUBY® 7 HD\nRUBY® HD\nRUBY® XL HD\nTOPAZ® EZ HD\nTOPAZ® HD\nTOPAZ® OCR\nTOPAZ® PHD\nTOPAZ® Ultra\nTOPAZ® XL HD\nZoomText\nFreedom Scientific is the largest worldwide manufacturer of assistive technology products for blind and low vision individuals.\nRead More About Freedom Scientific\nHome\nAbout Us\nAll News\nCareers\nBlog\nContact Us\nMedia Center\nGSA Advantage\nPrivacy Policy\nAccessibility Policy\nConditions of Use\nContact Us\n(800) 444-4443\n(727) 803-8000\nVispero Brands\nCopyright © Freedom Scientific Inc. - A Vispero Brand - All Rights Reserved.",
+    "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 34,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

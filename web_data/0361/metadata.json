@@ -1,0 +1,234 @@
+{
+    "title": "Sign in - Google Accounts",
+    "url": "googlegroups.com",
+    "full_url": "https://accounts.google.com/v3/signin/identifier?dsh=S-569812532%3A1670449999453133&continue=https%3A%2F%2Fgroups.google.com%2Fmy-groups&followup=https%3A%2F%2Fgroups.google.com%2Fmy-groups&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=ARgdvAt8G3M0xY6Q11p-jJk5px6HPu_lAyRR9hIRbI0CR6zWPgbz_vUKsrQuAALcZEThltxKSn3ayw",
+    "images": [
+        {
+            "alt": "CAPTCHA image of text used to distinguish humans from robots",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "email",
+            "location": {
+                "x": 329,
+                "y": 356
+            },
+            "size": {
+                "height": 54,
+                "width": 366
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 22,
+                "width": 147
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            106,
+            223
+        ],
+        [
+            213,
+            215,
+            219
+        ]
+    ],
+    "desc": "",
+    "text": "Sign in\nUse your Google Account\nEmail or phone\nForgot email?\nNot your computer? Use Guest mode to sign in privately. Learn more\nNext\nCreate account\nEnglish (United States)\nHelp\nPrivacy\nTerms\nSign in Use your Google Account",
+    "font": "roboto, \"Noto Sans Myanmar UI\", arial, sans-serif",
+    "buttons": [
+        {
+            "text": "Forgot email?",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 328,
+                "y": 421
+            },
+            "size": {
+                "height": 17,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(26, 115, 232, 1)",
+            "location": {
+                "x": 617,
+                "y": 565
+            },
+            "size": {
+                "height": 36,
+                "width": 79
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Create account",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 320,
+                "y": 565
+            },
+            "size": {
+                "height": 36,
+                "width": 119
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

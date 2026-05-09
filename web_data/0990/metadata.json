@@ -1,0 +1,814 @@
+{
+    "title": "Federal Reserve Bank of St. Louis | Economic Resources & Data",
+    "url": "stlouisfed.org",
+    "full_url": "https://www.stlouisfed.org/",
+    "images": [
+        {
+            "alt": "Saint Louis Fed Eagle ",
+            "location": {
+                "x": 15,
+                "y": 15
+            },
+            "size": {
+                "height": 62,
+                "width": 469
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "St. Louis Fed",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "President Jim Bullard",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Econ Lowdown site",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Jim Bullard",
+            "location": {
+                "x": 0,
+                "y": 1360
+            },
+            "size": {
+                "height": 335,
+                "width": 336
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Standing man wearing badge, vest with “Police K9” lettering and various equipment holds leash of dog with badge on harness sitting on a bench",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A close-up view of a payroll stub.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "young black female reviewing paperwork",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Standing man wearing badge, vest with “Police K9” lettering and various equipment holds leash of dog with badge on harness sitting on a bench",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A close-up view of a payroll stub.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "young black female reviewing paperwork",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Standing man wearing badge, vest with “Police K9” lettering and various equipment holds leash of dog with badge on harness sitting on a bench",
+            "location": {
+                "x": 652,
+                "y": 1868
+            },
+            "size": {
+                "height": 174,
+                "width": 261
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A close-up view of a payroll stub.",
+            "location": {
+                "x": 652,
+                "y": 2183
+            },
+            "size": {
+                "height": 174,
+                "width": 261
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "young black female reviewing paperwork",
+            "location": {
+                "x": 72,
+                "y": 2406
+            },
+            "size": {
+                "height": 174,
+                "width": 261
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A man and two women sit in front of laptops.",
+            "location": {
+                "x": 20,
+                "y": 2988
+            },
+            "size": {
+                "height": 171,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "First vice president Kathy Paese",
+            "location": {
+                "x": 356,
+                "y": 2988
+            },
+            "size": {
+                "height": 171,
+                "width": 296
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Large group of people dressed in purple, blue, green, yellow, orange or red.",
+            "location": {
+                "x": 693,
+                "y": 2988
+            },
+            "size": {
+                "height": 171,
+                "width": 296
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman giving closing remarks in auditorium",
+            "location": {
+                "x": 15,
+                "y": 3587
+            },
+            "size": {
+                "height": 231,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Two high-school age students chat at a table",
+            "location": {
+                "x": 520,
+                "y": 3587
+            },
+            "size": {
+                "height": 231,
+                "width": 475
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Collage of Institute for Economic Equity team members",
+            "location": {
+                "x": 15,
+                "y": 3931
+            },
+            "size": {
+                "height": 231,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Two women seated in a podcast recording studio",
+            "location": {
+                "x": 520,
+                "y": 3931
+            },
+            "size": {
+                "height": 231,
+                "width": 475
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A group of people speak at a street corner near a stop sign.",
+            "location": {
+                "x": 15,
+                "y": 4276
+            },
+            "size": {
+                "height": 231,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Woman behind podium speaking with audience.",
+            "location": {
+                "x": 520,
+                "y": 4276
+            },
+            "size": {
+                "height": 231,
+                "width": 475
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Events",
+            "location": {
+                "x": 44,
+                "y": 4710
+            },
+            "size": {
+                "height": 165,
+                "width": 164
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Inside the Economy Museum",
+            "location": {
+                "x": 280,
+                "y": 4710
+            },
+            "size": {
+                "height": 165,
+                "width": 197
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apply for a job",
+            "location": {
+                "x": 534,
+                "y": 4710
+            },
+            "size": {
+                "height": 165,
+                "width": 193
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Request a speaker",
+            "location": {
+                "x": 814,
+                "y": 4710
+            },
+            "size": {
+                "height": 165,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook logo",
+            "location": {
+                "x": 20,
+                "y": 5133
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter logo",
+            "location": {
+                "x": 83,
+                "y": 5133
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Linkedin logo",
+            "location": {
+                "x": 146,
+                "y": 5133
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTube logo",
+            "location": {
+                "x": 209,
+                "y": 5133
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram logo",
+            "location": {
+                "x": 272,
+                "y": 5133
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pinterest logo",
+            "location": {
+                "x": 335,
+                "y": 5133
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Back to Top",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 72,
+                "width": 65
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search the site...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search the site...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "image",
+            "location": {
+                "x": 196,
+                "y": 982
+            },
+            "size": {
+                "height": 25,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "image",
+            "location": {
+                "x": 448,
+                "y": 982
+            },
+            "size": {
+                "height": 25,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "image",
+            "location": {
+                "x": 700,
+                "y": 982
+            },
+            "size": {
+                "height": 25,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            228,
+            239,
+            241
+        ],
+        [
+            0,
+            41,
+            84
+        ]
+    ],
+    "desc": "The St. Louis Fed is central to the nation’s economy. It’s part of the Federal Reserve System, which includes 12 Federal Reserve banks and the Board of Governors. The St. Louis Fed helps formulate monetary policy to promote stable prices and maximum sustainable employment. It fosters financial stability; advances a safe and sound banking system; promotes economic equity and fair access to credit; provides payment services to financial institutions; supports the U.S. Treasury's financial operations; and offers economic research, data, teacher tools and a museum.",
+    "navbar": "About Us\nFrom President\n\nJim Bullard\nPublications\nFor Teachers\n\n& Students\nWorking with\n\nCommunities\nSupervising\n\nBanks\nResearch &\n\nDatabases",
+    "text": "Careers\nEvents\nMuseum\nNewsroom\nAbout Us\nFrom President\n\nJim Bullard\nPublications\nFor Teachers\n\n& Students\nWorking with\n\nCommunities\nSupervising\n\nBanks\nResearch &\n\nDatabases\nFEATURED\nInternational Shipping Costs: Determinants and Outlook\nWe work to promote a healthy economy and financial stability.\nDiscover How We Do It\nPulse of the Economy\nUnemployment\n3.7%\nNovember 2022\nPCE Inflation\n6.02%\nOctober 2022\nDaily Federal Funds Rate\n3.83%\nDecember 5, 2022\nFRED® Data\nYour home for economic data and interactive charts.\nSt. Louis Fed President and CEO Jim Bullard\nReflections on Monetary Policy in 2022\nNovember 29, 2022\nTo bring down inflation, the FOMC has been removing monetary policy accommodation in 2022. St. Louis Fed President Jim Bullard reflects on the year.\nSpeeches &\nCommentary\nMedia\nInterviews\nAcademic\nResearch\nBio\nNew & Notable\n\n\nEighth District Economy Remains Unchanged\nWill Inflation Play the Grinch This Holiday Season?\nSt. Louis Fed's Explosive Detection Dog Vera Retires\nMemphis Breakfast with the Fed - Inflation: Key Economic Considerations for 2023\nJan. 13, 2023\n7:30-9 a.m. CT\nWomen in Economics: Christina Romer, Janice Eberly and Shelly Lundberg\nTracking Wage Inflation in Real Time\nGender and Racial Disparities in Student Loan Debt\nWomen in Economics: Michelle Bowman\nWho We Are\nOur Offices\nSt. Louis Headquarters\nLittle Rock Branch\nLouisville Branch\nMemphis Branch\nOur Leadership\nExecutive Leadership\nBoard of Directors\nAdvisory Councils\nVoices of the Fed\nOur Culture\nMission, Vision & Values\nDiversity, Equity & Inclusion\nEmployee Resource Groups\nCareers\nWhat We Do\nPromote Financial Stability\nBlog Series Examines Fintech, Community Banking, and More\nShare Economic Knowledge\nFree Lessons Teach Students How to Interpret and Use Data\nAdvance Economic Equity\nInstitute Advances an Economy Where All Can Thrive\nProvide Thought Leadership\nPodcasts Feature Expert Research on Timely Topics\nConvene Communities\nTool Explores $3.2 Trillion in Capital Deployed in U.S. Communities\nEngage Main Street\nKeynotes and Q&As Discuss Topics in the News\nAttend\n\nAn Event\nVisit the\n\nEconomy Museum\nApply\n\nfor a Job\nRequest\n\na Speaker\nFOLLOW US\nSIGN UP FOR EMAIL ALERTS\nReceive updates in your inbox as soon as new content is published on our website\nSIGN UP\nQUICK LINKS\nAbout Us\nLegal Information\nContact Us\nPrivacy Policy\nCareers\nDoing Business with the Fed\nEvents\nFederal Reserve Services\nVisiting the St. Louis Fed\nFederal Banking Regulations",
+    "font": "Roboto",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 40, 86, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 40, 86, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 102, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "3.7%\nNovember 2022",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 17,
+                "y": 1033
+            },
+            "size": {
+                "height": 125,
+                "width": 219
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6.02%\nOctober 2022",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 269,
+                "y": 1033
+            },
+            "size": {
+                "height": 125,
+                "width": 219
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3.83%\nDecember 5, 2022",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 521,
+                "y": 1033
+            },
+            "size": {
+                "height": 125,
+                "width": 219
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

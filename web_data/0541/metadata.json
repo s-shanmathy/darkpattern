@@ -1,0 +1,597 @@
+{
+    "title": "United States Military Academy West Point",
+    "url": "usma.edu",
+    "full_url": "https://www.westpoint.edu/",
+    "images": [
+        {
+            "alt": "Home",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Home2",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 5,
+                "y": 0
+            },
+            "size": {
+                "height": 73,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Home2",
+            "location": {
+                "x": 91,
+                "y": 8
+            },
+            "size": {
+                "height": 60,
+                "width": 290
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook follow Us",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Twitter follow Us",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Instagram follow Us",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "YouTube follow Us",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Flikr follow Us",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Flikr follow Us",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "US Military Academy's Logo",
+            "location": {
+                "x": 407,
+                "y": 987
+            },
+            "size": {
+                "height": 76,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "decorative leaf left",
+            "location": {
+                "x": 62,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "leaf right decoration",
+            "location": {
+                "x": 114,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "decorative leaf left",
+            "location": {
+                "x": 266,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "leaf right decoration",
+            "location": {
+                "x": 319,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "decorative leaf left",
+            "location": {
+                "x": 458,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "leaf right decoration",
+            "location": {
+                "x": 537,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "decorative leaf left",
+            "location": {
+                "x": 672,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "leaf right decoration",
+            "location": {
+                "x": 732,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "decorative leaf left",
+            "location": {
+                "x": 866,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "leaf right decoration",
+            "location": {
+                "x": 948,
+                "y": 4783
+            },
+            "size": {
+                "height": 56,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook follow Us",
+            "location": {
+                "x": 633,
+                "y": 5273
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter follow Us",
+            "location": {
+                "x": 691,
+                "y": 5273
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram follow Us",
+            "location": {
+                "x": 748,
+                "y": 5273
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTube follow Us",
+            "location": {
+                "x": 806,
+                "y": 5273
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Flikr follow Us",
+            "location": {
+                "x": 864,
+                "y": 5273
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Linkedin follow Us",
+            "location": {
+                "x": 922,
+                "y": 5273
+            },
+            "size": {
+                "height": 26,
+                "width": 53
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Footer Logo Crest",
+            "location": {
+                "x": 58,
+                "y": 5344
+            },
+            "size": {
+                "height": 143,
+                "width": 163
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Footer Logo West Point",
+            "location": {
+                "x": 20,
+                "y": 5487
+            },
+            "size": {
+                "height": 49,
+                "width": 239
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Admissions Pixel tag",
+            "location": {
+                "x": 0,
+                "y": 5336
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Youvisit Pixel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 24,
+                "width": 103
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 914,
+                "y": 20
+            },
+            "size": {
+                "height": 35,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 46,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            254,
+            254,
+            254
+        ],
+        [
+            53,
+            60,
+            52
+        ]
+    ],
+    "desc": "West Point Military Academy",
+    "navbar": "",
+    "text": "Skip to main content\nSearch\nprimary menu\nSpring 2023 Campus Tour Dates Available Now\nTHE U.S. MILITARY ACADEMY AT WEST POINT\nTHE PREEMINENT LEADER DEVELOPMENT INSTITUTION\nThe U.S. Military Academy at West Point's mission is \"to educate, train, and inspire the Corps of Cadets so that each graduate is a commissioned leader of character committed to the values of Duty, Honor, Country and prepared for a career of professional excellence and service to the Nation as an officer in the United States Army.\"\nAcademy News & Events\nAcademy Update\nAnnual Intellectual Theme\nAY '22-'23\nPointer View\n\"Double overtime thriller brings excitement, joy\"\nAcademy Update:\nCongressional Naming Commission Report\nAcademy Update:\nCOVID-19\n\n\n\n\nThe Academy's Four Leader Development Programs\nCadets learn to live honorably, lead honorably, and demonstrate excellence by following through the Character, Academic, Physical, and Military programs.\nCHARACTER\nCHARACTER DEVELOPMENT\nMoral-ethical development is central to the 47-month West Point experience and is explicitly mandated by the Academy's mission statement. The emphasis on personal character is to support the West Point Motto - \"Duty, Honor, Country\" - and the ideals of the seven Army Values: loyalty, duty, respect, selfless service, honor, integrity, and personal courage.\nEXPLORE CHARACTER PROGRAM\nACADEMIC\nACADEMIC EXCELLENCE\nWest Point's Academic Program includes an excellent, broadly structured undergraduate curriculum that balances the physical sciences and engineering with the behavioral and social sciences. The goal is for every graduate to be able to think creatively and clearly express original ideas on both technological and interpersonal issues. In addition, the Academy seeks to instill in cadets a commitment to progressive and continued education development.\nEXPLORE ACADEMIC PROGRAM\nMILITARY\nMILITARY LEADERSHIP\nWest Point's Military Program provides an outstanding professional foundation focused on education in the American military ethic and the Army's core values, along with training in individual and small-unit leadership skills. Cadets are inspired to make a commitment to national services as an Army officer and to adopt the ideals of the seven Army Values.\nEXPLORE MILITARY PROGRAM\nPHYSICAL\nPHYSICAL DEVELOPMENT\nThe Physical Program is focused upon the physically demanding requirements of an Army officer. It endeavors to develop in cadets the ability to maintain personal and unit fitness, fosters the warrior spirit, builds an appreciation for team work, and inspires the will to win. Specific program activities include physical education classes, regular fitness testing, and competitive athletics.\nEXPLORE PHYSICAL PROGRAM\nThe U.S. Military Academy at West Point\nThe Path to Success Starts Here.\nRanked as the #1 Most Accessible Professors in the 2020 Princeton Review.\n28\nResearch Centers\n36\nMajors to Choose From\n$53K\nSalary Upon Graduation as a 2nd Lieutenant\n7:1\nStudent to Faculty Ratio\n100%\nJob Placement After Graduation\nCONTACT US\nSCHEDULE A VISIT\nAPPLY NOW\nOFFICE 365 HELP\nFOLLOW US ON SOCIAL MEDIA\nCOMMUNITY\nCurrent Cadets\nCurrent Staff/Faculty\nLiving on West Point\nLEARN MORE\nMedia Inquiries\nJobs at West Point\nTrademark Information\nPrivacy Policy\nRESOURCES\nFOIA\nEqual Opportunity\nSHARP\nAccessibility/Section 508\nCadet Consumer Info/Right to Know\nAutomated Directory:\n(845) 938-4011\nPAOinformation@westpoint.edu\n606 Thayer Rd,\nWest Point, NY 10996",
+    "font": "\"Source Sans Pro\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 960,
+                "y": 19
+            },
+            "size": {
+                "height": 38,
+                "width": 54
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

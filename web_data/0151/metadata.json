@@ -1,0 +1,963 @@
+{
+    "title": "Luckyscent - Official Site The Best in Fragrance...and More",
+    "url": "luckyscent.com",
+    "full_url": "https://www.luckyscent.com/",
+    "images": [
+        {
+            "alt": "Luckyscent Flower Logo Mobile",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Luckyscent Home Logo",
+            "location": {
+                "x": 88,
+                "y": 63
+            },
+            "size": {
+                "height": 89,
+                "width": 273
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Luckyscent Home Logo Small",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 51,
+                "width": 157
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "1 - fort manle",
+            "location": {
+                "x": -1356,
+                "y": 283
+            },
+            "size": {
+                "height": 386,
+                "width": 580
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "2 - tom ford holiday",
+            "location": {
+                "x": -631,
+                "y": 283
+            },
+            "size": {
+                "height": 386,
+                "width": 580
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "3 - grace jones candle",
+            "location": {
+                "x": 94,
+                "y": 283
+            },
+            "size": {
+                "height": 386,
+                "width": 580
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "4 - advent calendar",
+            "location": {
+                "x": 819,
+                "y": 283
+            },
+            "size": {
+                "height": 386,
+                "width": 580
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "New Baniyas by Widian",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Nice Holiday - Boy Smells Trio Set",
+            "location": {
+                "x": 62,
+                "y": 744
+            },
+            "size": {
+                "height": 200,
+                "width": 240
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Daily Treat - The Luckyscent Advent Calendar",
+            "location": {
+                "x": 384,
+                "y": 744
+            },
+            "size": {
+                "height": 200,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pony Up - New! Pony Boy by Jorum",
+            "location": {
+                "x": 707,
+                "y": 744
+            },
+            "size": {
+                "height": 200,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Azalai by Stora Skuggan",
+            "location": {
+                "x": 38,
+                "y": 1098
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "L'homme M. Lacroix by Rogue Perfumery",
+            "location": {
+                "x": 197,
+                "y": 1098
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Doza by Narcotica",
+            "location": {
+                "x": 356,
+                "y": 1098
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Green Butterfly by Byron Parfums",
+            "location": {
+                "x": 515,
+                "y": 1098
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dincanto by Profumum",
+            "location": {
+                "x": 674,
+                "y": 1098
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Un Oud by Obvious Parfums",
+            "location": {
+                "x": 833,
+                "y": 1098
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Angels Share Icon Set by By Kilian",
+            "location": {
+                "x": 38,
+                "y": 1442
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stocking Filler Collection by Molton Brown",
+            "location": {
+                "x": 197,
+                "y": 1442
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sapin / Pine Holiday Candle by Diptyque",
+            "location": {
+                "x": 356,
+                "y": 1442
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Leading Ladies - Holiday Gift Set by Penhaligons",
+            "location": {
+                "x": 515,
+                "y": 1442
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Noel Advent Calendar by Mariage Freres",
+            "location": {
+                "x": 674,
+                "y": 1442
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Le Coffret Holiday by Trudon",
+            "location": {
+                "x": 833,
+                "y": 1442
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Short Story Collection by Imaginary Authors",
+            "location": {
+                "x": 38,
+                "y": 1787
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Xerjoff Discovery Set by Xerjoff",
+            "location": {
+                "x": 197,
+                "y": 1787
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bestsellers Discovery Kit by Etat Libre d'Orange",
+            "location": {
+                "x": 356,
+                "y": 1787
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Molecule 01+ 2ml Discovery Set by Escentric Molecules",
+            "location": {
+                "x": 515,
+                "y": 1787
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rosendo Mateu Discovery Set by Rosendo Mateu",
+            "location": {
+                "x": 674,
+                "y": 1787
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Discovery Kit by Vilhelm Parfumerie",
+            "location": {
+                "x": 833,
+                "y": 1787
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Escentric Molecules by View collection",
+            "location": {
+                "x": 38,
+                "y": 2131
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Aesop by View collection",
+            "location": {
+                "x": 197,
+                "y": 2131
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Maison Francis Kurkdjian by View collection",
+            "location": {
+                "x": 356,
+                "y": 2131
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mad et Len by View collection",
+            "location": {
+                "x": 515,
+                "y": 2131
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mariage Freres by View collection",
+            "location": {
+                "x": 674,
+                "y": 2131
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tauer Perfumes by View collection",
+            "location": {
+                "x": 833,
+                "y": 2131
+            },
+            "size": {
+                "height": 129,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Prin - Mandodari",
+            "location": {
+                "x": 36,
+                "y": 2468
+            },
+            "size": {
+                "height": 300,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kyse Perfumes - Delizia de Marshmallow",
+            "location": {
+                "x": 354,
+                "y": 2468
+            },
+            "size": {
+                "height": 300,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bogue - 10 EDT and 2- EDP",
+            "location": {
+                "x": 672,
+                "y": 2468
+            },
+            "size": {
+                "height": 300,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Scent Bar | Hollywood | Downtown Los Angeles",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "This site is protected by Sysnet's Trusted Commerce program",
+            "location": {
+                "x": 50,
+                "y": 3162
+            },
+            "size": {
+                "height": 54,
+                "width": 105
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Accessibility Widget",
+            "location": {
+                "x": 546,
+                "y": 3324
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Spinner: Black decorative",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search by Brand, Note or Keyword",
+            "type": "text",
+            "location": {
+                "x": 683,
+                "y": 91
+            },
+            "size": {
+                "height": 32,
+                "width": 260
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search by Brand or Keyword",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Filter By Brand",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter Email Address",
+            "type": "email",
+            "location": {
+                "x": 755,
+                "y": 3239
+            },
+            "size": {
+                "height": 36,
+                "width": 149
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": -4245,
+                "y": 3283
+            },
+            "size": {
+                "height": 26,
+                "width": 166
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            254,
+            168,
+            198
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "Luckyscent: the best selection of niche perfumes, fragrances and candles anywhere.",
+    "navbar": "",
+    "text": "Sign In\n| Wishlist\n|\nCart 0 Items\nFree Shipping Over $75: Use Code FREESHIP\nBRANDS\nNEW ADDITIONS\nFRAGRANCES\nMEN\nSAMPLES\nTOP PICKS\nCANDLES & HOME\nBATH & BODY\nLIFESTYLE\nVIDEO\nSTORES\nGIFT GUIDE\nLuckyscent Home Page\nJust Arrived\nLivestream Dec 8th\nHoliday Gifting\nFor the love of sampling:\nDiscovery Sets\nWave Goodbye:\nDiscontinued Fragrances for 2022\nSerene and peaceful:\nShop our Incense selections\nSpecial savings\nDon't miss out...\nAll New Additions »\nNICE HOLIDAY\nBoy Smells Trio Set\nDAILY TREAT\nThe Luckyscent Advent Calendar\nPONY UP\nNew! Pony Boy by Jorum\nNew & Noteworthy\nAzalai\nStora Skuggan\nL'homme M. Lacroix\nRogue Perfumery\nDoza\nNarcotica\nGreen Butterfly\nByron Parfums\nDincanto\nProfumum\nUn Oud\nObvious Parfums\nHoliday Candles & Gifts\nAngels Share Icon Set\nBy Kilian\nStocking Filler Collection\nMolton Brown\nSapin / Pine Holiday Candle\nDiptyque\nLeading Ladies - Holiday Gift Set\nPenhaligons\nNoel Advent Calendar\nMariage Freres\nLe Coffret Holiday\nTrudon\nThe Joy Of Discovery Sets\nShort Story Collection\nImaginary Authors\nXerjoff Discovery Set\nXerjoff\nBestsellers Discovery Kit\nEtat Libre d'Orange\nMolecule 01+ 2ml Discovery Set\nEscentric Molecules\nRosendo Mateu Discovery Set\nRosendo Mateu\nDiscovery Kit\nVilhelm Parfumerie\nFeatured Brands\nEscentric Molecules\nView collection\nAesop\nView collection\nMaison Francis Kurkdjian\nView collection\nMad et Len\nView collection\nMariage Freres\nView collection\nTauer Perfumes\nView collection\nVideo Reviews & Livestreams\nREVIEW\nDEC 5\nPrin\nMandodari\nDEC 1\nKyse Perfumes\nDelizia de Marshmallow\nREVIEW\nNOV 20\nBogue\n10 EDT and 2- EDP\nGritti Frangrances\nYou're So Vain\n\n\nCustomer Service & Support\nCheck Order Status\nShipping Rates\nPayment Options\nReturn Policy\nCountries We Ship To\nContact Us\nDiscover\nGlossary of Terms\nPerfumers Directory\nBrand Directory\nVideos\nSearch Wishlists\nConnect With Us\nShare on instagram_share (opens in new window)\nShare on Facebook (opens in new window)\nShare on Youtube (opens in new window)\nShare on twitter (opens in new window)\nShare on pinterest_share (opens in new window)\nVisit Us\nScent Bar Hollywood\n7405 Beverly Blvd.\nLos Angeles, CA 90036\n(opens in new window)\n\n\nScent Bar DTLA\n777 S Alameda St\nLos Angeles, CA 90021\n(opens in new window)\n\n\nScent Bar NYC\n244 Elizabeth St.\nNew York, NY 10012\n(opens in new window)\nAccessibility\nShop\nNew Additions\nBack In Stock\nAstrological Guide\nGift Certificates\nSpecials\nGifts w/ Purchase\nLuckyscent Sample Packs\nSubscribe To Our Email List\nSubscribe\n©2022 Luckyscent Inc. All Rights Reserved. | Privacy Policy | Legal | | Accessibility Statement",
+    "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Google Customer Reviews",
+            "src": "https://www.google.com/shopping/customerreviews/badge?usegapi=1&merchant_id=302606&position=INLINE&origin=https%3A%2F%2Fwww.luckyscent.com&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.geaHZXF2-fw.O%2Fd%3D1%2Frs%3DAHpOoo9yYF5eCIYPx4UH9gpJptM2Q_GGxQ%2Fm%3D__features__#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh&id=I0_1670529830073&_gfid=I0_1670529830073&parent=https%3A%2F%2Fwww.luckyscent.com&pfname=&rpctoken=26111064",
+            "location": {
+                "x": 50,
+                "y": 3218
+            },
+            "size": {
+                "height": 54,
+                "width": 165
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "UserWay Accessibility Menu",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(201, 231, 124, 1)",
+            "location": {
+                "x": 943,
+                "y": 91
+            },
+            "size": {
+                "height": 32,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Subscribe",
+            "bg-color": "rgba(201, 231, 124, 1)",
+            "location": {
+                "x": 907,
+                "y": 3239
+            },
+            "size": {
+                "height": 30,
+                "width": 72
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

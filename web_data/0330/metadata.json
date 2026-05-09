@@ -1,0 +1,362 @@
+{
+    "title": "Your EDM | Electronic Dance Music News & EDM Reviews",
+    "url": "youredm.com",
+    "full_url": "https://www.youredm.com/",
+    "images": [
+        {
+            "alt": "Your EDM",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Your EDM",
+            "location": {
+                "x": 441,
+                "y": 14
+            },
+            "size": {
+                "height": 33,
+                "width": 125
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "martin garrix",
+            "location": {
+                "x": -756,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Norwegian Producer Artist Facading Achieves 20 Million Streams on Spotify",
+            "location": {
+                "x": -546,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Old School Is Cool: DJ Ghost Takes Us Back",
+            "location": {
+                "x": -336,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Josh Teed Drops Mind Boggling Album ‘Recurring Dreams’ via Gravitas Recordings",
+            "location": {
+                "x": -126,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "griz zeds dead",
+            "location": {
+                "x": 83,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "martin garrix",
+            "location": {
+                "x": 293,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Norwegian Producer Artist Facading Achieves 20 Million Streams on Spotify",
+            "location": {
+                "x": 503,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Old School Is Cool: DJ Ghost Takes Us Back",
+            "location": {
+                "x": 712,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Josh Teed Drops Mind Boggling Album ‘Recurring Dreams’ via Gravitas Recordings",
+            "location": {
+                "x": 922,
+                "y": 90
+            },
+            "size": {
+                "height": 150,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 40,
+                "y": 81
+            },
+            "size": {
+                "height": 42,
+                "width": 930
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 681,
+                "y": 503
+            },
+            "size": {
+                "height": 40,
+                "width": 293
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": -300,
+                "y": 20
+            },
+            "size": {
+                "height": 40,
+                "width": 280
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            30,
+            30,
+            30
+        ]
+    ],
+    "desc": "The world's best source for Electronic Dance Music, Interviews, Music Reviews & EDM news. Your EDM is your one stop-shop for all things EDM.",
+    "navbar": "",
+    "text": "EDM NEWS\nZeds Dead and GRiZ announce release of first-ever collaboration, “Ecstasy of Soul”\nDECEMBER 8, 2022\nEDM NEWS\nMartin Garrix & JVKE release new song “Hero” for mobile card battling game MARVEL SNAP\nDECEMBER 8, 2022\nRELEASE\nNorwegian Producer Artist Facading Achieves 20 Million Streams on Spotify\nDECEMBER 8, 2022\nHOUSE\nOld School Is Cool: DJ Ghost Takes Us Back\nDECEMBER 8, 2022\nLatest Post\nEDM NEWS\nZeds Dead and GRiZ announce release of first-ever collaboration, “Ecstasy of Soul”\nThinking logically, it would make sense that, at some point in time, Zeds Dead and GRiZ have released a song...\nBY MATTHEW MEADOW DECEMBER 8, 2022\nEDM NEWS\nMartin Garrix & JVKE release new song “Hero” for mobile card battling game MARVEL SNAP\nVideo games love tapping EDM artists for themes, collaborations, and activations. Obviously you can look at Riot Games who work...\nBY MATTHEW MEADOW DECEMBER 8, 2022\nRELEASE\nNorwegian Producer Artist Facading Achieves 20 Million Streams on Spotify\nThe music industry is an entertainment scene that has drawn significant attention and competition since time immemorial. Almost everyone likes...\nBY PETER BERRY DECEMBER 8, 2022\nHOUSE\nOld School Is Cool: DJ Ghost Takes Us Back\nThe dance floor is a place where the pulse of good music can take away any worries and anxieties as...\nBY PETER BERRY DECEMBER 8, 2022\nBASS MUSIC\nJosh Teed Drops Mind Boggling Album ‘Recurring Dreams’ via Gravitas Recordings\nJosh Teed is a versatile, classically trained, and technical musician who picked up the violin at the tender age of...\nBY PETEY MAC DECEMBER 8, 2022\nHARDSTYLE\nAudiofreq Releases Electrifying Hardstyle Single, “Head Split”\nWhen we think of structured chaos, there's no denying that Audiofreq is the artist to pull off the almost impossible...\nBY PETEY MAC DECEMBER 8, 2022\nBASS MUSIC\nAsher Shashaty, Take a Guess & Sacred Snow Team Up For Compelling Single, “Luminesce Entities”\nForging an unprecedented path in the realm of EDM, Asher Shashaty is a rising artist who possesses a one-of-a-kind sound,...\nBY PETEY MAC DECEMBER 8, 2022\nEDITORIALS\nYour EDM’s Top 10 Albums of 2022\nAt its core, music is a subjective experience. Even the most technically proficient musician might prefer making math rock, and...\nBY MATTHEW MEADOW DECEMBER 7, 2022\n1 2 … 5,545\n\nFACEBOOK TWITTER INSTAGRAM TWITCH\nOur Company\nContact Us\nJoin the community\nOur Policies\nPrivacy Policy\nCookie Policy\nTerms of Use\n© 2020 Your EDM, LLC - All Rights Reserved",
+    "font": "\"Helvetica Neue\", Helvetica, Roboto, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 934,
+                "y": 61
+            },
+            "size": {
+                "height": 40,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 934,
+                "y": 503
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -58,
+                "y": 20
+            },
+            "size": {
+                "height": 40,
+                "width": 38
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

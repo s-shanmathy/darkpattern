@@ -1,0 +1,355 @@
+{
+    "title": "Howard Hughes Medical Institute | HHMI",
+    "url": "hhmi.org",
+    "full_url": "https://www.hhmi.org/",
+    "images": [
+        {
+            "alt": "Howard Hughes Medical Institute Logo",
+            "location": {
+                "x": 147,
+                "y": 39
+            },
+            "size": {
+                "height": 38,
+                "width": 117
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Close Dropdown Menu",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Science Forward",
+            "location": {
+                "x": 42,
+                "y": 1133
+            },
+            "size": {
+                "height": 30,
+                "width": 279
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search HHMI...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            212,
+            212,
+            212
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "HHMI is a science philanthropy whose mission is to advance basic biomedical research and science education for the benefit of humanity.",
+    "navbar": "About\nOur Scientists\nPrograms\nEducation\nNews\nDiversity",
+    "text": "JANELIA RESEARCH CAMPUS BIOINTERACTIVE TANGLED BANK STUDIOS\nUGP Home\nAbout\nOur Scientists\nPrograms\nEducation\nNews\nDiversity\nHHMI - Howard Hughes Medical Institute\nAt the Howard Hughes Medical Institute, we believe in the power of individuals to advance science through research and science education, making discoveries that benefit humanity. Learn more about how we move science forward.\nLORA HOOPER\nInvestigator »\nINSTITUTE\nHHMI Opens National Competition for Investigator Program\nHHMI will appoint approximately 25 new Investigators through a national open competition. Applications must be received by March 21, 2023.\nINSTITUTE\nTogether, 104 Schools Pursue Inclusive Undergraduate Science Education\n104 schools are receiving six-year grants as part of HHMI’s Inclusive Excellence 3 (IE3) initiative. IE3 challenges US colleges and universities to substantially and sustainably build capacity for student belonging, especially for those who have been historically excluded from the sciences.\nINSTITUTE\nInclusive STEM Learning Environments: Six Institutions Committed to Progress\nHHMI is making the first grants in our Driving Change initiative, awarding $2.5 million each to six universities: Loyola Marymount University in Los Angeles, the Ohio State University, the University at Albany, University of Maryland Eastern Shore, University of Montana, and University of Virginia. \nPrevious\nNext\nLike us on Facebook\nFollow us on Twitter\nSubscribe to our YouTube channel\nSign up for our Email Newsletter\nContact Us / Careers\n© 2022 Howard Hughes Medical Institute / Privacy Policy & Cookie Notice / Terms of Use / Log In\nThis site uses cookies or similar technologies. To learn more, please review our Privacy Policy and Cookie Notice. By continuing to browse this site, you agree to these uses.\nOkay",
+    "font": "HelveticaNeueETW01-75Bd",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://dntcl.qualaroo.com/frame.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "About",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 354,
+                "y": 56
+            },
+            "size": {
+                "height": 24,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Our Scientists",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 434,
+                "y": 56
+            },
+            "size": {
+                "height": 24,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Programs",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 571,
+                "y": 56
+            },
+            "size": {
+                "height": 24,
+                "width": 106
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Education",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 678,
+                "y": 56
+            },
+            "size": {
+                "height": 24,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "News",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 787,
+                "y": 56
+            },
+            "size": {
+                "height": 24,
+                "width": 77
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Diversity",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 864,
+                "y": 56
+            },
+            "size": {
+                "height": 24,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 962,
+                "y": 56
+            },
+            "size": {
+                "height": 24,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(138, 192, 74, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 22,
+                "y": 557
+            },
+            "size": {
+                "height": 531,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 892,
+                "y": 557
+            },
+            "size": {
+                "height": 531,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Okay",
+            "bg-color": "rgba(0, 164, 79, 1)",
+            "location": {
+                "x": 912,
+                "y": 964
+            },
+            "size": {
+                "height": 39,
+                "width": 72
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

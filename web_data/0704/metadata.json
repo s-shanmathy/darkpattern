@@ -1,0 +1,1823 @@
+{
+    "title": "Stardew Valley Wiki",
+    "url": "stardewvalleywiki.com",
+    "full_url": "https://stardewvalleywiki.com/Stardew_Valley_Wiki",
+    "images": [
+        {
+            "alt": "Banner Left Fall.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Main Logo.png",
+            "location": {
+                "x": 357,
+                "y": 136
+            },
+            "size": {
+                "height": 234,
+                "width": 456
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Banner Right Fall.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "PS4 logo.png",
+            "location": {
+                "x": 412,
+                "y": 804
+            },
+            "size": {
+                "height": 6,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Xbox One Logo.png",
+            "location": {
+                "x": 392,
+                "y": 827
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nintendo Switch Logo.png",
+            "location": {
+                "x": 413,
+                "y": 854
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PS Vita logo.png",
+            "location": {
+                "x": 382,
+                "y": 886
+            },
+            "size": {
+                "height": 7,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IOS logo.png",
+            "location": {
+                "x": 431,
+                "y": 913
+            },
+            "size": {
+                "height": 8,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Android Icon.png",
+            "location": {
+                "x": 407,
+                "y": 936
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Horse rider.png",
+            "location": {
+                "x": 210,
+                "y": 1097
+            },
+            "size": {
+                "height": 105,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "House (tier 1).png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Stardew Checkup Icon.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Ancient Fruit.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Animals Icon.png",
+            "location": {
+                "x": 212,
+                "y": 1302
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Player Icon.png",
+            "location": {
+                "x": 212,
+                "y": 1341
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Controls Icon.png",
+            "location": {
+                "x": 212,
+                "y": 1380
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Health.png",
+            "location": {
+                "x": 212,
+                "y": 1419
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Energy.png",
+            "location": {
+                "x": 212,
+                "y": 1458
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Scout.png",
+            "location": {
+                "x": 212,
+                "y": 1497
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Time Icon.png",
+            "location": {
+                "x": 212,
+                "y": 1536
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Inventory Icon.png",
+            "location": {
+                "x": 212,
+                "y": 1573
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Standard Farm Map Icon.png",
+            "location": {
+                "x": 212,
+                "y": 1612
+            },
+            "size": {
+                "height": 36,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hoe.png",
+            "location": {
+                "x": 401,
+                "y": 1302
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rusty Sword.png",
+            "location": {
+                "x": 401,
+                "y": 1341
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bream.png",
+            "location": {
+                "x": 401,
+                "y": 1380
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Arrowhead.png",
+            "location": {
+                "x": 401,
+                "y": 1419
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Diamond Node.png",
+            "location": {
+                "x": 401,
+                "y": 1458
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cooking Icon.png",
+            "location": {
+                "x": 401,
+                "y": 1497
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Field Snack.png",
+            "location": {
+                "x": 401,
+                "y": 1536
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wild Horseradish.png",
+            "location": {
+                "x": 401,
+                "y": 1575
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Acorn.png",
+            "location": {
+                "x": 401,
+                "y": 1614
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Red Cowboy Hat.png",
+            "location": {
+                "x": 589,
+                "y": 1302
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tundra Boots.png",
+            "location": {
+                "x": 589,
+                "y": 1341
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sturdy Ring.png",
+            "location": {
+                "x": 589,
+                "y": 1380
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Basic Fertilizer.png",
+            "location": {
+                "x": 589,
+                "y": 1419
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wild Bait.png",
+            "location": {
+                "x": 589,
+                "y": 1458
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dressed Spinner.png",
+            "location": {
+                "x": 589,
+                "y": 1497
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Furniture Icon.png",
+            "location": {
+                "x": 589,
+                "y": 1536
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wallpaper Icon.png",
+            "location": {
+                "x": 589,
+                "y": 1575
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Flooring 19 Icon.png",
+            "location": {
+                "x": 589,
+                "y": 1614
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Abigail Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1302
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Speech bubble.png",
+            "location": {
+                "x": 779,
+                "y": 1341
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marriage Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1380
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Toddler Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1419
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Quests Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1458
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bundle Red.png",
+            "location": {
+                "x": 779,
+                "y": 1497
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Achievements Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1536
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Multiplayer Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1575
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SMAPI mascot.png",
+            "location": {
+                "x": 779,
+                "y": 1614
+            },
+            "size": {
+                "height": 33,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Corn.png",
+            "location": {
+                "x": 212,
+                "y": 1703
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ShippingBox.png",
+            "location": {
+                "x": 212,
+                "y": 1742
+            },
+            "size": {
+                "height": 30,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "White Chicken.png",
+            "location": {
+                "x": 212,
+                "y": 1779
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Sapling.png",
+            "location": {
+                "x": 212,
+                "y": 1818
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Artisan Icon.png",
+            "location": {
+                "x": 212,
+                "y": 1857
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "House (tier 2).png",
+            "location": {
+                "x": 212,
+                "y": 1896
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Red Mushroom.png",
+            "location": {
+                "x": 212,
+                "y": 1935
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Quality Sprinkler.png",
+            "location": {
+                "x": 212,
+                "y": 1974
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Plank Cabin Stage 1.png",
+            "location": {
+                "x": 212,
+                "y": 2013
+            },
+            "size": {
+                "height": 45,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lewis Icon.png",
+            "location": {
+                "x": 405,
+                "y": 1707
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clint Icon.png",
+            "location": {
+                "x": 427,
+                "y": 1746
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Junimo Icon.png",
+            "location": {
+                "x": 427,
+                "y": 1785
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Harvey Icon.png",
+            "location": {
+                "x": 427,
+                "y": 1847
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Morris Icon.png",
+            "location": {
+                "x": 427,
+                "y": 1886
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gunther Icon.png",
+            "location": {
+                "x": 427,
+                "y": 1925
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pierre Icon.png",
+            "location": {
+                "x": 427,
+                "y": 1964
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gus Icon.png",
+            "location": {
+                "x": 427,
+                "y": 2003
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Krobus Icon.png",
+            "location": {
+                "x": 427,
+                "y": 2042
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coral.png",
+            "location": {
+                "x": 405,
+                "y": 2099
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Willy Icon.png",
+            "location": {
+                "x": 427,
+                "y": 2138
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cactus Fruit.png",
+            "location": {
+                "x": 405,
+                "y": 2195
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mr. Qi Icon.png",
+            "location": {
+                "x": 427,
+                "y": 2234
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sandy Icon.png",
+            "location": {
+                "x": 427,
+                "y": 2273
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Desert Trader Icon.png",
+            "location": {
+                "x": 427,
+                "y": 2312
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Iridium Node.png",
+            "location": {
+                "x": 427,
+                "y": 2351
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Forester.png",
+            "location": {
+                "x": 593,
+                "y": 1707
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Abandoned House Icon.png",
+            "location": {
+                "x": 615,
+                "y": 1746
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marnie Icon.png",
+            "location": {
+                "x": 615,
+                "y": 1808
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hardwood.png",
+            "location": {
+                "x": 615,
+                "y": 1847
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Traveling Cart Icon.png",
+            "location": {
+                "x": 615,
+                "y": 1886
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wizard Icon.png",
+            "location": {
+                "x": 615,
+                "y": 1925
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stone.png",
+            "location": {
+                "x": 593,
+                "y": 1982
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marlon Icon.png",
+            "location": {
+                "x": 615,
+                "y": 2021
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Robin Icon.png",
+            "location": {
+                "x": 615,
+                "y": 2060
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Mines Icon.png",
+            "location": {
+                "x": 615,
+                "y": 2099
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Railroad Icon.png",
+            "location": {
+                "x": 615,
+                "y": 2138
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Spa Icon.png",
+            "location": {
+                "x": 638,
+                "y": 2177
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dwarf Icon.png",
+            "location": {
+                "x": 615,
+                "y": 2216
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "QuarryMineIcon.png",
+            "location": {
+                "x": 615,
+                "y": 2255
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mutant Fly.png",
+            "location": {
+                "x": 615,
+                "y": 2307
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Henchman Icon.png",
+            "location": {
+                "x": 615,
+                "y": 2346
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Weather Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1703
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "All Seasons Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1742
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dandelion.png",
+            "location": {
+                "x": 779,
+                "y": 1781
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fiddlehead Fern.png",
+            "location": {
+                "x": 779,
+                "y": 1820
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hazelnut.png",
+            "location": {
+                "x": 779,
+                "y": 1859
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Snow Yam.png",
+            "location": {
+                "x": 779,
+                "y": 1898
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Festivals Icon.png",
+            "location": {
+                "x": 779,
+                "y": 1937
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bug.png",
+            "location": {
+                "x": 779,
+                "y": 1976
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Developed By Image small.gif",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Creative Commons Attribution-NonCommercial-ShareAlike",
+            "location": {
+                "x": 812,
+                "y": 2754
+            },
+            "size": {
+                "height": 31,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Powered by MediaWiki",
+            "location": {
+                "x": 906,
+                "y": 2754
+            },
+            "size": {
+                "height": 31,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search Stardew Valley Wiki",
+            "type": "search",
+            "location": {
+                "x": 788,
+                "y": 48
+            },
+            "size": {
+                "height": 28,
+                "width": 205
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search the pages for this text",
+            "type": "submit",
+            "location": {
+                "x": 968,
+                "y": 49
+            },
+            "size": {
+                "height": 26,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Go to a page with this exact name if it exists",
+            "type": "submit",
+            "location": {
+                "x": 968,
+                "y": 49
+            },
+            "size": {
+                "height": 26,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            220,
+            150,
+            37
+        ],
+        [
+            206,
+            246,
+            255
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "Stardew Valley Wiki is the #1 resource for the country-life RPG Stardew Valley, covering gameplay, villagers, quests, fishing and more.",
+    "navbar": "",
+    "text": "Jump to navigation\nJump to search\nWelcome to the official Stardew Valley Wiki\nWe currently have 1,573 articles about the country-life RPG developed by ConcernedApe.\nOfficial Site Official Forums GOG Store Humble Store Steam Store\n              Computer version: 1.5.6 (Updated January 18, 2022)\nPS4 version: 1.5.4.2 (Updated April 30, 2021)\nXbox One version: 1.5.4.1 (Updated February 15, 2021)\nSwitch version: 1.5.4.2 (Updated June 18, 2021)\nPS Vita version: 1.02 (Updated June 20, 2018)\niOS version: 1.4.5.153 (Updated January 21, 2021)\nAndroid version: 1.4.5.151 (Updated January 14, 2021)\nDeutsch • English • Español • Français • Italiano • 日本語 • 한국어 • Magyar • Português • Русский • Türkçe • 中文\nAbout\nStardew Valley is an open-ended country-life RPG! You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won’t be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town’s most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!\nBasics\nGetting Started\nThe Player\nControls\nHealth\nEnergy\nSkills\n  Day Cycle\nInventory\nFarm Maps\nItems\nTools\nWeapons\nFish\nArtifacts\nMinerals\nFood\nCrafting\nForaging\nTrees\nHats\nFootwear\nRings\nFertilizer\nBait\nTackle\nFurniture\nWallpaper\nFlooring\nGameplay\nVillagers\nFriendship\nMarriage\nChildren\nQuests\nBundles\nAchievements\nMultiplayer\nModding\nThe Farm\nCrops\nShipping\nAnimals\nFruit Trees\nArtisan Goods\nFarmhouse\nThe Cave\nGreenhouse\nCabin\nThe Valley\nPelican Town\nBlacksmith\nCommunity Center\nHarvey's Clinic\nJojaMart\nMuseum\nPierre's\nThe Saloon\nThe Sewers\nThe Beach\nFish Shop\nThe Desert\nCasino\nOasis\nDesert Trader\nSkull Cavern\nCindersap Forest\nAbandoned House\nMarnie's Ranch\nSecret Woods\nTraveling Cart\nWizard's Tower\nThe Mountain\nAdventurer's Guild\nCarpenter's Shop\nThe Mines\nRailroad\nSpa\nQuarry\nQuarry Mine\nMutant Bug Lair\nWitch's Hut\nEnvironment\nWeather\nSeasons\nSpring\nSummer\nFall\nWinter\nFestivals\nMonsters\nOfficial Soundtrack\nCreate account\nLog in\nMain page\nDiscussion\nRead\nView source\nView history\nSearch\nMain page\nRecent changes\nAdmin noticeboard\nHelp Editing\nRandom page\nOfficial Links\nOfficial Site\nOfficial Forums\nOfficial Merchandise\nDiscord\nReddit\nTools\nWhat links here\nRelated changes\nUpload file\nSpecial pages\nPrintable version\nPermanent link\nPage information\nPage values\nIn other languages\nDeutsch\nEspañol\nFrançais\nItaliano\n日本語\n한국어\nMagyar\nPortuguês\nРусский\nTürkçe\n中文\nThis page was last edited on 23 September 2022, at 01:19.\nContent is available under Creative Commons Attribution-NonCommercial-ShareAlike unless otherwise noted.\nPrivacy policy\nAbout Stardew Valley Wiki\nDisclaimers\nMobile view",
+    "font": "sans-serif",
+    "iframes": [
+        {
+            "title": "Twitter Timeline",
+            "src": "https://syndication.twitter.com/srv/timeline-profile/screen-name/ConcernedApe?dnt=false&embedId=twitter-widget-0&features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOlsibGlua3RyLmVlIiwidHIuZWUiLCJ0ZXJyYS5jb20uYnIiLCJ3d3cubGlua3RyLmVlIiwid3d3LnRyLmVlIiwid3d3LnRlcnJhLmNvbS5iciJdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2hvcml6b25fdGltZWxpbmVfMTIwMzQiOnsiYnVja2V0IjoidHJlYXRtZW50IiwidmVyc2lvbiI6bnVsbH0sInRmd190d2VldF9lZGl0X2JhY2tlbmQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3JlZnNyY19zZXNzaW9uIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19zaG93X2J1c2luZXNzX3ZlcmlmaWVkX2JhZGdlIjp7ImJ1Y2tldCI6Im9mZiIsInZlcnNpb24iOm51bGx9LCJ0ZndfY2hpbl9waWxsc18xNDc0MSI6eyJidWNrZXQiOiJjb2xvcl9pY29ucyIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfcmVzdWx0X21pZ3JhdGlvbl8xMzk3OSI6eyJidWNrZXQiOiJ0d2VldF9yZXN1bHQiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3NlbnNpdGl2ZV9tZWRpYV9pbnRlcnN0aXRpYWxfMTM5NjMiOnsiYnVja2V0IjoiaW50ZXJzdGl0aWFsIiwidmVyc2lvbiI6bnVsbH0sInRmd19leHBlcmltZW50c19jb29raWVfZXhwaXJhdGlvbiI6eyJidWNrZXQiOjEyMDk2MDAsInZlcnNpb24iOm51bGx9LCJ0ZndfZHVwbGljYXRlX3NjcmliZXNfdG9fc2V0dGluZ3MiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3ZpZGVvX2hsc19keW5hbWljX21hbmlmZXN0c18xNTA4MiI6eyJidWNrZXQiOiJ0cnVlX2JpdHJhdGUiLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmx1ZV92ZXJpZmllZF9iYWRnZSI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&frame=false&hideBorder=false&hideFooter=false&hideHeader=false&hideScrollBar=false&lang=en&maxHeight=600px&origin=https%3A%2F%2Fstardewvalleywiki.com%2FStardew_Valley_Wiki&sessionId=7e6fb3d9508d8997f9f0572ab2eb7db46db7cb52&showHeader=true&showReplies=false&siteScreenName=stardewwiki&transparent=false&widgetsVersion=a3525f077c700%3A1667415560940",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/163125391&color=0066cc&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false",
+            "location": {
+                "x": 216,
+                "y": 2452
+            },
+            "size": {
+                "height": 125,
+                "width": 740
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Twitter settings iframe",
+            "src": "https://platform.twitter.com/widgets/widget_iframe.644279d1635fd969e87af94a98bd232b.html?origin=https%3A%2F%2Fstardewvalleywiki.com",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter analytics iframe",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

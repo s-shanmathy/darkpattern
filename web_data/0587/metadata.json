@@ -1,0 +1,99 @@
+{
+    "title": "MP3 Player",
+    "url": "flash-mp3-player.net",
+    "full_url": "https://flash-mp3-player.net/",
+    "images": [
+        {
+            "alt": "MP3 Player",
+            "location": {
+                "x": 112,
+                "y": 0
+            },
+            "size": {
+                "height": 120,
+                "width": 500
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 799,
+                "y": 833
+            },
+            "size": {
+                "height": 16,
+                "width": 106
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            116,
+            116,
+            130
+        ],
+        [
+            246,
+            246,
+            246
+        ]
+    ],
+    "desc": "Lecteur de fichiers audios au format MP3, destiné à la diffusion par internet.",
+    "navbar": "Home Players Help",
+    "text": "accessibility content site map contact\nHome Players Help\nWhat is it ?\nIt's a MP3 player, intended for the diffusion on websites.\nIt's open source, free and customizable.\nMusique de démonstration.\nVarious types\nYou have the choice among 5 types:\nMINI\nNORMAL\nMAXI\nMULTI\nJS\nPub\nneolao production | Credits |\nVersion Française",
+    "font": "Verdana, Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

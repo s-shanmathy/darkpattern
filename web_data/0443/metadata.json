@@ -1,0 +1,1236 @@
+{
+    "title": "IRBMS, Médecine du Sport et Sport Santé",
+    "url": "irbms.com",
+    "full_url": "https://www.irbms.com/",
+    "images": [
+        {
+            "alt": "La Région nous accompagne",
+            "location": {
+                "x": 888,
+                "y": 60
+            },
+            "size": {
+                "height": 119,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Faire du sport par temps froid",
+            "location": {
+                "x": 42,
+                "y": 497
+            },
+            "size": {
+                "height": 212,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ski et traumatismes",
+            "location": {
+                "x": 42,
+                "y": 755
+            },
+            "size": {
+                "height": 212,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Le menu du skieur",
+            "location": {
+                "x": 42,
+                "y": 1013
+            },
+            "size": {
+                "height": 212,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jambes lourdes et sport",
+            "location": {
+                "x": 42,
+                "y": 1271
+            },
+            "size": {
+                "height": 212,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Football et claquage musculaire",
+            "location": {
+                "x": 42,
+                "y": 1529
+            },
+            "size": {
+                "height": 212,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bidon pour vélo : quelle boisson ?",
+            "location": {
+                "x": 30,
+                "y": 1937
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Les bienfaits de l'eau",
+            "location": {
+                "x": 30,
+                "y": 2115
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boissons de tous les jours",
+            "location": {
+                "x": 35,
+                "y": 2309
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hydratation et performance",
+            "location": {
+                "x": 35,
+                "y": 2437
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eaux minérales pour la santé et pour le sport",
+            "location": {
+                "x": 388,
+                "y": 2309
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blessure, plaie : comment la désinfecter ?",
+            "location": {
+                "x": 42,
+                "y": 2654
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Compétition de kayak",
+            "location": {
+                "x": 42,
+                "y": 2832
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Activités Physiques et cancer",
+            "location": {
+                "x": 42,
+                "y": 3010
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Prévention de la rupture du ligament croisé du genou",
+            "location": {
+                "x": 30,
+                "y": 3711
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Football et claquage musculaire",
+            "location": {
+                "x": 35,
+                "y": 3896
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tendinite d'Achille et Sport",
+            "location": {
+                "x": 35,
+                "y": 4024
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Football et commotion cérébrale",
+            "location": {
+                "x": 388,
+                "y": 3896
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La pratique du rugby",
+            "location": {
+                "x": 388,
+                "y": 4024
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jambes lourdes et sport",
+            "location": {
+                "x": 42,
+                "y": 4241
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pleine conscience et sport",
+            "location": {
+                "x": 30,
+                "y": 4759
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Entrainement mental",
+            "location": {
+                "x": 30,
+                "y": 4937
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "L'hypnose pour atteindre ses objectifs",
+            "location": {
+                "x": 30,
+                "y": 5115
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Test de Schober",
+            "location": {
+                "x": 42,
+                "y": 5443
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Test du demi-Cooper",
+            "location": {
+                "x": 42,
+                "y": 5621
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La maladie d'Osgood-Schlatter : imagerie médicale",
+            "location": {
+                "x": 30,
+                "y": 6084
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Enfant sportif : temps de pratique",
+            "location": {
+                "x": 35,
+                "y": 6270
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Le certificat médical pour l'enfant sportif",
+            "location": {
+                "x": 35,
+                "y": 6398
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Condition physique et PPG chez l'enfant",
+            "location": {
+                "x": 388,
+                "y": 6270
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Enfant sportif : éducation à l'alimentation",
+            "location": {
+                "x": 388,
+                "y": 6398
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "L'hygiène du pied",
+            "location": {
+                "x": 30,
+                "y": 6603
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ampoule (vésicule liquidienne) au pied",
+            "location": {
+                "x": 35,
+                "y": 6788
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Soins des pieds pour les sportifs",
+            "location": {
+                "x": 35,
+                "y": 6916
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Les réglages du vélo",
+            "location": {
+                "x": 388,
+                "y": 6788
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ville de Dunkerque : Sport Santé sur Ordonnance",
+            "location": {
+                "x": 42,
+                "y": 7133
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "QVT et activités physiques : travailler son gainage au bureau",
+            "location": {
+                "x": 42,
+                "y": 7311
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Maisons Sport-Santé",
+            "location": {
+                "x": 42,
+                "y": 7498
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Les Maisons Sport Santé : orienter vers des professionnels qualifiés",
+            "location": {
+                "x": 42,
+                "y": 7676
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La pratique de la pétanque",
+            "location": {
+                "x": 30,
+                "y": 8206
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Voile et condition physique",
+            "location": {
+                "x": 35,
+                "y": 8392
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La randonnée pédestre",
+            "location": {
+                "x": 35,
+                "y": 8532
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "coeur et sport",
+            "location": {
+                "x": 30,
+                "y": 9428
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La mort subite du sportif",
+            "location": {
+                "x": 35,
+                "y": 9614
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Calcul de la fréquence cardiaque",
+            "location": {
+                "x": 35,
+                "y": 9742
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Covid-19 et sport : quel risque cardiaque ?",
+            "location": {
+                "x": 388,
+                "y": 9614
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Refuse EPOF et Adopte EPON par Clémence Gualy",
+            "location": {
+                "x": 388,
+                "y": 9754
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Digestion facile : la carotte",
+            "location": {
+                "x": 30,
+                "y": 9959
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Artichauts, carottes, source de fibres",
+            "location": {
+                "x": 35,
+                "y": 10145
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Appareil digestif",
+            "location": {
+                "x": 388,
+                "y": 10145
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amande et sport",
+            "location": {
+                "x": 388,
+                "y": 10285
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boccia : l’équipe de France BC3",
+            "location": {
+                "x": 30,
+                "y": 10503
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "APA-surdite",
+            "location": {
+                "x": 30,
+                "y": 10681
+            },
+            "size": {
+                "height": 132,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mooc Sport Santé",
+            "location": {
+                "x": 780,
+                "y": 357
+            },
+            "size": {
+                "height": 288,
+                "width": 350
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IRBMS : Commandez notre livre",
+            "location": {
+                "x": 780,
+                "y": 727
+            },
+            "size": {
+                "height": 233,
+                "width": 350
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mooc Sport Santé",
+            "location": {
+                "x": 780,
+                "y": 1003
+            },
+            "size": {
+                "height": 288,
+                "width": 350
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "L'hygiène du pied",
+            "location": {
+                "x": 790,
+                "y": 1390
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ampoule (vésicule liquidienne) au pied",
+            "location": {
+                "x": 790,
+                "y": 1532
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hyperthermie maligne d’effort et sport",
+            "location": {
+                "x": 790,
+                "y": 1699
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La randonnée pédestre",
+            "location": {
+                "x": 790,
+                "y": 2314
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marche en eau de mer",
+            "location": {
+                "x": 790,
+                "y": 2478
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Le GR Saint-Jacques de Compostelle",
+            "location": {
+                "x": 790,
+                "y": 2666
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stage d'entrainement et nutrition du sportif",
+            "location": {
+                "x": 790,
+                "y": 3379
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Le sport rien d'autre, dopage hors jeu",
+            "location": {
+                "x": 790,
+                "y": 3957
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Méthode de gainage au ballon Suisse",
+            "location": {
+                "x": 790,
+                "y": 4636
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Quel menu pour le petit déjeuner ?",
+            "location": {
+                "x": 790,
+                "y": 5095
+            },
+            "size": {
+                "height": 82,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ministère des Sports / CNDS",
+            "location": {
+                "x": 860,
+                "y": 11032
+            },
+            "size": {
+                "height": 79,
+                "width": 260
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hello Lille",
+            "location": {
+                "x": 860,
+                "y": 11127
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vysages",
+            "location": {
+                "x": 560,
+                "y": 11497
+            },
+            "size": {
+                "height": 70,
+                "width": 148
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Réseau Sport Santé Hauts-de-France",
+            "location": {
+                "x": 378,
+                "y": 11632
+            },
+            "size": {
+                "height": 80,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SFNS",
+            "location": {
+                "x": 529,
+                "y": 11632
+            },
+            "size": {
+                "height": 80,
+                "width": 102
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amphora",
+            "location": {
+                "x": 244,
+                "y": 11757
+            },
+            "size": {
+                "height": 70,
+                "width": 276
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La Mutuelle Familiale",
+            "location": {
+                "x": 525,
+                "y": 11757
+            },
+            "size": {
+                "height": 70,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            236,
+            235,
+            219
+        ],
+        [
+            100,
+            160,
+            182
+        ]
+    ],
+    "desc": "Conseil, suivi, prévention et information par une équipe médicale spécialisée au service de tous les pratiquants.",
+    "navbar": "Boutique\nNewsletter",
+    "text": "Ce site utilise des cookies pour améliorer l'expérience de navigation et fournir des fonctionnalités supplémentaires. En savoir plus\nOK\nBoutique\nNewsletter\nPrévention Sport Santé depuis 1979\nIRBMS\nCongrès 2022\nMooc\nAnnuaire\nBoutique\nPartenariat\nNuméri'Éval\nStart'R\nOM2S\nFaire Un Don\nContact\nSport Santé\nSanté du Sportif\nCOVID-19\nSports et AP\nSport sur Ordonnance\nDiététique\nPrévention Dopage\nPsychologie\nURGENCES\nLe Web Magazine de l'IRBMS\nCentre de ressources en Médecine du Sport et Sport Santé : conseil, suivi, prévention et information par une équipe médicale spécialisée au service de tous les pratiquants.\nLe 5 décembre 2022\nSport par temps froid l’hiver : prenez vos précautions…\nLa circulation sanguine est mise à contribution pour lutter contre le froid au détriment de nos muscles qui sont moins facilement irrigués. [...]\nLes traumatismes fréquents de la pratique du ski\nAttention la pratique du ski n’est pas sans risque. Toutes les semaines, des milliers de skieurs se retrouvent, au retour de leur station, handicapés avec des traumatismes graves qui touchent de plus en plus les [...]\nLe Menu du Skieur\nIl ne s’agit pas de vous proposer le « menu type du skieur », mais de dresser quelques grands principes pour adapter son alimentation, en reprenant les impératifs nutritionnels. Ces adaptations doivent permettre de pratiquer [...]\nQuels traitements contre les jambes lourdes ?\nLa sensation de jambes lourdes est une impression désagréable ressentie après le sport ou pendant la nuit qui suit l’effort avec une pesanteur, des tensions, des douleurs, des fourmillements, œdèmes au niveau des jambes et [...]\nFootball et accidents musculaires\nUne bonne prise en charge des accidents musculaires conditionnera l'absence de complications et le retour au sport dans de bonnes conditions. [...]\nAnnonces\n+L'hydratation\nLe 29 juin 2021 • Cyclisme, Glucides, Hydratation\nBidon du cycliste : quelle boisson d’effort ?\nLa boisson d'effort pour la pratique du cyclisme est une nécessité énergétique. Pédaler pendant 2 à 4 heures représente une grosse consommation d'énergie. [...]\nLe 1 avril 2021 • Hydratation\nEau plate, eau gazeuse et santé : questions fréquentes\nBoire de l'eau... mais quelle quantité ? Quels sont les signes d'une déshydratation ? L'eau fait-elle maigrir ? Et si on n'aime pas l'eau ? [...]\nLes boissons au quotidien\nL’Hydratation, un besoin vital en performance\nLes Eaux et leurs Teneurs\nBoisson rafraîchissante au Melon\n+Médecine du Sport\nDésinfecter une plaie ou une blessure\nNul n’est à l’abri d’une blessure, d’une chute ou d’un choc, voici quelques conseils pour prendre en charge une plaie bénigne qui peut être toutefois [...]\nBlessures fréquentes lors de la pratique des sports de rame et de pagaie\nLes problèmes de dos sont récurrents. A cause d'un gainage insuffisant, d'une mauvaise maîtrise du port des embarcations, d'une mauvaise maîtrise technique... [...]\nActivités physiques et cancer\nDes exemples de cancers dits « APS sensibles » : le cancer du sein, le cancer colorectal, le cancer de la prostate. [...]\nPubalgies du sportif ou atteinte du carrefour pubien\nSurentraînement et méthodes de récupération\nCrevasses, engelures, gelures … et autres méfaits du froid\nBronchopneumopathie chronique obstructive (BPCO)\nLes principales blessures de la pratique de la course à pied\nMalaise vagal, hypotension d’effort et malaise à l’effort\nHypoglycémie et diabète\nTop 5 des blessures du football\nAnnonces\n+Traumatologie du sport\nLe 20 novembre 2022 • Le Genou du sportif\nComment réduire le nombre de blessures du LCA lors de la pratique sportive ?\nLa chirurgie du ligament croisé antérieur est une intervention fréquente en France. En 2021, 50 000 personnes sont opérées d’une ligamentoplastie du LCA par an [...]\nLe 12 novembre 2022 • Le Genou du sportif\nRupture du ligament croisé du genou : la prévention\nLa rupture du LCA est une lésion fréquente lors de la pratique sportive avec une prédilection pour les sports avec pivots. [...]\nFootball et accidents musculaires\nTendinite du tendon d’Achille chez le footballeur\nCommotion cérébrale et football, les trois règles d’or\nRachis cervical chez le rugbyman\n+Kinésithérapie du Sport\nLe 29 novembre 2022 • A la Une\nQuels traitements contre les jambes lourdes ?\nLa sensation de jambes lourdes est une impression désagréable ressentie après le sport ou pendant la nuit qui suit l’effort avec une pesanteur, des tensions, [...]\nConflit postérieur de cheville chez le danseur\nMal de Dos et Sport : Le Cyclisme\nMal de dos et sports : les facteurs déclenchants\nGainage abdominal au ballon Suisse (Swiss ball) pour lutter contre le mal de dos et les TMS\nInstabilité chronique de cheville\nApports de l’ostéopathie sur la lombalgie chronique\nCOVID-19 : conséquences sur l’arrêt brutal de l’activité physique\nFonctions spécifiques des abdominaux chez le sportif\nParoi Abdominale : Relâchez la pression !\nMal de dos et sport : la natation\nComment protégez votre dos ?\nCupping ou ventouses en pathologies sportives\nK Taping en sport, pose et indication thérapeutique\n+Psychologie du Sport\nLe 07.04.2020 • Techniques de préparation mentale\nPleine conscience et préparation mentale du sportif\nPlusieurs techniques existent, la plus utilisée dans le cadre du sport consiste à porter une attention ouverte à ce qui se passe en soi et [...]\nLe 06.04.2020 • Covid-19, Techniques de préparation mentale\nL’entrainement mental : 3 méthodes pour continuer à progresser\nPresque tous les sportifs s’entrainent physiquement, techniquement et tactiquement mais combien s’entrainent mentalement ? [...]\nLe 28.01.2020 • Techniques de préparation mentale\nHypnose et préparation mentale de l’athlète\nL'hypnose est un outil qui permet d'ancrer facilement et rapidement un mental plus efficace, et des mécanismes bénéfiques pour l'athlète et sa performance. [...]\nAnnonces\n+Testez-vous !\nLe 28 février 2022\nTest de souplesse du rachis\nCe test de Schober (distance doigts-sol) permet de mesurer la mobilité du rachis lombaire. Ce test, facilement réalisable et à faible coût, apporte beaucoup d’enseignements [...]\nLe 29 octobre 2019 • Course à pied\nTest du demi-Cooper\nLe demi-Cooper consiste à courir la plus grande distance en 6 minutes à une vitesse soutenue. La valeur de la VMA correspond alors à la [...]\nTest de Cooper\nTest d’échauffement\nTest d’Astrand ou VO2Max indirecte\nLe S.T.T. Test – Systolic Tension Time\nTest navette de Luc Léger\nTest de marche des six minutes 6MWT – Six minutes walk test.\nDépistez vos facteurs de risque d’ostéoporose\nTest de Ruffier-Dickson\nLa VO2MAX, calculez vos performances\nVitesse de marche et longévité\nTest de Flack\nTest de Martinet\nLes tests diététiques du sportif\nLes tests Psychologiques\n+Sport chez l'enfant\nMaladie d’Osgood-Schlatter ou douleur de croissance du genou\nLa maladie d'Osgood-Schlatter est la plus fréquente des ostéochondroses ou ostéo-dystrophies de croissance. [...]\nLe temps de pratique sportive chez l’enfant\nSport chez l’enfant et certificat médical\nLa Préparation Physique Généralisée chez l’enfant\nDiététique et nutrition de l’enfant et de l’adolescent sportif\n+Podologie du Sport\nHygiène du pied\nLes chaussures de sport permettent de protéger les pieds et d'augmenter les performances, mais elles sont également devenues problématiques si elles ne sont pas adaptées [...]\nPhlyctènes et ampoules aux pieds et aux mains\nSoins du pied : 30 conseils pour les sportifs\nExamen podologique du cycliste\nFootball et maladie d’Haglund\n+Sport Santé\nLe 4 décembre 2022 • APA, Enjeux du Sport Santé\nLe sport santé à Dunkerque\nAnalyse de l’expérience des patients concernant la mise en place par la ville de Dunkerque d’un programme sport santé sur ordonnance. [...]\nLe 19 mai 2022 • Enjeux du Sport Santé, Télétravail\nNouvelle politique d’amélioration de la QVT :  START’R se bouge !\nChaque année a lieu la semaine de la Qualité de Vie au Travail (QVT), comment installer des solutions durables au sein de son entreprise ? [...]\nLe 11 mars 2022 • APA, Enjeux du Sport Santé\nMaisons Sport-Santé\nLes Maisons Sport-Santé sont l’expression d’un besoin devant la pandémie de maladies chroniques en lien avec la sédentarité occasionnant des dépenses de santé exponentielles. [...]\nLe 18 février 2022 • Enjeux du Sport Santé\nDevenir éducateur sportif sport-santé (E3S)\nMixant distanciel et présentiel, nos sessions de formation débutent dès fin mars 2022 avec une procédure d'inscription en ligne. [...]\nActivité physique et santé : à quand le grand pas vers l’immunité ?\nApplication des décisions sanitaires pour le sport à partir du 03/05/2021\nActivités physiques : recommandations 2021\nFermeture des salles de sport et Covid-19 : l’APA dans l’impasse [Résolu]\nSport Santé sur Ordonnance et crise sanitaire : vers une prescription accompagnée à domicile ?\nCollectif National des Réseaux et des Acteurs Territoriaux du Sport-Santé\n+ APA\n+ Maladies Chroniques\n+Pratiques sportives\nLe 1 août 2022\nLa Pétanque, un bénéfice articulaire indéniable\nLa pétanque permet de varier la pratique des activités physiques, avec un bénéfice articulaire indéniable associée à un partage de passion et de convivialité pour [...]\nLa Voile, adapter son bateau à sa condition physique\nVoile\nLa Randonnée Pédestre\nLa Marche • Vie Active\nAnnonces\n+Sport au féminin\nLe 20 octobre 2022\nFemme sportive… Quelles particularités nutritionnelles ?\nImage corporelle et régulation pondérale Les préoccupations des femmes pour leur image corporelle dépendent de nombreux facteurs : sociaux, culturels, psychologiques, environnementaux… Certains problèmes de [...]\nGrossesse et Ski\nOstéoporose : Comment la prévenir ?\nCellulite et sport\nFootball féminin : les blessures fréquentes\nLe diabète gestationnel\nPerformances sportives, les inégalités femmes-hommes\nLe Sport pendant la grossesse\nTroubles gynécologiques et pratique sportive\nBougez Enceinte !\nPrévention des cancers du sein et activités physiques\nAnorexie et sport\nActivité physique pendant la grossesse : quelques conseils de pratique\nTroubles du comportement alimentaire et sport\nAnnonces\n+Cardiologie du Sport\nLe 18 janvier 2022\nLes bienfaits du sport pour le coeur\nBien démarrer dans la vie, respecter des mesures simples de bonne hygiène de vie, c’est certes nécessaire, mais pas suffisant. Pratiquer régulièrement une activité physique [...]\nMort subite chez le sportif\nMort subite • Premiers secours\nCalculer sa fréquence cardiaque maximale pour un effort\nCourse à pied\nCOVID-19 : sport en confinement, quel risque cardiaque ?\nCovid-19\nRefuse EPOF et Adopte EPON\n+Les fibres alimentaires\nAliments de digestion facile\nLa digestibilité des repas est souvent négligée. Les aliments de digestion facile sont pourtant essentiels à connaître en phase précompétitive, et à fortiori le jour [...]\nLes fibres alimentaires pour booster vos performances\nFibres alimentaires\nFibres alimentaires : quels effets sur la santé… et chez le sportif ?\nFibres alimentaires\nLe rôle des fibres alimentaires solubles et insolubles\nFibres alimentaires\nLes Sources des Fibres Alimentaires\nFibres alimentaires\n+Sport et Handicap\nLe 1 mars 2017\nUn, deux, trois… Viva la Boccia !\nLa Boccia est un sport d’opposition de balles mixte, pratiqué en individuel ou par équipe inscrit aux Jeux Paralympiques pour un certain public. [...]\nLe 28 mai 2015 • Maladies Chroniques\nActivité Physique Adaptée et Surdité\nPerdre l’ouïe place la personne en situation dite de handicap : handicap sensoriel, handicap de communication, handicap social. La pratique d’une activité physique adaptée apporte [...]\nAnnonces\nLivres\nCourse à pied\nHygiène du pied\nLes chaussures de sport permettent de protéger les [...]\nPhlyctènes et ampoules aux pieds et aux mains\nC’est une lésion banale, mais qui peut devenir [...]\nHyperthermie maligne d’effort ou coup de chaleur\nL'hyperthermie maligne d’effort est une urgence médicale qui [...]\n+\nMooc Sport Santé\n6 parcours gratuits\n+\nBilan Sport Santé\nNotre questionnaire Numéri'Éval\n+\nTestez votre condition physique\nLa Marche\nLa Randonnée Pédestre\nLa randonnée est un loisir qui associe activité physique et [...]\nMarche en eau de mer, aquajogging ou aquarunning\nPour son bien-être, pour récupérer ou pour soigner une blessure, [...]\nLes Grandes Randonnées (GR) : pour des vacances à couper le souffle\nLa randonnée pendant vos vacances vous permettra d’attaquer la nouvelle [...]\nPrévention du dopage\nLutter contre le dopage dans le sport\nL'IRBMS pionnier de la lutte contre le dopage depuis plus de 30 ans vous propose ces pages exclusivement réalisées par son équipe de professionnels de la santé et [...]\nPlan National de prévention du dopage et des conduites dopantes (2020-2024)\nLa norme NF V94-001\nLa lutte contre le dopage en Russie et l’affaire Grigory Rodchenkov\nCortisone, Corticoïdes – Classe « S9 »\nUtilisation de la cortisone et des glucocorticoïdes chez le sportif\nEntraînement et Repas\nStage d’entraînement : adapter son alimentation\nL’augmentation des dépenses énergétiques consécutive à une journée de stage de deux séances, peut facilement atteindre plus de 3 500 à 4 000 Kcal par jour. [...]\nQue manger après l’entraînement du soir ?\nEntraînement tôt le matin : comment adapter son alimentation ?\nEntraînement le midi : adapter son alimentation\nNutrition et horaires d’entraînement\n+\nCiblez vos besoins alimentaires\n!Nos Avertissements\nRôle des parents dans la prévention du dopage et des conduites dopantes chez le sportif mineur\nC’est le rôle de chaque parent de s’assurer que le jeune athlète évolue dans un environnement sain. [...]\nRôle des parents dans la prévention du dopage et des conduites dopantes chez le sportif mineur\nLes compléments alimentaires\nSécurisation des compléments alimentaires pour sportifs\nCannabis et Sport\nNe confondez pas boisson énergisante et boisson énergétique !\nLa SFNS a publié une étude sur la sécurisation des boissons d’effort et de récupération vis-à-vis du dopage\n+Boissons énergisantes\n+Dopage : effets secondaires\nGainage abdominal\nGainage abdominal au ballon Suisse (Swiss ball) pour lutter contre le mal de dos et les TMS\nLa méthode de gainage abdominal au ballon constitue une méthode originale et novatrice pour renforcer les muscles de la ceinture abdominale, tout en respectant les critères des bonnes pratiques. [...]\nComment évaluer et tester son gainage abdominal ?\nLe Gainage Abdominal chez le Sportif\nPrévenir le mal de dos en associant étirements et ballon Suisse\nPetit déjeuner\nComment bien « petit déjeuner » ?\nLe petit déjeuner reste l'un des repas de la journée à privilégier, qui doit comporter un produit fruité, un produit céréalier, un produit laitier et une boisson. Un petit déjeuner équilibré doit associer un produit [...]\nSauter le petit déjeuner permet-il de perdre du poids ?\nLe petit déjeuner salé type « breakfast anglais » est-il sportif ?\nLe porridge\n+\nVotre poids idéal\n+\nVotre IMC\nL’institut\nA propos de notre Institut\nLa Lettre d’Information\nNotre Equipe\nDevenir membre\nNos Rédacteurs\nPolitique de Confidentialité\nMentions Légales\nDemande de Partenariat\nNous contacter\nDossiers Sport Santé\nSport Santé\nCovid-19\nSport Santé sur Ordonnance\nEnjeux\nBougez… !\nAPA\nMaladies Chroniques\nNuméri’éval\nTestez-vous !\nDossiers thématiques\nLa prévention des chutes chez les personnes âgées\nMaladies de croissance\nHygiène du corps\nTroubles du comportement alimentaire\nArrêter de fumer\nBoissons énergisantes\nConseils Nutritionnels\nCourse à Pied, Marathon et Trail\nHydratation\nManger équilibré\nRégimes\nPartenaires institutionnels\nNos Partenaires Sport Santé\nLa référence du matériel médical\nLes informations données sur ce site ne peuvent en aucun cas servir de prescription médicale. En cas de maladie, blessures, symptômes divers ou malaises, vous devez consulter impérativement un médecin ou un professionnel de santé habilité par la législation en cours dans votre pays. Pour utiliser de ce site vous devez impérativement prendre connaissance de la rubrique Dégagement de responsabilité. Dans le cas contraire, vous n’êtes pas autorisé à utiliser ce site.\nToute représentation et/ou reproduction et/ou exploitation partielle ou totale de ce site, par quelques procédés que ce soit, sans l’autorisation expresse et préalable de l’association IRBMS est interdite. L’utilisation des ressources de ce site à des fins commerciales est strictement interdite.\n© Copyright IRBMS 1979 - 2022. Tous droits réservés",
+    "font": "Verdana, Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "reCAPTCHA",
+            "location": {
+                "x": 939,
+                "y": 811
+            },
+            "size": {
+                "height": 60,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

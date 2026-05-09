@@ -1,0 +1,514 @@
+{
+    "title": "SME Education Foundation",
+    "url": "smeef.org",
+    "full_url": "https://www.smeef.org/",
+    "images": [
+        {
+            "alt": "The SMEEF logo in the header.  When clicked it will take you back to the homepage.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 34,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The SMEEF logo in the header.  Clicking it will take you back to the homepage.",
+            "location": {
+                "x": 32,
+                "y": 4
+            },
+            "size": {
+                "height": 34,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "/globalassets/smeef.org/smeef/header/smeef.rgb.notagline.png",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "student summits",
+            "location": {
+                "x": 44,
+                "y": 1359
+            },
+            "size": {
+                "height": 161,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Prepare - SME PRIME",
+            "location": {
+                "x": 362,
+                "y": 1359
+            },
+            "size": {
+                "height": 161,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "donate",
+            "location": {
+                "x": 682,
+                "y": 2168
+            },
+            "size": {
+                "height": 209,
+                "width": 251
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 682,
+                "y": 2610
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 732,
+                "y": 2610
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram",
+            "location": {
+                "x": 782,
+                "y": 2610
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 832,
+                "y": 2610
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTube",
+            "location": {
+                "x": 878,
+                "y": 2610
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cmwf",
+            "location": {
+                "x": 118,
+                "y": 3356
+            },
+            "size": {
+                "height": 69,
+                "width": 177
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "burch tank",
+            "location": {
+                "x": 305,
+                "y": 3356
+            },
+            "size": {
+                "height": 69,
+                "width": 177
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fori Automation",
+            "location": {
+                "x": 492,
+                "y": 3356
+            },
+            "size": {
+                "height": 69,
+                "width": 177
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The SMEEF logo in the header.  Clicking it will take you back to the homepage.",
+            "location": {
+                "x": 64,
+                "y": 4262
+            },
+            "size": {
+                "height": 51,
+                "width": 120
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 947,
+                "y": 4
+            },
+            "size": {
+                "height": 32,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            210,
+            207,
+            95
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "The SME Education Foundation inspires, prepares and supports manufacturing career opportunities for students at every level.",
+    "navbar": "",
+    "text": "search\nAbout\nStudent Summits\nSME PRIME\nScholarships\nDonate & Support\n2021 Annual Report\nThe SME Education Foundation has released its 2021 Annual Report.\nLearn More View Full Report\n\n\nPrevious\nNext\nHow We Inspire, Prepare and Support\nAs the philanthropic arm of SME, an internationally recognized nonprofit organization serving the manufacturing industry, the SME Education Foundation inspires, prepares and supports the next generation of manufacturing and engineering talent.\nOur Work In Action\nWe Inspire\nThe SME Education Foundation inspires the next generation of manufacturing and engineering talent through the Student Summit event series at SME conferences and trade shows across the country, delivering student-centric programming, hands-on challenges and competitions, technology demonstrations, and guided show floor tours.\nLearn More about Student Summits\nWe Prepare\nThe SME Education Foundation prepares manufacturing and engineering talent through the SME PRIME initiative by partnering with industry to inform and provide modern equipment, tailored curriculum, and hands-on training to high schools across the country.\nLearn More about SME PRIME\nWe Support\nThe SME Education Foundation supports next-generation manufacturing and engineering talent by annually awarding millions of dollars in scholarships to high school seniors, undergraduates and graduate students pursuing two-year, four-year and advanced degrees in manufacturing or engineering.\nLearn More about Scholarships\nEducation Foundation News\nNovember 18, 2022\nSME Member Kristina Pelz Advances Airport High School Mechatronics Program with SME PRIME\nAirport Community School District recognized the rapidly changing innovations in the field of technology and has made a conscious effort to incorporate technology into educational programs to empower students to reach their goals.\nNovember 7, 2022\nApollo High School Enhances Manufacturing Curriculum With SME PRIME\nStudents at Apollo High School — in St. Cloud, Minnesota — will be better able to discover and pursue career opportunities in the manufacturing field with the school’s new SME PRIME (Partnership Response in Manufacturing Education) program.\nOctober 28, 2022\nSME Education Foundation and Partners Demonstrate Advanced Technology at IMTS Student Summit\nThe SME Education Foundation and its partners Stratasys and Tooling U-SME demonstrated advanced manufacturing technology to more than 11,000 students, teachers and administrators at the IMTS Smartforce Student Summit, held in September at McCormick Place in Chicago.\nView All Education Foundation News\nSocial Media\nConnect with the SME Education Foundation\nStay up-to-date on what's happening with the foundation, the PRIME Program, upcoming student summits, scholarship opportunities and more.\nSME Education Foundation Donors & Partners\nThe SME Education Foundation is the leading voice in manufacturing education. As the philanthropic arm of SME, we continue to significantly impact students, educators and companies nationwide. Help us inspire, prepare and support the next generation of manufacturing and engineering talent.\n  Donate Now\n  chevron_left\nchevron_right\nDonate to Diversity, Equity and Inclusion Scholarship Fund\nJoin us in our efforts to increase manufacturing and engineering education opportunities for underrepresented students. Your contribution will make an impact, whether you donate $100 or $1000. Every little bit helps. Thank you for your support.\nDonate\nSME Education Foundation\n1000 Town Center, Suite 1910\nSouthfield, MI 48075\n313.425.3000\nSME Websites\nSME.org\nSME Media\nTooling U-SME\nExplore\nStudent Summit Event Series\nSME PRIME Schools Initiative\nScholarships\nDonate & Support\n© 2022 SME. All rights reserved.\nPolicies SME Careers",
+    "font": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "YouTube video player",
+            "src": "https://www.youtube.com/embed/0WJVxhJpb2Y",
+            "location": {
+                "x": 473,
+                "y": 826
+            },
+            "size": {
+                "height": 277,
+                "width": 492
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": true
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 953,
+                "y": 8
+            },
+            "size": {
+                "height": 28,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "chevron_left",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 62,
+                "y": 3374
+            },
+            "size": {
+                "height": 60,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "chevron_right",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 835,
+                "y": 3374
+            },
+            "size": {
+                "height": 60,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

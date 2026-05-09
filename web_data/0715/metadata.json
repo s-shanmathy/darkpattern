@@ -1,0 +1,660 @@
+{
+    "title": "Synthego | Engineered Cells and CRISPR Kits | Genome Engineering",
+    "url": "synthego.com",
+    "full_url": "https://www.synthego.com/",
+    "images": [
+        {
+            "alt": "Engineered Cells",
+            "location": {
+                "x": 24,
+                "y": 3104
+            },
+            "size": {
+                "height": 54,
+                "width": 54
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CRISPRevolution",
+            "location": {
+                "x": 358,
+                "y": 3116
+            },
+            "size": {
+                "height": 41,
+                "width": 43
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bioinformatics Tools",
+            "location": {
+                "x": 691,
+                "y": 3092
+            },
+            "size": {
+                "height": 65,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ICE CRISPR Analysis Tool",
+            "location": {
+                "x": 46,
+                "y": 5159
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Synthetic sgRNA",
+            "location": {
+                "x": 476,
+                "y": 5159
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ICE CRISPR Analysis Tool",
+            "location": {
+                "x": 1335,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Knockout Immortalized Cell Pool",
+            "location": {
+                "x": 1764,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ICE CRISPR Analysis Tool",
+            "location": {
+                "x": 2194,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ICE CRISPR Analysis Tool",
+            "location": {
+                "x": 2624,
+                "y": 5159
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Knock-In iPS Cells",
+            "location": {
+                "x": 3053,
+                "y": 5159
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Synthetic sgRNA",
+            "location": {
+                "x": 3483,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Synthetic sgRNA",
+            "location": {
+                "x": 3912,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Synthetic sgRNA",
+            "location": {
+                "x": 4342,
+                "y": 5193
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ICE CRISPR Analysis Tool",
+            "location": {
+                "x": 5201,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Synthetic sgRNA",
+            "location": {
+                "x": 5631,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Synthetic sgRNA",
+            "location": {
+                "x": 6060,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ICE CRISPR Analysis Tool",
+            "location": {
+                "x": 6216,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Synthetic sgRNA",
+            "location": {
+                "x": 6490,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gene Knockout Kit v2",
+            "location": {
+                "x": 6920,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Synthetic sgRNA",
+            "location": {
+                "x": 7349,
+                "y": 5125
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CRISPR Design Tool",
+            "location": {
+                "x": 7779,
+                "y": 5159
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Knockout Immortalized Cell Pool",
+            "location": {
+                "x": 8208,
+                "y": 5159
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            21,
+            25
+        ],
+        [
+            34,
+            34,
+            34
+        ]
+    ],
+    "desc": "Synthego offers Full Stack Genome Engineering Solutions. Our Engineered Cells and CRISPR kits enables all researchers to access CRISPR and accelerate their scientific discoveries, uncover cures for diseases, and develop novel synthetic biology applications.",
+    "text": "First Look\nNext-Generation GMP sgRNA Facility\nCompany\nSupport\nOrder\nSubscribe\nProducts\nWorkflows\nLearn\nSchedule a Consultation\nContact Sales\nRead the Announcement\nReveal the Best Drug Targets with Expanded CRISPR Screening\nIntroducing Engineered Cell Libraries for fast, scalable, predictable target discovery.\nExplore the Product  \nSee the Reveal  \nFIRST LOOK\nNext-Generation GMP Facility\nLeverage our expanded capabilities to accelerate your CRISPR-engineered cell and gene therapy\nWatch the Teaser  \nCRISPR WORKFLOWS\nProgress Seamlessly Through Genome Engineering Applications\nDrug Discovery\nPrecision genome engineering with CRISPR can be used to accelerate and optimize your drug discovery research journey, from basic research through preclinical development.\nLearn More\n\nCell & Gene Therapy\nCell and gene therapies leveraging genome editing are rapidly overcoming many of the challenges associated with traditional cell therapies. CRISPR is playing a key role in precise, site-specific, and multiplex editing of cell and gene therapies.\nLearn More\n\nSCREENING INSIGHTS\nOver 90% of Drug Candidates Fail to Obtain FDA Approval\nMake sure your target is one of the lucky ones\nSCREENING METHOD\nRNAi vs. CRISPR\nTransiently knocking down a gene versus permanently knocking out a gene can affect your results.\nLIBRARY FORMAT\nPooled vs. Arrayed\nWhether you mix or separate your guides before screening can dictate what assay you can perform.\nGUIDE PACKAGING\nLentivirus vs. RNP\nHow guide RNAs are packaged for delivery into cells is just as important as the sequence itself.\nPRODUCTS\nAdvanced Genome Engineering, Accessible to All\nEngineered Cells\nUnprecedented access to CRISPR genome engineering. Your edit, your cell with guaranteed results.\nSee Engineered Cell Products\n\nCRISPRevolution\nSynthego offers access to an ecosystem of synthetic RNA solutions for CRISPR genome engineering.\nSee CRISPRevolution Products\n\nBioinformatics Tools\nDesign top-scoring guide RNAs for gene knockout and perform rapid accurate analysis of Sanger sequences.\nUse Our Free Bioinformatics Tools\n\nGUIDED EDIT\nNot Sure Where to Start?\nGuided Edit helps you navigate a clear-cut decision tree so you arrive at the best solution for your CRISPR editing goal.\nTry Guided Edit  \nLEARN\nGet Started with CRISPR\nKeep Up with the Latest\nBrowse Peers' Research\nSucceed in Editing\nExplore Made-to-Order Options\nEase into the field of genome engineering with our CRISPR 101 ebook.\nBrush up on basics with our Everything You Need to Know About CRISPR guide.\nLearn about genome engineering and its applications in our essential guide.\nTake a deep dive into CRISPR with our collection of CRISPR resources.\nCITED PUBLICATIONS\nYou’ll Find Synthego Cited in More than One Thousand Publications\nLatest\nFeatured\nDisease Modeling/ Research + Cancer\nScreening Libraries\nNeuroscience\nSTEM CELLS (DAYTON, OHIO), AUG 2022\nKrüppel-like Factor 4 Supports the Expansion of Leukemia Stem Cells in MLL-AF9-driven Acute Myeloid Leukemia.\nLewis AH et al. Acute myeloid leukemia (AML) is an aggressive malignancy of the bone marrow with 5-year overall survival of less than 10% in patients over the age of 65. Limited progress has been made in the patient outcome because of the inability to selectively eradicate the leukemic stem cells (LSC) driving the\nICE CRISPR Analysis Tool\nGene Function\nImmunology\nBLOOD, AUG 2022\nEditing TINF2 as a potential therapeutic approach to restore telomere length in dyskeratosis congenita.\nChoo S et al. Mutations in the TINF2 gene, encoding the shelterin protein TIN2, cause telomere shortening and the inherited bone marrow (BM) failure syndrome dyskeratosis congenita (DC). A lack of suitable model systems limits the mechanistic understanding of telomere shortening in the stem cells and thus hinders\nSynthetic sgRNA\nDisease Modeling/ Research\nImmunology, Hematology\nPROGRESS IN BIOPHYSICS AND MOLECULAR BIOLOGY, JUL 2022\nDecrypting the mechanistic basis of CRISPR/Cas9 protein.\nPanda G et al. CRISPR/Cas system, a newly but extensively investigated genome-editing method, harbors practical solutions for various genetic problems. It relies on short guide RNAs (gRNAs) to recruit the Cas9 protein, a DNA cleaving enzyme, to its genomic target DNAs. The Cas9 enzyme exhibits some unique properti\nFUNCTIONAL & INTEGRATIVE GENOMICS, JUL 2022\nValidation of reliable safe harbor locus for efficient porcine transgenesis.\nMa X et al. Transgenic technology is now widely used in biomedical and agricultural fields. Transgenesis is commonly achieved through random integration which might cause some uncertain consequences. The site-specific integration could avoid this disadvantage. This study aimed to screen and validate the best sa\nICE CRISPR Analysis Tool\nBioengineering, Epigenetics\nLivestock, CRISPR Methods\nNEUROBIOLOGY OF DISEASE, JUL 2022\nNADPH oxidase 2 activity in Parkinson's disease.\nKeeney MT et al. Mitochondrial dysfunction and oxidative stress are strongly implicated in Parkinson's disease (PD) pathogenesis and there is evidence that mitochondrially-generated superoxide can activate NADPH oxidase 2 (NOX2). Although NOX2 has been examined in the context of PD, most attention has focused on gli\nKnockout Immortalized Cell Pool\nDisease Modeling/ Research, Other\nNeuroscience\nMETHODS (SAN DIEGO, CALIF.), JUL 2022\nMapping of sister chromatid exchange events and genome alterations in single cells.\nHamadeh Z et al. Mammalian genomes encode over a hundred different helicases, many of which are implicated in the repair of DNA lesions by acting on DNA structures arising during DNA replication, recombination or transcription. Defining the in vivo substrates of such DNA helicases is a major challenge given the larg\nICE CRISPR Analysis Tool\nBasic Research, Disease Modeling/ Research\nFundamental Biology\nGENE, JUL 2022\nCharacterizing genes associated with cancer using the CRISPR/Cas9 system: A systematic review of genes and methodological approaches.\nGonzalez-Salinas F et al. The CRISPR/Cas9 system enables a versatile set of genomes editing and genetic-based disease modeling tools due to its high specificity, efficiency, and accessible design and implementation. In cancer, the CRISPR/Cas9 system has been used to characterize genes and explore different mechanisms implica\nICE CRISPR Analysis Tool\nDisease Modeling/ Research\nCancer\nFeatured\nBRAIN, JUL 2022\nCerebral Organoids Containing an AUTS2 Missense Variant Model Microcephaly\nSummer R. Fair;Wesley Schwind;Dominic Julian;Alecia Biel;Swetha Ramadesikan;Jesse Westfall;Katherine E. Miller;Meisam Naeimi Kararoudi;Scott E. Hickey;Theresa Mihalic Mosher;Kim L. McBride;Reid Neinast;James Fitch;Dean Lee;Peter White;Richard K. Wilson;Tracy A. Bedrosian;Daniel C. Koboldt;Mark E. He \nKnock-In iPS Cells\nDisease Modeling/ Research\nNeuroscience\nMOLECULAR CELL, JUL 2022\nNSD1 mediates antagonism between SWI/SNF and polycomb complexes and is required for transcriptional activation upon EZH2 inhibition.\nDrosos Y et al. Disruption of antagonism between SWI/SNF chromatin remodelers and polycomb repressor complexes drives the formation of numerous cancer types. Recently, an inhibitor of the polycomb protein EZH2 was approved for the treatment of a sarcoma mutant in the SWI/SNF subunit SMARCB1, but resistance occurs.\nSynthetic sgRNA\nDisease Modeling/ Research, Gene Function, Epigenetics\nCancer\nCANCER DISCOVERY, JUL 2022\nUnleashing Cell-Intrinsic Inflammation as a Strategy to Kill AML Blasts.\nEllegast JM et al. Leukemic blasts are immune cells gone awry. We hypothesized that dysregulation of inflammatory pathways contributes to the maintenance of their leukemic state and can be exploited as a cell-intrinsic, self-directed immunotherapy. To this end, we applied genome-wide screens to discover genetic vulner\nSynthetic sgRNA\nPathway Analysis, Disease Modeling/ Research\nCancer\nMOLECULAR CANCER THERAPEUTICS, JUL 2022\nPreclinical Evaluation of IMGC936, a Next-Generation Maytansinoid-based Antibody-drug Conjugate Targeting ADAM9-expressing Tumors.\nScribner JA et al. ADAM metallopeptidase domain 9 (ADAM9) is a member of the ADAM family of multifunctional, multidomain type 1 transmembrane proteins. ADAM9 is overexpressed in many cancers, including non-small cell lung, pancreatic, gastric, breast, ovarian, and colorectal cancer, but exhibits limited expression in\nSynthetic sgRNA\nDrug Discovery\nCancer\nNATURE, JUN 2022\nLimited cross-variant immunity from SARS-CoV-2 Omicron without vaccination.\nSuryawanshi RK et al. SARS-CoV-2 Delta and Omicron are globally relevant variants of concern (VOCs). While individuals infected with Delta are at risk to develop severe lung disease, infection with Omicron often causes milder symptoms, especially in vaccinated individuals1,2. The question arises whether widespread Omicro\nDisease Modeling/ Research\nCOVID-19\nFEBS OPEN BIO, JUN 2022\nThe cytotoxic action of BCI is not dependent on its stated DUSP1 or DUSP6 targets in neuroblastoma cells.\nThompson EM et al. Neuroblastoma (NB) is a heterogeneous cancer of the sympathetic nervous system, which accounts for 7-10% of paediatric malignancies worldwide. Due to the lack of targetable molecular aberrations in NB, most treatment options remain relatively nonspecific. Here, we investigated the therapeutic potent\nICE CRISPR Analysis Tool\nDisease Modeling/ Research\nCancer, Neuroscience\nNATURE, JUN 2022\nOCA-T1 and OCA-T2 are coactivators of POU2F3 in the tuft cell lineage.\nWu XS et al. Tuft cells are a rare chemosensory lineage that coordinates immune and neural responses to foreign pathogens in mucosal tissues1. Recent studies have also revealed tuft cell-like human tumors2,3, particularly as a variant form of small cell lung cancer (SCLC). Both normal and neoplastic tuft cells s\nSynthetic sgRNA\nGene Function, Disease Modeling/ Research\nCancer\nNEUROBIOLOGY OF DISEASE, JUN 2022\nMosaic and non-mosaic protocadherin 19 mutation leads to neuronal hyperexcitability in zebrafish.\nRobens BK et al. Epilepsy is one of the most common neurological disorders. The X-linked gene PCDH19 is associated with sporadic and familial epilepsy in humans, typically with early-onset clustering seizures and intellectual disability in females but not in so-called 'carrier' males, suggesting that mosaic PCDH19 e\nSynthetic sgRNA\nICE CRISPR Analysis Tool\nDisease Modeling/ Research, Gene Function\nFundamental Biology, Neuroscience\nDISEASE MODELS & MECHANISMS, JUN 2022\nApplication of an F0-based genetic assay in adult zebrafish to identify modifier genes of an inherited cardiomyopathy.\nDing Y et al. Modifier genes contribute significantly to our understanding of pathophysiology in human diseases; however, effective approaches to identify modifier genes are still lacking. Here, we aim to develop a rapid F0-based genetic assay in adult zebrafish using the bag3 gene knockout (bag3e2/e2) cardiomyop\nSynthetic sgRNA\nGene Function, Bioengineering, Disease Modeling/ Research\nCardiology, Genetic Disease, CRISPR Methods\nSCIENCE (NEW YORK, N.Y.), JUN 2022\nHuman OTULIN haploinsufficiency impairs cell-intrinsic immunity to staphylococcal α-toxin.\nSpaan AN et al. The molecular basis of interindividual clinical variability upon infection with Staphylococcus aureus is unclear. We describe patients with haploinsufficiency for the linear deubiquitinase OTULIN, encoded by a gene on chromosome 5p. Patients present episodes of life-threatening necrosis, typically t\nGene Knockout Kit v2\nDisease Modeling/ Research\nInfectious Disease\nISCIENCE, JUN 2022\nHigh-level correction of the sickle mutation is amplified in vivo during erythroid differentiation.\nMagis W et al. A point mutation in sickle cell disease (SCD) alters one amino acid in the β-globin subunit of hemoglobin, with resultant anemia and multiorgan damage that typically shortens lifespan by decades. Because SCD is caused by a single mutation, and hematopoietic stem cells (HSCs) can be harvested, manipu\nSynthetic sgRNA\nBioengineering, Disease Modeling/ Research\nHematology, Genetic Disease\nSTAR PROTOCOLS, JUN 2022\nRapid establishment of human colonic organoid knockout lines.\nGu W et al. Human colonic organoids derived from biopsy or autopsy tissues are a vital tool to study mucosal homeostasis, model colonic diseases, and develop therapeutics. Rapid and reliable generation of knockout organoid lines from multiple donors enables analysis of specific gene functions. Here, we report p\nCRISPR Design Tool\nBioengineering\nOther Methods\nCELL, JUN 2022\nZn-regulated GTPase metalloprotein activator 1 modulates vertebrate zinc homeostasis.\nWeiss A et al. Zinc (Zn) is an essential micronutrient and cofactor for up to 10% of proteins in living organisms. During Zn limitation, specialized enzymes called metallochaperones are predicted to allocate Zn to specific metalloproteins. This function has been putatively assigned to G3E GTPase COG0523 proteins,\nKnockout Immortalized Cell Pool\nBasic Research\nFundamental Biology\nBrowse and Search All Publications  \nLATEST FROM THE BENCH BLOG\nCRISPR APPLICATIONS\n16 MIN READ\nUnderstanding CRISPR Clinical Trials: Your Questions Answered\nCRISPR APPLICATIONS\n14 MIN READ\nWorld CRISPR Day 2022 Recap: Innovation, Implementation, and Impact\n12 MIN READ\n10 Years of CRISPR and Synthego: Celebrating Advances in Life Sciences\nVisit the Bench Blog  \nTHE GENOME ENGINEERING EXPERTS\nLeveraging machine learning, automation, and gene editing to build platforms for science at scale.\nWe’ve Performed\n250,000+ Edits\nAverage Editing Efficiency\n80%\nSupporting Research in\n45+ Countries\nCited in\n1,005 Publications\nAbout Synthego\nWe enable the acceleration of life science research and development in the pursuit of improved human health.\nLearn More\n\nPartnerships\nWe partner with both commercial and academic entities to develop genome engineering technologies.\nLearn More\n\nNewsroom\nGet in touch, check out news and press releases or download our brand resources.\n\nLearn More\n\nFull Stack Genome Engineering\nPRODUCTS\nEngineered Cells\nKnockout iPS Cells\nKnock-In iPS Cells\nKnockout Immortalized Cells\nKnock-In Immortalized Cells\nEngineered Cell Libraries\nGet a Quote\nCRISPR Kits\nGene Knockout Kit v2\nSynthetic sgRNA\nGMP sgRNA\nAdvanced RNA\nScreening Libraries\nLEARNING CENTER\nCRISPR\nMethods\nHow To Guide\nStem Cells\nPrimary Cells\nCancer\nSickle Cell\nNews Sources\niPSCs\nGenome Engineering\nHistory\nTechniques & Applications\nRESOURCES\nResource Library\nThe Bench Blog\nCRISPR Cuts Podcast\nHelp Center\nEvents\nCOMPANY\nAbout Synthego\nPlatforms\nHalo\nEclipse\nPartnerships\nCareers\nNewsroom\nContact\nCopyright © 2022 SynthegoPrivacy PolicyTerms of UseTerms of SaleMoney Back Guarantees\n  Subscribe",
+    "font": "runda, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://11642165.fls.doubleclick.net/activityi;src=11642165;type=pagev0;cat=allpa0;ord=9022222593113;gtm=2wgbu0;auiddc=916301331.1670539169;u1=https%3A%2F%2Fwww.synthego.com%2F;u2=-;~oref=https%3A%2F%2Fwww.synthego.com%2F?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://11642165.fls.doubleclick.net/activityi;src=11642165;type=pagev0;cat=homep0;ord=1;num=1202026140280;gtm=2wgbu0;auiddc=916301331.1670539169;u2=-;~oref=https%3A%2F%2Fwww.synthego.com%2F?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://js.stripe.com/v3/controller-642479de409d32f3836de7a1f598d6c0.html#apiKey=pk_live_6MsqMNdk1LPE8HotBr5lxajs&stripeJsId=1a08b694-f4a5-4d28-a7bd-d1990a05ce8d&stripeJsLoadTime=1670539173439&referrer=https%3A%2F%2Fwww.synthego.com%2F&controllerId=__privateStripeController0841",
+            "location": {
+                "x": 0,
+                "y": 900
+            },
+            "size": {
+                "height": 1,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://js.stripe.com/v3/m-outer-93afeeb17bc37e711759584dbfc50d47.html#url=https%3A%2F%2Fwww.synthego.com%2F&title=Synthego%20%7C%20Full%20Stack%20Genome%20Engineering&referrer=&muid=NA&sid=NA&version=6&preview=false",
+            "location": {
+                "x": 0,
+                "y": 900
+            },
+            "size": {
+                "height": 1,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Company",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 508,
+                "y": 6
+            },
+            "size": {
+                "height": 31,
+                "width": 92
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Support",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 600,
+                "y": 6
+            },
+            "size": {
+                "height": 31,
+                "width": 84
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Order",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 684,
+                "y": 6
+            },
+            "size": {
+                "height": 31,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 927,
+                "y": 5
+            },
+            "size": {
+                "height": 32,
+                "width": 58
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Products",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 232,
+                "y": 56
+            },
+            "size": {
+                "height": 37,
+                "width": 101
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Workflows",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 347,
+                "y": 56
+            },
+            "size": {
+                "height": 37,
+                "width": 112
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Learn",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 473,
+                "y": 56
+            },
+            "size": {
+                "height": 37,
+                "width": 77
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Latest",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 24,
+                "y": 4776
+            },
+            "size": {
+                "height": 37,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Featured",
+            "bg-color": "rgba(0, 21, 26, 1)",
+            "location": {
+                "x": 123,
+                "y": 4776
+            },
+            "size": {
+                "height": 37,
+                "width": 101
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Disease Modeling/ Research + Cancer",
+            "bg-color": "rgba(0, 21, 26, 1)",
+            "location": {
+                "x": 240,
+                "y": 4776
+            },
+            "size": {
+                "height": 37,
+                "width": 296
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Screening Libraries",
+            "bg-color": "rgba(0, 21, 26, 1)",
+            "location": {
+                "x": 551,
+                "y": 4776
+            },
+            "size": {
+                "height": 37,
+                "width": 170
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Neuroscience",
+            "bg-color": "rgba(0, 21, 26, 1)",
+            "location": {
+                "x": 737,
+                "y": 4776
+            },
+            "size": {
+                "height": 37,
+                "width": 133
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

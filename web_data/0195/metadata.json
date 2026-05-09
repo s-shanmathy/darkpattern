@@ -1,0 +1,99 @@
+{
+    "title": "International Plant Nutrition Institute (IPNI)",
+    "url": "ipni.net",
+    "full_url": "https://ipni.net/",
+    "images": [
+        {
+            "alt": "logo",
+            "location": {
+                "x": 20,
+                "y": 67
+            },
+            "size": {
+                "height": 70,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Google Search",
+            "type": "text",
+            "location": {
+                "x": 422,
+                "y": 828
+            },
+            "size": {
+                "height": 16,
+                "width": 152
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            243,
+            243,
+            243
+        ],
+        [
+            227,
+            227,
+            227
+        ]
+    ],
+    "navbar": "Publications",
+    "text": "English\nPublications\nResearch\nNews\nTopics\n01 Apr 2019\nFinal Issue of Better Crops with Plant Food\nAs 2019 marks the 350th anniversary of Hennig Brandt’s discovery of phosphorus (P), it is a time to reflect back on the number of significant scientific advancements that have followed.\nRead More\nPublications\nBetter Crops\nPlant Nutrition Today\nIssue Review Series\nFact Sheets\nStudy Guides & Manuals\n4R Nutrient Stewardship Portal\nMore ...\nResearch\nImage Database\nResearch with Impact Series\nNutrient Uptake & Removal\nToolbox & Software\nPast Webinars\nMore ...\nNews & Information\nAbout IPNI\nPhoto Contest\nScholar Award\nMore ...\nNote\nThe agronomic programs of IPNI ceased operations on April 1, 2019. This website will remain online until the end of 2019, but no further updates will be made.\nQuestions about past IPNI operations and projects can be forwarded to the International Fertilizer Association, The Fertilizer Institute, or Fertilizer Canada.\nIPNI's Mission\nThe mission of IPNI is to develop and promote scientific information about the responsible management of plant nutrition for the benefit of the human family.\nIPNI is a global organization with initiatives addressing the world's growing need for food, fuel, fiber and feed. There is widespread concern for issues such as climate change and relationship of crop production to the environment and ecosystems, and IPNI programs are achieving positive results. Best management practices (BMPs) for nutrient stewardship encourage the concept of applying the right product (source), at the right rate, at the right time, and in the right place.\nView The 2018 Program Report\nSearch\nCopyright © 2019 International Plant Nutrition Institute. All rights reserved.\nPrivacy Policy, Terms of Service",
+    "font": "Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 574,
+                "y": 833
+            },
+            "size": {
+                "height": 26,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,995 @@
+{
+    "title": "Wine Enthusiast Magazine | Wine Ratings, Wine News, Recipe Pairings",
+    "url": "winemag.com",
+    "full_url": "https://www.winemag.com/",
+    "images": [
+        {
+            "alt": "✖",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "a crystal ball with two people holding cocktails inside",
+            "location": {
+                "x": 63,
+                "y": 113
+            },
+            "size": {
+                "height": 408,
+                "width": 612
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bottle of wine wrapped in vines",
+            "location": {
+                "x": 62,
+                "y": 554
+            },
+            "size": {
+                "height": 193,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lost Spirits Distillery",
+            "location": {
+                "x": 367,
+                "y": 554
+            },
+            "size": {
+                "height": 193,
+                "width": 289
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2000s celebrates with cocktails in a vintage internet browser with a designed background",
+            "location": {
+                "x": 673,
+                "y": 554
+            },
+            "size": {
+                "height": 193,
+                "width": 289
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Alma Rosa Winery vineyards in Buellton, California.",
+            "location": {
+                "x": 62,
+                "y": 973
+            },
+            "size": {
+                "height": 372,
+                "width": 557
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3 bottles of wine on a designed background",
+            "location": {
+                "x": 62,
+                "y": 1385
+            },
+            "size": {
+                "height": 180,
+                "width": 271
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wine Star Ward 2022 trophy and wine glasses",
+            "location": {
+                "x": 349,
+                "y": 1385
+            },
+            "size": {
+                "height": 180,
+                "width": 271
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review label",
+            "location": {
+                "x": 67,
+                "y": 2055
+            },
+            "size": {
+                "height": 150,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review label",
+            "location": {
+                "x": 439,
+                "y": 2055
+            },
+            "size": {
+                "height": 91,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review label",
+            "location": {
+                "x": 871,
+                "y": 2055
+            },
+            "size": {
+                "height": 150,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review label",
+            "location": {
+                "x": 1256,
+                "y": 2055
+            },
+            "size": {
+                "height": 150,
+                "width": 112
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review label",
+            "location": {
+                "x": 1636,
+                "y": 2055
+            },
+            "size": {
+                "height": 108,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "review label",
+            "location": {
+                "x": 2035,
+                "y": 2055
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "two wood cutting boards on a designed background",
+            "location": {
+                "x": 62,
+                "y": 2579
+            },
+            "size": {
+                "height": 289,
+                "width": 434
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Aperitif cocktail",
+            "location": {
+                "x": 528,
+                "y": 2579
+            },
+            "size": {
+                "height": 289,
+                "width": 434
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A box of wine on a purple background",
+            "location": {
+                "x": 62,
+                "y": 2929
+            },
+            "size": {
+                "height": 289,
+                "width": 434
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "4 soda streams behind a glass of sparking water on a designed background",
+            "location": {
+                "x": 528,
+                "y": 2929
+            },
+            "size": {
+                "height": 289,
+                "width": 434
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "traditional wine glass versus stemless wine glass",
+            "location": {
+                "x": 62,
+                "y": 3476
+            },
+            "size": {
+                "height": 396,
+                "width": 595
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wine Enthusiast Academy logo overlaid on wine glasses",
+            "location": {
+                "x": 673,
+                "y": 3476
+            },
+            "size": {
+                "height": 193,
+                "width": 289
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mail man carrying a bag full of liquor bottles",
+            "location": {
+                "x": 673,
+                "y": 3729
+            },
+            "size": {
+                "height": 193,
+                "width": 289
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wine cleaning tools",
+            "location": {
+                "x": 62,
+                "y": 3983
+            },
+            "size": {
+                "height": 193,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "wine sitting next to a charcuterie board with sliced cheese, figs, italien wine grapes, gooseberries and vegetable chutney",
+            "location": {
+                "x": 367,
+                "y": 3983
+            },
+            "size": {
+                "height": 193,
+                "width": 289
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bottle of wine with a bow on it.",
+            "location": {
+                "x": 673,
+                "y": 3983
+            },
+            "size": {
+                "height": 193,
+                "width": 289
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2000s celebrates with cocktails in a vintage internet browser with a designed background",
+            "location": {
+                "x": 62,
+                "y": 4947
+            },
+            "size": {
+                "height": 180,
+                "width": 271
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "hand holding up a glass of Grappa",
+            "location": {
+                "x": 349,
+                "y": 4947
+            },
+            "size": {
+                "height": 180,
+                "width": 271
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3 beers on a desigend background",
+            "location": {
+                "x": 62,
+                "y": 5188
+            },
+            "size": {
+                "height": 180,
+                "width": 271
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration fo people drinking Brandy",
+            "location": {
+                "x": 349,
+                "y": 5188
+            },
+            "size": {
+                "height": 180,
+                "width": 271
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wine Enthusiast Magazine",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 610,
+                "y": 6
+            },
+            "size": {
+                "height": 37,
+                "width": 261
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your email",
+            "type": "email",
+            "location": {
+                "x": 384,
+                "y": 4702
+            },
+            "size": {
+                "height": 35,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your email",
+            "type": "email",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "First Name",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Last Name",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Street Address",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "City",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Zip",
+            "type": "tel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "First Name",
+            "type": "text",
+            "location": {
+                "x": 189,
+                "y": 9503
+            },
+            "size": {
+                "height": 37,
+                "width": 147
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "location": {
+                "x": 345,
+                "y": 9503
+            },
+            "size": {
+                "height": 37,
+                "width": 333
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your email",
+            "type": "email",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            239,
+            239,
+            239
+        ]
+    ],
+    "desc": "Wine Enthusiast Magazine brings you acclaimed wine ratings and reviews, unique recipes ideas, pairing information, news coverage and helpful guides.",
+    "navbar": "WINE STAR AWARDS\nSHOP",
+    "text": "WINE STAR AWARDS\nSHOP\nWhat Drink Trends Will Reign Supreme in 2023? Our Predictions\nGet to Know Germany’s Booming Natural Wine Scene\n8 Bucket-List Drinks Spots Around the World\n10 Cocktails Inspired by Y2K Fashion Trends\nWINE + RATINGS\nSta. Rita Hills Is More Than Just Pinot-Land\n12 Delicious Italian Red Wines to Drink with Warming Winter Meals\nWine Enthusiast’s 2022 Wine Star Award Winners\nSEE MORE →\nTOP STORIES\nWine Enthusiast Companies Earns Great Place to Work Certification™\nVegan Irish Coffee’s Secret Ingredient? Oat Milk\nBreweries, Cideries and Beyond: A Drinker’s Guide to the Catskills\nBorn in the U.S.A.: The Best American Whiskeys for Your Bar Cart\nGet to Know Grappa, the Fragrant Italian Liquor\nYour Guide to Pairing Non-Alcoholic Wine with Everything from Cheese to Oysters\nLIVE: WINE REVIEWS & RATINGS\nL’Ecole No. 41 2021 Semillon (Columbia Valley (WA)) COLUMBIA VALLEY\nThis incredible value of a wine begins with hunger-inducing aromas of a butter-crust kiwi tart …\nSEE FULL REVIEW\n90 Points\n$17\nElizabeth Spencer 2019 Proprietor Selected Special Cuvée Pinot Noir (Sonoma Coast) SONOMA\nDusky tones of grilled plums, redwood forest and balsam fill the aromas of this full-bodied, …\nSEE FULL REVIEW\n92 Points\n$68\nMatsu 2020 El Recio (Toro) NORTHERN SPAIN\nBright violet-red in the glass, this wine offers aromas of blackberry, geranium and fennel. A …\nSEE FULL REVIEW\n92 Points\n$22\nManzanos 2018 111 Reserva (Rioja) NORTHERN SPAIN\nInky garnet in color, this wine has aromas of blackberry, Red Delicious apple peel and …\nSEE FULL REVIEW\n93 Points\n$45\nAlberto Orte 2018 La Antiguia Clásico Blanco White (Rioja) NORTHERN SPAIN\nThis wine has aromas of lemon and pineapple, with a hint of matchstick. Lemon and …\nSEE FULL REVIEW\n93 Points\n$32\nAna Beirut 2018 Grande Réserve Mount Lebanon Red (Bekaa Valley) LEBANON\nInky garnet in the glass, this wine has aromas of raspberry, cassis and roasted nuts …\nSEE FULL REVIEW\n91 Points\n$35\nSEE MORE →\nHANDPICKED\nThe Best Cutting Boards, According to Cooking Experts\nThe 10 Best Aperitifs to Sip Before a Big Meal, According to Pros\n8 Boxed Wines Industry Insiders Love\nThe 9 Best Soda Makers\nSEE MORE →\nTHE BASICS\nAre Stemless Wine Glasses Any Good? We Investigate\nLearn from Experts: Enroll in Wine Enthusiast Academy!\nCan You Ship Alcohol? We Explain\nHow to Get Red Wine Out of the Carpet and Fix Other Vino Catastrophes\nYour Guide to Pairing Non-Alcoholic Wine with Everything from Cheese to Oysters\nWrapping Wine Bottles Is Famously Hard. Here’s How to Do It Right\nSEE MORE →\nSign up for\nWine Enthusiast Newsletters\nSubmit\nWelcome to winemag.com! By using our website and/or subscribing to our newsletter, you agree to our use of cookies and the terms of ourPrivacy Policy\n\nSPIRITS + BEER\n10 Cocktails Inspired by Y2K Fashion Trends\nGet to Know Grappa, the Fragrant Italian Liquor\nMexican Beer Must-Haves, According to Suds Experts\nThe New Wave of Weird, Wild American Brandy\nSEE MORE →\nRemembering d’Arry Osborn, a South Australian Wine Legend\nWine Enthusiast Companies Earns Great Place to Work Certification™\nWine Enthusiast Companies Donates $20,000 to City Harvest in Support of Giving Tuesday\nAbruzzo, Italy: 2022 Wine Region of the Year\nWine Enthusiast’s 2022 Wine Star Award Winners\nThe Hue Society: 2022 Social Visionary of the Year\nFROM OUR PARTNERS\nSet the Table with Cantina Mesa’s Standout Sardinian Wines\nThe Ultimate Wine Trip Awaits in Catalonia\nMake Every Hour Golden, It’s Sicilian Wine Time!\nLife In Balance: Bellissima’s New Zero Sugar Still Wines\nHow Duca Enrico Made Nero d’Avola the Marquee Variety of Sicily\nBarbera d’Asti and Monferrato: A Welcoming Place for Wine\nSEE MORE →\nSUBSCRIBE NOW\nFOOD\n50 Best Restaurants in America 2022\nWhat the Blue Cheese Haters Are Missing\nA Starter Guide to Wagyu Beef\nA Beginners Guide to Beer Cheese\nThe TikTok-Famous Apple Skillet Cake\nAll About Asado, Argentina’s Iconic Wood-Grilled Beef\nSEE MORE →\nSHOP WHAT’S TRENDING\nSEE MORE →\nTRAVEL\n8 Bucket-List Drinks Spots Around the World\nGrieving in Wine Country: How Wine Brought One Man Back from the Dead\nBurgundy by Barge: An Unconventional Way to Enjoy a Classic Wine Region\nA Beginner’s Guide to the Loire Valley and Its Iconic Wines\nSEE MORE →\n  Subscribe to Wine Enthusiast Magazine\nfor as little as $2.50 an issue!\nNEXT\nBy continuing to use our Services and/or submitting the above information, you agree to our use of cookies and the terms of our Privacy Policy\nCATEGORIES\nWINE RATINGS AND REVIEWS\nTHE BASICS\nDRINKS\nFOOD\nTRAVEL\nGRAPE VARIETIES\nWINE SHIPPING LAWS\nABOUT US\nCOMPANY HISTORY\nMEET THE TEAM\nCONTACT US\nCAREER OPPORTUNITIES\nCHARITY PARTNERS\nPRIVACY POLICY\nTERMS OF USE\nCALIFORNIA PRIVACY RIGHTS DO NOT SELL MY INFORMATION\nSUBSCRIBE\nPRINT\nDIGITAL\nRSS\nBUYING GUIDE RSS\nTRADE\nADVERTISE\nIMPORTER CONNECTION\nBEVERAGE INDUSTRY ENTHUSIAST\nWINE STAR AWARDS\nSUBMIT FOR RATING\nHOW WE REVIEW\nSHOP\nBUY WINE ACCESSORIES\nBUY WINE\nGIFT REGISTRY\nSITEMAP\nFOLLOW US\nWe may earn a commission for purchases made through our links.\nCOPYRIGHT ©2023 WINE ENTHUSIAST MAGAZINE.\nALL RIGHTS RESERVED.",
+    "font": "Lato, Helvetica, Roboto, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "powr social feed",
+            "src": "https://www.powr.io/social-feed/u/a6699ad7_1605803931#platform=wordpress&url=https%3A%2F%2Fwww.winemag.com%2F",
+            "location": {
+                "x": 62,
+                "y": 7691
+            },
+            "size": {
+                "height": 1565,
+                "width": 900
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Twitter settings iframe",
+            "src": "https://platform.twitter.com/widgets/widget_iframe.644279d1635fd969e87af94a98bd232b.html?origin=https%3A%2F%2Fwww.winemag.com",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter analytics iframe",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "TTD Universal Pixel",
+            "src": "https://insight.adsrvr.org/track/up?adv=bd6a3h6&ref=https%3A%2F%2Fwww.winemag.com%2F&upid=bvcrzhy&upv=1.1.0",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 831,
+                "y": 0
+            },
+            "size": {
+                "height": 49,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(233, 233, 233, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Submit",
+            "bg-color": "rgba(69, 77, 93, 1)",
+            "location": {
+                "x": 565,
+                "y": 4702
+            },
+            "size": {
+                "height": 35,
+                "width": 75
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(89, 212, 203, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "NEXT",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 689,
+                "y": 9503
+            },
+            "size": {
+                "height": 37,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(69, 77, 93, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

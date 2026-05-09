@@ -1,0 +1,383 @@
+{
+    "title": "HotAir – Politics, Culture, Media, Breaking News from a conservative viewpoint",
+    "url": "hotair.com",
+    "full_url": "https://hotair.com/",
+    "images": [
+        {
+            "alt": "Premium",
+            "location": {
+                "x": 646,
+                "y": 25
+            },
+            "size": {
+                "height": 15,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 512,
+                "y": -512
+            },
+            "size": {
+                "height": 131,
+                "width": 873
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            70,
+            70,
+            71
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            67,
+            67,
+            68
+        ]
+    ],
+    "desc": "HotAir is the leading conservative blog for breaking news and commentary covering the Biden administration, politics, media, culture, and current elections. 01/05/2023 15:50:57 P EST",
+    "navbar": "ED MORRISSEY SHOW\nPODCASTS\nNEWSLETTERS\nJOIN VIP\nLOGIN",
+    "text": "ED MORRISSEY SHOW\nPODCASTS\nNEWSLETTERS\nJOIN VIP\nLOGIN\nTrust The Science™\nDAVID STROM 3:31 PM on January 05, 2023\nHEADLINES\nMORE HEADLINES\nGRABIEN\nBiden: No one knows the border situation better than ...\nDAILY CALLER\nButtigieg responded quicker to Senate-bid rumors than to the Southwest crisis\nCBS NEWS\nIndictment: Idaho mass-murder suspect's DNA identified in crime scene\nREASON\nHamline's president keeps on digging\nSPECTATOR\nDC press corps goes MIA on House Dem scandal\nPOWER LINE\nWashington Commies pick perfect mascot ... for the Beltway trough\nTOWNHALL\nAuthorities Release Chilling Details in Case Against Idaho Murder Suspect\nREDSTATE\nBREAKING: Chilling New Details Emerge About Idaho College Slayings\nPJ MEDIA\nDid Someone or Something Seize Control of the United States?\nTWITCHY\nPh.D. candidate tries making a case AGAINST masculinity in Christianity and it does NOT go well\nASSOCIATED PRESS\nSouth Carolina high court strikes down abortion ban\nBEARING ARMS\nMobile police hope new video will make people put guns down\nTHE HILL\nBiden officials begin battle at Supreme Court for student debt relief\nJONATHAN TURLEY\nJ6 committee and its silent flatus on Ginni Thomas\nTRENDING\n1\nTrust The Science™\n2\nCalifornia bans 70,000 tractor-trailers amid supply chain crisis\n3\nLA Times: White supremacy is a rainbow coalition\n4\nHere we go again: Seventh time the charm for McCarthy? Nope\n5\nDC press corps goes MIA on House Dem scandal",
+    "font": "proxima-nova, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://ffcd4ca54432864d6e96113325a24fb8.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=n-inmobi",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Criteo GUM iframe",
+            "src": "https://gum.criteo.com/syncframe?origin=publishertag&topUrl=hotair.com#{%22uid%22:{%22origin%22:0},%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22sid%22:{%22origin%22:0},%22tld%22:%22hotair.com%22,%22topUrl%22:%22hotair.com%22,%22version%22:130,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertag%22,%22requestId%22:%220.6679105381079207%22}",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "offer_70331a8f2970699cd34e-0",
+            "src": "https://buy.tinypass.com/checkout/template/cacheableShow?aid=OnyZMk8rii&templateId=OTUCCW27ZW41&offerId=fakeOfferId&experienceId=EX3XFYBISHOR&iframeId=offer_70331a8f2970699cd34e-0&displayMode=modal&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&widget=template&url=https%3A%2F%2Fhotair.com",
+            "location": {
+                "x": 187,
+                "y": 50
+            },
+            "size": {
+                "height": 449,
+                "width": 650
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://cdn.cxense.com/sp1.html#ver=2.8.9&typ=pgv&rnd=lcjkcvs74x47xatc&sid=1138588360591687579&loc=https%3A%2F%2Fhotair.com%2F&new=1&arf=0&ltm=1672951885557&ref=&tzo=480&wsz=1024x1024&res=1728x1117&dpr=2&col=30&bln=en-US&chs=UTF-8&cks=lcjkcx5h5uxxcimj&ckp=lcjkcvs7z113bgnb&glb=&cp_userState=anon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://eus.rubiconproject.com/usync.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://us-u.openx.net/w/1.0/pd?plm=6&ph=69c6605f-75a3-4675-93fb-b6227ba36b1d&gdpr=0",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://ads.pubmatic.com/AdServer/js/user_sync.html?kdntuid=1&p=156799",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://acdn.adnxs.com/dmp/async_usersync.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 512,
+                "y": -512
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 512,
+                "y": -512
+            },
+            "size": {
+                "height": 47,
+                "width": 57
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(151, 33, 35, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(151, 33, 35, 1)",
+            "location": {
+                "x": 439,
+                "y": 6058
+            },
+            "size": {
+                "height": 48,
+                "width": 145
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 817,
+                "y": 30
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

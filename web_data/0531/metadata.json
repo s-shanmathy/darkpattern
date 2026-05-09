@@ -1,0 +1,658 @@
+{
+    "title": "Home - Midwest Food Bank",
+    "url": "midwestfoodbank.org",
+    "full_url": "https://midwestfoodbank.org/",
+    "images": [
+        {
+            "alt": "Accessibility Widget",
+            "location": {
+                "x": 948,
+                "y": 844
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Spinner: White decorative",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Midwest Food Bank Logo Color",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Midwest Food Bank Logo Color",
+            "location": {
+                "x": 15,
+                "y": 15
+            },
+            "size": {
+                "height": 70,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Top Rated Charity",
+            "location": {
+                "x": -1009,
+                "y": 700
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Top Rated Charity",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "HolidayBlessings",
+            "location": {
+                "x": 0,
+                "y": 700
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "HolidayBlessings",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Disaster Relief",
+            "location": {
+                "x": 1009,
+                "y": 700
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Disaster Relief",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Share Partners",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Volunteer",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Tender Mercies",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Top Rated Charity",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "HolidayBlessings",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Disaster Relief",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Share Partners",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Volunteer",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Tender Mercies",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Top Rated Charity",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "footer logo",
+            "location": {
+                "x": 464,
+                "y": 2565
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Business Builders Marketing Logo",
+            "location": {
+                "x": 696,
+                "y": 2584
+            },
+            "size": {
+                "height": 46,
+                "width": 253
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BBM web link",
+            "location": {
+                "x": 10,
+                "y": 839
+            },
+            "size": {
+                "height": 46,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            200,
+            78,
+            86
+        ],
+        [
+            187,
+            34,
+            44
+        ]
+    ],
+    "desc": "Midwest Food Bank is a charity that seeks to feed the hungry and end malnutrition across the globe. Learn more about who we help and how you can get involved.",
+    "navbar": "",
+    "text": "Holiday Blessings\nWe have some resources to add joy to your holidays.\n\nLEARN MORE\n\n\n1\n2\n3\n4\n5\n6\nDONATE\nVOLUNTEER\nLearn more about the Midwest Food Bank Mission here.\nOur Impact\nMidwest Food Bank currently distributes nearly $36 million worth of food to over 2,050 non-profits each month. We stand ready for disaster relief efforts and can get food-filled relief boxes to those in need, within 24 hours. Thanks to the generosity of our donors, the valuable work of our volunteers, and most importantly, the blessings of God, Midwest Food Bank now shares the blessings worldwide. In 2021, we distributed over $430 million worth of food.\nFOOD FOR NOT-FOR-PROFITS\n50,400,000 people live in poverty in the United States alone. Each month, we stock the shelves of over 2,000 food pantries to continue our battle against hunger.\nLEARN MORE\nDISASTER RELIEF EFFORTS\nWhen disaster strikes, food becomes scarce. Our fleet of semi-trucks and team of volunteer drivers stand ready to deliver food to disaster zones at a moment’s notice.\nLEARN MORE\nTENDER MERCIES PROGRAM\nNutritious food doesn’t have to be expensive. Our Tender Mercies meals are packed full of hearty, healthy ingredients and are packaged exclusively for Midwest Food Bank.\nLEARN MORE\nHOPE PACKS\nEvery Friday throughout the school year, qualifying children receive a pack of shelf-stable food. This helps to ensure that children arrive at school on Monday morning ready to learn.\nLEARN MORE\nCall to Action\nWe desperately want to live in a world where our services are no longer needed – where the concept of hunger is foreign and a thing of the past. Until that day comes, we’ll stay in the fight, and we’d like you by our side. Our volunteers, agency partners, Share Partners, and Corporate Sponsorships enable us to grow into new locations and continue to fight hunger around the world. We need your support to continue impacting those affected by hunger. Take time to learn how we earned the highest rating through Charity Navigator, America’s premier independent charity evaluator, and consider how you can help through donation or volunteerism. Thank you for your consideration!\nVOLUNTEER TERMS & CONDITIONS\nDONATE LOCATIONS\nCONTACT US SITE MAP",
+    "font": "Interstate-Regular",
+    "iframes": [
+        {
+            "title": "UserWay Accessibility Menu",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://player.vimeo.com/video/738270487",
+            "location": {
+                "x": 520,
+                "y": 1009
+            },
+            "size": {
+                "height": 360,
+                "width": 450
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": true
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 38,
+                "y": -70
+            },
+            "size": {
+                "height": 63,
+                "width": 315
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 18,
+                "y": 345
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 907,
+                "y": 345
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 395,
+                "y": 644
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(255, 255, 255, 0)",
+            "location": {
+                "x": 434,
+                "y": 644
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(255, 255, 255, 0)",
+            "location": {
+                "x": 473,
+                "y": 644
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "4",
+            "bg-color": "rgba(255, 255, 255, 0)",
+            "location": {
+                "x": 512,
+                "y": 644
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "5",
+            "bg-color": "rgba(255, 255, 255, 0)",
+            "location": {
+                "x": 551,
+                "y": 644
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6",
+            "bg-color": "rgba(255, 255, 255, 0)",
+            "location": {
+                "x": 590,
+                "y": 644
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

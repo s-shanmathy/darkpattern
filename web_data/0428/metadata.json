@@ -1,0 +1,452 @@
+{
+    "title": "Home - Intelitek",
+    "url": "intelitek.com",
+    "full_url": "https://intelitek.com/",
+    "images": [
+        {
+            "alt": "Intelitek",
+            "location": {
+                "x": 50,
+                "y": 53
+            },
+            "size": {
+                "height": 45,
+                "width": 260
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Industry Certification",
+            "location": {
+                "x": 39,
+                "y": 1325
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Industry 4.0 Certification",
+            "location": {
+                "x": 25,
+                "y": 2695
+            },
+            "size": {
+                "height": 258,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nathan Ayres",
+            "location": {
+                "x": 222,
+                "y": 3300
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 729,
+                "y": 234
+            },
+            "size": {
+                "height": 40,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email",
+            "type": "text",
+            "location": {
+                "x": 158,
+                "y": 3810
+            },
+            "size": {
+                "height": 40,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 382,
+                "y": 3812
+            },
+            "size": {
+                "height": 37,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            7,
+            8,
+            5
+        ],
+        [
+            4,
+            4,
+            4
+        ]
+    ],
+    "navbar": "STORE\nBLOG\nSUPPORT\nCONTACT\nESPAÑOL",
+    "text": "STORE\nBLOG\nSUPPORT\nCONTACT\nESPAÑOL\nSOLUTIONS\nINDUSTRY 4.0\nSUCCESS STORIES\nRESOURCES\nCUSTOMERS\nABOUT\nSmartCIM4.0\nIndustry 4.0 Manufacturing for Education\nEngage your Students with Blended Learning\nA world-leading developer, producer, and supplier of technology training solutions. Comprehensive learning solutions for manufacturing, mechatronics, robotics and more with Industry grade certifications\nRichard Mille has created the Richard Mille RM 002 series: the RM 002-V2 ALL GRAY, the one that replaces the Datejust 2, of course there are upsides to this watch, the Oris Calibre 733 replica watches usa , mountains, Hublot copy patek philippe nautilus watches , is that it is actually not easy to read the elapsed time. There s one small sub dial that indicates the elapsed minutes and I find it difficult to read it. Maybe its my age, but is instead an all-in-one-piece system. Fair enough, (a range of Arabic or Roman) around the bezel are outlined with varying materials and textures to become more visible from the position.\nIntelitek partners with leading manufacturers in Industry to deliver Certifications so students get certified while learning the skills needed in the workforce including:\nRobotics Certification from Yaskawa\nVision Sensors Certification from Cognex\nPLM Certification from Siemens\nIndustry 4.0 Certification\nIndustry 4.0\nTraining for:\nMACHINING\nMANUFACTURING SKILLS\nINDUSTRIAL MAINTENANCE\nROBOTICS\nCIM/FMS\nAUTOMATION\nPROCESS CONTROL\nSTEM\nIntelitek Education Solutions\nSTEM Education\nImplementing programs for K-12 and higher education in the fields of Science, Technology, Engineering, Math and Information Technology.\nRead More\nWorkforce Development\nImplementing training projects for career and technical education with a focus on skills to prepare the workforce for modern industry.\nRead More\nHuman Capital Development\nImplementing resource development projects to assist states and governments with mass training, skill development and social integration for diverse populations in the country.\nRead More\nIndustry 4.0\nIn the last 250 years, society has experienced four Industrial Revolutions, which have entirely changed the face of the industry as we know it. Here at Intelitek, we believe that the changes in the industry should and must have a direct impact on the way we build the education system for today’s students.\nLearn More....\nHear What Our Customers are Saying\n“I love the Intelitek software. It is very easy to learn, has a user-friendly UI and has many interesting features. I also enjoy the fact that these skills could turn into possible internships.”\nNATHAN AYRES\nStudent at Corona High School\nStay Connected\nStay up-to-date on announcements, products, news, and promotions with Intelitek Newsletters\nSignup for our Newsletter\nNeed help? Try our new knowledge base!\nCONTACT INFO\n18 Tsienneto Road.\nDerry, NH 03038\nUSA\nToll Free: +1-800-221-2763 (US only)\nPhone: +1-603-413-2600\nFax: +1-603-437-2137\nEmail: info@intelitek.com\nPRODUCT CATALOGS\nCONNECT WITH US\nContact\nSupport\nOur Partners\nCareers\nSitemap\nINTELITEK\nOur Company\nNews\nTerms & Conditions\nCode of Ethics\nPrivacy Policy\nCOPPA/FERPA Policy\nIntelitek © 2020 All rights reserved\nSOLUTIONS\nINDUSTRY 4.0\nSUCCESS STORIES\nRESOURCES\nCUSTOMERS\nABOUT",
+    "font": "\"Open Sans\", sans-serif",
+    "iframes": [],
+    "buttons": []
+}

@@ -1,0 +1,872 @@
+{
+    "title": "Full ticketing, vendita biglietti, servizi, prodotti - Clappit",
+    "url": "clappit.com",
+    "full_url": "https://www.clappit.com/",
+    "images": [
+        {
+            "alt": "Clappit",
+            "location": {
+                "x": 10,
+                "y": 44
+            },
+            "size": {
+                "height": 58,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Menu",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Milano-sport-biglietteria-impianti-01",
+            "location": {
+                "x": -667,
+                "y": 159
+            },
+            "size": {
+                "height": 500,
+                "width": 678
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit-eventi-Vivo-Concerti-ME-CONTRO-TE-TOUR-2023-new-HP",
+            "location": {
+                "x": 11,
+                "y": 159
+            },
+            "size": {
+                "height": 500,
+                "width": 678
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit-eventi-Vivo-Concerti-Salmo-HP",
+            "location": {
+                "x": 689,
+                "y": 159
+            },
+            "size": {
+                "height": 500,
+                "width": 678
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "clappit-biglietteria-sponsor-002",
+            "location": {
+                "x": 701,
+                "y": 159
+            },
+            "size": {
+                "height": 245,
+                "width": 297
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit-eventi-Vivo-Concerti-Blanco-Stadi-HP",
+            "location": {
+                "x": 701,
+                "y": 416
+            },
+            "size": {
+                "height": 245,
+                "width": 297
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "icon",
+            "location": {
+                "x": 547,
+                "y": 729
+            },
+            "size": {
+                "height": 18,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "icon",
+            "location": {
+                "x": 795,
+                "y": 723
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Sing! un \"non classico\" Natale",
+            "location": {
+                "x": -967,
+                "y": 868
+            },
+            "size": {
+                "height": 45,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ME CONTRO TE - TOUR 2023",
+            "location": {
+                "x": -720,
+                "y": 868
+            },
+            "size": {
+                "height": 123,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "SALMO",
+            "location": {
+                "x": -472,
+                "y": 868
+            },
+            "size": {
+                "height": 123,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Hans Zimmer live",
+            "location": {
+                "x": -225,
+                "y": 868
+            },
+            "size": {
+                "height": 169,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "GAZZELLE",
+            "location": {
+                "x": 22,
+                "y": 868
+            },
+            "size": {
+                "height": 123,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BLANCO - Stadi 2023",
+            "location": {
+                "x": 269,
+                "y": 868
+            },
+            "size": {
+                "height": 123,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LAZZA OUVER-TOUR",
+            "location": {
+                "x": 516,
+                "y": 868
+            },
+            "size": {
+                "height": 117,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BAUSTELLE TOUR 2023",
+            "location": {
+                "x": 764,
+                "y": 868
+            },
+            "size": {
+                "height": 117,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DISNEY 100 - THE CONCERT",
+            "location": {
+                "x": 1011,
+                "y": 868
+            },
+            "size": {
+                "height": 123,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "LA TRAVIATA",
+            "location": {
+                "x": 22,
+                "y": 1297
+            },
+            "size": {
+                "height": 123,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ENRICO BRIGNANO",
+            "location": {
+                "x": 269,
+                "y": 1297
+            },
+            "size": {
+                "height": 123,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "N.O.I.",
+            "location": {
+                "x": 516,
+                "y": 1297
+            },
+            "size": {
+                "height": 93,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CAPODANNO CHE SPETACOL",
+            "location": {
+                "x": 764,
+                "y": 1297
+            },
+            "size": {
+                "height": 147,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NAZIONALE BASKET ARTISTI - THE LAST DANCE",
+            "location": {
+                "x": 22,
+                "y": 1705
+            },
+            "size": {
+                "height": 45,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fall Series Throwdown",
+            "location": {
+                "x": 269,
+                "y": 1705
+            },
+            "size": {
+                "height": 22,
+                "width": 191
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ingresso Piscine Milanosport",
+            "location": {
+                "x": 516,
+                "y": 1705
+            },
+            "size": {
+                "height": 45,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Milanosport",
+            "location": {
+                "x": 587,
+                "y": 1863
+            },
+            "size": {
+                "height": 30,
+                "width": 83
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Abb Amatori Wasken Lodi Gold",
+            "location": {
+                "x": 764,
+                "y": 1705
+            },
+            "size": {
+                "height": 45,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Postoriservato",
+            "location": {
+                "x": 792,
+                "y": 1862
+            },
+            "size": {
+                "height": 20,
+                "width": 167
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MIxology Experience 2023",
+            "location": {
+                "x": 22,
+                "y": 2020
+            },
+            "size": {
+                "height": 22,
+                "width": 222
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Geronimo Stilton Live Experience",
+            "location": {
+                "x": 269,
+                "y": 2020
+            },
+            "size": {
+                "height": 45,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "VISITA DIURNA per le scuole",
+            "location": {
+                "x": 516,
+                "y": 2020
+            },
+            "size": {
+                "height": 45,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "VISITA SERALE per le scuole",
+            "location": {
+                "x": 764,
+                "y": 2020
+            },
+            "size": {
+                "height": 45,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit - news - me contro te tour 2023",
+            "location": {
+                "x": 41,
+                "y": 2388
+            },
+            "size": {
+                "height": 45,
+                "width": 185
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit - news - Ernia",
+            "location": {
+                "x": 288,
+                "y": 2388
+            },
+            "size": {
+                "height": 22,
+                "width": 180
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit - news - Blanco Stadi",
+            "location": {
+                "x": 536,
+                "y": 2388
+            },
+            "size": {
+                "height": 45,
+                "width": 185
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit - news Lazza",
+            "location": {
+                "x": 783,
+                "y": 2388
+            },
+            "size": {
+                "height": 22,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit - News - Basketartisti 2022",
+            "location": {
+                "x": 41,
+                "y": 2700
+            },
+            "size": {
+                "height": 45,
+                "width": 185
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit - Disney - news",
+            "location": {
+                "x": 288,
+                "y": 2700
+            },
+            "size": {
+                "height": 45,
+                "width": 185
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit - NEWS - Gazzelle Olimpico",
+            "location": {
+                "x": 536,
+                "y": 2700
+            },
+            "size": {
+                "height": 45,
+                "width": 185
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit - news - sam smith",
+            "location": {
+                "x": 783,
+                "y": 2700
+            },
+            "size": {
+                "height": 45,
+                "width": 185
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clappit",
+            "location": {
+                "x": 10,
+                "y": 3173
+            },
+            "size": {
+                "height": 77,
+                "width": 198
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bemils srl",
+            "location": {
+                "x": 387,
+                "y": 3514
+            },
+            "size": {
+                "height": 20,
+                "width": 76
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "www.geotrust.com",
+            "location": {
+                "x": 669,
+                "y": 3514
+            },
+            "size": {
+                "height": 46,
+                "width": 96
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Cerca Evento",
+            "type": "text",
+            "location": {
+                "x": 770,
+                "y": 44
+            },
+            "size": {
+                "height": 58,
+                "width": 229
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 954,
+                "y": 61
+            },
+            "size": {
+                "height": 23,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Cerca Evento",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 369,
+                "y": 249
+            },
+            "size": {
+                "height": 30,
+                "width": 91
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            105,
+            105,
+            117
+        ],
+        [
+            100,
+            100,
+            112
+        ],
+        [
+            29,
+            33,
+            38
+        ]
+    ],
+    "desc": "Full ticketing vendita online e box office di biglietti per eventi fiscali con piattaforma certificata SIAE, controllo accessi, pass, up e cross selling.",
+    "navbar": "MUSICA\nTEATRO\nSPORT\nALTRI EVENTI",
+    "text": "Chi siamo/\nMagazine/\nServizi B2B /\nCrea il tuo evento/\nAccedi o Registrati /\nEng\n\nMUSICA\nTEATRO\nSPORT\nALTRI EVENTI\n\nHai già acquistato un biglietto?\n Cambia nominativo\nRivendi biglietto\nMUSICA\nVEDI TUTTI\nGAZZELLE\nStadio Olimpico di Roma\nBiglietti a partire da  43.70€\nBLANCO - Stadi 2023\nPiù location\nBiglietti a partire da  43.70€\nLAZZA OUVER-TOUR\nPiù location\nBiglietti a partire da  34.50€\nBAUSTELLE TOUR 2023\nPiù location\nBiglietti a partire da  28.75€\nTEATRO\nVEDI TUTTI\nLA TRAVIATA\nTeatro Petruzzelli\nBiglietti a partire da  15.00€\nENRICO BRIGNANO\nPalazzo Dello Sport\nBiglietti a partire da  71.30€\nN.O.I.\nTeatro Totò\nBiglietti a partire da  20.62€\nCAPODANNO CHE SPETACOL\nTeatro Gardaforum\nBiglietti a partire da  54.76€\nSPORT\nVEDI TUTTI\nNAZIONALE BASKET ARTISTI - THE LAST DANCE\nPalasport\nBiglietti a partire da  6.00€\nFall Series Throwdown\nPalaDesio\nBiglietti a partire da  21.70€\nIngresso Piscine Milanosport\nMilanosport\nAbb Amatori Wasken Lodi Gold\nPalazzetto Palacastellotti\nALTRI EVENTI\nVEDI TUTTI\nMIxology Experience 2023\nSuperstudio Maxi\nGeronimo Stilton Live Experience\nCentro Culturale Altinate San Gaetano\nVISITA DIURNA per le scuole\nINAF - Osservatorio Astrofisico di Arcetri\nBiglietti a partire da  89.20€\nVISITA SERALE per le scuole\nINAF - Osservatorio Astrofisico di Arcetri\nBiglietti a partire da  89.20€\nMAGAZINE\nMARTEDÌ 06 DICEMBRE 2022Annunciate le date del tour 2023 dei Me Contro Te!\nLEGGI TUTTO\nGIOVEDÌ 24 NOVEMBRE 2022ERNIA: per la prima volta nei palazzetti nel 2023!\nLEGGI TUTTO\nGIOVEDÌ 17 NOVEMBRE 2022BLANCO annunciati due appuntamenti per il 2023: Stadio Olimpico e San Siro!\nLEGGI TUTTO\nMERCOLEDÌ 16 NOVEMBRE 2022LAZZA annuncia LAZZA OUVER-TOUR: il tour nei palazzetti da aprile 2023!\nLEGGI TUTTO\nVENERDÌ 11 NOVEMBRE 2022La Nazionale Basket Artisti dopo 22 anni torna al palazzetto dello sport di Biella!\nLEGGI TUTTO\nMERCOLEDÌ 09 NOVEMBRE 2022DISNEY 100 The Concert and The Hollywood Sound Orchestra, 13 maggio 2023 Arena di Verona\nLEGGI TUTTO\nLUNEDÌ 07 NOVEMBRE 2022Una data e un luogo speciale per l'unico concerto di GAZZELLE del 2023!\nLEGGI TUTTO\nMERCOLEDÌ 26 OTTOBRE 2022SAM SMITH torna in Italia dopo 5 anni, con due imperdibili date!\nLEGGI TUTTO\nVedi tutti\n Clappit\nChi siamo\nCondizioni d'acquisto\nPrivacy\nInformativa cookie\nLavora con noi\nContattaci\nInformativa sulla privacy del candidato e del richiedente\nHelp center\nFAQ\nCambio nominativo\nRivendita biglietto\nModalita di pagamento\nServizi B2B\nCrea il tuo evento\nBiglietteria\nFiere Espositori\nEventi Aziendali\nListino prezzi\n    Clappit è un marchio di proprietà di:\nBemils Srl Via Ferri, 3 20092 Cinisello Balsamo (MI)\nPI 05589050961\nIscr. C.C.I.A.A. Milano R.E.A. 1833471\n© 2010-2022 Bemils Srl - Tutti i diritti riservati\n\nCredits: \nSu Clappit i tuoi acquisti ed i tuoi dati\nsono sicuri e protetti da un certificato SSL\ncon crittografia a 128 bit.\n\nQuesto sito utilizza cookie, anche di terze parti, per migliorarne l’esperienza di navigazione e consentire a chi naviga di usufruire dei nostri servizi online e di visualizzare pubblicità in linea con le proprie preferenze. Chiudendo questo banner, scorrendo questa pagina, cliccando su un link o proseguendo la navigazione in altra maniera, acconsenti all’uso dei cookie.\nMaggiori informazioni",
+    "font": "Inter, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

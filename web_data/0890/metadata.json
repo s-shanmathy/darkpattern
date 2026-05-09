@@ -1,0 +1,793 @@
+{
+    "title": "Shop Christian Bible Studies, Books, Music & Bibles | Lifeway",
+    "url": "lifeway.com",
+    "full_url": "https://www.lifeway.com/",
+    "images": [
+        {
+            "alt": "Lifeway logo",
+            "location": {
+                "x": 12,
+                "y": 14
+            },
+            "size": {
+                "height": 37,
+                "width": 128
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search by keyword, title, author, ISBN, etc.",
+            "type": "search",
+            "location": {
+                "x": 156,
+                "y": 12
+            },
+            "size": {
+                "height": 42,
+                "width": 763
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "First Name",
+            "type": "text",
+            "location": {
+                "x": 643,
+                "y": 4414
+            },
+            "size": {
+                "height": 28,
+                "width": 178
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Last Name",
+            "type": "text",
+            "location": {
+                "x": 830,
+                "y": 4414
+            },
+            "size": {
+                "height": 28,
+                "width": 178
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email Address",
+            "type": "text",
+            "location": {
+                "x": 643,
+                "y": 4450
+            },
+            "size": {
+                "height": 28,
+                "width": 365
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            64,
+            64,
+            64
+        ],
+        [
+            65,
+            64,
+            66
+        ]
+    ],
+    "desc": "Lifeway is a Christian bookstore and resource since 1891. Buy your family and church Bible studies, Christian books, Bibles, Christian gifts and Christian music.",
+    "navbar": "Search by keyword, title, author, ISBN, etc.\nBibles\nBible Studies\nBooks\nDigital Media\nMinistries\nCamps & Events\nFor Churches\nGift Cards",
+    "text": "skip to main content\nskip to footer\nSearch by keyword, title, author, ISBN, etc.\nBibles\nBible Studies\nBooks\nDigital Media\nMinistries\nCamps & Events\nFor Churches\nGift Cards\nI'm Shopping For …\nmyself\nmy church\nmy ministry\nDevotionals\nBibles\nBooks\nBible Studies",
+    "font": "\"helvetica neue\", Helvetica, arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Adobe ID Syncing iFrame",
+            "src": "https://lifewaychristianresources.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.lifeway.com",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://account.lifeway.com/openid/check_session_iframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://account.lifeway.com/openid/check_session_iframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://account.lifeway.com/openid/check_session_iframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Sign Up via Text for Offers",
+            "src": "https://creatives.attn.tv/creatives-dynamic/multiPage/index.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1024,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Intercom",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Intentionally blank",
+            "src": "https://cdnssl.clicktale.net/uxa/xdframe-single-domain-1.1.1.html?pid=4001",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Intercom live chat",
+            "src": "",
+            "location": {
+                "x": 946,
+                "y": 946
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "jsbridge___JSBridgeIframe_1.0__",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "jsbridge___JSBridgeIframe_SetResult_1.0__",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "jsbridge___JSBridgeIframe__",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "jsbridge___JSBridgeIframe_SetResult__",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 859,
+                "y": 12
+            },
+            "size": {
+                "height": 42,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 943,
+                "y": 20
+            },
+            "size": {
+                "height": 27,
+                "width": 27
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Bibles",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 8,
+                "y": 66
+            },
+            "size": {
+                "height": 46,
+                "width": 79
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Bible Studies",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 95,
+                "y": 66
+            },
+            "size": {
+                "height": 46,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Books",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 225,
+                "y": 66
+            },
+            "size": {
+                "height": 46,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Digital Media",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 313,
+                "y": 66
+            },
+            "size": {
+                "height": 46,
+                "width": 122
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Ministries",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 443,
+                "y": 66
+            },
+            "size": {
+                "height": 46,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Camps & Events",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 551,
+                "y": 66
+            },
+            "size": {
+                "height": 46,
+                "width": 144
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "For Churches",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 703,
+                "y": 66
+            },
+            "size": {
+                "height": 46,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0.45)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 98,
+                "width": 98
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "myself",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 431,
+                "y": 677
+            },
+            "size": {
+                "height": 42,
+                "width": 97
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "my church",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 576,
+                "y": 677
+            },
+            "size": {
+                "height": 42,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "my ministry",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 750,
+                "y": 677
+            },
+            "size": {
+                "height": 42,
+                "width": 133
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(61, 105, 149, 1)",
+            "location": {
+                "x": 643,
+                "y": 4486
+            },
+            "size": {
+                "height": 36,
+                "width": 89
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ]
+}

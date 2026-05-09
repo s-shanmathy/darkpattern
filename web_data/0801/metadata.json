@@ -1,0 +1,81 @@
+{
+    "title": "arrowgsc.com",
+    "url": "arrowgsc.com",
+    "full_url": "https://arrowgsc.com/",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            106,
+            223
+        ],
+        [
+            29,
+            30,
+            32
+        ]
+    ],
+    "navbar": "Reload",
+    "text": "This page isn’t working\narrowgsc.com is currently unable to handle this request.\nHTTP ERROR 500\nReload",
+    "font": "system-ui, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Reload",
+            "bg-color": "rgba(26, 115, 232, 1)",
+            "location": {
+                "x": 738,
+                "y": 402
+            },
+            "size": {
+                "height": 32,
+                "width": 74
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(26, 115, 232, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 32,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 18,
+                "width": 34
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

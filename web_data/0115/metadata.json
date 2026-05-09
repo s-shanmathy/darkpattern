@@ -1,0 +1,46 @@
+{
+    "title": "Camino reaches its end...",
+    "url": "caminobrowser.org",
+    "full_url": "https://caminobrowser.org/",
+    "images": [
+        {
+            "alt": "Camino",
+            "location": {
+                "x": 87,
+                "y": 58
+            },
+            "size": {
+                "height": 200,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            91,
+            91,
+            91
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "Camino is a Mac OS X-native browser built on Mozilla’s Gecko rendering engine.",
+    "text": "Blog\nHelp\nDownload\nCamino reaches its end\nAfter a decade-long run, Camino is no longer being developed, and we encourage all users to upgrade to a more modern browser. Camino is increasingly lagging behind the fast pace of changes on the web, and more importantly it is not receiving security updates, making it increasingly unsafe to use.\nFortunately, Mac users have many more browsers to choose from than they did when Camino started ten years ago. Former Camino developers have helped build the three most popular – Chrome, Firefox, and Safari – so while this is the end of Camino itself, the community that helped build it is still making the web better for Mac users.\nThank you to all our loyal users, and to everyone who contributed in countless ways over the years to make Camino what it was.",
+    "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

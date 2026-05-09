@@ -1,0 +1,475 @@
+{
+    "title": "Verywell Mind - Know More. Live Brighter.",
+    "url": "verywellmind.com",
+    "full_url": "https://www.verywellmind.com/",
+    "images": [
+        {
+            "alt": "illustration of person sitting next to a giant gift box",
+            "location": {
+                "x": 32,
+                "y": 227
+            },
+            "size": {
+                "height": 369,
+                "width": 925
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Andrea Bonior",
+            "location": {
+                "x": 48,
+                "y": 947
+            },
+            "size": {
+                "height": 280,
+                "width": 431
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ExIntrovert",
+            "location": {
+                "x": 149,
+                "y": 1455
+            },
+            "size": {
+                "height": 75,
+                "width": 75
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Person Stressed out with Green Background",
+            "location": {
+                "x": 149,
+                "y": 1555
+            },
+            "size": {
+                "height": 75,
+                "width": 75
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "EQ",
+            "location": {
+                "x": 161,
+                "y": 1637
+            },
+            "size": {
+                "height": 75,
+                "width": 75
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Leadership",
+            "location": {
+                "x": 152,
+                "y": 1720
+            },
+            "size": {
+                "height": 75,
+                "width": 75
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Steven Gans",
+            "location": {
+                "x": 48,
+                "y": 2223
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Block",
+            "location": {
+                "x": 322,
+                "y": 2223
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Amy Morin",
+            "location": {
+                "x": 48,
+                "y": 2326
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sara Clark",
+            "location": {
+                "x": 322,
+                "y": 2326
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carly",
+            "location": {
+                "x": 48,
+                "y": 2429
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shaheen Lakhan",
+            "location": {
+                "x": 322,
+                "y": 2429
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2021 Best Healthcare Consumer Media Brand",
+            "location": {
+                "x": 32,
+                "y": 2626
+            },
+            "size": {
+                "height": 32,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2021 Product Innovator Verywell Mind Podcast",
+            "location": {
+                "x": 284,
+                "y": 2626
+            },
+            "size": {
+                "height": 32,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2021 Hottest in Health",
+            "location": {
+                "x": 520,
+                "y": 2626
+            },
+            "size": {
+                "height": 32,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2020 World Changing Ideas",
+            "location": {
+                "x": 757,
+                "y": 2626
+            },
+            "size": {
+                "height": 32,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 199,
+                "y": 95
+            },
+            "size": {
+                "height": 43,
+                "width": 629
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your email",
+            "type": "email",
+            "location": {
+                "x": 32,
+                "y": 2881
+            },
+            "size": {
+                "height": 42,
+                "width": 239
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            82,
+            85,
+            63
+        ],
+        [
+            19,
+            56,
+            69
+        ]
+    ],
+    "desc": "Whether you want to better manage stress, understand a mental health disorder, or learn why we dream, get the guidance you need to be healthy and happy.",
+    "navbar": "",
+    "text": "Verywell Mind\nMental Health A-Z\nSelf-Improvement\nPsychology\nPodcast\nNews\nAbout Us\nSearch\nTrusted mental health information when you need it most.\nKnow more, live brighter.\n150 Million\nReaders Helped Each Year\n100+\nExpert Health Writers\n100+\nMental Health Topics\nWhy I'm Opting for a No-Gift Christmas This Year\nMedically reviewed by Sabrina Romanoff, PsyD\nWhy You Get Chills While Listening to Your Favorite Song\nBy Lo Styx\nThe 'Heroin Chic' Body Trend Is Dangerous\nBy Sarah Fielding\nThe 11 Best Incense Sticks of 2022\nReviewed by Sara Clark\nHow to Deal With Difficult People With Andrea Bonior\nListen Now\nOnline Therapy\nGet help today from the comfort of your home.\nTop Programs\nRelationship Counseling\nDepression Help\nLEARN MORE\nTAKE A QUIZ\nAre You an Extrovert or Introvert?\nHow Stressed Out Are You?\nAre You Emotionally Intelligent?\nWhat Is Your Leadership Style?\nMENTAL HEALTH A-Z\nFind a topic by its first letter:\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nV\nW\nADHD\nAnxiety Disorder\nBrain Health\nMeditation\nPsychology\nAll Topics\nOUR PROMISE\nOur content helps you make the best choices for your mental well-being.\nREAD ABOUT OUR PROCESS\nWritten by mental health experts and journalists\nFact-checked with science-backed research\nReviewed by physicians and mental health professionals\nUpdated to reflect the latest health information\nOUR REVIEW BOARD\nSteven Gans, MD\nPsychiatrist\nDaniel B. Block, MD\nPsychiatrist\nAmy Morin, LCSW\nEditor-in-Chief, Verywell Mind\nSara Clark\nMindfulness Teacher\nCarly Snyder, MD\nPsychiatrist\nShaheen Lakhan, MD, PhD\nNeurologist\nOur team of board-certified physicians and other mental health professionals ensures our content is accurate, up-to-date, and inclusive.\nMEET THE TEAM\nRECENT AWARDS\n2021 Best Healthcare Consumer Media Brand\n2021 Product Innovator Verywell Mind Podcast\n2021 Hottest in Health\n2020 World Changing Ideas\nVerywell Mind\nDaily Tips for a Healthy Mind to Your Inbox\nSIGN UP\nMental Health A-Z\nSelf-Improvement\nPsychology\nNews\nVoices\nThe Verywell Mind Podcast\nMeet Our Review Board\nAbout Us\nEditorial Process\nDiversity Pledge\nPrivacy Policy\nIn the News\nAdvertise\nTerms of Use\nCareers\nContact\nDo Not Sell My Personal Information\nCrisis Support\nFollow Us\ninstagram\ntiktok\nfacebook\nflipboard\nVerywell Health\nVerywell Fit\nVerywell Family\nVerywell Mind's content is for informational and educational purposes only. Our website is not intended to be a substitute for professional medical advice, diagnosis, or treatment.\nⒸ 2022 Dotdash Media, Inc. — All rights reserved\nVerywell Mind is part of the Dotdash Meredith publishing family.",
+    "font": "\"FS Albert Extra Bold\", Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 977,
+                "y": 28
+            },
+            "size": {
+                "height": 42,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 955,
+                "y": 65
+            },
+            "size": {
+                "height": 22,
+                "width": 22
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 166,
+                "y": 95
+            },
+            "size": {
+                "height": 43,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(211, 59, 82, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 14,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SIGN UP",
+            "bg-color": "rgba(211, 59, 82, 1)",
+            "location": {
+                "x": 271,
+                "y": 2881
+            },
+            "size": {
+                "height": 42,
+                "width": 91
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(244, 244, 244, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(37, 127, 105, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

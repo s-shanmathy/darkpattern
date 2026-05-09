@@ -1,0 +1,354 @@
+{
+    "title": "硬之城 - 电子元器件采购网_元器件交易网上商城",
+    "url": "allchips.com",
+    "full_url": "https://www.allchips.com/",
+    "images": [
+        {
+            "alt": "硬之城",
+            "location": {
+                "x": 0,
+                "y": 112
+            },
+            "size": {
+                "height": 55,
+                "width": 187
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "深圳市市场监督管理局企业主体身份公示",
+            "location": {
+                "x": 582,
+                "y": 2435
+            },
+            "size": {
+                "height": 50,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "型号/参数",
+            "type": "text",
+            "location": {
+                "x": 326,
+                "y": 121
+            },
+            "size": {
+                "height": 36,
+                "width": 336
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "数量",
+            "type": "text",
+            "location": {
+                "x": 662,
+                "y": 121
+            },
+            "size": {
+                "height": 36,
+                "width": 94
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "file",
+            "location": {
+                "x": 854,
+                "y": 119
+            },
+            "size": {
+                "height": 40,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "请输入型号",
+            "type": "text",
+            "location": {
+                "x": 985,
+                "y": 385
+            },
+            "size": {
+                "height": 30,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "请输入品牌",
+            "type": "text",
+            "location": {
+                "x": 1081,
+                "y": 385
+            },
+            "size": {
+                "height": 30,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "请输入手机号",
+            "type": "text",
+            "location": {
+                "x": 985,
+                "y": 425
+            },
+            "size": {
+                "height": 30,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "请输入询价型号",
+            "type": "text",
+            "location": {
+                "x": 264,
+                "y": 248
+            },
+            "size": {
+                "height": 35,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "询价结果将通过手机通知你",
+            "type": "number",
+            "location": {
+                "x": 264,
+                "y": 293
+            },
+            "size": {
+                "height": 35,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "请输入型号或参数查询",
+            "type": "text",
+            "location": {
+                "x": 530,
+                "y": 296
+            },
+            "size": {
+                "height": 40,
+                "width": 248
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "请输入手机号",
+            "type": "number",
+            "location": {
+                "x": 580,
+                "y": 747
+            },
+            "size": {
+                "height": 42,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "请输入验证码",
+            "type": "text",
+            "location": {
+                "x": 803,
+                "y": 747
+            },
+            "size": {
+                "height": 42,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            102,
+            102,
+            102
+        ],
+        [
+            255,
+            231,
+            206
+        ]
+    ],
+    "desc": "硬之城,元器件供应链服务平台！1500+原厂代理入驻，提供一站式电子元器件在线查询、BOM采购服务，让电子采购们更有效率的元器件网上商城，Bom采购，上硬之城！",
+    "navbar": "登录注册有礼\n我的订单\n供应商入驻 400-800-5383\n微信咨询\n在线咨询 English",
+    "text": "您好，欢迎来到硬之城\n登录注册有礼\n我的订单\n供应商入驻 400-800-5383\n微信咨询\n在线咨询 English\n购物车 0\n搜索\n上传BOM\nLTC3880EUJ#TRPBF\n全部产品分类\n电容/电阻/电感\n处理器微控制器/存储器\n分立半导体\n连接器/传感器\n晶振/滤波器/射频/无线电\n接口通信/驱动器IC/模拟芯片\n光电器件/变压器/开关\n电源/电路保护\n功能模块/音/视频器件\n嵌入式外围芯片/逻辑芯片/运放\n五金/工具/线材\n首页\n研发选型\n免费样品\nBOM配单\nPCBA\n在线计价\n自营现货\n2小时发货\n尖货爆款\n硬通货\n折扣专场\n限时95折\n国产替代\n免费样品\n公告 行业资讯\n更多\n【工业应用-机器人】智能选型助力工业控制生产更进一步\n积分商城上线，京东E卡免费兑\n【通知】2022年国庆节放假通知\n【通知】2022年中秋节放假通知\n立即提交询价\n注册有礼\n积分商城\n免费样品\n供应商入驻\n热销型号TOP榜\n1 SI5338B-B-GM\n2 STM32F429IIT6\n3 104264-1211\n4 LTC4020EUHF#TRPBF\n5 LPC4320FBD144,551\n6 SN65HVD1781DR\n7 STM32F429IGT6\n8 LTC2185IUP#PBF\n9 TPS259827ONRGET\n10 STM32F407ZGT6\n优势物料推荐\n查看更多\nBSS138LT1G\n￥0.27600\nIRFB4227PBF\n￥49.72000\nSN74LVC2T45DCUR\n￥1.87000\nAT24C512C-SSHD-T\n￥3.13000\nSN74LVC1G08DBVR\n￥0.34400\n74HC4051D,653\n￥1.12000\nSN74LVC1G08DCKR\n￥0.34400\nSN74HC595DR\n￥1.22000\nSP3485EN-L/TR\n￥1.56400\nSP3232EEY-L/TR\n￥1.65600\nSP485EEN-L/TR\n￥0.88300\nQ13FC1350000400\n￥0.81000\n产品替代方案&FAE技术选型 助力中小企业终端项目研发\n免费样品\n500+国产原厂品牌入驻\n替代数据库\n精准匹配替代选型\nFAE技术服务\n大数据智能推荐\n商城快报 行业新鲜事\n1 2023年中国电子元器件行业市场规模及发展趋势预测分析\n2022-12-06\n2 近日，封测龙头长电科技宣布，高性能动态随机存储DDR5芯片成品实现稳定量产。\n2022-11-25\n3 汽车芯片短缺似乎开始有了缓解的迹象？\n2022-11-24\n更多\n硬之城CEO李六七荣膺第二届粤港澳大湾区\n硬之城CEO李六七荣膺第二届粤港澳大湾区战略性新兴产业“青年领袖”\n硬之城获得宏发继电器授权代理\n硬之城成为宏发继电器特约经销商\n快速询价\n新人专享528元大礼包\n产品选型\n手机号码\n立即询价\n我已阅读并接受《用户协议》，为了您的权益，您的隐私将被严格保密\n您的询价结果\n型号：LTC1485CN8#PBF\n品牌：ADI(亚德诺)\n单价：36.73\n库存：3200\n交期：2-4工作日\n型号：TPD2E001DZDR\n品牌：TI(德州仪器)\n单价：3.77\n库存：3000\n交期：2-3工作日\n选型参考\n工程师都在用的选型工具\n获取验证码\n立即领取\n我已阅读并同意《硬之城用户协议》\n全品类齐全 一站购齐\n正正品保障 售后无忧\n快极速物流 在线跟踪\n省运费全免 省时省心\n新手指南\n注册登录\n用户协议\n发票须知\n商家入驻\n入驻须知\n入驻流程\n入驻协议\n配送方式\n国内交货\n香港交货\n上门自提\n验货签收\n支付方式\n在线支付\n银行汇款\n支付安全\n售后服务\n服务投诉\n退换货说明\n关于硬之城\n关于我们\n企业资讯\n企业荣誉\n联系我们\n关注微信公众号\n关于我们 免责声明 诚聘英才 联系我们 行业资讯\nCopyright © 2015-2022 深圳前海硬之城信息技术有限公司 粤ICP备15072030号\n在线咨询\n服务热线\n微信咨询\n问题反馈\n会员中心\nFAE技术支持\n收起",
+    "font": "\"Microsoft YaHei\", \"Heiti SC\", tahoma, arial, \"Hiragino Sans GB\", 宋体, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "搜索",
+            "bg-color": "rgba(245, 93, 34, 1)",
+            "location": {
+                "x": 758,
+                "y": 121
+            },
+            "size": {
+                "height": 36,
+                "width": 84
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "立即提交询价",
+            "bg-color": "rgba(245, 93, 34, 1)",
+            "location": {
+                "x": 1081,
+                "y": 425
+            },
+            "size": {
+                "height": 30,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 93, 34, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(238, 238, 238, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,2320 @@
+{
+    "title": "Cryptocurrency Prices Live - Crypto Market Cap, Price Charts, News & Trading Signals | CoinFi",
+    "url": "coinfi.com",
+    "full_url": "https://www.coinfi.com/",
+    "images": [
+        {
+            "alt": "Menu Toggle",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CoinFi Logo",
+            "location": {
+                "x": 24,
+                "y": 8
+            },
+            "size": {
+                "height": 29,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bitcoin",
+            "location": {
+                "x": 75,
+                "y": 825
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ethereum",
+            "location": {
+                "x": 75,
+                "y": 874
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tether",
+            "location": {
+                "x": 75,
+                "y": 922
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CoinFi Logo",
+            "location": {
+                "x": 0,
+                "y": 5746
+            },
+            "size": {
+                "height": 29,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CoinFi Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CoinFi Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search coins",
+            "type": "text",
+            "location": {
+                "x": 799,
+                "y": 737
+            },
+            "size": {
+                "height": 34,
+                "width": 182
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Password",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email",
+            "type": "email",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            247,
+            248,
+            250
+        ],
+        [
+            6,
+            29,
+            40
+        ]
+    ],
+    "navbar": "Research\nCrypto News\nCoins\nExchanges\nCompany\nLogin\nGet Started\n$ USD",
+    "text": "Research\nCrypto News\nCoins\nExchanges\nCompany\nLogin\nGet Started\n$ USD\nCrypto Market Cap\n$840,167,579,932USD\n▼ $1B (-0.1%)24h\nDec 2\nDec 4\nDec 6\nDec 8\n820B\n840B\n860B\n880B\nMarket Dominance\n•1. Bitcoin BTC\n38.5%\n•2. Ethereum ETH\n17.9%\n•3. BNB BNB\n8.8%\n•4. Tether USDT\n7.8%\n•5. USD Coin USDC\n5.1%\n38.5%\nBitcoin Dominance\nLatest Cryptocurrency News\nCardano (ADA) Price Prediction: Bears Target Fresh Lows Below $0.28\nnewsbtc.com•3 minutes ago• 0\nRSIADA\nRussia Expects Sizable Increase in Crypto Miners’ Share of Power Usage\nnews.bitcoin.com•36 minutes ago• 0\nEthereum Price Nears Breakdown Support, Can Bulls Save The Day?\nnewsbtc.com•42 minutes ago• 0\nETH\nPolygon-Backed Plutoverse to Help Gen-Z Create, Play, and Prosper\nwww.livebitcoinnews.com•an hour ago• 0\nIs The XRP Lawsuit Ending Soon? Top Ripple Lawyer Weighs In\nbitcoinist.com•2 hours ago• 0\nXRPSECSEC\nView more cryptocurrency news\nCryptocurrency Prices LiveSee more\n#\nCoin\nPrice\nMarket Cap\n% Move 1H\n% Move 1D\n% Move 1W\nVolume (24hr)\n7D Chart\n-1.05%\n-1.81%\n$19,617,113,875\n1\nBTC\nBitcoin\n$16,827.10\n$323,543,836,843\n0%\n-2.54%\n-4.32%\n$5,714,099,437\n2\nETH\nEthereum\n$1,229.37\n$150,442,663,381\n0%\n0%\n0.01%\n$25,834,775,211\n3\nUSDT\nTether\n$1.00\n$65,690,881,512\n0.01%\n1.9%\n-15.52%\n$3,364,818,017\n4\nBNB\nBNB\n$443.04\n$73,898,760,451\n-0.42%\n0.01%\n0.01%\n$2,260,135,165\n5\nUSDC\nUSD Coin\n$1.00\n$42,828,021,727\n0%\n0.88%\n3.41%\n$1,135,031,895\n7\nXRP\nXRP\n$0.22464\n$9,726,956,453\n-0.41%\n-4.52%\n-7.73%\n$624,393,123\n8\nDOGE\nDogecoin\n$0.09601\n$12,737,932,705\n-0.26%\n-2.62%\n-2.61%\n$231,755,758\n9\nADA\nCardano\n$0.30902\n$10,648,537,324\n0.01%\n5.19%\n170.19%\n$279,845,363\n10\nMATIC\nPolygon\n$0.12613\n$624,690,227\n-0.69%\n-5.76%\n-2.33%\n$584,321,008\n13\nLTC\nLitecoin\n$75.31\n$5,405,727,305\n-1.1%\n-1.47%\n-0.85%\n$115,130,919\n14\nSHIB\nShiba Inu\n$0.00000918\n$5,042,502,662\n0.15%\n0.03%\n-2.18%\n$200,823,144\n15\nTRX\nTRON\n$0.05338\n$4,916,154,002\n-0.03%\n-3.09%\n2.73%\n$73,838,336\n17\nUNI\nUniswap\n$5.95\n$4,538,521,872\n-0.07%\n-0.44%\n-3.22%\n$2,567,806\n19\nLEO\nUNUS SED LEO\n$3.78\n$3,608,076,218\n-0.01%\n-2.98%\n-9.56%\n$229,519,462\n20\nLINK\nChainlink\n$6.84\n$3,472,712,502\n0.06%\n-4.8%\n-8.38%\n$141,645,449\n22\nATOM\nCosmos\n$9.59\n$2,745,680,520\n-0.02%\n0.62%\n-0.05%\n$62,372,917\n23\nXMR\nMonero\n$144.51\n$2,631,706,514\n0.04%\n-3.47%\n-6.34%\n$100,910,903\n24\nETC\nEthereum Classic\n$18.78\n$2,592,165,801\n0.37%\n-2.08%\n-5.77%\n$42,814,391\n26\nXLM\nStellar\n$0.08379\n$2,155,155,955\n-0.01%\n-2.81%\n-3.41%\n$158,195,629\n27\nBCH\nBitcoin Cash\n$108.79\n$2,094,287,630\n-0.14%\n-1.24%\n-0.43%\n$6,244,526\n28\nCRO\nCronos\n$0.03784\n$368,838,996\n-0.52%\n-3.34%\n-8.85%\n$67,096,382\n29\nALGO\nAlgorand\n$0.22397\n$1,596,016,538\n0.11%\n-4.5%\n-0.9%\n$108,868,465\n30\nFIL\nFilecoin\n$4.35\n$1,452,520,999\n-0.22%\n-2.58%\n-2.82%\n$27,368,061\n31\nQNT\nQuant\n$117.70\n$1,420,995,150\n-0.76%\n-2.19%\n-2.6%\n$29,266,488\n34\nVET\nVeChain\n$0.01867\n$1,354,015,333\n-0.1%\n2.41%\n3.91%\n$240,231,709\n40\nEOS\nEOS\n$0.97934\n$1,054,095,241\n-0.53%\n-4.54%\n-8.06%\n$18,261,801\n43\nHT\nHuobi Token\n$6.29\n$964,400,064\n-1.34%\n0.19%\n-0.24%\n$235,164,240\n44\nUSDP\nPax Dollar\n$1.00\n$237,388,728\n0.02%\n-4.12%\n-6.38%\n$136,091,795\n45\nCHZ\nChiliz\n$0.15311\n$939,696,778\n0.63%\n-2.68%\n-2.61%\n$16,881,977\n46\nXTZ\nTezos\n$0.98335\n$903,758,259\n-0.07%\n-3.47%\n-4.72%\n$58,238,498\n48\nAAVE\nAave\n$61.48\n$866,493,933\n-0.1%\n-10.65%\n28.48%\n$270,392,545\n49\nTHETA\nTheta Network\n$5.26\n$5,260,731,327\n-0.05%\n0.04%\n0.01%\n$25,773,500\n51\nTUSD\nTrueUSD\n$0.99964\n$813,473,788\n0.03%\n-2.23%\n-3.69%\n$28,693,463\n53\nBSV\nBitcoin SV\n$40.61\n$781,546,352\n-0.34%\n-3.55%\n-2.45%\n$49,772,983\n54\nMANA\nDecentraland\n$0.39809\n$738,492,891\n0.12%\n-4.51%\n1.69%\n$41,164,962\n56\nZEC\nZcash\n$43.87\n$696,100,291\n-0.42%\n-0.23%\n22.45%\n$7,872,799\n57\nKCS\nKuCoin Token\n$1.17\n$93,782,698\n0.18%\n0.29%\n0.6%\n$592,627\n62\nGUSD\nGemini Dollar\n$1.01\n$610,867,095\n0.31%\n-3.46%\n-0.37%\n$85,371,903\n63\nFTM\nFantom\n$0.23512\n$598,381,931\n0.04%\n-3.41%\n-7.52%\n$24,174,294\n65\nMKR\nMaker\n$606.89\n$593,309,708\n-0.11%\n-3.43%\n-4.49%\n$9,900,679\n67\nMIOTA\nIOTA\n$0.20557\n$571,379,389\n0.16%\n-2.29%\n-0.76%\n$22,843,867\n70\nNEO\nNeo\n$6.88\n$485,393,511\n0.16%\n5.79%\n-22.35%\n$78,134,062\n71\nSNX\nSynthetix\n$2.93\n$684,978,265\n-1.86%\n-7.9%\n0.15%\n$92,633,971\n72\nDASH\nDash\n$43.73\n$482,774,018\n-0.22%\n3.48%\n3.18%\n$11,445,855\n81\nNEXO\nNexo\n$0.66753\n$373,816,764\n0.71%\n-3.64%\n-5.5%\n$17,628,892\n85\nBAT\nBasic Attention Token\n$0.22215\n$331,170,677\n-0.41%\n-3.79%\n-3.27%\n$22,877,588\n86\nLRC\nLoopring\n$0.24131\n$320,977,328\n0.31%\n-5.46%\n-3.9%\n$37,048,472\n91\nENJ\nEnjin Coin\n$0.29732\n$297,316,464\n0%\n-2.66%\n-4.04%\n$18,129,634\n92\nZIL\nZilliqa\n$0.02179\n$296,892,896\n0.2%\n-4.25%\n-0.45%\n$2,675,078\n93\nDCR\nDecred\n$20.38\n$296,752,651\n-0.25%\n-3.99%\n1.73%\n$45,159,724\n94\nHOT\nHolo\n$0.00168\n$291,240,565\n-0.18%\n-2.38%\n-3.06%\n$12,298,764\n96\nXEM\nNEM\n$0.03197\n$287,766,827\n-0.1%\n0.13%\n-0.28%\n$25,161,483\n100\nCOMP\nCompound\n$38.17\n$277,395,010\n0.39%\n-2.8%\n-1.87%\n$6,720,350\n103\nRVN\nRavencoin\n$0.02154\n$257,771,687\n-0.01%\n-4.37%\n-1.41%\n$74,673,466\n104\nWAVES\nWaves\n$2.32\n$255,855,693\n-0.08%\n-8.9%\n0.53%\n$11,371,262\n105\nXDC\nXDC Network\n$0.13371\n$1,643,742,314\n-1.54%\n-2.36%\n5%\n$27,278,706\n106\nYFI\nyearn.finance\n$6,962.58\n$255,093,009\n-0.46%\n-4.2%\n-4.78%\n$2,875,925\n109\nBTG\nBitcoin Gold\n$14.31\n$250,681,805\n-0.85%\n-1.63%\n-5.91%\n$242,216\n113\nCHSB\nSwissBorg\n$0.23099\n$230,994,943\n-0.02%\n-2.34%\n-1.99%\n$1,906,128\n114\nGNO\nGnosis\n$88.87\n$230,140,716\n0.02%\n-3.32%\n-11.52%\n$5,151,354\n115\nTFUEL\nTheta Fuel\n$0.04313\n$228,647,950\n0.05%\n-3.77%\n-4.18%\n$31,413,490\n116\nQTUM\nQtum\n$2.12\n$221,719,466\n-0.16%\n-1.77%\n-3.29%\n$5,473,360\n117\nGLM\nGolem\n$0.21943\n$219,431,215\n-0.01%\n-4.56%\n-2.54%\n$3,909,676\n118\nIOTX\nIoTeX\n$0.02252\n$214,817,233\n-0.05%\n-5.03%\n-0.51%\n$4,069,454\n122\nANKR\nAnkr\n$0.0091\n$22,950,097\n1.57%\n-0.41%\n16.65%\n$595,375\n123\nEDO\nEidoo\n$0.75196\n$43,113,463\n0.12%\n-2.83%\n-5.39%\n$1,109,391\n126\nPOLY\nPolymath\n$0.20261\n$187,410,403\n-0.17%\n-2.53%\n-2.63%\n$7,643,275\n128\nONE\nHarmony\n$0.0141\n$181,871,483\n-0.12%\n-4.1%\n-4.19%\n$5,635,290\n130\nLPT\nLivepeer\n$7.20\n$181,096,446\n0.18%\n8.28%\n40.06%\n$7,731,945\n133\nCEL\nCelsius\n$0.7346\n$175,469,422\n0.01%\n-3.66%\n-6%\n$5,819,632\n134\nRSR\nReserve Rights\n$0.004\n$169,332,502\n-0.33%\n-0.66%\n5.49%\n$138,004,602\n136\nOMG\nOMG Network\n$1.72\n$241,228,364\n0.35%\n-2.35%\n-11.07%\n$5,410,935\n137\nICX\nICON\n$0.17628\n$162,091,059\n0.12%\n-1.16%\n-6.83%\n$19,566,169\n139\nABBC\nABBC Coin\n$0.15219\n$159,827,598\n-0.06%\n-3.18%\n-4.54%\n$11,346,831\n140\nZRX\n0x\n$0.18468\n$156,515,763\n0.19%\n-3.25%\n-4.09%\n$14,830,002\n142\nONT\nOntology\n$0.17763\n$155,474,689\n0%\n-2.77%\n-3.89%\n$5,100,726\n143\nIOST\nIOST\n$0.00828\n$153,885,651\n0.06%\n3.23%\n-12.58%\n$5,622,134\n147\nFLUX\nFlux\n$0.03674\n$3,194,424\n-4.23%\n-2.46%\n-3.46%\n$3,400,845\n153\nSC\nSiacoin\n$0.00252\n$132,933,208\n0.13%\n1.11%\n19.62%\n$546,442\n154\nZEN\nHorizen\n$5.57\n$43,940,619\n0.37%\n-4.41%\n-7.19%\n$8,141,338\n156\nSTORJ\nStorj\n$0.31292\n$129,217,677\n0.06%\n-3.89%\n-6.71%\n$4,265,127\n157\nWAXP\nWAX\n$0.05623\n$128,679,083\n0.08%\n-3.42%\n-3.88%\n$2,458,597\n165\nDGB\nDigiByte\n$0.00732\n$115,987,817\n-0.1%\n1.36%\n0.21%\n$478,446\n168\nVGX\nVoyager Token\n$0.02709\n$2,644,550\n-0.63%\n11,353.61%\n42,745.91%\n$333,297\n172\nBETR\nBetterBetting\n$0.81622\n$232,736,088\n185.09%\n-3.26%\n-7.43%\n$1,628,059\n173\nLSK\nLisk\n$0.78785\n$101,554,582\n-0.04%\n-0.37%\n-1.66%\n$2,073,851\n174\nXNO\nNano\n$0.75881\n$101,110,627\n-0.82%\n-5.12%\n-10.03%\n$5,731,090\n179\nCVC\nCivic\n$0.09452\n$94,517,662\n-0.78%\n2.85%\n14.74%\n$57,210,704\n181\nANT\nAragon\n$2.21\n$92,912,731\n-1%\n2.65%\n-2.82%\n$253,477\n182\nREQ\nRequest\n$0.02183\n$15,924,864\n0.39%\n-4.72%\n-14.39%\n$11,707,726\n184\nREN\nRen\n$0.08832\n$88,232,377\n-0.03%\n-0.98%\n-1.67%\n$4,231,196\n187\nCELR\nCeler Network\n$0.01198\n$84,860,753\n-0.28%\n-2.14%\n-5.84%\n$5,919,970\n191\nRLC\niExec RLC\n$1.03\n$83,455,403\n-0.32%\n32.98%\n-9.19%\n$1,407,657\n191\nMCO\nMCO\n$16.09\n$254,046,956\n1.3%\n-1.88%\n-3.76%\n$10,065,858\n192\nOCEAN\nOcean Protocol\n$0.13526\n$82,927,538\n0.65%\n-6.54%\n20.68%\n$23,225,154\n194\nNMR\nNumeraire\n$13.95\n$82,155,848\n-1.37%\n-1.76%\n3.21%\n$124,540\n197\nMEDX\nMediBloc [ERC20]\n$0.00373\n$12,823,655\n0.05%\n-2.45%\n-3.97%\n$5,655,688\n200\nCOTI\nCOTI\n$0.0705\n$78,159,688\n0.05%\n-19.8%\n-31.15%\n$27,482,704\n201\nDREP\nDREP [old]\n$1.96\n$6,713,636,307\n-2.64%\n-3.19%\n-7.72%\n$63,037\n204\nKICK\nKickToken [old]\n$0.00093\n$1,529,335\n-1.65%\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n...\n22\nCoins\nCryptocurrency Prices Live\nResearch\nCrypto Analysis\nCalculators\nBitcoin Investment Calculator\nCompany\nPodcast\nBlog\nCareers\nPress\nAbout\nFeedback\nPrivacy Policy\nContact\ncontact@coinfi.com\n\nCopyright © 2022 CoinFi - All rights reserved.",
+    "font": "avenir, sans-serif",
+    "iframes": [
+        {
+            "title": "Sumo Hidden Content",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 775,
+                "y": 746
+            },
+            "size": {
+                "height": 16,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 838
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 887
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 935
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 983
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1031
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1079
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1127
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1175
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1223
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1271
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1319
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1367
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1415
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1463
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1511
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1559
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1607
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1655
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1703
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1751
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1799
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1847
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1895
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1943
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 1991
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2039
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2087
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2135
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2183
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2231
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2279
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2327
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2375
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2423
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2471
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2519
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2567
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2615
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2663
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2711
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2759
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2807
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2855
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2903
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2951
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 2999
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3047
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3095
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3143
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3191
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3239
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3287
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3335
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3383
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3431
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3479
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3527
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3575
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3623
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3671
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3719
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3767
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3815
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3863
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3911
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 3959
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4007
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4055
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4103
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4151
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4199
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4247
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4295
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4343
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4391
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4439
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4487
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4535
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4583
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4631
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4679
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4727
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4775
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4823
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4871
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4919
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 4967
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5015
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5063
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5111
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5159
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5207
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5255
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5303
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5351
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5399
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5447
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5495
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5543
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5591
+            },
+            "size": {
+                "height": 13,
+                "width": 19
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(76, 107, 164, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(233, 66, 53, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(35, 173, 240, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(76, 107, 164, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(233, 66, 53, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(35, 173, 240, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

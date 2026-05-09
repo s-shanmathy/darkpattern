@@ -1,0 +1,782 @@
+{
+    "title": "UOC (Universitat Oberta de Catalunya)",
+    "url": "uoc.edu",
+    "full_url": "https://www.uoc.edu/portal/en/index.html",
+    "images": [
+        {
+            "alt": "Logo UOC",
+            "location": {
+                "x": 29,
+                "y": 68
+            },
+            "size": {
+                "height": 54,
+                "width": 73
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo UOC",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Logo UOC",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Logo UOC",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Future university",
+            "location": {
+                "x": -126,
+                "y": 226
+            },
+            "size": {
+                "height": 576,
+                "width": 1277
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "What will the world and higher education look like after COVID-19?",
+            "location": {
+                "x": 29,
+                "y": 834
+            },
+            "size": {
+                "height": 251,
+                "width": 479
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blanca Calvo",
+            "location": {
+                "x": 29,
+                "y": 1187
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "On December 1, CoARA was formed (photo: Mikael Kristenson / unsplash.com)",
+            "location": {
+                "x": 760,
+                "y": 1187
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Times Higher Education World University Rankings",
+            "location": {
+                "x": 779,
+                "y": 2216
+            },
+            "size": {
+                "height": 67,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interdisciplinary R&I Hub",
+            "location": {
+                "x": 516,
+                "y": 2397
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Endorsed by graduates",
+            "location": {
+                "x": 188,
+                "y": 3416
+            },
+            "size": {
+                "height": 65,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Recognized by companies",
+            "location": {
+                "x": 415,
+                "y": 3404
+            },
+            "size": {
+                "height": 77,
+                "width": 77
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Awards and accolades",
+            "location": {
+                "x": 662,
+                "y": 3404
+            },
+            "size": {
+                "height": 77,
+                "width": 73
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Global citizens",
+            "location": {
+                "x": 902,
+                "y": 3414
+            },
+            "size": {
+                "height": 67,
+                "width": 77
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HRS4R - HR Excellence in Research",
+            "location": {
+                "x": 729,
+                "y": 4410
+            },
+            "size": {
+                "height": 56,
+                "width": 47
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Universitat Oberta de Catalunya (UOC)",
+            "location": {
+                "x": 841,
+                "y": 4568
+            },
+            "size": {
+                "height": 60,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "search words",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "search words",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            240,
+            240,
+            240
+        ],
+        [
+            0,
+            0,
+            121
+        ]
+    ],
+    "desc": "The UOC is an online university that offers bachelor degrees, master's degrees, postgraduate courses and language courses",
+    "navbar": "UOC\nUOC Corporate\nUOC Alumni\nJoin our team\nNews\nContact\nThe UOC in Latin America\nEN",
+    "text": "UOC\nUOC Corporate\nUOC Alumni\nJoin our team\nNews\nContact\nThe UOC in Latin America\nEN\nThe UOC is an online university that offers bachelor degrees, master's degrees, postgraduate courses and language courses\nUniversitat Oberta\nde Catalunya\nLearning. Transforming.\n    Desplegar menu About us: a pioneering online university\nAbout us: a pioneering online university\nDesplegar menu Research and innovation\nResearch and innovation\nDesplegar menu Open knowledge\nOpen knowledge\n\nDesplegar menu Global impact\n#2030Agenda\nGlobal impact\n#2030Agenda\nDesplegar menu Course offering\nCourse offering\nLog in to the\nCampus\nA university that looks to the future\n   \nCommitted to the digital transformation of education\n  What will higher education look like after COVID-19?\n  • Digitization\n• The time for online education\n• Reflecting on the future: universities post-COVID-19\n  UOC helps more than 9,000 teachers adapt to remote teaching during the pandemic\nOver a period of two months, the University's faculty held 24 online webinars to help the teaching community end the school year online\nExternal Link\nNews\nHighlights\n\"The needs of children with autism are hardly ever taken into account\"\nBlanca Calvo, a member of the Urban Transformation and Global Change Laboratory research group at the UOC’s IN3. She led the project The Playable cities for all: Activating Spaces with neuroDiverse Publics, with Barcelona City Council, the Global Institute of Neurodevelopment Integrated Care, and LEMUR urban emergency laboratory.\n  #ResearchUOC\n  We wish you happy holidays\nThis year's New Year's greeting is inspired by the poem \"Feliç aquell que sap mirar de lluny\", by Margalida Pons. The dancer Biel Bertran has constructed a dialogue between the body and the words, recited by Sílvia Bel. \n  #PoetryAsDrawing\nInternational Coalition for Advancing Research Assessment now formed, with the involvement of the UOC\n#ReformingRA\nMore facts and figures\nFacts & figures\n87,000\nstudents\n104,501\ngraduates\n  544\nfaculty members & research staff\n185\nof which are full-time researchers\n5,800\naffiliated teaching staff & tutors\n  Times Higher Education World University Rankings\nIbero-America\nNumber 1 online university\n\nWorldwide\nTop 175 among the world's youngest universities\nSpain\n1st. online university under 50 years old\n      Find out more\nResearch and innovation\nConducting research for the digital transformation of society\n\n51 research groups\n500 + researchers\nInterdisciplinary R&I Hub\n\nA space that will be fostering excellent interdisciplinary frontier research\nInternet Interdisciplinary Institute (IN3)\nAn institute that specializes in studying the internet and the effects of the interaction of digital technologies with human activity.\nExternal Link\neLearning Innovation Center\nThe main mission of this body is to help the UOC's learning model evolve in order to guarantee a unique, high-quality, connected and networked learning experience.\nExternal Link\neHealth Center\nAn interdisciplinary academic centre that generates, transfers and exchanges knowledge in eHealth.\nExternal Link\nDoctoral School\nThe Doctoral School works closely with the UOC's three research and innovation centres to create a common frame of reference for the various doctoral programmes based on shared quality standards.\nExternal Link\nGet to know the educational model\nEducational model\nA unique model\nThe UOC's methodology – its proprietary learning model – is based on three basic elements: learning resources, personalized student support from teaching staff, and collaboration.\n  Endorsed by graduates\n87% would choose the UOC again.\n81% are satisfied with the degree.\nRecognized by companies\n9 out of 10 graduates work.\nInternational awards\nTwo gold awards, one silver, one bronze and one for leadership at the Learning Impact Awards.\nFocused on the future\nA model that prepares you to be a global citizen.\nProgrammes\nCourse offering\n28\nBachelor's degrees\n53\nUniversity master's degrees\n8\nDoctoral programmes\n68\nUOC-certified master's degrees and postgraduate courses\n204\nPostgraduate courses and specializations\n  59\nLanguage courses\n214\nOpen courses\n57\nCourses, profession-focused specializations and professional development programmes\n59\nSummer seminars\n10\nAdvanced-level vocational training courses (Jesuïtes Educació in collaboration with the UOC)\n  Doctoral programmes and knowledge transfer\nUOC R&I\nEnrolment\nopen\nMaster's degrees, postgraduate and specialist courses\nEnrolment\nopen\nBachelor's Degree in Techniques for Software Application Development\nEnrolment\nopen\nSpanish for foreigners\nEnrolment\nopen\nCourse offering\nDoctoral programmes and knowledge transfer\nMaster's degrees and postgraduate courses\nBachelor's Degree in Techniques for Software Development\nSpanish for foreigners\nHow do you enrol at the UOC?\nExplore the UOC\nAbout us: a pioneering online university\nEducational model\nReputation\nStrategy\nInternational networks\nResearch and innovation\nDepartments\nOpen access publications\nContact and offices\nFacts and figures\nJoin our team\nFrequently asked questions\nLegal notice\nPrivacy policy\nRegulatory compliance\nData protection officer\nAccessibility\n  HR Excellence in Research\nLEARNING\nTRANS­FORMING\nUniversitat Oberta de Catalunya (UOC)\n          More\nEuropean Universities Association (EUA) Centro Interuniversitario de Desarrollo (CINDA) Conferencia de Rectores de las Universidades Españolas (CRUE) Associació Catalana d'Universitats Públiques (ACUP) Xarxa Vives d'Universitats\nUOC\nUOC Corporate\nUOC Alumni\nJoin our team\nWe use our own and third-party cookies to ensure that all the features of the website work properly, to carry out analyses and to show you targeted advertising based on a profile produced from your browsing habits. You can accept all cookies by clicking on Accept, or obtain more information and either customize or reject the cookies by clicking here.\nAccept",
+    "font": "uoc-sans, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "EN",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 922,
+                "y": 0
+            },
+            "size": {
+                "height": 21,
+                "width": 73
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(208, 208, 208, 1)",
+            "location": {
+                "x": 971,
+                "y": 8
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(208, 208, 208, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(208, 208, 208, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(208, 208, 208, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(208, 208, 208, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Desplegar menu About us: a pioneering online university",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 109,
+                "y": 135
+            },
+            "size": {
+                "height": 8,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "About us: a pioneering online university",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 110,
+                "y": 136
+            },
+            "size": {
+                "height": 68,
+                "width": 154
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Desplegar menu Research and innovation",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 271,
+                "y": 135
+            },
+            "size": {
+                "height": 8,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Research and innovation",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 272,
+                "y": 136
+            },
+            "size": {
+                "height": 68,
+                "width": 154
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Desplegar menu Open knowledge",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 434,
+                "y": 135
+            },
+            "size": {
+                "height": 8,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Open knowledge",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 435,
+                "y": 136
+            },
+            "size": {
+                "height": 68,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Desplegar menu Global impact\n#2030Agenda",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 596,
+                "y": 135
+            },
+            "size": {
+                "height": 8,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Global impact\n#2030Agenda",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 597,
+                "y": 136
+            },
+            "size": {
+                "height": 68,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Desplegar menu Course offering",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 758,
+                "y": 135
+            },
+            "size": {
+                "height": 8,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Course offering",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 759,
+                "y": 136
+            },
+            "size": {
+                "height": 68,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Accept",
+            "bg-color": "rgba(0, 0, 120, 1)",
+            "location": {
+                "x": 444,
+                "y": 549
+            },
+            "size": {
+                "height": 46,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

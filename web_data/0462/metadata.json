@@ -1,0 +1,383 @@
+{
+    "title": "dokuwiki [DokuWiki]",
+    "url": "dokuwiki.org",
+    "full_url": "https://www.dokuwiki.org/dokuwiki",
+    "images": [
+        {
+            "alt": "Download the latest version",
+            "location": {
+                "x": 370,
+                "y": 402
+            },
+            "size": {
+                "height": 37,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DokuWiki Hackfest London 2012",
+            "location": {
+                "x": 805,
+                "y": 488
+            },
+            "size": {
+                "height": 116,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": ";-)",
+            "location": {
+                "x": 359,
+                "y": 1277
+            },
+            "size": {
+                "height": 17,
+                "width": 17
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CC Attribution-Share Alike 4.0 International",
+            "location": {
+                "x": 263,
+                "y": 1907
+            },
+            "size": {
+                "height": 15,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Donate",
+            "location": {
+                "x": 347,
+                "y": 1907
+            },
+            "size": {
+                "height": 15,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Powered by PHP",
+            "location": {
+                "x": 430,
+                "y": 1907
+            },
+            "size": {
+                "height": 15,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valid HTML5",
+            "location": {
+                "x": 514,
+                "y": 1907
+            },
+            "size": {
+                "height": 15,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valid CSS",
+            "location": {
+                "x": 597,
+                "y": 1907
+            },
+            "size": {
+                "height": 15,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Driven by DokuWiki",
+            "location": {
+                "x": 681,
+                "y": 1907
+            },
+            "size": {
+                "height": 15,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 764,
+                "y": 75
+            },
+            "size": {
+                "height": 25,
+                "width": 221
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 18,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search all DokuWiki sites at once",
+            "type": "text",
+            "location": {
+                "x": 832,
+                "y": 6
+            },
+            "size": {
+                "height": 18,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search all DokuWiki sites at once",
+            "type": "submit",
+            "location": {
+                "x": 965,
+                "y": 7
+            },
+            "size": {
+                "height": 16,
+                "width": 39
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            251,
+            250,
+            249
+        ],
+        [
+            51,
+            51,
+            51
+        ]
+    ],
+    "text": "DokuWiki\nIt's better when it's simple\nLog In\nSearch\nRecent ChangesMedia ManagerSitemap\nTrace: • start • dokuwiki\nTranslations of this page?:\nen\nar\nca\ncs\nda\nde\nel\neo\nes\nfa\nfr\nhe\nhu\nit\nja\nko\nlt\nnl\nno\npl\npt-br\nro\nru\nsr\nsv\nth\nuk\nzh\nzh-tw\nLearn about DokuWiki\nFeatures & reviews\nInstallation guide\nUser manual & syntax\nRelease notes\nFAQ\nAdvanced Use\nExtensions\nDevelopment manual\nCorporate Use\nGet support\nDonations\nOur Community\nGet involved\nUsers\nUser forum\nDevelopment mailinglist\nFollow us on Facebook, Twitter and other social networks.\nOur Privacy Policy\ndokuwiki\nDokuWiki\nDokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database. It is loved by users for its clean and readable syntax. The ease of maintenance, backup and integration makes it an administrator's favorite. Built in access controls and authentication connectors make DokuWiki especially useful in the enterprise context and the large number of plugins contributed by its vibrant community allow for a broad range of use cases beyond a traditional wiki.\nGet started:\nWhy DokuWiki?\nDokuWiki is a popular choice when choosing a Wiki software and has many advantages over similar software.\nEasy to install and use\nLow system requirements\nBuilt-in Access Control Lists\nLarge variety of extensions\nOver 50 languages supported\nDevice independent\nOpen Source\nLearn more about DokuWiki features\nUse Cases\nWikis are quick to update and new pages are easily added. Designed for collaboration while maintaining a history of every change, DokuWiki could be used as\nCorporate Knowledge Base\nPrivate notebook\nSoftware manual\nProject workspace\nCMS – intranet\nCustomizing DokuWiki\nWe support customization on all levels of expertise. From easy configuration via the admin interface through downloading of templates and plugins to developing your own extensions.\nConfiguration\nPlugins\nTemplates (aka. skins/themes)\nTips & tricks\nRead the development manual\nOur Community\nA part of OpenSource is giving back to the community by getting involved. There are numerous options to do that.\nShare your experience\nDo some wiki gardening\nHelp plugin authors with documentation\nHelp translate the DokuWiki interface\nSubmit bugs and feature wishes\nAnswer questions in the forum\nGet involved\nCopyright\n2004-2022 © Andreas Gohr andi [at] splitbrain [dot] org1) and the DokuWiki Community\nThe DokuWiki engine is licensed under GNU General Public License Version 2. If you use DokuWiki in your company, consider donating a few bucks .\nNot sure what this means? See the\nFAQ on the Licenses\n.\nWhat users say\n1) Please do not contact me for help and support – use the mailinglist or forum instead\ndokuwiki.txt · Last modified: 2022-01-22 10:02 by andi\nExcept where otherwise noted, content on this wiki is licensed under the following license: CC Attribution-Share Alike 4.0 International\nImprint\nDokuWiki is currently sponsored by: AOE – the open web company\nDownload Wiki Forum IRC Bugs Translate Git XRef Code Search",
+    "font": "Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Twitter Timeline",
+            "src": "",
+            "location": {
+                "x": 637,
+                "y": 1157
+            },
+            "size": {
+                "height": 600,
+                "width": 318
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Twitter settings iframe",
+            "src": "https://platform.twitter.com/widgets/widget_iframe.644279d1635fd969e87af94a98bd232b.html?origin=https%3A%2F%2Fwww.dokuwiki.org",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter analytics iframe",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 965,
+                "y": 80
+            },
+            "size": {
+                "height": 14,
+                "width": 19
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(238, 238, 238, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

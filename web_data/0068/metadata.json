@@ -1,0 +1,133 @@
+{
+    "title": "HS Code_HS编码查询",
+    "url": "hsbianma.com",
+    "full_url": "https://hsbianma.com/",
+    "images": [
+        {
+            "alt": "HS编码查询",
+            "location": {
+                "x": 404,
+                "y": 70
+            },
+            "size": {
+                "height": 60,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "请输入商品名称或商品编码",
+            "type": "text",
+            "location": {
+                "x": 230,
+                "y": 133
+            },
+            "size": {
+                "height": 26,
+                "width": 485
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 720,
+                "y": 133
+            },
+            "size": {
+                "height": 24,
+                "width": 41
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 230,
+                "y": 171
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 230,
+                "y": 190
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            246,
+            246,
+            246
+        ],
+        [
+            229,
+            0,
+            15
+        ]
+    ],
+    "text": "过滤过期编码\n显示分类章节\n►第1类 - 活动物;动物产品\n►第2类 - 植物产品\n►第3类 - 动、植物油、脂及其分解产品;精制的食用油脂;动、植物蜡\n►第4类 - 食品;饮料、酒及醋;烟草、烟草及烟草代用品的制品\n►第5类 - 矿产品\n►第6类 - 化学工业及其相关工业的产品\n►第7类 - 塑料及其制品:橡胶及其制品\n►第8类 - 生皮、皮革、毛皮及其制品;鞍具及挽具;旅行用品、手提包及类似容器;动物肠线\n►第9类 - 木及木制品;木炭;软木及软木制品;稻草、秸秆、针茅或其他编结材料制品;篮筐及柳条编结品\n►第10类 - 木浆及其他纤维状纤维素浆;回收\n►第11类 - 纺织原料及纺织制品\n►第12类 - 鞋、帽、伞、杖、鞭及其零件;已加工的羽毛及其制品;人造花;人发制品\n►第13类 - 石料、石膏、水泥、石棉、云母及类似材料的制品;陶瓷产品;玻璃及其制品\n►第14类 - 天然或养殖珍珠、宝石或半宝石、贵金属、包贵金属及其制品;仿首饰;硬币\n►第15类 - 贱金属及其制品\n►第16类 - 机器、机械器具、电气设备及其零件;录音机及放声机、电视图像、声音的录制和重放设备及其零件\n►第17类 - 车辆、航空器、船舶及有关运输设备\n►第18类 - 光学、照相、电影、计量、检验、医疗或外科用仪器及设备、精密仪器及设备;钟表;乐器;上述物品\n►第19类 - 武器、弹药及其零件、附件\n►第20类 - 杂项制品\n►第21类 - 艺术品、收藏品及古物\n►第22类 - 特殊交易品及未分类商品\n其他查询:\n友情链接\n报关员\ncopyright www.hsbianma.com 版权归 HS编码网 网站声明\n沪ICP备08100262号-11",
+    "font": "Times",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://iframe.weiyun001.com/Widget/search",
+            "location": {
+                "x": 196,
+                "y": 1466
+            },
+            "size": {
+                "height": 300,
+                "width": 610
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

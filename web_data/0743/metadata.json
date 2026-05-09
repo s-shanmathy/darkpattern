@@ -1,0 +1,1484 @@
+{
+    "title": "텀블벅 - 크리에이터를 위한 크라우드펀딩",
+    "url": "tumblbug.com",
+    "full_url": "https://tumblbug.com/",
+    "images": [
+        {
+            "alt": "매주 1명 추첨 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "매주 1명 추첨 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": -3027,
+                "y": 126
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "2022년 송년회 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "2022년 송년회 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": -2018,
+                "y": 126
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ㄴr는 ㄱr끔.. 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ㄴr는 ㄱr끔.. 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": -1009,
+                "y": 126
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "사지 말고 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "사지 말고 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 0,
+                "y": 126
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "한 권을 읽더라도 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "한 권을 읽더라도 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 1009,
+                "y": 126
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "매주 1명 추첨 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "2022년 송년회 프로젝트 안내 이미지 입니다.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 280,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "모바일 이미지",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 7108,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "pc 이미지",
+            "location": {
+                "x": 0,
+                "y": 1366
+            },
+            "size": {
+                "height": 141,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "모바일 이미지",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 7108,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "pc 이미지",
+            "location": {
+                "x": 0,
+                "y": 1547
+            },
+            "size": {
+                "height": 141,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "<신년준비위원회 시즌4> 캘린더∙다이어리 ",
+            "location": {
+                "x": 20,
+                "y": 1752
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "유행 없이 오래오래, 클래식 패션 기획전",
+            "location": {
+                "x": 20,
+                "y": 2149
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "연말연시 파티",
+            "location": {
+                "x": 20,
+                "y": 2546
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "크리스마스 선물",
+            "location": {
+                "x": 20,
+                "y": 3345
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "서울굿즈 컬렉션, ‘제 10회 서울상징관광기념품 공모전",
+            "location": {
+                "x": 20,
+                "y": 3742
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "웹툰의 재해석",
+            "location": {
+                "x": 20,
+                "y": 4139
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 21,
+                "y": 4581
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 260,
+                "y": 4581
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 500,
+                "y": 4581
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 739,
+                "y": 4581
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 978,
+                "y": 4581
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 21,
+                "y": 5388
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "세아트",
+            "location": {
+                "x": 39,
+                "y": 5578
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 260,
+                "y": 5388
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "나는꽃",
+            "location": {
+                "x": 278,
+                "y": 5578
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 500,
+                "y": 5388
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "시트롱마카롱",
+            "location": {
+                "x": 518,
+                "y": 5578
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 739,
+                "y": 5388
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "포인핸드",
+            "location": {
+                "x": 757,
+                "y": 5578
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 978,
+                "y": 5388
+            },
+            "size": {
+                "height": 169,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 22,
+                "y": 6274
+            },
+            "size": {
+                "height": 167,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "오션스 서울",
+            "location": {
+                "x": 42,
+                "y": 6570
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 261,
+                "y": 6274
+            },
+            "size": {
+                "height": 167,
+                "width": 223
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "위커밍",
+            "location": {
+                "x": 281,
+                "y": 6570
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 501,
+                "y": 6274
+            },
+            "size": {
+                "height": 167,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "월당화옥",
+            "location": {
+                "x": 521,
+                "y": 6570
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 740,
+                "y": 6274
+            },
+            "size": {
+                "height": 167,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "리디퍼",
+            "location": {
+                "x": 760,
+                "y": 6570
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "프로젝트 이미지",
+            "location": {
+                "x": 979,
+                "y": 6274
+            },
+            "size": {
+                "height": 167,
+                "width": 223
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "검색어를 입력해주세요.",
+            "type": "text",
+            "location": {
+                "x": 792,
+                "y": 83
+            },
+            "size": {
+                "height": 30,
+                "width": 139
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            239,
+            239,
+            239
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "창의적인 시도를 함께 실현시키는 펀딩 커뮤니티 텀블벅에서 문화예술, 출판, 패션, 게임 까지 다양한 분야 크리에이터들의 프로젝트를 후원해주세요.",
+    "text": "프로젝트 올리기\n로그인/회원가입\n카테고리\n홈\n인기\n신규\n마감임박\n공개예정\nㄴr는 ㄱr끔..\n눈물을 흘린ㄷr..\n슬프지만 재미있는 게 인생 <도이만화일기>\n2\n/ 5\n주목할 만한 프로젝트\n실용 · 취미김서하\n사회초년생 연말정산 똑똑하게 돌려받자!<연말정산 비법서2>\n629% 달성\n의류리슬\n한복과 뽀글이가 만나면?부드럽고 따뜻한 겨울 푸들 한복점퍼\n4345% 달성\n만화 · 웹툰 리소스닝뚜\n쉽고 빠르게! 생동감 넘치는 눈동자 브러쉬+화상소재\n1058% 달성\n실용 · 취미visualinsight\n캐릭터 창작과 스토리텔링을 위한 [세상의 모든 외모]\n610% 달성\n만화책네이버웹툰\n네이버웹툰 <1을 줄게> 단행본 제작\n758% 달성\n인기 프로젝트\n22.12.07 20:48 기준\n전체보기\n1\n디지털 아트슬로마인드\n정말 손그림 같은 아이패드 브러쉬와 손글씨 폰트\n627% 달성\n2\n인문 · 사회과학취향더쿠\n초보 영애를 위한 19세기 <귀족 사교계의 예절> 완역본!\n5368% 달성\n3\n혼합매체캔 파운데이션\nCANbus ART Kit - 유나얼, Collagearl\n120% 달성\n5\n캘린더 · 다이어리컴포지션스튜디오\n지독한 P도 J로 만드는 갓생 다이어리\n2442% 달성\n6\n베이킹 · 디저트빠당\n설탕 0g! 당걱정없이 즐기는 ZERO 푸딩 4종\n330% 달성\n7\n도감하루 한 컷 영어\n보기만해도 영어가 명확하게 구분되는 영어 뉘앙스 도감\n374% 달성\n인기 프로젝트 전체보기\n<신년준비위원회 시즌4> 캘린더∙다이어리 기획전\n전체보기\n유행 없이 오래오래, 클래식 패션 기획전\n전체보기\n연말연시 파티\n전체보기\n마감임박! 마지막 기회\n03:11:08 남았어요\n전체보기\n크리스마스 선물\n전체보기\n서울굿즈 컬렉션, ‘제 10회 서울상징관광기념품 공모전\n전체보기\n웹툰의 재해석\n전체보기\n얼리버드 혜택, 놓치지 마세요\n전체보기\nTREND SETTER, 감정 '희노애락'에 대해 얘기하다\n5000원 +\n1개 남음\n배송비포함\nTUMBLER\n난 364일 크리스마스를 기다려 book&calendar\n9000원 +\n1개 남음\n슈퍼얼리버드 달력, 배송비 포함\n책갈피\n2023 포스터달력\n크리스마스 레터\n옛 동화를 우리의 이야기로, 단편집 <널>\n9100원 +\n1개 남음\n일찍 구매하신 분들께만 얼리버드로 30%할인된 가격에 선보입니다.\n<널>단편집\n경주 버섯을 활용한 만능 비건 페스토\n12000원 +\n1개 남음\n(얼리버드) 나혼자 한끼 세트\n배송비 포함\n경주 버섯 페스토(150g)\n레시피 카드\n미약하게 떠오르나 존재하지 않는 것들, <환상정물원>\n공개예정 프로젝트\n전체보기\n텀블벅 인기 창작자의 프로젝트\n투톤으로 활용하는 패턴 세트\n세아트\n223 팔로워\n창작자분들께 도움이 되고 싶습니다.\n블랙홀과 소행성을 닮은 신비하고 영롱한 원석매듭팔찌\n나는꽃\n984 팔로워\n전통과 자연의 재료로 다양한 수공예 디자인을 하는 \"알미\"입니다~!\n엘리제궁의 요리사가 소개하는 대통령 식탁의 역사와 레시피\n시트롱마카롱\n480 팔로워\n요리책 전문 출판사 시트롱마카롱입니다. 시즌1의 오프라인 디저트샵, 시즌2의 요리책 전문서점을 거쳐 시즌3에서는 요리책 출판에 주력하고 있습니다. 우리에게 꼭 필요한 요리책을 소개하려 노력하고 있습니다.\n포인핸드 매거진 14호 & 유기동물 입양 홍보 기프트 박스\n포인핸드\n718 팔로워\n사지 않고 입양하는 문화를 만드는 포인핸드 매거진입니다.\n[스냅툰+스케치업] 동양풍 판타지 :: 옆 나라 이웃 나라\n신규 프로젝트\n전체보기\n신규 프로젝트 전체보기\n진행 중인 프로젝트의 새소식\n전체보기\n월화수목금토일 일주일 코디를<클래식 새틴 셋업>으로 해결!\n클래식 새틴셋업 코트 코디컷이에요🫢✨\n\n추워진 날씨에도 이너 넉넉히 입고 코트 걸쳐주시면 겨울 코디도 너무 예쁘네요😄🤍\n\n추운날씨 감기조심하세요~!🤧🫶🏻\n\n\n+1\n오션스 서울\n인생이 재밌어도 돼? 스티커를 붙일수록 대유잼되는 2023\n[중요공지] 스티커 3종 세트가 추가 되었어요!\n \n\n+2\n위커밍\n내 반려견을 위한 크리스마스 인싸템!인식표,리드줄,목줄세트\n⭐️주문 및 옵션 선택 안내사항⭐️\n  안녕하세요! 월당화옥입니다 :)\n월당화옥의 Wearable 인식표, 리드줄, 목줄 세트에 많은 관심을 가져주셔서 감사합니다!\n월당화옥\n끊어진 연결고리를 추리해라! 경쟁추리게임<미싱링크>1&2\n안녕하세요 추리 보드게임 제작 팀 리디퍼입니다.\n후원자분들 덕분에 1600%라는 멋진 성과를 달성할 수 있었습니다! 정말 감사드립니다.\n\n\n\n\n\n\n리디퍼\n동물스티커와 여우코스터\n\n\n\n\n\n좋은 아이디어를 가지고 있으신가요?\n텀블벅과 함께 마음 속\n프로젝트를 실현하세요\n공지사항\n서비스 소개\n채용\n헬프 센터\n첫 후원 가이드\n창작자 가이드\n제휴·협력\n이용약관\n개인정보 처리방침\n프로젝트 심사 기준\n안드로이드\niOS\n고객지원\n평일 9:00 ~ 17:00 (12:00 ~14:00 제외)\n텀블벅에 문의\n회사명\n텀블벅(주)\n주소\n서울 서초구 서초대로 398, 19층 (서초동, BNK디지털)\n대표\n김동환\n사업자등록번호\n105-87-52823\n통신판매업 신고번호\n2022-서울서초-0352\n대표번호\n02-6080-0760\n© 2022 Tumblbug Inc.\n텀블벅은 플랫폼 제공자로서 프로젝트의 당사자가 아니며, 직접적인 통신판매를 진행하지 않습니다. 프로젝트의 완수 및 선물제공의 책임은 해당 프로젝트의 창작자에게 있으며, 프로젝트와 관련하여 후원자와 발생하는 법적 분쟁에 대한 책임은 해당 창작자가 부담합니다.",
+    "font": "SpoqaHanSans, \"Helvetica Neue\", Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0.5)",
+            "location": {
+                "x": 903,
+                "y": 344
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0.5)",
+            "location": {
+                "x": 947,
+                "y": 344
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 167,
+                "y": 505
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 365,
+                "y": 505
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 562,
+                "y": 505
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 760,
+                "y": 505
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 958,
+                "y": 505
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 949,
+                "y": 561
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 1886
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 2283
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 2680
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 3081
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 3479
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 3876
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 4273
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 4646
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 5080
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 192,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 432,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 671,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 910,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 1149,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 1389,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 1628,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 1867,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 2106,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 2346,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 2585,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 2824,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 3063,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 3303,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 3542,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 3781,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 4021,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 4260,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 4499,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(240, 240, 240, 1)",
+            "location": {
+                "x": 4738,
+                "y": 5580
+            },
+            "size": {
+                "height": 32,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 5453
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 5881
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 945,
+                "y": 6338
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

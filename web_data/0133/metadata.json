@@ -1,0 +1,778 @@
+{
+    "title": "Forward Fooding - Powering the Food & Food Tech revolution!",
+    "url": "forwardfooding.com",
+    "full_url": "https://forwardfooding.com/",
+    "images": [
+        {
+            "alt": "Forward Fooding – Powering the Food & Food Tech revolution! Logo",
+            "location": {
+                "x": 30,
+                "y": 10
+            },
+            "size": {
+                "height": 46,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "yellow desktop displaying data for the food tech sector",
+            "location": {
+                "x": 76,
+                "y": 2071
+            },
+            "size": {
+                "height": 200,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "yellow icon of a network: we help you connect with the right partners for your food tech venture/project",
+            "location": {
+                "x": 404,
+                "y": 2071
+            },
+            "size": {
+                "height": 200,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "yellow icon of a network showing food tech startups on a global level",
+            "location": {
+                "x": 733,
+                "y": 2071
+            },
+            "size": {
+                "height": 200,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Joseph Gridley",
+            "location": {
+                "x": 29,
+                "y": 2855
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "nestle logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "danone logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "mondelez international logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "barilla logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "general mills logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "dole logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "nestle logo",
+            "location": {
+                "x": 35,
+                "y": 3608
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "danone logo",
+            "location": {
+                "x": 232,
+                "y": 3608
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mondelez international logo",
+            "location": {
+                "x": 429,
+                "y": 3608
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "barilla logo",
+            "location": {
+                "x": 627,
+                "y": 3608
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "general mills logo",
+            "location": {
+                "x": 824,
+                "y": 3608
+            },
+            "size": {
+                "height": 105,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dole logo",
+            "location": {
+                "x": 35,
+                "y": 3778
+            },
+            "size": {
+                "height": 107,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Damm group logo",
+            "location": {
+                "x": 232,
+                "y": 3778
+            },
+            "size": {
+                "height": 75,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ingredion logo",
+            "location": {
+                "x": 429,
+                "y": 3778
+            },
+            "size": {
+                "height": 96,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cargill logo",
+            "location": {
+                "x": 627,
+                "y": 3778
+            },
+            "size": {
+                "height": 68,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ICA supermarkets logo",
+            "location": {
+                "x": 824,
+                "y": 3778
+            },
+            "size": {
+                "height": 80,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vkusvil logo",
+            "location": {
+                "x": 35,
+                "y": 3905
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "compass group logo",
+            "location": {
+                "x": 232,
+                "y": 3905
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Foodbytes by Rabobank logo",
+            "location": {
+                "x": 429,
+                "y": 3905
+            },
+            "size": {
+                "height": 72,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "food valley logo",
+            "location": {
+                "x": 627,
+                "y": 3905
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Neom logo",
+            "location": {
+                "x": 859,
+                "y": 3905
+            },
+            "size": {
+                "height": 113,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "food tech challenge logo",
+            "location": {
+                "x": 60,
+                "y": 4077
+            },
+            "size": {
+                "height": 42,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "talent garden logo",
+            "location": {
+                "x": 232,
+                "y": 4077
+            },
+            "size": {
+                "height": 61,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Huckletree logo London",
+            "location": {
+                "x": 429,
+                "y": 4077
+            },
+            "size": {
+                "height": 39,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mass challenge logo",
+            "location": {
+                "x": 652,
+                "y": 4077
+            },
+            "size": {
+                "height": 50,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "agritech-e logo",
+            "location": {
+                "x": 824,
+                "y": 4077
+            },
+            "size": {
+                "height": 53,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Trive logo",
+            "location": {
+                "x": 35,
+                "y": 4158
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "agthentic logo",
+            "location": {
+                "x": 232,
+                "y": 4158
+            },
+            "size": {
+                "height": 55,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "tech london advocated foodtech logo",
+            "location": {
+                "x": 429,
+                "y": 4158
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "the kitchen - food tech hub logo",
+            "location": {
+                "x": 627,
+                "y": 4158
+            },
+            "size": {
+                "height": 72,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "EIT food logo",
+            "location": {
+                "x": 824,
+                "y": 4158
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FoodTech meetup barcelona biotech",
+            "location": {
+                "x": 31,
+                "y": 4563
+            },
+            "size": {
+                "height": 162,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "plenty",
+            "location": {
+                "x": 361,
+                "y": 4563
+            },
+            "size": {
+                "height": 210,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UK ecosystem report 2022 event",
+            "location": {
+                "x": 691,
+                "y": 4563
+            },
+            "size": {
+                "height": 216,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 310,
+                "y": -22
+            },
+            "size": {
+                "height": 29,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 925,
+                "y": -18
+            },
+            "size": {
+                "height": 29,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            252,
+            207,
+            66
+        ],
+        [
+            51,
+            51,
+            51
+        ]
+    ],
+    "desc": "World's first collaborative platform fostering innovation via Food Tech data intelligence & corporate-startup collaboration.",
+    "navbar": "",
+    "text": "Skip to content\nHOME\nDATA & INSIGHTS\nSTARTUP NETWORK\nMORE\nCONTACT\nHomepage\nSign up to Forward Fooding’s news: never miss the latest Food Tech news & industry trends\nSIGN UP NOW\nSTARTUP NETWORK\nPOWERING THE FOOD TECH REVOLUTION\nFOOD TECH DATA |\nCONSULTING |\nThe Future of Food is Food Tech\nFood Innovation is changing. At Forward Fooding, we believe entrepreneurship, technology and collaboration are central to its revolution. \nOur goal is to help you navigate the global Food Tech landscape. That’s why we’re empowering you with data and insight, supporting you in redesigning the way you innovate, and providing access to our Global Startup Network of Food Tech Innovators. We’re here to help you in your journey to create a brighter future of food.\nWe believe our world needs food innovation that makes a difference, not only to consumers but to this planet. \nJoin us in powering the #FoodTechRevolution.\nOUR ECOSYSTEM\n0+\nECOSYSTEM ACTORS IN OUR DATABASE\n0+\nAPPLICATIONS RECEIVED FOR THE FOOD TECH 500\n0\nFOOD TECH INNOVATION HUBS ACROSS EUROPE\n0+\nMEMBERS OF OUR FOOD TECH INNOVATION HUBS\nOUR SERVICES\nFOOD TECH DATA\nBuild your understanding of the global Food Tech landscape with our fully customisable Food Tech Data Navigator, the world’s first Data Intelligence platform for the Agri Food Tech Ecosystem.\nLEARN MORE\nCONSULTING\n Our consultancy services help you identify the trends and innovators shaping the global Agri Food Tech landscape and connect you with the most relevant organisations for your business.\nLEARN MORE\nSTARTUP NETWORK\nWe use our global Food Tech startup network to make collaborations happen by connecting corporates, investors and accelerators to the most relevant companies.\nLEARN MORE\nTESTIMONIALS\n\"I approached Alessio to support EIT Food deliver our 2018 business idea competition. Forward Fooding helped to promote the competition among their network of food entrepreneurs. Moreover, they helped us organise the final pitch competition at their Food Innovation Hub in London. The result was a well-attended and engaging event for both the finalists pitching and the invited audience. I would recommend Forward Fooding to anyone who needs access to a fantastic European network of food tech innovators and start-ups.\"\nLukxmi Balathasan\nBusiness Creation Manager, EIT Food\n'We worked with Forward Fooding to organise a Discovery Mission for the Global M&A team of Nestlé. We were keen to get a better understanding of the latest Food and Food Tech developments from startups in Europe. Alessio and his team provided us with a comprehensive overview of the Food innovation landscape, and they connected us with very relevant entrepreneurs who presented their companies and shared their journeys with us. We would gladly re-engage with them in the future for further discovery activities.'\nDavid Serre\nDeputy Head Global M&A, Nestlé\n\n\n\n'Each year at EIT Food we work with many brilliant facilitators, however, Forward Fooding delivered by far one of the best workshops we’ve experienced. Their ability to engage an audience, tailor challenging content to a diverse audience, bring lessons to life in an interactive way whilst being approachable and fun is astounding. In my opinion, if you are looking for startup training in the Agrifood space, start with Forward Fooding’\nJoseph Gridley\nBusiness Development Manager, EIT Food\nCLIENTS & PARTNERS\nSEE ALL\nLATEST PUBLICATIONS\nBarcelona FoodTech Meetup recap on Food & Biotechnology: The future of nutrition\nBy Sol Ponteville|November 30th, 2022|Categories: FOODTECH TRENDS & INSIGHTS|Tags: Agrifoodtech, barcelona food innovation hub, Biotech, Foodtech\nOn 23rd Nov 2022, we hosted our last Meetup of the year in our Barcelona Food & FoodTech Innovation Hub, in partnership with Talent Garden. We brought together a mix of FoodTech startups, investors and experts to deep dive into Food & Biotechnology: The Future of nutrition. We enjoyed sharing, learning, and enabling meaningful connections between like-minded people working to make our Food System more sustainable.\nRead More\nVertical farming consolidation: the advantages and challenges\nBy Leonardo Paradisi|November 28th, 2022|Categories: FOODTECH TRENDS & INSIGHTS|Tags: Agrifoodtech, Agtech, Foodtech, indoor vertical farming, Vertical Farming, vertical farming startups\nThis wave of interest in Vertical/Indoor farming solutions could be attributed, albeit partially, to rising concern about climate change’s impacts on food production. Vertical farming is seen by many as a compelling alternative to traditional resource-intensive agriculture. Its sustainability promises, paired with the growing demand for shorter, more reliable supply chains, have contributed to the sector gaining traction over the years. \nRead More\nLondon FoodTech Meetup recap: The 2022 UK AgriFoodTech Ecosystem Report is out!\nBy Sol Ponteville|October 24th, 2022|Categories: FOODTECH TRENDS & INSIGHTS|Tags: Agrifoodtech, food tech trends report, Foodtech, FoodTech innovation hub, London\nOn 20th Oct 2022, we were pleased to host a buzzy #FoodTechMeetup at our London FoodTech Innovation Hub in partnership with Huckletree, for the launch of our latest report on the UK AgriFoodTech Ecosystem.\nRead More\nCONTACT US\nIf you have any questions or suggestions, we’d love to hear from you!\nOFFICES\nLONDON (UK hub): 191 Wood Lane, W12 7TP, London\nBARCELONA (SP hub): Carrer de Ramon Turró, 169A, 08005, Barcelona\nMILAN (ITA hub): Piazza Città di Lombardia, 1, 20124, Milan\nROME (Satellite office): Via Ostiense, 92, 00154, Rome\nSITEMAP\nABOUT US\nCONSULTING\nSTARTUP NETWORK\nFOOD TECH DATA\nTHE FOODTECH 500\nBLOG\nCASE STUDIES\nCONTACTS\nAll contents copyright 2015-2023 Ⓡ Forward Fooding Ltd. All rights reserved.",
+    "font": "Roboto",
+    "iframes": [
+        {
+            "title": "Form 0",
+            "src": "",
+            "location": {
+                "x": 30,
+                "y": 6077
+            },
+            "size": {
+                "height": 770,
+                "width": 949
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

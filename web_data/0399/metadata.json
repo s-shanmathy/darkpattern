@@ -1,0 +1,857 @@
+{
+    "title": "Africanews | Latest breaking news, daily news and African news from Africa",
+    "url": "africanews.com",
+    "full_url": "https://www.africanews.com/",
+    "images": [
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 404,
+                "y": 227
+            },
+            "size": {
+                "height": 28,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "share_on_your_website",
+            "location": {
+                "x": 921,
+                "y": 125
+            },
+            "size": {
+                "height": 18,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Qatar World Cup had 'best group stage ever', FIFA boss",
+            "location": {
+                "x": 0,
+                "y": 153
+            },
+            "size": {
+                "height": 409,
+                "width": 727
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Inside DRC's Kanyaruchinya camp where residents displaced by war try to survive",
+            "location": {
+                "x": 30,
+                "y": 740
+            },
+            "size": {
+                "height": 388,
+                "width": 689
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UN warns of \"catastrophic emergency\" in Somalia",
+            "location": {
+                "x": 38,
+                "y": 1270
+            },
+            "size": {
+                "height": 388,
+                "width": 689
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Africa’s 1st humanoid robot [Inspire Africa]",
+            "location": {
+                "x": -667,
+                "y": 1781
+            },
+            "size": {
+                "height": 391,
+                "width": 697
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Burkina: Mining sector affected by terrorism [Business Africa]",
+            "location": {
+                "x": 30,
+                "y": 1781
+            },
+            "size": {
+                "height": 391,
+                "width": 697
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Killing of Pakistani journalist in Kenya 'planned assassination' - Report",
+            "location": {
+                "x": 30,
+                "y": 2237
+            },
+            "size": {
+                "height": 137,
+                "width": 244
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Friction over LGBTQ issues worsens in global Anglican church",
+            "location": {
+                "x": 30,
+                "y": 2424
+            },
+            "size": {
+                "height": 137,
+                "width": 244
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fake soldier arrested in Ghana, attempting to access military installation ",
+            "location": {
+                "x": 30,
+                "y": 2611
+            },
+            "size": {
+                "height": 137,
+                "width": 244
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "South Africa: Anti-apartheid activist Chris Hani's killer released on parole",
+            "location": {
+                "x": 30,
+                "y": 2798
+            },
+            "size": {
+                "height": 137,
+                "width": 244
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tigray capital reconnected to Ethiopia power grid after year-long blackout",
+            "location": {
+                "x": 35,
+                "y": 3145
+            },
+            "size": {
+                "height": 386,
+                "width": 687
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "This is why Tanzania has cancelled Independence Day celebrations",
+            "location": {
+                "x": 35,
+                "y": 3646
+            },
+            "size": {
+                "height": 386,
+                "width": 687
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Samuel Eto'o issues apology for 'violent altercation' on YouTuber during World Cup",
+            "location": {
+                "x": 35,
+                "y": 4147
+            },
+            "size": {
+                "height": 386,
+                "width": 687
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "What next for African champ Senegal after World Cup exit?",
+            "location": {
+                "x": 35,
+                "y": 4648
+            },
+            "size": {
+                "height": 386,
+                "width": 687
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mozambican court sends son of former president to prison",
+            "location": {
+                "x": 0,
+                "y": 5225
+            },
+            "size": {
+                "height": 409,
+                "width": 727
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A film about police brutality opens in France",
+            "location": {
+                "x": 30,
+                "y": 5872
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "East DRC: Hunger and cholera threaten displaced people in camps",
+            "location": {
+                "x": 30,
+                "y": 6016
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "\"Attempted coup in Sao Tome: Prime Minister speaks of \"extrajudicial executions\"",
+            "location": {
+                "x": 30,
+                "y": 6160
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pics of the day: September 23, 2022",
+            "location": {
+                "x": 35,
+                "y": 6440
+            },
+            "size": {
+                "height": 386,
+                "width": 687
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pics of the day: September 14, 2022",
+            "location": {
+                "x": 35,
+                "y": 6941
+            },
+            "size": {
+                "height": 386,
+                "width": 687
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pics of the day: September 7, 2022",
+            "location": {
+                "x": 35,
+                "y": 7442
+            },
+            "size": {
+                "height": 386,
+                "width": 687
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pics of the day: September 6, 2022",
+            "location": {
+                "x": 35,
+                "y": 7944
+            },
+            "size": {
+                "height": 386,
+                "width": 687
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Business booming as halal sector valued over $2 trillion",
+            "location": {
+                "x": 0,
+                "y": 8520
+            },
+            "size": {
+                "height": 409,
+                "width": 727
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oil: Libya invites foreign companies to resume exploration and production",
+            "location": {
+                "x": 30,
+                "y": 9167
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ghana to swap local debt in fight to regain economic stability",
+            "location": {
+                "x": 30,
+                "y": 9311
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Growth of 5.7% in West African Economic and Monetary Union in 2022",
+            "location": {
+                "x": 30,
+                "y": 9455
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tunisia mourners clash with police after young man's death",
+            "location": {
+                "x": -194,
+                "y": 9802
+            },
+            "size": {
+                "height": 209,
+                "width": 373
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rockets strike mayor's office in separatist Donetsk",
+            "location": {
+                "x": 189,
+                "y": 9802
+            },
+            "size": {
+                "height": 209,
+                "width": 373
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Zombie enthusiasts drag their feet across Santiago",
+            "location": {
+                "x": 573,
+                "y": 9802
+            },
+            "size": {
+                "height": 209,
+                "width": 373
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "  World Cup: Moroccan players pose with Palestinian flag",
+            "location": {
+                "x": 0,
+                "y": 10107
+            },
+            "size": {
+                "height": 409,
+                "width": 727
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Moroccans celebrate 'historic' World Cup win over Spain",
+            "location": {
+                "x": 30,
+                "y": 10754
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "World cup: Morocco beat Spain in penalties to reach Quarter finals, the first time ever",
+            "location": {
+                "x": 30,
+                "y": 10898
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Samuel Eto'o knees YouTuber in viral World Cup video",
+            "location": {
+                "x": 30,
+                "y": 11042
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dakar Fashion Week marks 20 years of style",
+            "location": {
+                "x": 0,
+                "y": 11297
+            },
+            "size": {
+                "height": 409,
+                "width": 727
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Thousands gather for Africa's largest religious concert in Lagos",
+            "location": {
+                "x": 30,
+                "y": 11903
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rwandan film festival to honour African filmmakers",
+            "location": {
+                "x": 30,
+                "y": 12047
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kenyan group 'Black Blues Brothers' thrill pope, audience at St Peters square",
+            "location": {
+                "x": 30,
+                "y": 12191
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lowering prosthetic costs through 3D technology",
+            "location": {
+                "x": 0,
+                "y": 12446
+            },
+            "size": {
+                "height": 409,
+                "width": 727
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Five big tech companies that have embarked on massive layoffs in 2022",
+            "location": {
+                "x": 30,
+                "y": 13068
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ivorian researcher awarded for her research to protect yams",
+            "location": {
+                "x": 30,
+                "y": 13212
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NASA rocket transports first ever Zimbabwean and Ugandan satellites into space",
+            "location": {
+                "x": 30,
+                "y": 13356
+            },
+            "size": {
+                "height": 94,
+                "width": 167
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search ...",
+            "type": "text",
+            "location": {
+                "x": 947,
+                "y": 81
+            },
+            "size": {
+                "height": 30,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search ...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            246,
+            246,
+            246
+        ],
+        [
+            213,
+            213,
+            213
+        ]
+    ],
+    "desc": "Find out all about latest breaking news, daily news and hot news in Africa. African politics, African business, African sports, health and technology on, also available on VOD africanews.com",
+    "navbar": "",
+    "text": "Continue without agreeing →\nWe and our partners store and access non-sensitive information from your device, like cookies, and process personal data like IP addresses, for data processing like displaying personalized ads, measuring preferences of our visitors... You can change your preferences at any time in our Cookie Policy.\nSome partners do not ask for your consent to process your data and rely on their legitimate interest. You can object to it by clicking on “Learn More”.\nWe and our partners do the following data processing:\nMeasure audience, Personalised ads and content, ad and content measurement, audience insights and product development, Precise geolocation data, and identification through device scanning, Storage and access to geolocation information for targeted advertising purposes, Storage and access to geolocation information to carry out marketing studies, Store and/or access information on a device\nView our partners\nLearn More →\nAgree and close\nSkip to main content\n\">.st0{opacity:0.8;fill:url(#SVGID_1_);} .st1{opacity:0.55;fill:url(#SVGID_2_);} .st2{opacity:0.55;fill:url(#SVGID_3_);} .st3{opacity:0.55;fill:url(#SVGID_4_);} .st4{opacity:0.55;fill:url(#SVGID_5_);} .st5{opacity:0.5;fill:url(#SVGID_6_);} .st6{opacity:0.55;fill:url(#SVGID_7_);} .st7{fill:#EC008C;} .st8{fill:url(#SVGID_8_);} \n                                            \nEN\n    FR\nJoin us\nNEWS BUSINESS SPORT CULTURE SCIENCE & TECHNOLOGY NO COMMENT PROGRAMMES CORONAVIRUS\nLIVE\nJUST IN\nDecember 7, 2022\n21:35\nMozambican court sends son of former president to prison\n19:34\nInside DRC's Kanyaruchinya camp where residents displaced by war try to survive\n18:53\nA film about police brutality opens in France\nADVERTISING\n17:55\nFake soldier arrested in Ghana, attempting to access military installation\n17:49\nEast DRC: Hunger and cholera threaten displaced people in camps\n17:36\nUN warns of \"catastrophic emergency\" in Somalia\n17:12\n\"Attempted coup in Sao Tome: Prime Minister speaks of \"extrajudicial executions\"\n16:51\nFriction over LGBTQ issues worsens in global Anglican church\n15:48\nQatar World Cup had 'best group stage ever', FIFA boss\n15:41\nSouth Sudan's ruling party backs president for another run\n15:31\nKilling of Pakistani journalist in Kenya 'planned assassination' - Report\n15:13\nIn Marseille, a vast retrospective celebrates the feminism of Ghada Amer\n15:04\nDrought kills hundreds of animals in Kenya's national park\nADVERTISING\nVIEW MORE\nTOP STORIES\n01:58\nRelated Stories\nWorld cup: Morocco beat Spain in penalties to reach Quarter finals,...\nWorld Cup volunteers honoured on special day\nMassive celebrations in Douala after Cameroon win against Brazil\nQATAR\nQatar World Cup had 'best group stage ever', FIFA boss\n6 hours ago\n01:47\nDEMOCRATIC REPUBLIC OF CONGO\nInside DRC's Kanyaruchinya camp where residents displaced by war try to survive\n2 hours ago\n01:42\nSOMALIA\nUN warns of \"catastrophic emergency\" in Somalia\n4 hours ago\n00:20\nFEATURED\n10:35\nBurkina: Mining sector affected by terrorism [Business Africa]\n1234\nKENYA\nKilling of Pakistani journalist in Kenya 'planned assassination' - Report\n6 hours ago\nLGBTİ+\nFriction over LGBTQ issues worsens in global Anglican church\n5 hours ago\nGHANA\nFake soldier arrested in Ghana, attempting to access military installation\n4 hours ago\n01:17\nSOUTH AFRICA\nSouth Africa: Anti-apartheid activist Chris Hani's killer released on parole\n5 hours ago\nEDITOR'S CHOICE\nETHIOPIA\nTigray capital reconnected to Ethiopia power grid after year-long blackout\nTANZANIA\nThis is why Tanzania has cancelled Independence Day celebrations\nQATAR\nSamuel Eto'o issues apology for 'violent altercation' on YouTuber during ...\nQATAR\nWhat next for African champ Senegal after World Cup exit?\nNEWS\n00:59\nMOZAMBIQUE\nMozambican court sends son of former president to prison\nArmando Ndambi Guebuza was one of 19 defendants involved in the hidden debt scandal; the judge sentenced 11 defendants to prison and acquitted ...\n28 minutes ago\n02:19\nFRANCE\nA film about police brutality opens in France\n3 hours ago\n01:37\nDRC CRISIS\nEast DRC: Hunger and cholera threaten displaced people in camps\n4 hours ago\nSÃO TOMÉ AND PRÍNCIPE\n\"Attempted coup in Sao Tome: Prime Minister speaks of \"extrajudicial executions\"\n4 hours ago\nMORE IN NEWS\nPICS OF THE DAY\n01:02\nWORLD TOUR\nPics of the day: September 23, 2022\n01:02\nWORLD TOUR\nPics of the day: September 14, 2022\n01:02\nWORLD TOUR\nPics of the day: September 7, 2022\n01:02\nWORLD TOUR\nPics of the day: September 6, 2022\nBUSINESS\nMARKETS\n02:15\nUNITED KINGDOM\nBusiness booming as halal sector valued over $2 trillion\nBusiness is booming in halal-related industries with the global sector valued at over $2 trillion USD by one market research firm. A recent London ...\n9 hours ago\nLIBYA\nOil: Libya invites foreign companies to resume exploration and production\n06/12 - 13:08\n01:34\nGHANA\nGhana to swap local debt in fight to regain economic stability\n06/12 - 11:31\n01:08\nIVORY COAST\nGrowth of 5.7% in West African Economic and Monetary Union in 2022\n06/12 - 07:18\nMORE IN BUSINESS\nNO COMMENT\nAn Africanews channel that delivers facts without any opinion or bias, so that the viewers can form their own opinions on world events.\nTunisia mourners clash with police after young man's death\n02:00\nRockets strike mayor's office in separatist Donetsk\n16/10 - 20:38\n01:00\nZombie enthusiasts drag their feet across Santiago\n16/10 - 18:30\n123456\nSPORT\nFIXTURES & RESULTS\nQATAR\nWorld Cup: Moroccan players pose with Palestinian flag\nA Palestinian flag was carried onto the field by Moroccan players after they qualified for the quarterfinals of the 2022 World Cup at the expense ...\n9 hours ago\n01:47\nMOROCCO\nMoroccans celebrate 'historic' World Cup win over Spain\n11 hours ago\n01:00\nQATAR\nWorld cup: Morocco beat Spain in penalties to reach Quarter finals, the first time ever\n23 hours ago\nQATAR\nSamuel Eto'o knees YouTuber in viral World Cup video\n06/12 - 15:59\nMORE IN SPORT\nCULTURE\n02:20\nSENEGAL\nDakar Fashion Week marks 20 years of style\nThis year's event in Senegal was held at an historic island once associated with the slave trade\n05/12 - 10:47\n02:31\nNIGERIA\nThousands gather for Africa's largest religious concert in Lagos\n05/12 - 11:27\n01:43\nRWANDA\nRwandan film festival to honour African filmmakers\n05/12 - 11:20\n00:45\nKENYA\nKenyan group 'Black Blues Brothers' thrill pope, audience at St Peters square\n30/11 - 15:48\nMORE IN CULTURE\nSCIENCE & TECHNOLOGY\n02:39\nSOUTH AFRICA\nLowering prosthetic costs through 3D technology\nIn South Africa, amputee care is a service most cannot afford. Prosthetics can cost anything from 20 000 US dollars to 100 000 US dollars.\n25/11 - 12:53\nJOB LOSS\nFive big tech companies that have embarked on massive layoffs in 2022\n17/11 - 13:10\n02:05\nIVORY COAST\nIvorian researcher awarded for her research to protect yams\n11/11 - 15:16\n00:25\nUSA\nNASA rocket transports first ever Zimbabwean and Ugandan satellites into space\n08/11 - 16:50\nMORE IN SCIENCE-TECHNOLOGY\n\">.st0{opacity:0.8;fill:url(#SVGID_1_);} .st1{opacity:0.55;fill:url(#SVGID_2_);} .st2{opacity:0.55;fill:url(#SVGID_3_);} .st3{opacity:0.55;fill:url(#SVGID_4_);} .st4{opacity:0.55;fill:url(#SVGID_5_);} .st5{opacity:0.5;fill:url(#SVGID_6_);} .st6{opacity:0.55;fill:url(#SVGID_7_);} .st7{fill:#EC008C;} .st8{fill:url(#SVGID_8_);}\nSocial Channels\nAbout Africanews\nTerms and Conditions\nContacts\nCookie policy\nDistribution\nAdvertising\nJobs\nApps\nWidgets\nEuronews\nWednesday 07/12/2022\n                                            English\n    French",
+    "font": "\"Open Sans\", sans-serif",
+    "buttons": [
+        {
+            "text": "Learn More →",
+            "bg-color": "rgba(238, 238, 238, 1)",
+            "location": {
+                "x": 300,
+                "y": 628
+            },
+            "size": {
+                "height": 40,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Agree and close",
+            "bg-color": "rgba(249, 215, 19, 1)",
+            "location": {
+                "x": 510,
+                "y": 628
+            },
+            "size": {
+                "height": 40,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 175, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(208, 2, 27, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "VIEW MORE",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 806,
+                "y": 1480
+            },
+            "size": {
+                "height": 56,
+                "width": 153
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

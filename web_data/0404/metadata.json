@@ -1,0 +1,898 @@
+{
+    "title": "Public Lands Interpretive Association",
+    "url": "publiclands.org",
+    "full_url": "https://publiclands.org/",
+    "images": [
+        {
+            "alt": "Public Lands Interpretive Association",
+            "location": {
+                "x": 64,
+                "y": 32
+            },
+            "size": {
+                "height": 108,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "El Malpais Community Art Program Celebration: A free afternoon of art and exploration at the El Malpais National Conservation Area. Join local artists and guest speakers for artistic and historic interpretations of land use, stewardship, and El Malpais itself. Presented by the Public Lands Interpretive Association and New Mexico Bureau of Land Management. El Malpais BLM Ranger Station, NM 117, 9 Miles South of I-40 Near Grants. December 10th, 1-3PM.",
+            "location": {
+                "x": 48,
+                "y": 188
+            },
+            "size": {
+                "height": 228,
+                "width": 913
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Assorted maps, including Forest Service, Bureau of Land Management, trail, and recreation maps.",
+            "location": {
+                "x": 32,
+                "y": 846
+            },
+            "size": {
+                "height": 473,
+                "width": 473
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": -284,
+                "y": 562
+            },
+            "size": {
+                "height": 37,
+                "width": 191
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter email",
+            "type": "email",
+            "location": {
+                "x": 254,
+                "y": 2567
+            },
+            "size": {
+                "height": 37,
+                "width": 377
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter email",
+            "type": "email",
+            "location": {
+                "x": 254,
+                "y": 2899
+            },
+            "size": {
+                "height": 37,
+                "width": 377
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            238,
+            236,
+            244
+        ],
+        [
+            248,
+            249,
+            250
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "The Public Lands Interpretive Association inspires and educates the public about the natural and cultural heritage resources of America’s public lands. Your purchases support projects on public lands. Your dollars will directly enhance your experience and help preserve these special places for future generations.",
+    "navbar": "",
+    "text": "Skip to content\n\n\nMenu\n0\nMore Info\n1234\nWe partner with land management agencies to offer educational products and services to public lands visitors. In addition to our interpretive programs, we operate campgrounds in the Kaibab National Forest and provide visitor information at the Public Lands Information Center in Santa Fe, NM.\nPublic Lands Maps of the West\nWe carry a wide selection of public lands books, guides, gifts, and maps to enhance your experience with your public lands. You'll find Bureau of Land Management, Forest Service, and recreation maps to plan your next public lands adventure.\nShop Now\nWhat We Do\nLearn More\nSupport and Protect Public Lands\nShop\nWe offer books, guides, and tons of educational gifts designed to inspire a love for the outdoors and to encourage the exploration and multi-use of our public lands.\n\nBookstores\n\nNew Mexico Events\n\nCampgrounds\n\nPrograms\n\nSign up for store emails!\nReceive special offers and new product notices.\nSubscribe\nSign up for our newsletter!\nReceive monthly updates on activites at PLIA and public lands in the Southwest.\nSubscribe\n\n\n© 2022 Public Lands Interpretive Association\nContact Us\nE-mail\nPhone: (505) 345 - 9498\nPublic Lands Interpretive Association\n6501 Fourth Street NW, Suite I\nAlbuquerque, NM 87107\nThe Public Lands Interpretive Association (PLIA) inspires and educates the public about the natural and cultural heritage resources of America’s public lands. PLIA is a 501 c(3) nonprofit that supports public lands through education and service.\nExplore Your Public Lands\nBuy Public Lands Maps\nPublic Lands Recreation Map\nAnnual Reports\nEmployment Opportunities",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, Ubuntu, \"Helvetica Neue\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    "iframes": [
+        {
+            "title": "Tidio Chat code",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Menu",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 384,
+                "y": 40
+            },
+            "size": {
+                "height": 92,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 807,
+                "y": 83
+            },
+            "size": {
+                "height": 45,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 855,
+                "y": 83
+            },
+            "size": {
+                "height": 45,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -75,
+                "y": 64
+            },
+            "size": {
+                "height": 61,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -75,
+                "y": 125
+            },
+            "size": {
+                "height": 61,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -75,
+                "y": 187
+            },
+            "size": {
+                "height": 61,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -75,
+                "y": 248
+            },
+            "size": {
+                "height": 61,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -75,
+                "y": 310
+            },
+            "size": {
+                "height": 61,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -75,
+                "y": 310
+            },
+            "size": {
+                "height": 61,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -77,
+                "y": 562
+            },
+            "size": {
+                "height": 37,
+                "width": 46
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -79,
+                "y": 0
+            },
+            "size": {
+                "height": 66,
+                "width": 64
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1251,
+                "y": 28
+            },
+            "size": {
+                "height": 66,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 48,
+                "y": 470
+            },
+            "size": {
+                "height": 32,
+                "width": 22
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 78,
+                "y": 470
+            },
+            "size": {
+                "height": 30,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 111,
+                "y": 470
+            },
+            "size": {
+                "height": 30,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "4",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 143,
+                "y": 470
+            },
+            "size": {
+                "height": 30,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 903,
+                "y": 475
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 938,
+                "y": 475
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Subscribe",
+            "bg-color": "rgba(244, 174, 0, 1)",
+            "location": {
+                "x": 648,
+                "y": 2567
+            },
+            "size": {
+                "height": 37,
+                "width": 107
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Subscribe",
+            "bg-color": "rgba(244, 174, 0, 1)",
+            "location": {
+                "x": 648,
+                "y": 2899
+            },
+            "size": {
+                "height": 37,
+                "width": 107
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

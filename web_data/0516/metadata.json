@@ -1,0 +1,697 @@
+{
+    "title": "Lyft: A ride whenever you need one",
+    "url": "lyft.com",
+    "full_url": "https://www.lyft.com/",
+    "images": [
+        {
+            "alt": "rider and driver in mask in a lyft ride",
+            "location": {
+                "x": 24,
+                "y": 145
+            },
+            "size": {
+                "height": 311,
+                "width": 554
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "driver for Lyft ",
+            "location": {
+                "x": 594,
+                "y": 629
+            },
+            "size": {
+                "height": 351,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Female driver in front seat looking back",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Mary drives with Lyft",
+            "location": {
+                "x": 160,
+                "y": 1185
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Harold drives with Lyft",
+            "location": {
+                "x": 464,
+                "y": 1169
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Christine drives with Lyft.",
+            "location": {
+                "x": 801,
+                "y": 1185
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rider screen app",
+            "location": {
+                "x": 594,
+                "y": 1893
+            },
+            "size": {
+                "height": 400,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rider screen app",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Lyft Pink Awareness > Mobile Imag",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Wait & Save car illustration ",
+            "location": {
+                "x": 184,
+                "y": 3385
+            },
+            "size": {
+                "height": 96,
+                "width": 122
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "An illustration of a Lyft Shared ride with two riders.",
+            "location": {
+                "x": 472,
+                "y": 3385
+            },
+            "size": {
+                "height": 96,
+                "width": 122
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lyft illustration of a car with an Amp in the windshield.",
+            "location": {
+                "x": 760,
+                "y": 3385
+            },
+            "size": {
+                "height": 96,
+                "width": 122
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lyft Up Optimized Image",
+            "location": {
+                "x": 105,
+                "y": 4469
+            },
+            "size": {
+                "height": 263,
+                "width": 798
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pink Paint > Test > LyftUp Pink Logo",
+            "location": {
+                "x": 429,
+                "y": 5139
+            },
+            "size": {
+                "height": 27,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 55,
+                "y": 12
+            },
+            "size": {
+                "height": 56,
+                "width": 330
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 350,
+                "y": 3787
+            },
+            "size": {
+                "height": 56,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 594,
+                "y": 3787
+            },
+            "size": {
+                "height": 56,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            244,
+            244,
+            250
+        ],
+        [
+            10,
+            12,
+            48
+        ]
+    ],
+    "desc": "Rideshare with Lyft. Lyft is your friend with a car, whenever you need one. Download the app and get a ride from a friendly driver within minutes.",
+    "text": "Lyft Logo\nWhere are you going?\nDRIVER\nRIDER\nBUSINESS\nLOG IN\nSIGN UP\nLet’s ride\nApply to drive\nSign up to ride\nDRIVE WITH LYFT\nSet your own hours. Earn on your own terms.\nReliable earnings:\nMake money, keep your tips, and cash out when you want.\nA flexible schedule:\nBe your own boss and drive whenever it works for you.\nGet paid instantly:\nCash out your earnings whenever you want.\nApply to drive\nHow driver pay works\n\n\n\n“My motto is very simple. It doesn't cost you a penny to be nice and kind, but it will cost you everything if you're not. If I'm free and somebody needs my help, I'll be the first one to jump in, in a heartbeat.”\n— Mary\nDriving with Lyft since 2019\n“As a student, it’s hard to complete my class work around a schedule. I started driving more with Lyft and realized it was the perfect opportunity to make money and work on my own time! Driving with Lyft gives me freedom in my schedule to focus on school, which is my main priority.”\n— Harold\nDriving with Lyft since 2020\n“I'm a disabled Marine Corps veteran, and because of my disability, I'm no longer able to work in a structured environment. The few hours a week that I drive connects me to my community and gives me extra money to help make ends meet.”\n— Christine\nDriving with Lyft since 2016\n\n\n\n\nRIDE WITH LYFT\nReady, set, go\nin just a few quick taps\nNo matter your destination, we’ll get you where you need to go\nGet a reliable ride in minutes\nKnow that your driver is wearing a mask\nSchedule your ride in advance\nGet a ride\nLearn more about riding with Lyft\nWe’re rolling out the red carpet\nJoin the new Lyft Pink to enjoy complimentary upgrades to Priority Pickup, exclusive savings, and preferential pricing on Lux, XL, and Preferred rides. Members save an average of $29/month.\nFree Priority Pickup upgrades\nGet picked up faster and save $3-4 per ride on average\nExclusive savings\nEnjoy 5% off on Lux, XL, and Preferred rides\nCancellation forgiveness\nCancel up to 3x/month for free\nFree Grubhub+ for a year\n$0 restaurant delivery fees\nGet your 1st month free\nSubject to the Lyft Pink Terms & Conditions and Lyft Terms of Service.\nRide. Bike. Scoot. Go bananas.\nWe’ve got options to get you where you’re going. Choose a ride* that suits your mood and budget.\nWait & Save\nBudget-friendly\nPrivate\nShared\nBudget-friendly\nShared\nLyft\nEfficient\nPrivate\n\n\n\n\n\n\n\n*Availability of bikes, scooters, rentals, ride types, and transit information varies by region.\nReady to roll?\nGet an estimate.\nEnter pick-up location*\nEnter drop-off location*\nGet estimate\nSAFETY FIRST\nYour safety comes first. Always.\nWe look out for you before, during, and after every single ride. And we monitor rides to help you get where you need to go. If you ever need it, we’re standing by, ready to help.\nLearn about safety\nCommunity guidelines\n\n\n\nMaking millions of rides more accessible\nA ride is more than just a ride. It's a gateway to opportunities and jobs. A connection to community. And access to essentials like groceries, healthcare, and polling places. Our Lyft Up initiative makes rides more accessible for millions, and helps bring communities even closer.\nLearn about our Lyft Up programs\nWe help move\ncustomers\nFrom affordable transportation solutions to effortless expensing, we’ll help drive your business forward by\ngetting your people where they need to go.\nLearn more\nDRIVER\nBecome a Driver\nEarnings\nCities\nHelp\nSafety\nApplication Requirements\nExpress Drive\nBonus\nLyft Rewards\nDriving Opportunities\nInsurance\nDriver Blog\nRIDER\nSign up to ride\nFare Estimate\nLyft Pink\nCities\nHelp\nSafety\nBusiness Profile\nRewards\nEvents\nAirports\nGift Cards\nDonate\nBlog\nLYFT\nCareers\nLyft Up\nBusiness\nHealthcare\nDelivery\nRentals\nBikes\nScooters\nSelf-Driving\nLyft Media\nDevelopers\nPress\nInvestor Relations\nLyft driver app\nLyft rider app\nRide on web\nTerms\nPrivacy\nAccessibility Statement\n© 2022 Lyft, Inc.\nCPUC ID No. TCP0032513-P",
+    "font": "ProximaNova, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 357,
+                "y": 40
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 420,
+                "y": 1679
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(12, 11, 49, 1)",
+            "location": {
+                "x": 476,
+                "y": 1696
+            },
+            "size": {
+                "height": 8,
+                "width": 8
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 492,
+                "y": 1696
+            },
+            "size": {
+                "height": 8,
+                "width": 8
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 508,
+                "y": 1696
+            },
+            "size": {
+                "height": 8,
+                "width": 8
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 524,
+                "y": 1696
+            },
+            "size": {
+                "height": 8,
+                "width": 8
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 556,
+                "y": 1679
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 129,
+                "y": 3203
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(82, 59, 228, 1)",
+            "location": {
+                "x": 225,
+                "y": 3203
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 550,
+                "y": 3815
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 794,
+                "y": 3815
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Get estimate",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 838,
+                "y": 3787
+            },
+            "size": {
+                "height": 48,
+                "width": 142
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 464,
+                "y": 5622
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 528,
+                "y": 5606
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 105,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 105,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 105,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,570 @@
+{
+    "title": "Marquette University // Be The Difference",
+    "url": "marquette.edu",
+    "full_url": "https://www.marquette.edu/",
+    "images": [
+        {
+            "alt": "Menu",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Marquette University logo",
+            "location": {
+                "x": 20,
+                "y": 6
+            },
+            "size": {
+                "height": 69,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "My Marquette",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Community Service",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Student looking through archives",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cover of DISCOVER research",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Men's basketball",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Outline of a diploma and graduation cap",
+            "location": {
+                "x": 145,
+                "y": 951
+            },
+            "size": {
+                "height": 144,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "U.S. Nation Icon",
+            "location": {
+                "x": 430,
+                "y": 951
+            },
+            "size": {
+                "height": 144,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wisconsin map icon",
+            "location": {
+                "x": 714,
+                "y": 951
+            },
+            "size": {
+                "height": 144,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A student at a desk wearing headphones, wrtiting on a notebook with a pen.",
+            "location": {
+                "x": 36,
+                "y": 1782
+            },
+            "size": {
+                "height": 163,
+                "width": 291
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A group of older students sitting around a table laughing and talking.",
+            "location": {
+                "x": 359,
+                "y": 1782
+            },
+            "size": {
+                "height": 163,
+                "width": 291
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A student on a computer in the background, a computer screen with lines of code in the foreground.",
+            "location": {
+                "x": 682,
+                "y": 1782
+            },
+            "size": {
+                "height": 163,
+                "width": 291
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A male and female student working with a medical dummy in a hospital bed.",
+            "location": {
+                "x": 36,
+                "y": 2145
+            },
+            "size": {
+                "height": 163,
+                "width": 291
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Students gathered around a podium listening to a law professor speak.",
+            "location": {
+                "x": 359,
+                "y": 2145
+            },
+            "size": {
+                "height": 163,
+                "width": 291
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "An older male and female graduate student talking.",
+            "location": {
+                "x": 682,
+                "y": 2145
+            },
+            "size": {
+                "height": 163,
+                "width": 291
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The main entrance to Marquette's new Business facility at 16th and Wisconsin. Renderings courtesy of BNIM.",
+            "location": {
+                "x": 80,
+                "y": 5335
+            },
+            "size": {
+                "height": 480,
+                "width": 752
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NIH grants graphic",
+            "location": {
+                "x": 917,
+                "y": 5335
+            },
+            "size": {
+                "height": 480,
+                "width": 752
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MKE Proud since 1881",
+            "location": {
+                "x": 486,
+                "y": 7223
+            },
+            "size": {
+                "height": 180,
+                "width": 400
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marquette University logo",
+            "location": {
+                "x": 10,
+                "y": 8181
+            },
+            "size": {
+                "height": 69,
+                "width": 176
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            19,
+            51,
+            81
+        ],
+        [
+            255,
+            203,
+            74
+        ]
+    ],
+    "navbar": "ADMISSIONS",
+    "text": "SEARCH // A-Z INDEX // GIVE TO MARQUETTE\n\nADMISSIONS\nACADEMICS\nABOUT\nLIBRARIES\n\n\n\nRESEARCH\n\nATHLETICS\nALUMNI\nYOUR JOURNEY BEGINS HERE.\nSTART YOUR APPLICATION TOUR CAMPUS REQUEST MORE INFO\n  A Marquette education prepares students to Be The Difference.\nTop 100 America’s\nBest Colleges\n— U.S. News & World Report\nNo. 6 in the nation\nfor job placement\n— Zippia, U.S. Department of Education data\nA Catholic, Jesuit\nuniversity\nin the heart of Milwaukee, Wisconsin.\nHere since 1881\nWhen you come to Marquette, you’ll be challenged to push your boundaries, to lead and to serve, to open your heart and to hone your mind.\nUNDERGRADUATE\n75+ majors and 80+ minors\nEXPLORE OUR MAJORS AND MINORS\nGRADUATE\n90+ certificate, master’s and doctoral degree programs\nDISCOVER OUR GRADUATE PROGRAMS\nONLINE\nOnline undergraduate and graduate programs\nCONNECT WITH ONLINE LEARNING\nProfessional Programs in Health\n9 programs in professional health\nEXAMINE OUR PROFESSIONAL HEALTH PROGRAMS\nLAW\n17 practice areas\nINVESTIGATE OUR LAW PROGRAMS AND DEGREES\nGraduate Business Degrees\nNationally ranked MBA programs\nREVIEW OUR WORLD-CLASS MASTER'S PROGRAMS\n\n\nBest Value\nin Private Colleges\n13:1\nstudent-to-faculty ratio\n#12\nBest Schools for Internships\n(private universities)\nWhen you leave, you’ll be ready to change the world.\nWE ARE\nMARQUETTE\n80% of our students participate in service\nInternational students from 70 countries\n1,857 first-generation undergraduate students\n115,000 alumni around the world and growing\nWhat happens after graduation?\n91%\nof our alumni are\nemployed\nfull time or in graduate school\n1 year after graduation.\n\n— Undergraduate Alumni Survey 2017\n97%\nof students with\nfull-time employment\nsaid their job was\nrelated to their career goals.\n\n— Undergraduate First Destination Survey 2021\n96%\nof our alumni are\nemployed\nfull time\n10 years after graduation.\n\n— Zippia, U.S. Dept. of Education data\nBIZTIMES NOTABLE ALUMNI\nA conversation with alumna Kareeda Chones-Aguam, Senior Vice President of Partner Strategy and Management, Milwaukee Bucks and Fiserv Forum, Comm ’98, about being a Notable Alumni and how Marquette shaped her life and career.\n\nREAD KAREEDA’S STORY\nLevantar trofeos: historia de resiliencia de un exalumno de Marquette\nAhora trabajando para los Milwaukee Bucks, Francisco Manzano-Aréchiga, quién se graduó de Marquette en el 2019, reflexiona sobre su trayectoria hasta el momento.\nLEER LA HISTORIA DE FRANCISCO\nAs women and men for and with others, Marquette alumni are leaders in life who lift those around them.\nADD THIS YEAR’S PEWTER MARQUETTE ORNAMENT TO YOUR COLLECTION\nMAKE A GIFT BY DEC. 31 TO QUALIFY\nRESEARCH, SCHOLARSHIP AND INNOVATION\nNational recognition. Generous support. Expanded research impact.\nBUSINESS + INNOVATION\nIntroducing the new home for Marquette Business and Innovation Leadership Programs.\nREAD ABOUT THE NEW STATE-OF-THE-ART FACILITY\nEXTENDED REACH\nFaculty win more top-tier NIH grants as Marquette launches initiatives to help them achieve at this level.\nREAD ABOUT NIH GRANTS\nBeyond the classroom: Community engagement and corporate partnerships.\n$15.5 million\nThe dollar amount of donated dental services that Marquette dentistry students provide annually to more than 17,000 patients through our Milwaukee clinics.\n85+\nNonprofit organizations/schools in the greater Milwaukee area that have benefited from 168,000 hours of service provided by Burke Scholars since the program began 25 years ago.\n$40 million\nCombined investment by Northwestern Mutual, Marquette University and the University of Wisconsin-Milwaukee to create Northwestern Mutual Data Science Institute.\nSCALING WELLNESS IN MILWAUKEE\nThis collaboration within the human services, health care, educational and criminal justice sectors that is bringing Wisconsin to the forefront of the trauma-informed care movement.\nREAD ABOUT SWIM\nTHE PRESIDENT'S CHALLENGE\nDeveloped in partnership with the Johnson Controls Foundation, this initiative provides a $250,000, two-year grant for a proposal that seeks to change the trajectory of lives in our community.\nREAD ABOUT THE CHALLENGE\nLand in Milwaukee.\nSee the world.\nMore than 8,500 undergraduate students and 3,300 graduate and professional students come to Marquette from nearly every state and 70 countries. Our neighborhoods are loaded with ethnic restaurants, festivals and markets, cultural centers and dance clubs, churches, mosques and temples, and more — places where we go global.\nTHERE’S ONLY ONE WAY TO GET HERE.\nAPPLY TODAY\nLOCATION\nMarquette University\n1250 W. Wisconsin Ave.\nMilwaukee, WI 53233\nPhone: (800) 222-6544\nKEY RESOURCES\nespañol\nCareers\nCampus map\nCampus contacts\nContact us\nSearch marquette.edu\nCOVID-19 Information\neMarq\nCheckMarq\nD2L\nMyJob\nUniversity safety\nMARQUETTE A TO Z\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\n\nPrivacy Policy Legal Disclaimer Non-Discrimination Policy Accessible Technology\n© 2022 Marquette University",
+    "font": "Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "READ KAREEDA’S STORY",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 112,
+                "y": 4649
+            },
+            "size": {
+                "height": 28,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "LEER LA HISTORIA DE FRANCISCO",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 536,
+                "y": 4649
+            },
+            "size": {
+                "height": 28,
+                "width": 244
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "MAKE A GIFT BY DEC. 31 TO QUALIFY",
+            "bg-color": "rgba(32, 104, 212, 1)",
+            "location": {
+                "x": 342,
+                "y": 5065
+            },
+            "size": {
+                "height": 28,
+                "width": 324
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "READ ABOUT THE NEW STATE-OF-THE-ART FACILITY",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 96,
+                "y": 5771
+            },
+            "size": {
+                "height": 28,
+                "width": 390
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "READ ABOUT NIH GRANTS",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 933,
+                "y": 5771
+            },
+            "size": {
+                "height": 28,
+                "width": 235
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 1770,
+                "y": 5771
+            },
+            "size": {
+                "height": 28,
+                "width": 237
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 2608,
+                "y": 5771
+            },
+            "size": {
+                "height": 28,
+                "width": 339
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 3445,
+                "y": 5771
+            },
+            "size": {
+                "height": 28,
+                "width": 251
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 4282,
+                "y": 5771
+            },
+            "size": {
+                "height": 28,
+                "width": 245
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "READ ABOUT SWIM",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 64,
+                "y": 7003
+            },
+            "size": {
+                "height": 28,
+                "width": 158
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "READ ABOUT THE CHALLENGE",
+            "bg-color": "rgba(235, 184, 6, 1)",
+            "location": {
+                "x": 536,
+                "y": 7003
+            },
+            "size": {
+                "height": 28,
+                "width": 228
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "APPLY TODAY",
+            "bg-color": "rgba(32, 104, 212, 1)",
+            "location": {
+                "x": 412,
+                "y": 7890
+            },
+            "size": {
+                "height": 28,
+                "width": 186
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

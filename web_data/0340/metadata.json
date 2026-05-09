@@ -1,0 +1,216 @@
+{
+    "title": "Encyclopedia of Life",
+    "url": "eol.org",
+    "full_url": "https://eol.org/",
+    "images": [
+        {
+            "alt": "EOL",
+            "location": {
+                "x": 10,
+                "y": 12
+            },
+            "size": {
+                "height": 19,
+                "width": 43
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "EOL",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 764,
+                "y": 5
+            },
+            "size": {
+                "height": 30,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 764,
+                "y": 5
+            },
+            "size": {
+                "height": 30,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            248,
+            248,
+            248
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            64,
+            101,
+            149
+        ]
+    ],
+    "navbar": "",
+    "text": "    en  \nGlobal access to knowledge about life on Earth\nConvergent Lady Beetle\nCliff Chipmunk\nostrich fern\nGreater Blue-ringed Octopus\nNostoc linckia\nDiaptomus castaneti Burckhardt 1920\nChristmas tree worm\nSpined Micrathena\noctopus stinkhorn\nBlue dragon\nAgapostemon splendens (Lepeletier 1841)\nSea otter\nWest Indian vanilla\nnematodes\nJoin the discussion!\nfeedback and bio-chatter\nData Search\nnocturnal arboreal frugivores\nTrait based models\nin the VERA modeling tool\nExplore foodwebs\nwho's eating whom?\nWhat is EOL? What's New? The EOL Forum Education Citing EOL Terms of Use Data Services Food Webs Language Support Donate Contact Us\nAnimals Mammals Birds Amphibians Reptiles Fishes Invertebrates Crustaceans Mollusks Insects Spiders Worms Plants Flowering Plants Trees Fungi Mushrooms Molds Bacteria Algae Protists Archaea Viruses\nEOL is hosted by:",
+    "font": "\"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

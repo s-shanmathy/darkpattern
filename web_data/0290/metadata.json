@@ -1,0 +1,866 @@
+{
+    "title": "Bitcoin Forum - Index",
+    "url": "bitcointalk.org",
+    "full_url": "https://bitcointalk.org/",
+    "images": [
+        {
+            "alt": "*",
+            "location": {
+                "x": 947,
+                "y": 58
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 286
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 398
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 494
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 571
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 632
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 736
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 814
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 903
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1029
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1093
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1144
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1196
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1259
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1335
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1449
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1523
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1599
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1675
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1739
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1844
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1922
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 1998
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2075
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2152
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2234
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2317
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2382
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2453
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2542
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2632
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2724
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2809
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2886
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 2963
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 3039
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 3122
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 3212
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 3295
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 3359
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 3429
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No New Posts",
+            "location": {
+                "x": 45,
+                "y": 3510
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "*",
+            "location": {
+                "x": 944,
+                "y": 3588
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Recent Posts",
+            "location": {
+                "x": 37,
+                "y": 3676
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Forum Stats",
+            "location": {
+                "x": 37,
+                "y": 3784
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Powered by MySQL",
+            "location": {
+                "x": 132,
+                "y": 3852
+            },
+            "size": {
+                "height": 20,
+                "width": 54
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Powered by PHP",
+            "location": {
+                "x": 223,
+                "y": 3852
+            },
+            "size": {
+                "height": 20,
+                "width": 54
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valid XHTML 1.0!",
+            "location": {
+                "x": 732,
+                "y": 3852
+            },
+            "size": {
+                "height": 20,
+                "width": 54
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valid CSS!",
+            "location": {
+                "x": 823,
+                "y": 3852
+            },
+            "size": {
+                "height": 20,
+                "width": 54
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 690,
+                "y": 122
+            },
+            "size": {
+                "height": 21,
+                "width": 198
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 897,
+                "y": 122
+            },
+            "size": {
+                "height": 21,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            245,
+            245,
+            245
+        ],
+        [
+            225,
+            225,
+            228
+        ],
+        [
+            219,
+            221,
+            228
+        ]
+    ],
+    "desc": "Bitcoin Forum - Index",
+    "navbar": "Bitcoin Forum",
+    "text": "Bitcoin Forum\nDecember 07, 2022, 08:01:07 PM\nWelcome, Guest. Please login or register.\nNews: Reminder: do not keep your money in online accounts\n      HOME   HELP SEARCH LOGIN REGISTER MORE  \nBitcoin Forum\nBitcoin\nBitcoin Discussion\nGeneral discussion about the Bitcoin ecosystem that doesn't fit better elsewhere. News, the Bitcoin community, innovations, the general environment, etc. Discussion of specific Bitcoin-related services usually belongs in other sections.\nModerator: hilariousandco\n2481444 Posts\n97418 Topics Last post by franky1\nin Re: US customers of Stri...\non Today at 08:00:48 PM\nChild Boards: Legal, Press, Meetups, Important Announcements\nDevelopment & Technical Discussion\nTechnical discussion about Satoshi's Bitcoin client and the Bitcoin network in general. No third-party sites/clients, bug reports that do not require much discussion (use github), or support requests.\nModerators: gmaxwell, achow101\n308326 Posts\n24028 Topics Last post by k3llynice\nin Re: Vanitygen: Vanity bi...\non Today at 07:52:53 PM\nChild Boards: Wallet software\nMining\nGenerating bitcoins.\nModerator: gmaxwell\n952080 Posts\n26773 Topics Last post by BiticaMan\nin Re: GekkoScience has a n...\non Today at 07:50:50 PM\nChild Boards: Mining support, Pools, Mining software (miners), Hardware, Mining speculation\nBitcoin Technical Support\nQuestions regarding issues with Bitcoin Core, nodes, the Bitcoin network, transactions, and addresses.\nModerator: achow101\n110114 Posts\n12456 Topics Last post by cygan\nin Re: Umbrel — Discussion,...\non Today at 06:44:13 PM\nProject Development\nOrganization of Bitcoin and related projects, bounty campaigns, advertising etc. 180618 Posts\n15730 Topics Last post by franky1\nin Re: old Bitcoin addresse...\non Today at 06:30:37 PM\nEconomy\nEconomics\n2701002 Posts\n34437 Topics Last post by Sanitough\nin Re: How much longer unti...\non Today at 07:57:56 PM\nChild Boards: Speculation\nMarketplace\nGeneral marketplace discussion.\nModerators: Cyrus, hilariousandco\n9551602 Posts\n429564 Topics Last post by safari88\nin Re: 4CryptoBet New Onlin...\non Today at 07:54:22 PM\nChild Boards: Goods, Services, Currency exchange, Gambling, Lending, Securities, Auctions, Service Announcements, Service Discussion\nTrading Discussion\nDiscussion about doing business with Bitcoin. Best trading practices, delivery methods etc.\nModerator: Cyrus\n953672 Posts\n37497 Topics Last post by Blowon\nin Re: (SCAM) Duelbits' phi...\non Today at 07:59:58 PM\nChild Boards: Scam Accusations, Reputation\nOther\nMeta\nDiscussion about the Bitcoin Forum. 373819 Posts\n19504 Topics Last post by Trade Runner\nin Banning cyberterrorist a...\non Today at 07:47:59 PM\nChild Boards: New forum software, Bitcoin Wiki\nPolitics & Society\n521609 Posts\n16683 Topics Last post by o48o\nin Re: Russian Invasion of ...\non Today at 07:21:50 PM\nBeginners & Help\nModerator: MiningBuddy\n785823 Posts\n58175 Topics Last post by Piesel\nin Re: You can Make 785 + M...\non Today at 07:42:52 PM\nOff-topic\nOther topics that might be of interest to bitcoiners. 867349 Posts\n33207 Topics Last post by vleroybrown\nin Re: My random thought bl...\non Today at 04:33:23 PM\nSerious discussion\nMore serious discussion. No advertising of any kind. No junk posts. 14031 Posts\n1100 Topics Last post by digaran\nin Re: Why are people and t...\non Today at 06:41:35 PM\nChild Boards: Ivory Tower\nArchival\nOld stuff. 334682 Posts\n17434 Topics Last post by digaran\nin MOVED: Do not trust actm...\non December 06, 2022, 03:48:26 AM\nChild Boards: Корзина, CPU/GPU Bitcoin mining hardware, Chinese students, Obsolete (buying), Obsolete (selling), MultiBit\nAlternate cryptocurrencies\nAltcoin Discussion\nDiscussion of cryptocurrencies other than Bitcoin. Note that discussion of how these currencies *relate to* Bitcoin may fit in other categories.\nModerator: mprep\n3385953 Posts\n106107 Topics Last post by oprahwindfury\nin Re: A single alt coin wh...\non Today at 07:56:33 PM\nAnnouncements (Altcoins)\nModerators: mprep, Welsh\n8687623 Posts\n51148 Topics Last post by nimogsm\nin Re: [ANN][T51] Trade51.c...\non Today at 07:16:35 PM\nChild Boards: Tokens (Altcoins)\nMining (Altcoins)\nModerator: mprep\n860566 Posts\n33790 Topics Last post by Z390\nin Best algo for RTX 40** s...\non Today at 05:17:54 PM\nChild Boards: Pools (Altcoins)\nMarketplace (Altcoins)\nModerators: mprep, Welsh\n10633663 Posts\n47672 Topics Last post by Murshalin95\nin Re: [ BOUNTY / SIGNATURE...\non Today at 07:54:38 PM\nChild Boards: Service Announcements (Altcoins), Service Discussion (Altcoins), Bounties (Altcoins)\nSpeculation (Altcoins)\nModerator: mprep\n1034287 Posts\n14700 Topics Last post by oprahwindfury\nin Re: Doge can it go 1$\non Today at 07:15:17 PM\nLocal\nالعربية (Arabic)\nModerator: OmegaStarScream\n41011 Posts\n5315 Topics Last post by OmegaStarScream\nin Re: تذكير\non Today at 05:16:29 PM\nChild Boards: العملات البديلة (Altcoins), إستفسارات و أسئلة المبتدئين, التعدين, النقاشات الأخرى, منصات التبادل\nBahasa Indonesia (Indonesian)\nModerators: dbshck, sapta\n1079403 Posts\n13504 Topics Last post by Blowon\nin Re: Bounty sebagai peker...\non Today at 06:27:34 PM\nChild Boards: Jual Beli, Mining (Bahasa Indonesia), Altcoins (Bahasa Indonesia)\nEspañol (Spanish)\nModerator: Welsh\n219819 Posts\n18963 Topics Last post by DdmrDdmr\nin Re: Dudas sobre las camp...\non Today at 07:05:17 PM\nChild Boards: Mercado y Economía, Hardware y Minería, Esquina Libre, Mercadillo, Primeros pasos y ayuda, Altcoins (criptomonedas alternativas)\n中文 (Chinese)\nModerator: Barcode_\n630606 Posts\n87535 Topics Last post by bujinjin\nin friendship\non Today at 03:20:27 AM\nChild Boards: 跳蚤市场, 山寨币, 媒体, 挖矿, 离题万里\nHrvatski (Croatian)\n62469 Posts\n2057 Topics Last post by casperBGD\nin Re: Altcoin novosti\non Today at 07:39:58 PM\nChild Boards: Trgovina, Altcoins (Hrvatski), Off-topic (Hrvatski)\nDeutsch (German)\nModerator: mole0815\n582658 Posts\n28686 Topics Last post by peterhend\nin Re: Verwendung von Honig\non Today at 07:50:09 PM\nChild Boards: Anfänger und Hilfe, Mining (Deutsch), Trading und Spekulation, Projektentwicklung, Off-Topic (Deutsch), Treffen, Presse , Altcoins (Deutsch), Marktplatz\nΕλληνικά (Greek)\n41294 Posts\n3163 Topics Last post by cryptosize\nin Re: Συζήτηση περί big bl...\non Today at 03:48:03 PM\nChild Boards: Αγορά, Mining Discussion (Ελληνικά), Altcoins (Ελληνικά)\nעברית (Hebrew)\n2503 Posts\n726 Topics Last post by Alefaa-Bitcon\nin Re: [ANN]🔥🔥🔥[ABTC] Alefa...\non August 29, 2022, 01:23:55 PM\nFrançais\nModerator: Halab\n257200 Posts\n13728 Topics Last post by elma\nin Re: Que sont les bridges...\non Today at 06:26:50 PM\nChild Boards: Actualité et News, Débutants, Discussions générales et utilisation du Bitcoin, Mining et Hardware, Économie et spéculation, Place de marché, Le Bitcoin et la loi, Wiki, documentation et traduction, Développement et technique, Vos sites et projets, Hors-sujet, Altcoins (Français)\nIndia\n77688 Posts\n9911 Topics Last post by shalinishalu123\nin Re: Bitcoin Whatsapp Gro...\non Today at 07:09:44 PM\nChild Boards: Mining (India), Marketplace (India), Regional Languages (India), Press & News from India, Alt Coins (India), Buyer/ Seller Reputations (India), Off-Topic (India)\nItaliano (Italian)\nModerator: HostFat\n297189 Posts\n17101 Topics Last post by Paolo.Demidov\nin Re: BITCOIN PUMP!\non Today at 07:39:44 PM\nChild Boards: Guide (Italiano), Progetti, Discussioni avanzate e sviluppo, Trading, analisi e speculazione, Mercato, Accuse scam/truffe, Mining (Italiano), Alt-Currencies (Italiano), Raduni/Meeting (Italiano), Crittografia e decentralizzazione, Off-Topic (Italiano)\n日本語 (Japanese)\n40792 Posts\n1513 Topics Last post by WikibitJapan\nin 米ポンジースキームで11社取り締り カリフォルニ...\non September 30, 2022, 06:16:56 AM\nChild Boards: アルトコイン\nNederlands (Dutch)\n47937 Posts\n5230 Topics Last post by Yoshi Livo\nin Re: e-Gulden: even bijkl...\non November 03, 2022, 12:21:51 AM\nChild Boards: Markt, Gokken/lotterijen, Mining (Nederlands), Beurzen, Alt Coins (Nederlands), Off-topic (Nederlands), Meetings (Nederlands)\n한국어 (Korean)\n17308 Posts\n3987 Topics Last post by fllawer\nin 엔씨소프트, 블록체인 기업 '미스틴랩스'에 ...\non November 09, 2022, 02:21:06 AM\nChild Boards: 대체코인 Alt Coins (한국어)\nPilipinas\nModerator: Mr. Big\n278618 Posts\n8787 Topics Last post by blockman\nin Re: Binance Philippines\non Today at 06:16:55 PM\nChild Boards: Altcoins (Pilipinas), Pamilihan, Others (Pilipinas)\nPolski\nModerator: malevolent\n34535 Posts\n2730 Topics Last post by cygan\nin Re: Solo Mining - kopani...\non Today at 06:37:30 PM\nChild Boards: Tablica ogłoszeń, Alternatywne kryptowaluty\nPortuguês (Portuguese)\nModerator: Adriano\n171334 Posts\n12432 Topics Last post by joker_josue\nin Re: ⚽ Torneio / Bolão pa...\non Today at 06:23:10 PM\nChild Boards: Primeiros Passos (Iniciantes), Economia & Mercado, Mineração em Geral, Desenvolvimento & Discussões Técnicas, Criptomoedas Alternativas, Brasil, Portugal\nРусский (Russian)\nModerators: xandry, Xal0lex\n4764826 Posts\n132540 Topics Last post by Natallia V\nin Re: Profit-Hunters.biz -...\non Today at 07:52:05 PM\nChild Boards: Новички, Бизнес, Идеи, Кодеры, Майнеры, Политика, Трейдеры, Альтернативные криптовалюты, Хайпы, Работа, Разное, Oбcyждeниe Bitcoin\nRomână (Romanian)\nModerator: Cyrus\n46886 Posts\n5304 Topics Last post by NeuroticFish\nin Re: Concursuri/tombole p...\non Today at 02:29:25 PM\nChild Boards: Anunturi importante, Offtopic, Market, Minerit, Tutoriale, Bine ai venit!, Presa, Altcoins (Monede Alternative)\nSkandinavisk\n8113 Posts\n1425 Topics Last post by bitcoiner247\nin Re: Hvordan kan jeg kjøp...\non November 04, 2022, 02:45:55 PM\nTürkçe (Turkish)\nModerator: EFS\n1057047 Posts\n48746 Topics Last post by judas\nin Re: Hayvan Sevgisi Samim...\non Today at 07:40:01 PM\nChild Boards: Bitcoin Haberleri, Pazar Alanı, Madencilik, Ekonomi, Servisler, Proje Geliştirme, Alternatif Kripto-Paralar, Konu Dışı, Yeni Başlayanlar & Yardım, Buluşmalar\nOther languages/locations\nCommunities that don't have their own board. Translated announcements are prohibited unless locally relevant.\nModerator: Cyrus\n62186 Posts\n383 Topics Last post by uchegod-21\nin Re: Nigeria (Naija)\non Today at 07:35:00 PM\n\nBitcoin Forum - Info Center\nRecent Posts\nRe: Motosport General discussion tread --- Formula1, MotoGP, WTCC, ETCC, DTM..... by safari88 (Gambling discussion) Today at 07:58:35 PM\nRe: How much longer until paper money is no longer in circulation? by Sanitough (Economics) Today at 07:57:56 PM\nRe: gambling techniques by blockman (Gambling discussion) Today at 07:56:35 PM\nRe: A single alt coin which gives you profit multiple times? by oprahwindfury (Altcoin Discussion) Today at 07:56:33 PM\nRe: Please take action on moonyjope aka Palinca89 (steamproject) Scammer Fake Guy by Palinca89 (Scam Accusations) Today at 07:56:17 PM\nForum Stats\n61366044 Posts in 1341298 Topics by 3505648 Members. Latest Member: Creasewater\nLatest Post: \"Re: US customers of Stri...\" ( Today at 08:00:48 PM )\nView the most recent posts on the forum.\n[More Stats]\nPowered by SMF 1.1.19 | SMF © 2006-2009, Simple Machines",
+    "font": "verdana, helvetica, sans-serif",
+    "buttons": []
+}

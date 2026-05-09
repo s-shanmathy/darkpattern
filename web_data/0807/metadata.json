@@ -1,0 +1,64 @@
+{
+    "title": "My Blog – My WordPress Blog",
+    "url": "baca-berita.com",
+    "full_url": "https://baca-berita.com/",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            192,
+            192,
+            192
+        ]
+    ],
+    "navbar": "Sample Page",
+    "text": "Skip to content\nMy Blog\nSample Page\nMindblown: a blog about philosophy.\nHello world!\nWelcome to WordPress. This is your first post. Edit or delete it, then start writing!\nNovember 21, 2022\nGot any book recommendations?\nGet In Touch\nMy Blog\nProudly powered by WordPress",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

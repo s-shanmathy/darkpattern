@@ -1,0 +1,605 @@
+{
+    "title": "Home - Eagle's Landing Trading Post",
+    "url": "eagleslandingtradingpost.com",
+    "full_url": "https://eagleslandingtradingpost.com/",
+    "images": [
+        {
+            "alt": "user",
+            "location": {
+                "x": -370,
+                "y": 29
+            },
+            "size": {
+                "height": 176,
+                "width": 264
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "contacts",
+            "location": {
+                "x": 906,
+                "y": 22
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "banner-arrow",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Food",
+            "location": {
+                "x": 210,
+                "y": 1027
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Food",
+            "location": {
+                "x": 320,
+                "y": 1038
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Food",
+            "location": {
+                "x": 430,
+                "y": 1027
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Food",
+            "location": {
+                "x": 540,
+                "y": 1038
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Food",
+            "location": {
+                "x": 650,
+                "y": 1038
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Food",
+            "location": {
+                "x": 760,
+                "y": 1038
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cat-icon",
+            "location": {
+                "x": 39,
+                "y": 1578
+            },
+            "size": {
+                "height": 15,
+                "width": 15
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mapMarkerGrey",
+            "location": {
+                "x": 35,
+                "y": 1734
+            },
+            "size": {
+                "height": 17,
+                "width": 17
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mapMarkerGrey",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "cat-icon",
+            "location": {
+                "x": 369,
+                "y": 1578
+            },
+            "size": {
+                "height": 15,
+                "width": 15
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cat-icon",
+            "location": {
+                "x": 698,
+                "y": 1578
+            },
+            "size": {
+                "height": 15,
+                "width": 15
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mapMarkerGrey",
+            "location": {
+                "x": 694,
+                "y": 1669
+            },
+            "size": {
+                "height": 17,
+                "width": 17
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mapMarkerGrey",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 34,
+                "y": 3201
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "tw-footer",
+            "location": {
+                "x": 70,
+                "y": 3201
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "instagram",
+            "location": {
+                "x": 104,
+                "y": 3201
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "tumbler",
+            "location": {
+                "x": 140,
+                "y": 3201
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "linkedin",
+            "location": {
+                "x": 174,
+                "y": 3201
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ytwite",
+            "location": {
+                "x": 210,
+                "y": 3201
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Ex: art, food, automotive, services, entertainment",
+            "type": "text",
+            "location": {
+                "x": 211,
+                "y": 781
+            },
+            "size": {
+                "height": 46,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "United States of America",
+            "type": "text",
+            "location": {
+                "x": 481,
+                "y": 781
+            },
+            "size": {
+                "height": 46,
+                "width": 176
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 661,
+                "y": 781
+            },
+            "size": {
+                "height": 46,
+                "width": 132
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            144,
+            139,
+            128
+        ],
+        [
+            143,
+            138,
+            127
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "navbar": "",
+    "text": "Sign In\nHome About\nGet Started News & Muse\nEntrepreneur Events\nIMAGE COURTESY OF\nEagles' Landing Trading Post\nLet's discover the best services and places to eat, drink, and shop.\nWhat\nWhere\n\nArts & Entertainment\n\nAutomotive\n\nHealth & Medical\n\nRestaurant\n\nServices\n\nShopping\nOur Site is Best Viewed with the Firefox or Chrome Browser\nExclusive\nPopular Exclusive Listings In Our Directory\nSave\nPreview\nAmerican Indigenous Business Leaders\nServices\nNational non-profit dedicated to empowering Indigenous business students in the United States\nMissoula\nClosed Now!\nSave\nPreview\nMatriARC PROJECTion, LLC\nServices\nNurturing Community through Data\nClosed Now!\nSave\nPreview\nTigua Business Center\nServices\nEl Paso\nClosed Now!\nSign-up to Get Started!\nNearly 80% Of Consumers Turn To Directories With Reviews To Find A Business.\n1. Sign-up\nCreate a user account, build a listing, then get approved by the Business Development Team to go public.\n2. Promote\nPromote your business to target customers who need your services or products.\n3. Convert\nTurn your visitors into paying customers with exciting offers and services on your page.\nLearn How To Get Started!\nNews & Muse\nCheckout Our Latest News and Muse From Our Blog\nCoffee\nWelcome!\nSonialisa July 21, 2021\n915.859.8151\n9180 Socorro Road\nPrivacy Policy\nTerms of Service\nSocial Dance Music of YDSP\n“Blanket Dance”\nAudio Player\n00:00\n00:00\nUse Up/Down Arrow keys to increase or decrease volume.\n1. “Blanket Dance”\n2:24\n2. “Buffalo Dance”\n3:47\n3. “Butterfly Dance”\n3:34\n4. “Eagle Dance.”\n2:48\n5. “Pueblo Two-Step Dance”\n2:19\n6. “Ribbon Dance”\n2:32\n7. “Round Dance”\n2:38\n8. “Shaw Dance”\n4:23\nCopyright © 2020 Ysleta Del Sur Pueblo Tigua Business Center",
+    "font": "Quicksand",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 789,
+                "y": 3227
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 906,
+                "y": 3227
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

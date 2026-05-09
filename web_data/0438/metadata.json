@@ -1,0 +1,573 @@
+{
+    "title": "Chicago News Today & Breaking News | Crain's Chicago Business",
+    "url": "chicagobusiness.com",
+    "full_url": "https://www.chicagobusiness.com/",
+    "images": [
+        {
+            "alt": "abandoned homes in Chicago",
+            "location": {
+                "x": 12,
+                "y": 489
+            },
+            "size": {
+                "height": 270,
+                "width": 481
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "pritzker_ev.jpg",
+            "location": {
+                "x": 12,
+                "y": 1131
+            },
+            "size": {
+                "height": 188,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Downers Cottages 1",
+            "location": {
+                "x": 516,
+                "y": 489
+            },
+            "size": {
+                "height": 125,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kroger grocery shopping cart",
+            "location": {
+                "x": 516,
+                "y": 657
+            },
+            "size": {
+                "height": 98,
+                "width": 188
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chicago lakefront bike path",
+            "location": {
+                "x": 12,
+                "y": 1692
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Advocate Aurora Health CEO Jim Skogsbergh and Atrium Health CEO Eugene Woods",
+            "location": {
+                "x": 12,
+                "y": 1912
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Singers from Chicago a Cappella ",
+            "location": {
+                "x": 12,
+                "y": 2132
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "trump tower new york",
+            "location": {
+                "x": 12,
+                "y": 2352
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "springfield state capitol satanic temple display",
+            "location": {
+                "x": 12,
+                "y": 2572
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TSA agent at an airport security checkpoint",
+            "location": {
+                "x": 12,
+                "y": 2792
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "springfield statehouse capitol",
+            "location": {
+                "x": 12,
+                "y": 3012
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dirksen Federal Building in Chicago",
+            "location": {
+                "x": 12,
+                "y": 3232
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "COVID rapid test",
+            "location": {
+                "x": 12,
+                "y": 3452
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chicago City Hall",
+            "location": {
+                "x": 12,
+                "y": 3672
+            },
+            "size": {
+                "height": 189,
+                "width": 189
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A CTA train nears a station in Chicago's Loop",
+            "location": {
+                "x": 686,
+                "y": 1944
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "abandoned homes in Chicago",
+            "location": {
+                "x": 686,
+                "y": 2107
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ad Choices",
+            "location": {
+                "x": 602,
+                "y": 5377
+            },
+            "size": {
+                "height": 13,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Crain",
+            "location": {
+                "x": 354,
+                "y": 5809
+            },
+            "size": {
+                "height": 35,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "close",
+            "location": {
+                "x": 794,
+                "y": 141
+            },
+            "size": {
+                "height": 31,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image",
+            "location": {
+                "x": 184,
+                "y": 181
+            },
+            "size": {
+                "height": 480,
+                "width": 640
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 797,
+                "y": 410
+            },
+            "size": {
+                "height": 25,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 42,
+                "y": 5099
+            },
+            "size": {
+                "height": 30,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 183,
+                "y": 5099
+            },
+            "size": {
+                "height": 31,
+                "width": 113
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            82,
+            196,
+            201
+        ],
+        [
+            102,
+            102,
+            102
+        ],
+        [
+            18,
+            50,
+            86
+        ]
+    ],
+    "desc": "Read the latest business news and analytics including healthcare, real estate, manufacturing, government, sports and more from Crain's Chicago Business.",
+    "navbar": "",
+    "text": "Skip to main content\nSister Publication Links\nAdvertise Events Nominate Jobs People / Company Moves\n.cls-1{fill:#b11116;}.cls-2{fill:#fff;}\nSubscribe\nREGISTER FOR FREE LOGIN SUBSCRIBE\nNEWS & DATA\nPOLITICS & OPINION\nLIFESTYLE & DINING\nREAL ESTATE\nSPECIAL REPORTS\nTHIS WEEK\nMORE +\nRESIDENTIAL REAL ESTATE\n2 HOURS AGO\nIs there a link between abandoned houses and gun violence? Yes, says the AMA.\nA new study in the Journal of the American Medical Association reports a direct link between remediating abandoned homes in urban neighborhoods and a reduction in gun crimes.\nJOE CAHILL ON BUSINESS\nPritzker pins electric vehicle hopes on subsidies\nJUICE\nUPDATED 12 HOURS AGO\nAbsurd political hijinks abound in another Chicago election season\nBEFORE IT HITS THE MARKET\nAN HOUR AGO\nTwo cottages straight out of a fairy tale in Downers Grove going up for sale\nRETAIL\n20 HOURS AGO\nKroger gets FTC request for more details on $25 billion Albertsons deal\nMORE NEWS\nCRAIN'S DAILY GIST\n2 HOURS AGO\nA tri-state bike trail is on the way: Crain's Daily Gist podcast\nCrain's reporter Jack Grieve talks with host Amy Guth about the Chicago to Michigan bike trail that recently cleared its last major fundraising hurdle.\nHEALTH PULSE\n2 HOURS AGO\nThe team leading the new Advocate Health • COVID, flu on the rise • Best hospitals for maternity care\nCrain's Health Pulse is your source for actionable, exclusive and inside news on the health care industry.\nTHE BIG TICKET\n14 HOURS AGO\nThe Big Ticket: 'Hanukkah a Cappella,' 'Mexican Christmas,' 'Little Women' and more things to do\nWelcome to The Big Ticket, our weekly arts and culture roundup designed to help you figure out what to do in and around Chicago.\nCOMMERCIAL REAL ESTATE\n16 HOURS AGO\nTrump companies convicted in New York criminal tax fraud trial\nThe case did not involve Trump's hotel in Chicago.\nGOVERNMENT\nUPDATED 16 HOURS AGO\nHoliday displays—including one from the Satanic Temple—return to Illinois Capitol\nA nativity scene and menorah are joined by a crocheted snake as the holiday displays take up seasonal residence in Springfield. \nLIFESTYLE & DINING\n17 HOURS AGO\nFlyers, the Real ID deadline has changed again\nIt's the latest extension of security standards that were set to take effect next May.\nPOLITICS\nUPDATED 17 HOURS AGO\nHow liberal is Illinois' Legislature? A conservative PAC grades lawmakers.\nWhile Democrats hold sway over state government, one group's rankings suggest there's more to how the General Assembly votes.\nPOLITICS\nUPDATED 18 HOURS AGO\nIn bipartisan vote, Senate confirms new 7th Circuit Court judge\nJudge Doris Pryor is the first Black woman from Indiana to serve on the 7th Circuit, which covers Illinois and Wisconsin as well as Indiana.\nHEALTH CARE\nUPDATED 18 HOURS AGO\nCOVID, flu cases rise in Chicago following Thanksgiving\nHealth officials say holiday-related gatherings and travel are likely contributing to an uptick in cases.\nPOLITICS\n19 HOURS AGO\nHere's the ballot order for the mayoral race\nThe ballot order can be considered a first draft as five candidates must survive petition challenges to secure a spot.\nLOAD MORE\nCHECK OUR WEEKLY TRACKER\nHow many Chicagoans are back in the office?\nCRAIN'S REPORTING ON DIVERSITY, EQUITY AND INCLUSION\nIs there a link between abandoned houses and gun violence? Yes, says the AMA.\nOpinion: This is a critical time to shore up students' STEM skills\nBMO strikes $40 billion community pact in Bank of the West buyout\nEditorial: City Hall's push to fill in vacant lots is a step in the right direction\nOpinion: We're investing in a future of economic opportunity for all Chicagoans\nSpecial features\n40 Under 40 class of 2022\nIt's our 33rd annual list of remarkable folks who have yet to reach their 40th birthdays.\nCrain's Forum\nJoin us for a deep dive into some of the seemingly intractable problems facing our city and state. We've got news, analysis and possible solutions. And access to the content is FREE.\nCrain's Equity\nCrain's free monthly report explores issues of diversity and inclusion in Chicago's business community.\n2022 Private School Planner\nTwenty-four top-flight Chicago area private schools and educational organizations offer an in-depth look at their offerings — making this an essential guide for families with school age children. \nGET OUR NEWSLETTERS\nStaying current is easy with Crain's news delivered straight to your inbox, free of charge. Click below to see everything we have to offer.\nSUBSCRIBE TODAY\nGet the best business coverage in Chicago, from breaking news to razor-sharp analysis, in print and online.\nSUBSCRIBE NOW\nCONNECT WITH US\nLinkedIn\nFacebook\nTwitter\nInstagram\n.cls-1{fill:#b11116;}.cls-2{fill:#fff;}\nCONTACT US\n130 E. Randolph St.\nSuite 3200\nChicago, IL 60601\nE-mail our editor\n1-877-812-1590\nContact Us/Help Center\nRESOURCES\nAbout Us\nAd Choices\nAdvertise with Us\nClassified Advertising\nCrain's Chicago jobs\nMedia Kit\nNewsletters\nReprints\nSitemap\nStaff\nAWARDS\nSpecial reports\nLEGAL\nPrivacy Policy\nPrivacy Request\nTerms and Conditions\nCopyright © 1996-2022. Crain Communications, Inc. All Rights Reserved.\nScroll to Continue",
+    "font": "roboto, helvetica",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

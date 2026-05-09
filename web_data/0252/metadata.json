@@ -1,0 +1,47 @@
+{
+    "title": "Signal >> Home",
+    "url": "signal.org",
+    "full_url": "https://signal.org/",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            155,
+            188,
+            245
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "",
+    "navbar": "Get Signal\nHelp\nBlog\nDevelopers\nCareers\nDonate\nEN",
+    "text": "Get Signal\nHelp\nBlog\nDevelopers\nCareers\nDonate\nEN\nSpeak Freely\nSay \"hello\" to a different messaging experience. An unexpected focus on privacy, combined with all of the features you expect.\n\nGet Signal\nWhy use Signal?\nExplore below to see why Signal is a simple, powerful, and secure messenger\nShare Without Insecurity\nState-of-the-art end-to-end encryption (powered by the open source Signal Protocol) keeps your conversations secure. We can't read your messages or listen to your calls, and no one else can either. Privacy isn’t an optional mode — it’s just the way that Signal works. Every message, every call, every time.\nSay Anything\nShare text, voice messages, photos, videos, GIFs and files for free. Signal uses your phone's data connection so you can avoid SMS and MMS fees.\nSpeak Freely\nMake crystal-clear voice and video calls to people who live across town, or across the ocean, with no long-distance charges.\nMake Privacy Stick\nAdd a new layer of expression to your conversations with encrypted stickers. You can also create and share your own sticker packs.\nGet Together with Groups\nGroup chats make it easy to stay connected to your family, friends, and coworkers.\nNo ads. No trackers. No kidding.\nThere are no ads, no affiliate marketers, and no creepy tracking in Signal. So focus on sharing the moments that matter with the people who matter to you.\nFree for Everyone\nSignal is an independent nonprofit. We're not tied to any major tech companies, and we can never be acquired by one either. Development is supported by grants and donations from people like you.\n\nDonate to Signal\n© 2013–2022 Signal, a 501c3 nonprofit.\nSignal is a registered trademark in the United States and other countries.\n\nFor media inquiries, contact press@signal.org\nOrganization\nDonate\nCareers\nBlog\nTerms & Privacy Policy\nDownload\nAndroid\niPhone & iPad\nWindows\nMac\nLinux\nSocial\nGitHub\nTwitter\nInstagram\nHelp\nSupport Center\nCommunity",
+    "font": "Inter, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(10, 10, 10, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

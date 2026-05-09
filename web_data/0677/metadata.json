@@ -1,0 +1,61 @@
+{
+    "title": "This is the default server vhost",
+    "url": "biohazardcast.com",
+    "full_url": "https://biohazardcast.com/",
+    "images": [
+        {
+            "alt": "monitor with gears icon",
+            "location": {
+                "x": 362,
+                "y": 0
+            },
+            "size": {
+                "height": 300,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "white clouds background",
+            "location": {
+                "x": 0,
+                "y": 492
+            },
+            "size": {
+                "height": 144,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            176,
+            224,
+            233
+        ],
+        [
+            34,
+            109,
+            122
+        ]
+    ],
+    "text": "This is the default server vhost\nThis site's domain name is either not yet pointed or is still propagating. Propagation may take up to 72 hours. Please check back later.",
+    "font": "\"Times New Roman\"",
+    "iframes": [],
+    "buttons": []
+}

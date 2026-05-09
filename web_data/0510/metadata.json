@@ -1,0 +1,194 @@
+{
+    "title": "YourAdChoices.com | Welcome to YourAdChoices.com",
+    "url": "youradchoices.com",
+    "full_url": "https://youradchoices.com/",
+    "images": [
+        {
+            "alt": "WebChoices",
+            "location": {
+                "x": 594,
+                "y": 724
+            },
+            "size": {
+                "height": 142,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TokenChoices",
+            "location": {
+                "x": 594,
+                "y": 866
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Control Image - AppChoices Home Screen",
+            "location": {
+                "x": 824,
+                "y": 724
+            },
+            "size": {
+                "height": 194,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YourAdChoices Icon",
+            "location": {
+                "x": 804,
+                "y": 1215
+            },
+            "size": {
+                "height": 600,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DAA Logo",
+            "location": {
+                "x": 680,
+                "y": 2057
+            },
+            "size": {
+                "height": 100,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ad Marker",
+            "location": {
+                "x": 664,
+                "y": 2517
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            134,
+            167,
+            94
+        ],
+        [
+            0,
+            165,
+            196
+        ]
+    ],
+    "navbar": "",
+    "text": "Skip to main content\nMake choices with participating companies under the DAA Principles\nChoices\nEspañol\nMain menu\nLearn\nControl\nPrinciples\nAbout the DAA\nYourAdChoices\nGives You Control\nWhen you click on the YourAdChoices Icon, you get control over how information about your interests is used for relevant advertising.\n> Take Control with YourAdChoices\n> Put the YourAdChoices Icon to Work for You\n> What's Behind the YourAdChoices Icon\n> The Benefits of Relevant Advertising\n  Take Control with\nYourAdChoices\nExercise choice on the Web for desktop and mobile or mobile apps—with one or more participating companies.\n  Learn More\nFAQ\n    Put the AdChoices Icon to Work for You\nUse the Icon to understand when information about your interests is being collected or used—and by which—companies.\n  Learn More\n  What's Behind the\nYourAdChoices Icon\nYourAdChoices is brought to you by the Digital Advertising Alliance (DAA). Find out about the DAA program's protections and how participating companies are held accountable.\n  Learn More\nThe Benefits of Relevant Advertising\nAdvertising based on your likely interests gives you more relevant ads and offers and helps pay for the online content and services you enjoy.\n  Learn More\nPrivacy Policy   |   Terms of Use   |   About the DAA   |   For Businesses\n© 2022 Digital Advertising Alliance – All rights reserved.\nBack to Top",
+    "font": "Lato, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(10, 173, 204, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "title": "Windfinder - Wind map, wind forecast & weather reports",
+    "url": "windfinder.com",
+    "full_url": "https://www.windfinder.com/?utm_source=windfinder.com&utm_medium=web&utm_campaign=redirect#3/39.5000/-98.3500",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            132,
+            94,
+            188
+        ]
+    ],
+    "desc": "Wind map with live wind radar & worldwide wind forecast. See live weather reports, wind speed & waves for kite- & windsurfing, sailing, fishing & hiking.",
+    "navbar": "Map\nLocations\nSearch\nFavorites\nSettings\nAccount\nMore",
+    "text": "Map\nLocations\nSearch\nFavorites\nSettings\nAccount\nMore\nMAP LAYERS\nWind speed\nParticles\nAir temperature\nPrecipitation / 3h\nMAP STYLE\nEdges\nGradient\nFORECAST MODEL\nForecast\nSuperforecast\nLOCATIONS\nSpots\nZoom in to filter spots\nMeasurements\nSpots invisible\n+\n-\nmph\n61\n59\n54\n49\n45\n40\n36\n31\n26\n22\n17\n13\n8\n3\n0\n-3h\n10am\n1pm\n4pm\n7pm\n10pm\nThu, 1/5\n1/6\n1/7\n1/8\n1/9\n1/10\n1/11\n1/12\n+3h\nModel: GFS\nLast update: 8:53 AM\nNext update: 2:53 PM local time\n11728\n3203\n© MapTiler © OpenStreetMap contributors\nWind forecasts, wind speed, live weather and wind map for kitesurfing, windsurfing, sailing and fishing",
+    "font": "\"Helvetica Neue\", Helvetica, Arial, Tahoma, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://af52584baafe17df7507986110d6e5be.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Wind speed",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 824,
+                "y": 492
+            },
+            "size": {
+                "height": 30,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Particles",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 835,
+                "y": 523
+            },
+            "size": {
+                "height": 30,
+                "width": 168
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Air temperature",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 824,
+                "y": 565
+            },
+            "size": {
+                "height": 30,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Precipitation / 3h",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 824,
+                "y": 595
+            },
+            "size": {
+                "height": 30,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Edges",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 828,
+                "y": 655
+            },
+            "size": {
+                "height": 30,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Gradient",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 914,
+                "y": 655
+            },
+            "size": {
+                "height": 30,
+                "width": 96
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Forecast",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 828,
+                "y": 718
+            },
+            "size": {
+                "height": 30,
+                "width": 76
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Superforecast",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 908,
+                "y": 718
+            },
+            "size": {
+                "height": 30,
+                "width": 102
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Spots",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 824,
+                "y": 781
+            },
+            "size": {
+                "height": 30,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Measurements",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 824,
+                "y": 854
+            },
+            "size": {
+                "height": 30,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Spots invisible",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 824,
+                "y": 884
+            },
+            "size": {
+                "height": 30,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "+",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 863
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "-",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 889
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 10,
+                "y": 508
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

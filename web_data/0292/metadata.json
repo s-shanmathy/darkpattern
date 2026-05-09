@@ -1,0 +1,199 @@
+{
+    "title": "Welcome to the Royal Society | Royal Society",
+    "url": "royalsociety.org",
+    "full_url": "https://royalsociety.org/",
+    "images": [
+        {
+            "alt": "Footer Logo",
+            "location": {
+                "x": 366,
+                "y": 2745
+            },
+            "size": {
+                "height": 229,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Footer Title",
+            "location": {
+                "x": 254,
+                "y": 3019
+            },
+            "size": {
+                "height": 30,
+                "width": 442
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search RoyalSociety.org",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            139,
+            138,
+            134
+        ],
+        [
+            112,
+            7,
+            29
+        ],
+        [
+            153,
+            153,
+            153
+        ]
+    ],
+    "desc": "The world's oldest independent scientific academy, dedicated to promoting excellence in science.",
+    "text": "Your choice regarding cookies on this site\nWe use cookies to optimise site functionality and give you the best possible experience.\nI Accept CookiesI Do Not Accept CookiesSettings\nThe Royal Society\nVenue hire\nContact us\nFellow Login\nSearch\nHome\nFellows\nEvents\nGrants, Schemes & Awards\nTopics and Policy\nJournals\nCollections\nAbout us\nWhat's new\nWe are the independent scientific academy of the UK, dedicated to promoting excellence in science for the benefit of humanity.\nANNIVERSARY DAY\nSir Adrian Smith, President of the Royal Society, delivers the Royal Society Anniversary Day Address 2022.\nTweets by @royalsociety\nBOOK PRIZE\nDr Henry Gee, author of A (Very) Short History of Life on Earth, is the winner of the 2022 Royal Society Science Book Prize.\nCLIMATE CHANGE\nCOP27: Explore the latest from the Royal Society on climate change, including a summary of three reports released by the Intergovernmental Panel on Climate Change (IPCC).\nPOLICY BRIEFING\nThis policy briefing explores the challenges and practicalities of storing carbon dioxide underground.\nNEWS\nThe Royal Society has announced the shortlist for the Young People's Book Prize 2022.\nJournals\nExplore our journals\nWe publish journals across the entire range of science. Find out more about how to read and submit articles.\nOpen access\nWe support open access and all our journals are fully compliant with funder mandates.\nCollections\nLibrary & digital archives\nExplore the history of science through our rare and intriguing collection of books, archives, paintings, images and artefacts.\nLibrary opening hours\nPlease check our opening hours over the festive period before planning your visit.\nWas this page useful? Yes No\nShare:\nSign up for newsletters\nABOUT US\nOur mission\nWork for us\nOur history\nPress releases\nModern Slavery Statement\nEVENTS\nPublic events\nScientific meetings\nSummer Science Exhibition\nGRANTS\nAll grants\nAll open grants\nFlexi-Grant®\nHow to apply\nAWARDS\nAll awards\nPremier medals and awards\nHow to nominate\nPOLICY\nAll policy projects\nAll policy publications\nTOPICS\nDiversity\nIndustry\nInternational\nSchools engagement\nCOLLECTIONS\nVisit the library\nSearch the catalogues\nDigital resources\nPrint Shop\nJOURNALS\nAll journals\nSearch the journals\nLibrarians\nAuthors\nFELLOWS\nFellows Directory\nFellows' Room\ne-Lect\nVENUE HIRE\nMake an enquiry\nDiscover our venue\nThe Royal Society is a Fellowship of many of the world's most eminent scientists and is the oldest scientific academy in continuous existence. Registered charity number 207043\nCONTACT US\n+ 44 207 451 2500\n(Lines open Mon-Fri, 9:00-17:00. Excludes bank holidays)\n6-9 Carlton House Terrace, London SW1Y 5AG\nEmail us →\nSUBSCRIBE\nSubscribe to our newsletters to be updated with the latest news on innovation, events, articles and reports.\nSubscribe →\nCopyright © 2022 The Royal Society. All rights reserved\nPrivacy Policy Terms & Conditions\nFellows\nEvents\nGrants, Schemes & Awards\nTopics and Policy\nJournals\nCollections\nAbout us\nWhat's new",
+    "font": "\"Proxima Nova\", Arial, Helvetica, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 929,
+                "y": 762
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "I Accept Cookies",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 491,
+                "y": 766
+            },
+            "size": {
+                "height": 44,
+                "width": 155
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "I Do Not Accept Cookies",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 654,
+                "y": 766
+            },
+            "size": {
+                "height": 44,
+                "width": 209
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Settings",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 871,
+                "y": 768
+            },
+            "size": {
+                "height": 40,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 969,
+                "y": 766
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Yes",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 260,
+                "y": 1677
+            },
+            "size": {
+                "height": 25,
+                "width": 47
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "No",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 313,
+                "y": 1677
+            },
+            "size": {
+                "height": 25,
+                "width": 39
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

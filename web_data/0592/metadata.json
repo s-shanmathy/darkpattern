@@ -1,0 +1,405 @@
+{
+    "title": "The most powerful real-time 3D creation tool - Unreal Engine",
+    "url": "unrealengine.com",
+    "full_url": "https://www.unrealengine.com/en-US",
+    "images": [
+        {
+            "alt": "What's new in Unreal Engine 5.1",
+            "location": {
+                "x": 40,
+                "y": 3257
+            },
+            "size": {
+                "height": 255,
+                "width": 453
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 546,
+                "y": 5720
+            },
+            "size": {
+                "height": 22,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email Address",
+            "type": "text",
+            "location": {
+                "x": 358,
+                "y": 5773
+            },
+            "size": {
+                "height": 48,
+                "width": 178
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            14,
+            17,
+            40
+        ],
+        [
+            13,
+            16,
+            39
+        ],
+        [
+            13,
+            16,
+            38
+        ]
+    ],
+    "desc": "Unreal Engine is the world’s most open and advanced real-time 3D creation tool for photoreal visuals and immersive experiences.",
+    "navbar": "SIGN IN\nDOWNLOAD",
+    "text": "SIGN IN\nDOWNLOAD\nYour browser does not support HTML5 video.\nThe world’s most open and advanced real-time 3D creation tool\nLEARN MORE ABOUT UE5\n\nNEWSLETTER\nGet updates on industry innovations and the latest free assets for \nyour industry\nSUBSCRIBE\nBy submitting your information, you are agreeing to receive news, surveys, and special offers from Epic Games. Privacy policy\n      BACK TO TOP\nGAME DEVELOPERS\nEpic Online Services\nEpic Games Store\nReleasing your game\nGuides & white papers\nUnreal Indies\nSUPPORT\nGet help\nFAQs\nDocumentation\nIssues\nForums\nRoadmap\nAsk a question\nUnreal Developer Network\nPARTNERSHIPS\nNVIDIA Edge\nIntel + Unreal\nAcademic Partners\nTraining Partners\nService Partners\nCOMPANY\nAwards\nBranding guidelines\n© 2004-2022, Epic Games, Inc. All rights reserved. Unreal and its logo are Epic’s trademarks or registered trademarks in the US and elsewhere.  \nTerms of servicePrivacy policy",
+    "font": "OpenSans, sans-serif, arial",
+    "buttons": [
+        {
+            "text": "LEARN MORE ABOUT UE5",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 50,
+                "y": 606
+            },
+            "size": {
+                "height": 48,
+                "width": 246
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 117,
+                "y": 1207
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 247,
+                "y": 1207
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 377,
+                "y": 1207
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 507,
+                "y": 1207
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 637,
+                "y": 1207
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 767,
+                "y": 1207
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 897,
+                "y": 1207
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 40,
+                "y": 3060
+            },
+            "size": {
+                "height": 48,
+                "width": 187
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 358,
+                "y": 3060
+            },
+            "size": {
+                "height": 48,
+                "width": 194
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 675,
+                "y": 3030
+            },
+            "size": {
+                "height": 48,
+                "width": 235
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 774,
+                "y": 3200
+            },
+            "size": {
+                "height": 18,
+                "width": 195
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 40,
+                "y": 3828
+            },
+            "size": {
+                "height": 18,
+                "width": 123
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 516,
+                "y": 3888
+            },
+            "size": {
+                "height": 18,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 392,
+                "y": 4229
+            },
+            "size": {
+                "height": 48,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SUBSCRIBE",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 543,
+                "y": 5773
+            },
+            "size": {
+                "height": 48,
+                "width": 132
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "BACK TO TOP",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 827,
+                "y": 6017
+            },
+            "size": {
+                "height": 41,
+                "width": 142
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

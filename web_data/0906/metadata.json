@@ -1,0 +1,514 @@
+{
+    "title": "Zimbio - Entertainment News, Celebrity News, Celebrity Photos & Videos",
+    "url": "zimbio.com",
+    "full_url": "https://zimbio.com/",
+    "images": [
+        {
+            "alt": "TheBestPerformancesInMoviesNobodyTalksAbout",
+            "location": {
+                "x": 4,
+                "y": 165
+            },
+            "size": {
+                "height": 500,
+                "width": 1000
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "EverythingYouNeedToKnowAboutTheLordOfTheRingsTheRingsOfPower",
+            "location": {
+                "x": 4,
+                "y": 165
+            },
+            "size": {
+                "height": 500,
+                "width": 1000
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TheMostCringeWorthyRedCarpetLooksFrom2002",
+            "location": {
+                "x": 4,
+                "y": 165
+            },
+            "size": {
+                "height": 500,
+                "width": 1000
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TheGreatestGalleryOfRobinWilliamsThrowbackPhotos",
+            "location": {
+                "x": 4,
+                "y": 165
+            },
+            "size": {
+                "height": 500,
+                "width": 1000
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CelebrityLookAlikeMomsDaughters",
+            "location": {
+                "x": 4,
+                "y": 165
+            },
+            "size": {
+                "height": 500,
+                "width": 1000
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Best Performances In Movies Nobody Talks About",
+            "location": {
+                "x": 24,
+                "y": 696
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Everything You Need To Know About: 'The Lord of the Rings: The Rings of Power'",
+            "location": {
+                "x": 354,
+                "y": 696
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Most Cringe-Worthy Red Carpet Looks From 2002",
+            "location": {
+                "x": 24,
+                "y": 1036
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kurt And Wyatt Russell Team Up For New Monsterverse 'Godzilla' Series",
+            "location": {
+                "x": 354,
+                "y": 1036
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Rock's Mom Has A 'Smackdown Room' Shrine Dedicated To Him",
+            "location": {
+                "x": 24,
+                "y": 1748
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Greatest Gallery of Robin Williams Throwback Photos",
+            "location": {
+                "x": 354,
+                "y": 1748
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Celebrity Look-Alike Moms & Daughters",
+            "location": {
+                "x": 684,
+                "y": 1748
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Can You Match The Inspirational Robin Williams Quote To The Movie?",
+            "location": {
+                "x": 24,
+                "y": 2088
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Everything We Know About 'Indiana Jones 5'",
+            "location": {
+                "x": 354,
+                "y": 2088
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Actors Who've Been In Both Marvel And Lord of the Rings/Hobbit Movies",
+            "location": {
+                "x": 684,
+                "y": 2088
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ryan Gosling Has Been Making The Same Face On The Red Carpet For 20 Years",
+            "location": {
+                "x": 24,
+                "y": 2781
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'The Office' Cast: Then & Now",
+            "location": {
+                "x": 354,
+                "y": 2781
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Official 'House Of The Dragon' Trailer Goes Heavy On The Fire-Breathers",
+            "location": {
+                "x": 684,
+                "y": 2781
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'The Dark Knight Rises' 10 Years Later: Tom Hardy's Bane Voice Still Rings Out",
+            "location": {
+                "x": 24,
+                "y": 3120
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "You Won't Be Able to Name These 100 Disney Characters in 5 Minutes",
+            "location": {
+                "x": 354,
+                "y": 3120
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Paul Newman And Joanne Woodward's Marriage In Photos",
+            "location": {
+                "x": 684,
+                "y": 3120
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Heath Ledger Was 'Instrumental' To Rose Byrne's Career, And Other Aussie Actors, Too",
+            "location": {
+                "x": 24,
+                "y": 3813
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Most Messed-Up Animated Movie Moments",
+            "location": {
+                "x": 354,
+                "y": 3813
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "There's 'Quite A Bit Missing' Of Emilia Clarke's Brain Following Aneurysms",
+            "location": {
+                "x": 684,
+                "y": 3813
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The 'Lost' Cast: Then & Now",
+            "location": {
+                "x": 24,
+                "y": 4179
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ben Affleck And Jennifer Lopez Then And Now",
+            "location": {
+                "x": 354,
+                "y": 4179
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Five Things To Watch When You're Done Binging 'Stranger Things' Again",
+            "location": {
+                "x": 684,
+                "y": 4179
+            },
+            "size": {
+                "height": 200,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 898,
+                "y": 9
+            },
+            "size": {
+                "height": 38,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "Entertainment news, the largest celebrity photo collection, movies, TV, music & polls for the pop culture obsessed.",
+    "navbar": "TV\nMOVIES\nPOP CULTURE\nSTREAMING\nQUIZZES\nPHOTOS",
+    "text": "TV\nMOVIES\nPOP CULTURE\nSTREAMING\nQUIZZES\nPHOTOS\nEverything You Need To Know About: 'The Lord of...\nPHOTO SPECIALS\nThe Best Performances In Movies Nobody Talks About\nTV NEWS\nEverything You Need To Know About: 'The Lord of the Rings: The Rings of Power'\nPHOTO SPECIALS\nThe Most Cringe-Worthy Red Carpet Looks From 2002\nMOVIE NEWS\nKurt And Wyatt Russell Team Up For New Monsterverse 'Godzilla' Series\nEverything We Know About 'Indiana Jones 5'\nHarrison Ford, who'll be de-aged for part of the film, is never giving up the role. \"I'm Indiana Jones. When I'm gone, he's gone. It's easy.\"\nCELEB NEWS\nThe Rock's Mom Has A 'Smackdown Room' Shrine Dedicated To Him\nPHOTO SPECIALS\nThe Greatest Gallery of Robin Williams Throwback Photos\nPHOTO SPECIALS\nCelebrity Look-Alike Moms & Daughters\nTRIVIA QUIZ\nCan You Match The Inspirational Robin Williams Quote To The Movie?\nMOVIE NEWS\nEverything We Know About 'Indiana Jones 5'\nPHOTO SPECIALS\nActors Who've Been In Both Marvel And Lord of the Rings/Hobbit Movies\nActors Who've Been In Both Marvel And Lord of the Rings/Hobbit Movies\nIt's no coincidence there's so much crossover among the biggest franchises in the world — these guys are good.\nPHOTO SPECIALS\nRyan Gosling Has Been Making The Same Face On The Red Carpet For 20 Years\nPHOTO SPECIALS\n'The Office' Cast: Then & Now\nTRAILER WATCH\nOfficial 'House Of The Dragon' Trailer Goes Heavy On The Fire-Breathers\nMOVIE ANNIVERSARIES\n'The Dark Knight Rises' 10 Years Later: Tom Hardy's Bane Voice Still Rings Out\nTRIVIA QUIZ\nYou Won't Be Able to Name These 100 Disney Characters in 5 Minutes\nPHOTO SPECIALS\nPaul Newman And Joanne Woodward's Marriage In Photos\nRyan Gosling Has Been Making The Same Face On The Red Carpet For 20 Years\nNo one's complaining.\nCELEB NEWS\nHeath Ledger Was 'Instrumental' To Rose Byrne's Career, And Other Aussie Actors, Too\nPHOTO SPECIALS\nThe Most Messed-Up Animated Movie Moments\nCELEB NEWS\nThere's 'Quite A Bit Missing' Of Emilia Clarke's Brain Following Aneurysms\nPHOTO SPECIALS\nThe 'Lost' Cast: Then & Now\nPHOTO SPECIALS\nBen Affleck And Jennifer Lopez Then And Now\nBEYOND THE TUBE\nFive Things To Watch When You're Done Binging 'Stranger Things' Again\nNewsletter Sign Up\nLIVINGLY MABEL + MOXIE LONNY STYLEBISTRO IT‘S ROSY ZIMBIO\nCONTACT US     ADVERTISE     SITEMAP     EU Users: Click here to revoke your choice. California Notice / Do Not Sell My Personal Information     TERMS OF SERVICE     PRIVACY POLICY     Copyright © 2022 - Livingly Media, Inc., part of Recurrent Ventures, Inc.",
+    "font": "\"Proxima Nova\", helvetica, arial, verdana, sans-serif",
+    "buttons": []
+}

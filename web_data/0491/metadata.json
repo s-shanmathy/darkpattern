@@ -1,0 +1,712 @@
+{
+    "title": "HashThemes - Free & Premium WordPress Themes, Templates & Plugins Store",
+    "url": "hashthemes.com",
+    "full_url": "https://hashthemes.com/",
+    "images": [
+        {
+            "alt": "HashThemes - WordPress Themes",
+            "location": {
+                "x": 30,
+                "y": 20
+            },
+            "size": {
+                "height": 45,
+                "width": 263
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HashThemes",
+            "location": {
+                "x": -70,
+                "y": 309
+            },
+            "size": {
+                "height": 334,
+                "width": 627
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Total",
+            "location": {
+                "x": 61,
+                "y": 1673
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Viral Mag",
+            "location": {
+                "x": 704,
+                "y": 1673
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Viral News",
+            "location": {
+                "x": 61,
+                "y": 2025
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Viral Pro",
+            "location": {
+                "x": 382,
+                "y": 1903
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SquarePress",
+            "location": {
+                "x": 704,
+                "y": 2025
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Totally",
+            "location": {
+                "x": 61,
+                "y": 2377
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Square Plus",
+            "location": {
+                "x": 382,
+                "y": 2255
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SantaMas",
+            "location": {
+                "x": 704,
+                "y": 2377
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HashOne",
+            "location": {
+                "x": 61,
+                "y": 2728
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Square",
+            "location": {
+                "x": 382,
+                "y": 2606
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Viral",
+            "location": {
+                "x": 704,
+                "y": 2728
+            },
+            "size": {
+                "height": 250,
+                "width": 259
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Loading",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Daria S",
+            "location": {
+                "x": 735,
+                "y": 4430
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CookieYes Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "🎄",
+            "location": {
+                "x": 60,
+                "y": 979
+            },
+            "size": {
+                "height": 17,
+                "width": 17
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "🎄",
+            "location": {
+                "x": 80,
+                "y": 979
+            },
+            "size": {
+                "height": 17,
+                "width": 17
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "🎁",
+            "location": {
+                "x": 280,
+                "y": 979
+            },
+            "size": {
+                "height": 17,
+                "width": 17
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "🎁",
+            "location": {
+                "x": 299,
+                "y": 979
+            },
+            "size": {
+                "height": 17,
+                "width": 17
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "🔥",
+            "location": {
+                "x": 713,
+                "y": 979
+            },
+            "size": {
+                "height": 17,
+                "width": 17
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "First",
+            "type": "text",
+            "location": {
+                "x": 30,
+                "y": 4183
+            },
+            "size": {
+                "height": 38,
+                "width": 305
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Last",
+            "type": "text",
+            "location": {
+                "x": 361,
+                "y": 4183
+            },
+            "size": {
+                "height": 38,
+                "width": 305
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email *",
+            "type": "email",
+            "location": {
+                "x": 30,
+                "y": 4287
+            },
+            "size": {
+                "height": 38,
+                "width": 636
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Name *",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            80,
+            117,
+            235
+        ],
+        [
+            85,
+            121,
+            235
+        ]
+    ],
+    "desc": "We are HashThemes - a professional WordPress themes, templates and plugin store with more than 800,000+ happy clients.",
+    "navbar": "",
+    "text": "HashThemes\nVIRAL PRO\nA Premium Magazine WordPress Theme\nOne Click Demo Importer with 14+ Demos\nElementor & Customzer Ready\n50+ News/Magazine Block Styles\n20+ Custom Built Widgets for Magazine Website\nMultiple Stylish Archive Layouts\nMultiple Stylish Post Layouts\nMultiple Header Styles\nBuilt in Mega Menu\nBUY NOWTRY FREE VERSION  \nWHY CHOOSE OUR THEMES\nCODING STANDARDS\nWe strictly follow WordPress guidelines while coding and designing our Themes/Plugins. So, they are very secure.\nLATEST TECHNOLOGY\nImplementation of the latest web technology is always our priority. We ensure that our theme does not lag behind.\nRESPONSIVE DESIGN\nWe design responsive & mobile friendly website that adapts to any screen size of any device with beautiful viewing experience.\nSEO OPTIMIZED\nWe create best coding practices in mind to optimize web page and content, which is easily discovered by the users.\nAWESOME SUPPORT\nOur support staff are always available to help you. Either it be a free or premium, we ensure that your problem is solved asap.\nHIGHLY CUSTOMIZABLE\nAll our Themes/Plugins have dozens of configuration options via Customizer. No coding knowledge required at all.\nTotal\n$65.00\nViral Mag\nFREE\nViral News\nFREE\nViral Pro\n$69.00\nSquarePress\nFREE\nTotally\nFREE\nSquare Plus\n$65.00\nSantaMas\nFREE\nHashOne\nFREE\nSquare\nFREE\nViral\nFREE\n1\nWE PLAN\nWe sit and make a plan before we start the project\n2\nWE DESIGN\nWhen the plan is ready we design the work together\n3\nWE DEPLOY\nWhen the design is ready we deploy the total process\nOUR SERVICES\nWORDPRESS CUSTOM THEME DEVELOPMENT\nWORDPRESS CUSTOM PLUGIN DEVELOPMENT\nWORDPRESS CUSTOMIZATION\nWe entertain any query regarding the Themes, Customization, Quote Request\nName *\nFirst\nLast\nEmail *\nPlease use the correct email. We will contact you back in your added email If required.\nMessage *\nPlease be more descriptive.\nSubmit\nTESTIMONIALS\nBeautiful and Clean Theme\nThe theme has a good design and is very easy to use. The theme looks very professional and i am really happy to use it.\nI have tried several paid and un-paid themes well trying to find the best one to represent my online presence. I have to say, Square has to be my favorite hands down.\n- Alan C\nPrivacy PolicyTerms and Conditions\n© 2023 HashThemes. All Right Reserved.\nWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit \"Cookie Settings\" to provide a controlled consent.\nCookie Settings\nAccept All\nChristmas Pre Sale !!! Get 40% off. Hurry Up !!! Limited Time Peroid !!! Coupon Code: HOLIDAY",
+    "font": "Poppins, sans-serif",
+    "iframes": [
+        {
+            "title": "reCAPTCHA",
+            "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LfuqIEUAAAAAIP7Gv8lF3SvZLlB8QB4YGmfXZPY&co=aHR0cHM6Ly9oYXNodGhlbWVzLmNvbTo0NDM.&hl=en&v=5qcenVbrhOy8zihcc2aHOWD4&size=invisible&cb=6ya68most852",
+            "location": {
+                "x": 954,
+                "y": 950
+            },
+            "size": {
+                "height": 60,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Submit",
+            "bg-color": "rgba(68, 118, 243, 1)",
+            "location": {
+                "x": 30,
+                "y": 4559
+            },
+            "size": {
+                "height": 47,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,485 @@
+{
+    "title": "TV Guide, TV Listings, Streaming Services, Entertainment News and Celebrity News - TV Guide",
+    "url": "tvguide.com",
+    "full_url": "https://www.tvguide.com/",
+    "images": [
+        {
+            "alt": "gettyimages-1313131404-1600x900.jpg",
+            "location": {
+                "x": 465,
+                "y": 262
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Walmart",
+            "location": {
+                "x": 465,
+                "y": 346
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Showtime",
+            "location": {
+                "x": 465,
+                "y": 430
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Prime Video",
+            "location": {
+                "x": 465,
+                "y": 502
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Horseifan Fard and Harrison Ford, 1923",
+            "location": {
+                "x": 566,
+                "y": 262
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Zion Moreno and Savannah Lee Smith, Gossip Girl",
+            "location": {
+                "x": 566,
+                "y": 334
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Anna Diop, Nanny",
+            "location": {
+                "x": 566,
+                "y": 406
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Florence Pugh and Kila Lord Cassidy, The Wonder",
+            "location": {
+                "x": 566,
+                "y": 478
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Lisette Olivera and Harvey Keitel, National Treasure: Edge of History",
+            "location": {
+                "x": 566,
+                "y": 550
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Taye Diggs, Back in the Groove",
+            "location": {
+                "x": 566,
+                "y": 622
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Lindsay Lohan, Falling for Christmas",
+            "location": {
+                "x": 719,
+                "y": 262
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Muppets Christmas Carol",
+            "location": {
+                "x": 719,
+                "y": 346
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Reno 911! It's a Wonderful Heist",
+            "location": {
+                "x": 719,
+                "y": 418
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Lindsay Lohan and Chord Overstreet, Falling for Christmas",
+            "location": {
+                "x": 719,
+                "y": 490
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Lindsay Lohan, Falling for Christmas",
+            "location": {
+                "x": 719,
+                "y": 562
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Kevin Costner, Yellowstone",
+            "location": {
+                "x": 790,
+                "y": 262
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Kevin Costner, Yellowstone",
+            "location": {
+                "x": 790,
+                "y": 346
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Harrison Ford and Helen Mirren, 1923",
+            "location": {
+                "x": 790,
+                "y": 418
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Jefferson White and Eden Brolin, Yellowstone",
+            "location": {
+                "x": 790,
+                "y": 502
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cole Hauser, Yellowstone",
+            "location": {
+                "x": 790,
+                "y": 586
+            },
+            "size": {
+                "height": 48,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Best Performances 2022",
+            "location": {
+                "x": 24,
+                "y": 342
+            },
+            "size": {
+                "height": 263,
+                "width": 468
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kelly Reilly and Cole Hauser, Yellowstone",
+            "location": {
+                "x": 516,
+                "y": 342
+            },
+            "size": {
+                "height": 125,
+                "width": 222
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Best Episodes 2022",
+            "location": {
+                "x": 516,
+                "y": 608
+            },
+            "size": {
+                "height": 125,
+                "width": 222
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search TV Shows and Movies...",
+            "type": "text",
+            "location": {
+                "x": 72,
+                "y": 149
+            },
+            "size": {
+                "height": 32,
+                "width": 426
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            24,
+            24,
+            24
+        ],
+        [
+            240,
+            240,
+            240
+        ]
+    ],
+    "desc": "Find local TV listings, watch full episodes of your favorite TV Shows and read the latest breaking news on TV shows, celebrities and movies.",
+    "navbar": "Live TV\nStreaming\nRecommendations\nNews",
+    "text": "Live TV\nStreaming\nRecommendations\nNews\nJoin/Sign In\nDiscover what to watch today\nGet recommendations across all your streaming services and live TV\nThe 20 Best TV Performances of 2022\nThese stars held our attention\n17 Shows and Movies Like Yellowstone to Watch Between Season 5 Episodes\nThe 20 Best TV Episodes of 2022\nTV and Movie Recommendations\nHand-picked recommendations to watch right now\nAmazon Prime Video Top 10 Shows and Movies: New Releases and Most Popular Today, December 7\nTim Surette 1 hour ago\nThe 20 Best TV Performances of 2022\nTV Guide Editors 5 hours ago\nNetflix Top 10 Shows and Movies: New Releases and Trending Today, December 6\nLiam Mathews 1 day ago\nAmazon Prime Video Top 10 Shows and Movies: New Releases and Most Popular Today, December 6\nTim Surette 1 day ago\nLatest TV News\nThe latest TV and streaming headlines\n2022-23 TV Scorecard: Which Shows Are Canceled? Which Are Renewed?\nTV Guide Editors 1 day ago\nGinny & Georgia Season 2: Release Date, Cast, Storyline, and Everything to Know\nTmera Hepburn 1 day ago\nSeverance Season 2: Cast, Release Date, and Everything You Need to Know\nAllison Picurro 2 days ago\nYellowstone Recap: A Vegan Ruins Dinner in Season 5's Best Episode Yet\nLauren Piester 2 days ago\nRossi Gets His Groove Back in This Exclusive Criminal Minds: Evolution Sneak Peek\nMegan Vick 6 days ago\nThe CW Reveals Return Dates for Walker, The Winchesters, All American, and More\nMegan Vick 1 week ago\nLifetime's Christmas Movie Schedule 2022\nTmera Hepburn 1 week ago\nUltimate Christmas and Holiday Movies and Specials Guide 2022\nTmera Hepburn 1 week ago\nTV and Movie Reviews\nThe verdict on new shows and movies\nEmancipation Review: Will Smith Drama Is a Brutal but Gripping Look at the Horrors of Slavery\nJordan Hoffman 6 days ago\nGuillermo del Toro's Pinocchio Review: Imaginative Stop-Motion Animation Gives a Classic New Legs\nJordan Hoffman 1 week ago\nThe Walking Dead Series Finale Review: An Era-Defining Show Gets a Sentimental Funeral\nLiam Mathews Nov 21, 2022\nGlass Onion Review: Terrifically Entertaining Knives Out Sequel Is as Sharp as Ever\nJordan Hoffman Nov 21, 2022\nWednesday Review: The Netflix Algorithm Ate Wednesday Addams\nKelly Connolly Nov 18, 2022\nWelcome to Chippendales Review: Kumail Nanjiani Leads Juicy Strip-Club Saga\nMatthew Jacobs Nov 17, 2022\nA Christmas Story Christmas Review: Nostalgic Holiday Sequel Might Make You Shoot Your Eye Out\nMatthew Jacobs Nov 15, 2022\nTulsa King Review: Yellowstone Meets The Sopranos in Taylor Sheridan's Mafia Dramedy\nLiam Mathews Nov 11, 2022\nPopular Movies\nSee All Movies\nDolly Parton's Mountain Magic Christmas\n1 Hr 34 Mins\nA country/western singer on a trip through the Tennessee mountains runs into a reclusive backwoodsman--and a witch.\n2022 Music, Other\nWatchlist\nWhere To Watch\nFit for Christmas\n2 Hr 0 Mins\nA fitness instructor at a community center begins a holiday romance with a charming businessman.\n2022 NR Drama, Other\nWatchlist\nWhere To Watch\nThe Fallout\n1 Hr 32 Mins\nThis drama written and directed by Megan Park sees the devastating effects of a school shooting on a group of high school students. Brooding Vada (Jenny Ortega), Vada's larger-than-life gay best friend Nick (Will Ropp), and semi-famous Youtuber Mia (Maddie Ziegler) all try to compute what has happened, whilst attempting to piece together their lives during their fragile and soul-searching teenage years. Niles Fitch, Lumi Pollack, and Julie Bowen co-star.\n84\n  Metascore\n2021 R Drama, Other\nWatchlist\nWhere To Watch\nIt's a Wonderful Life\n2 Hr 10 Mins\nGeorge Bailey, a decent small-town banker learns what life would have been like if he'd never been born after he unwittingly becomes involved in a mistaken case of bank fraud, which threatens his spirit and tests his will to live.\n89\n  Metascore\n1946 PG Drama, Comedy, Other\nWatchlist\nWhere To Watch\nNational Lampoon's Christmas Vacation\n1 Hr 37 Mins\nFamily man Clark Griswold is determined to stay at home and provide a warm, fun-filled Christmas for his family. But life has a way of throwing wet logs on his fire.\n49\n  Metascore\n1989 PG13 Comedy, Other\nWatchlist\nWhere To Watch\nI Heard the Bells\n1 Hr 50 Mins\nThe heartwarming tale of Henry Wadsworth Longfellow, writer of the beloved carol 'I Heard the Bells.'\n2022 NR Drama, Fantasy, Other\nWatchlist\nWhere To Watch\nPopular Shows\nSee All Shows\nYellowstone\n5 Seasons\nAn epic drama about the Dutton family, who controls the largest contiguous ranch in the U.S., which is under constant encroachment by those it borders. It is an intense study of a world far from media scrutiny—where land grabs make developers billions, and politicians are bought and sold by the world's largest oil and lumber corporations.\n57\n  Metascore\n2018 TVMA Drama, Other\nWatchlist\nWhere To Watch\nGood Morning America\n2022 Seasons\nAn early-morning series mixes news, interviews, entertainment and lifestyle features.\n1975 Talk & Interview, Other\nWatchlist\nWhere To Watch\nFBI\n5 Seasons\nA crime drama that chronicles the exploits of the New York office of the FBI.\n57\n  Metascore\n2013 TV14 Drama, Suspense, Other\nWatchlist\nWhere To Watch\nThe Voice\n22 Seasons\nSingers square off for a coveted recording contract in this reality talent contest. Four vocal coaches mentor the contestants in three distinct competition phases: the blind auditions, the battle phase and, lastly, the live-performance phase.\n61\n  Metascore\n2011 TVPG Reality, Game Show, Other\nWatchlist\nWhere To Watch\nHow the Grinch Stole Christmas\nThis made-for-TV Christmas special is a classic. Based on a Dr. Seuss book, it is about a Christmas-hating Grinch who wants to make everyone as miserable on Christmas as he is. The poor, small-hearted Scrooge learns the true meaning of Christmas through the loving Whos in Whoville.\n1966 TVG Events & Specials, Family, Kids, Other\nWatchlist\nWhere To Watch\nKelly Clarkson Presents: When Christmas Comes Around\n\"The Voice\" coach and Emmy and Grammy Award-winning talk show host Kelly Clarkson hosts a holiday special featuring music performances, exciting duets and special guests while she shares her traditions and gives back to those in need.\n2021 TVPG Music, Events & Specials, Other\nWatchlist\nWhere To Watch\nLive Sports\nHow to watch your favorite teams and matchups live\nHow to Watch 2022 NCAA DI Women's Volleyball Tournament\nRaymond McCain 3 hours ago\nHow to Watch NFL Week 14 Games Live Without Cable\nRaymond McCain 22 hours ago\nHow to Watch 2022 FIFA World Cup Qatar Replays for Free\nRaymond McCain 22 hours ago\nHow to Watch 2022 FIFA World Cup Qatar Live Without Cable\nRaymond McCain 22 hours ago\nHow to Watch the NBA Doubleheader on December 6\nRaymond McCain 23 hours ago\nHow to Watch 2022 FIFA World Cup Qatar in Spanish Live Without Cable\nRaymond McCain 1 day ago\nHow to Watch Every NBA Regular Season Game Live Without Cable\nRaymond McCain 1 day ago\nNHL: How to Watch 2022-23 National Regular Season Games Live Without Cable\nRaymond McCain 1 day ago\nTV and Streaming Deals\nGet the most for your money\nAmazon Prime Video: She Said Is Now Available To Stream\nRudie Obias 1 hour ago\nDisney+ Price Hike: Last Chance to Lock in Current Pricing to Save $30\nJess Barnes 3 hours ago\nRoku Streaming Devices and Soundbars are on Sale at Amazon — Save Up to Nearly 40 Percent\nRudie Obias 4 hours ago\nTV Guide's Holiday Gift Guide: Best Last Minute Gifts\nTV Guide Editors 1 day ago\nTV Guide's Holiday Gift Guide: Best Gifts Under $100\nTV Guide Editors 1 day ago\nTV Guide's Holiday Gift Guide: Best Gifts Under $50\nTV Guide Editors 1 day ago\nTV Guide's Holiday Gift Guide: Best Gifts Under $25\nTV Guide Editors 1 day ago\nStreaming Deal: Get Paramount Plus For Free with a Walmart Plus Membership — Save $5/Mo.\nRudie Obias 2 days ago\nStreaming Service Reviews and Guides\nEverything you need to know to cut the cord\nAmazon Prime Video: Channels, Packages, Pricing, and More\nJon Bitner 23 hours ago\nHow Many Devices Can You Watch Hulu On at the Same Time?\nHedy Phillips 5 days ago\nHulu Live TV Channel List 2022: What Channels Are on Hulu with Live TV?\nTV Guide Editors 5 days ago\nHulu Review 2022: Is Hulu On-Demand Worth It?\nHedy Phillips 5 days ago\nEverything to Know About Streaming Hulu in 4K: How to Watch, Movies and TV Shows, Compatible Devices, and More\nHedy Phillips 5 days ago\nHow Much Does Hulu Cost? Plans, Pricing, Channels, and More in 2022\nHedy Phillips 6 days ago\nHulu Live TV Review 2022: Is Hulu + Live TV Worth The Money?\nLara Vukelich 6 days ago\nHulu + Live TV vs. Hulu On-Demand\nLara Vukelich 6 days ago\nToday's Netflix Top 10 Rankings\nIf You Like This Show...\nThe 100 Best Shows on TV\nRenewed or Canceled?\nEditors Pick Your Next Favorite Show\nABOUT\nAbout TV Guide\nNewsletters\nSitemap\nCareers\nHelp Center\nPOLICIES\nPrivacy Policy\nTerms of Use\nCookie Settings\nDo Not Sell My Information\nGET THE TV GUIDE APP\nApp StoreGoogle Play\nFOLLOW US\n© 2022 TV GUIDE, A FANDOM COMPANY. ALL RIGHTS RESERVED.",
+    "font": "ProximaNova, sans-serif",
+    "buttons": [
+        {
+            "text": "Join/Sign In",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 916,
+                "y": 149
+            },
+            "size": {
+                "height": 32,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 1361,
+                "y": 158
+            },
+            "size": {
+                "height": 40,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 24,
+                "y": 6046
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(216, 43, 78, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 38,
+                "width": 164
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "title": "Queenspeople.com",
+    "url": "queenspeople.com",
+    "full_url": "https://queenspeople.com/",
+    "images": [
+        {
+            "alt": "networksolutions",
+            "location": {
+                "x": 830,
+                "y": 12
+            },
+            "size": {
+                "height": 50,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            16,
+            22,
+            44
+        ],
+        [
+            26,
+            35,
+            65
+        ],
+        [
+            77,
+            86,
+            115
+        ]
+    ],
+    "text": "Queenspeople.com\nThis Page Is Under Construction - Coming Soon!\nWhy am I seeing this 'Under Construction' page?\nRelated Searches:\nfind a tutor\nsong lyrics\nBest Mortgage Rates\nAccident Lawyers\nCheap Air Tickets\nTrademark Free Notice Review our Privacy Policy Service Agreement Legal Notice\nPrivacy Policy",
+    "font": "montserrat-regular, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://pxlgnpgecom-a.akamaihd.net/javascripts/bfp_ssn.js?templateId=10",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

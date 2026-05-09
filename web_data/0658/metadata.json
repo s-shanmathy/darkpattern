@@ -1,0 +1,495 @@
+{
+    "title": "Download your instrumental songs in MP3 format - Custom Backing Tracks - Karaoke Version",
+    "url": "karaoke-version.com",
+    "full_url": "https://www.karaoke-version.com/",
+    "images": [
+        {
+            "alt": "Logo Karaoke Version",
+            "location": {
+                "x": 15,
+                "y": -12
+            },
+            "size": {
+                "height": 128,
+                "width": 128
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "View cart",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "video",
+            "location": {
+                "x": 103,
+                "y": 2717
+            },
+            "size": {
+                "height": 16,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "video",
+            "location": {
+                "x": 428,
+                "y": 2717
+            },
+            "size": {
+                "height": 16,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "video",
+            "location": {
+                "x": 103,
+                "y": 2781
+            },
+            "size": {
+                "height": 16,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "video",
+            "location": {
+                "x": 428,
+                "y": 2781
+            },
+            "size": {
+                "height": 16,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "video",
+            "location": {
+                "x": 103,
+                "y": 2846
+            },
+            "size": {
+                "height": 16,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "video",
+            "location": {
+                "x": 428,
+                "y": 2846
+            },
+            "size": {
+                "height": 16,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook logo",
+            "location": {
+                "x": 26,
+                "y": 4372
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "VISA",
+            "location": {
+                "x": 26,
+                "y": 4591
+            },
+            "size": {
+                "height": 20,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mastercard",
+            "location": {
+                "x": 60,
+                "y": 4591
+            },
+            "size": {
+                "height": 20,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "paypal",
+            "location": {
+                "x": 94,
+                "y": 4591
+            },
+            "size": {
+                "height": 20,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "american express",
+            "location": {
+                "x": 128,
+                "y": 4591
+            },
+            "size": {
+                "height": 20,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Japan Credit Bureau",
+            "location": {
+                "x": 162,
+                "y": 4591
+            },
+            "size": {
+                "height": 20,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search a song, artist...",
+            "type": "text",
+            "location": {
+                "x": 199,
+                "y": 145
+            },
+            "size": {
+                "height": 40,
+                "width": 256
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            51,
+            51,
+            51
+        ]
+    ],
+    "desc": "Download more than 66,000 playback instrumentals in MP3 format and customize your karaoke songs",
+    "navbar": "Log in\nPassword lost?\nSign up\nHelp",
+    "text": "Log in\nPassword lost?\nSign up\nHelp\nDownload it, sing it.\nYour No.1 source for MP3 instrumental tracks\nCUSTOM BACKING TRACK\nVOCAL BACKING TRACK\nCDG VIDEO KARAOKE\nCUSTOM KARAOKE\nGUITAR\nDRUMS\nBASS\nPIANO\n                                                                    Custom backing track\n                                                                    Vocal backing track\n                                                                    Cdg video karaoke\n                                                                    Custom karaoke\n                                                                    Guitar\n                                                                    Drums\n                                                                    Bass\n                                                                    Piano\n                                                             Search a song, artist...\nAdvanced Search\nYour shopping cart is empty.\nKaraoke Version exclusive catalog is constantly evolving! Help us choose the next tracks to produce\nCustom Backing Track\nPlay exactly what you want for $2.99\nCreate your own remix of iconic songs: change the key, adjust the different instrumental tracks, add or remove lead and backing vocals and download your custom song in MP3 format.\nDISCOVER THE CUSTOM BACKING TRACK\nMost popular Custom Backing Tracks\nMP3\nAll I Want for Christmas Is You\nMariah Carey\nMP3\nRockin' Around the Christmas Tree\nBrenda Lee\nMP3\nLast Christmas\nWham!\nMP3\nJingle Bell Rock\nBobby Helms\nMP3\nFeliz Navidad\nJosé Feliciano\nMP3\nThe Christmas Song (Merry Christmas to You)\nNat King Cole\nSee all top Custom Backing Tracks\nLatest Custom Backing Tracks\nMP3\nSweet Caroline\nThe Overtones\nMP3\nMerry Christmas from the Family (live)\nRobert Earl Keen\nMP3\nDrinkin' Dark Whiskey\nThe SteelDrivers\nMP3\nOpening Theme\nFraggle Rock\nMP3\nThe Thanksgiving Song (live)\nAdam Sandler\nMP3\nFuck the Pain Away\nPeaches\nSee all new releases\nMost popular styles\nChristmas\nPop\nRock\nDisco\nCountry\nSoul\nFunk\nRock & Roll\nSynthpop\nJazz\nFilm & TV Soundtracks\nHard Rock & Metal\nView all genres\nTop Artists\nMichael Bublé\nTaylor Swift\nCarrie Underwood\nMariah Carey\nKelly Clarkson\nFrank Sinatra\nBing Crosby\nElvis Presley\nThe Carpenters\nLuke Combs\nSee all artists\nVocal Backing Track\nSing the way you want for $1.99\nKeep only the lead and/or backing vocals, or pick the instrumental version only of any of our tracks that sound just like the originals. You choose what works for you and all that's left is to download it!\nDISCOVER THE VOCAL BACKING TRACK\nSee most popular Vocal Backing Tracks\nMP3\nAll I Want for Christmas Is You\nMariah Carey\nMP3\nRockin' Around the Christmas Tree\nBrenda Lee\nMP3\nLast Christmas\nWham!\nMP3\nMade You Look\nMeghan Trainor\nMP3\nThe Christmas Song (Merry Christmas to You)\nNat King Cole\nMP3\nFeliz Navidad\nJosé Feliciano\nSee all the top Vocal Backing Tracks\nLatest Vocal Backing Tracks\nSweet Caroline\nThe Overtones\nLavender Haze\nTaylor Swift\nWould've, Could've, Should've\nTaylor Swift\nSee all\nTop Artists\nDean Martin\nBrenda Lee\nMartina McBride\nMeghan Trainor\nThe Polar Express\nMorgan Wallen\nNat King Cole\nChris Stapleton\nHardy\nElton John\nSee all artists\nVideo Karaoke\nSing alone or all together for $2.99\nWhether you like singing or hosting karaoke parties, enjoy thousands of songs from our catalog. Just choose your style, download your video and sing along with your favorite songs.\nDISCOVER VIDEO KARAOKE\nMost Popular Video Karaoke\nAll I Want for Christmas Is You\nMariah Carey\nRockin' Around the Christmas Tree\nBrenda Lee\nLast Christmas\nWham!\nMade You Look\nMeghan Trainor\nLift Me Up\nRihanna\nThe Christmas Song\nNat King Cole\nSee all Karaoke Songs\nTop Artists\nAndy Williams\nTyler Childers\nIdina Menzel\nRihanna\nEd Sheeran\nGeorge Michael\nLainey Wilson\nAshley McBryde\nAdele\nBeyoncé\nSee all artists\nCustom Karaoke\nCustomize your favorite song for $9.99\nGive THE perfect gift to your loved ones and make any event unforgettable by creating a song just for them. Choose from thousands of songs in our catalog, let your creativity run wild, change the lyrics and download your cutomized karaoke video.\nDISCOVER THE CUSTOM KARAOKE\nInstrumental Versions\nMaster any song for $1.99\nGuitar, bass, piano or drums... choose your favorite instrument and practice as much as you want with our instrumental versions.\nGUITAR\nDRUMS\nBASS\nPIANO\nAt Karaoke Version, we're all ears.\nSuggest and vote for the songs you want to be produced!\nSuggest and vote for the next song to be added to our catalog! The more votes there are, the more likely the song will be produced in our studio. Leave us your email and we'll notify you when it becomes available!\nIn production\nI Don't Know What Christmas Is (But Christmas Time Is Here)\nThe Guardians of the Galaxy Holiday Special (Old 97's)\nUnredeemable\nSpirited\nDo a Little Good\nSpirited\nSee all playbacks in production\nMost popular suggestions\nDo You Hear What I Hear?\nAndrea Bocelli, Matteo Bocelli, Virginia Bocelli and David Swinson\nPresent's Lament\nSpirited\nRipple (Cut Song)\nSpirited\nWelcome to the Black Parade (My Chemical Romance New Orleans Marching Band)\nPostmodern Jukebox (feat. Joey Cook)\nWay Down Hadestown\nHadestown (musical)\nWhole Lotta Love (live The Song Remains The Same 1976)\nLed Zeppelin\nSee all suggestions\nSUGGEST A SONG\nCatalog Link to us Affiliation Press Information\nBlog Copyright About us\nKaraoke Version\nAll MP3 instrumental tracks\nInstrumentals on demand\nLatest MP3 instrumental tracks\nMP3 instrumental tracks\nFree karaoke files\nInstrument Backing Tracks\nGuitar Backing Tracks\nBass Backing Tracks\nDrum Backing Tracks\nPiano Backing Tracks\nNew Custom Accompaniment Tracks\nFree Custom Backing Tracks\nKaraoke Songs\nKaraoke catalog\nNew video karaoke files\nFree karaoke\nHelp Center\nGetting started\nDownloading\nContact us\nSecure Payment\nChange language / currency\nCopyright © 2004-2022, Recisio - All rights reserved\nIndividual Licensing Agreement Terms of service Privacy policy",
+    "font": "Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 36,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Search a song, artist...",
+            "bg-color": "rgba(12, 94, 176, 1)",
+            "location": {
+                "x": 465,
+                "y": 145
+            },
+            "size": {
+                "height": 40,
+                "width": 41
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 36,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 946,
+                "y": 636
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 36,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 946,
+                "y": 860
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 36,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 946,
+                "y": 1793
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(153, 153, 153, 1)",
+            "location": {
+                "x": 610,
+                "y": 2009
+            },
+            "size": {
+                "height": 20,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(153, 153, 153, 1)",
+            "location": {
+                "x": 610,
+                "y": 2073
+            },
+            "size": {
+                "height": 20,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(153, 153, 153, 1)",
+            "location": {
+                "x": 610,
+                "y": 2137
+            },
+            "size": {
+                "height": 20,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 492,
+                "y": 409
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        }
+    ]
+}

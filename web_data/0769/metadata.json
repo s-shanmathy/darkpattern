@@ -1,0 +1,101 @@
+{
+    "title": "Homepage - New Majority",
+    "url": "newmajority.com",
+    "full_url": "https://newmajority.com/",
+    "images": [
+        {
+            "alt": "New Majority",
+            "location": {
+                "x": 30,
+                "y": 30
+            },
+            "size": {
+                "height": 82,
+                "width": 182
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            13,
+            54,
+            89
+        ],
+        [
+            14,
+            54,
+            90
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "navbar": "",
+    "text": "VICTORIES SPEAKER EVENTS CONTACT\nDISCOVER THE POWER OF DRIVE\nAND INNOVATION\nInnovative, influential, like-minded members, making an impact in politics.\nCreate Change. Make a Difference.\nwhat we believe in\nNEW MAJORITY\nMISSION\nNew Majority promotes a fiscally responsible philosophy in government and an inclusive mainstream approach towards politics.\nThrough education and contributions, it seeks to inform its membership and contribute resources to Republican and other philosophically aligned candidates and issues that share its mission.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCopyright © 2021 New Majority. All rights reserved. Paid for by the New Majority PAC\n\n\ngambar togel",
+    "font": "\"Proxima N W01 At Reg\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "reCAPTCHA",
+            "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LedLLoZAAAAACLTn-CYQHsi4b5CoLTkql9PaaVn&co=aHR0cHM6Ly9uZXdtYWpvcml0eS5jb206NDQz&hl=en&v=pn3ro1xnhf4yB8qmnrhh9iD2&size=invisible&cb=diggfq21d1kt",
+            "location": {
+                "x": 939,
+                "y": 768
+            },
+            "size": {
+                "height": 60,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(126, 65, 78, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 145
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

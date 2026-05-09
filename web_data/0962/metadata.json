@@ -1,0 +1,228 @@
+{
+    "title": "The Righteous Mind | Why Good People are Divided by Politics and Religion",
+    "url": "righteousmind.com",
+    "full_url": "https://righteousmind.com/",
+    "images": [
+        {
+            "alt": "The Righteous Mind",
+            "location": {
+                "x": 24,
+                "y": 33
+            },
+            "size": {
+                "height": 33,
+                "width": 290
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The-Righteous-Mind-Cover",
+            "location": {
+                "x": 24,
+                "y": 104
+            },
+            "size": {
+                "height": 375,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "haidt_apa",
+            "location": {
+                "x": 26,
+                "y": 1333
+            },
+            "size": {
+                "height": 217,
+                "width": 314
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "haidt_duke",
+            "location": {
+                "x": 344,
+                "y": 1332
+            },
+            "size": {
+                "height": 219,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ted4_2016",
+            "location": {
+                "x": 662,
+                "y": 1335
+            },
+            "size": {
+                "height": 212,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TED3",
+            "location": {
+                "x": 26,
+                "y": 1555
+            },
+            "size": {
+                "height": 345,
+                "width": 314
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TED2",
+            "location": {
+                "x": 344,
+                "y": 1555
+            },
+            "size": {
+                "height": 345,
+                "width": 314
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TED1",
+            "location": {
+                "x": 662,
+                "y": 1554
+            },
+            "size": {
+                "height": 347,
+                "width": 313
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 842,
+                "y": 12
+            },
+            "size": {
+                "height": 19,
+                "width": 111
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "image",
+            "location": {
+                "x": 962,
+                "y": 16
+            },
+            "size": {
+                "height": 12,
+                "width": 11
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            244,
+            244,
+            244
+        ],
+        [
+            243,
+            243,
+            243
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "navbar": "About The Author\nAbout the Book\nBuy The Book\nApplying Moral Psych\nVideos\nBlog",
+    "text": "About The Author\nAbout the Book\nBuy The Book\nApplying Moral Psych\nVideos\nBlog\nNOTE: This site has not been updated much since 2018. For more recent content please visit TheCoddling.com, and JonathanHaidt.com\nRecent Posts:\nWhy The Righteous Mind may be the best common reading for incoming college students\nHow not to improve the moral ecology of campus\nHow the Democrats Can Use Moral Foundations Theory Against Trump\nThe politics of disgust animated for the age of Trump\nWhere political identities come from, in one cartoon\nCurrent Projects:\n> Capitalism and Morality\n> Business Ethics\n> Viewpoint Diversity in the Academy\n> Politics, Polarization, and Populism\nRecent Essays:\n> The Fragile Generation (with Lenore Skenazy, in Reason)\n> Why its a bad idea to tell students words are violence (The Atlantic)\n> Trump breaks a taboo–and pays the price (The Atlantic)\n> How to get beyond our tribal politics (Wall St. Journal)\n> When and why nationalism beats globalism (American Interest)\nBill Moyers The Colbert Report",
+    "font": "\"Droid Sans\", Arial, Verdana, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 26,
+                "y": 1048
+            },
+            "size": {
+                "height": 276,
+                "width": 475
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": true
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 502,
+                "y": 1048
+            },
+            "size": {
+                "height": 276,
+                "width": 475
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

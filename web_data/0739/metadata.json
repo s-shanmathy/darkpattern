@@ -1,0 +1,353 @@
+{
+    "title": "Monster Jobs - Job Search, Career Advice & Hiring Resources | Monster.com",
+    "url": "monster.com",
+    "full_url": "https://www.monster.com/",
+    "images": [
+        {
+            "alt": "TRUSTe",
+            "location": {
+                "x": 400,
+                "y": 3547
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search jobs, keywords, companies",
+            "type": "search",
+            "location": {
+                "x": 64,
+                "y": 387
+            },
+            "size": {
+                "height": 80,
+                "width": 401
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter location or “remote”",
+            "type": "search",
+            "location": {
+                "x": 464,
+                "y": 387
+            },
+            "size": {
+                "height": 80,
+                "width": 401
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            34,
+            10,
+            56
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            59,
+            38,
+            96
+        ]
+    ],
+    "desc": "Monster is your source for jobs and career opportunities. Search for jobs, read career advice from Monster's job experts, and find hiring and recruiting advice.",
+    "text": "Skip to content\nHiring?\nPOST A JOB FOR FREE.\nSign up\nLog in\nFind Jobs\nSalary Tools\nCareer Advice\nResume Help\nUpload Resume\nEmployers / Post Job\nSupport for Ukrainian Refugees\nView resources\nFind the right fit.\nUpload Your Resume - Get noticed by top employers!\nPopular Searches\nWork from home\nPart-time\nAdministration\nFinance\nRetail\nIT\nEngineering\nSales\nManufacturing\nJust graduating? We can help.\nVisit the New Grad hub\nSearch salaries by major\nGet a free resume assessment\nSearch entry-level jobs\nTop Career Advice\nBROWSE ADVICE\nASSESSMENTS\n11 awesome free career self assessments\nJOBS\nHow to start looking for a job\nRESUME\nResume samples\nINTERVIEW\n100 top interview questions - be prepared\nGet the app.\nGet the power of Monster on-the-go, featuring one-touch apply.\nPopular in USA\nPopular Job Categories\nPopular Job Titles\nPopular Job Locations\nPopular Job Searches\nUnited States (English)\nFor Job Seekers\nBrowse Jobs\nSalary Tools\nCareer Advice\nCompany Profile\nStudent Career Center\nResume Writing Services\nJobs for Ukrainians\nHelp\nFor Employers\nProducts\nSolutions\nPricing\nResources\nHelp\nHelpful Resources\nAbout Monster\nWork for Monster\nTerms of Use\nPrivacy Center\nSecurity Center\nAccessibility Center\nAdChoices\nDo Not Sell Personal Info\nFind us on social media:\nGet the Monster App\n© 2022 Monster Worldwide\nLooking for Monster Cable?",
+    "font": "\"Proxima Nova\", Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 952,
+                "y": 0
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 952,
+                "y": 180
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(176, 81, 170, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 51,
+                "width": 99
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(176, 81, 170, 1)",
+            "location": {
+                "x": 877,
+                "y": 399
+            },
+            "size": {
+                "height": 56,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Popular Job Categories",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 398,
+                "y": 2467
+            },
+            "size": {
+                "height": 40,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Popular Job Titles",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 418,
+                "y": 2523
+            },
+            "size": {
+                "height": 40,
+                "width": 173
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Popular Job Locations",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 403,
+                "y": 2579
+            },
+            "size": {
+                "height": 40,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Popular Job Searches",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 404,
+                "y": 2635
+            },
+            "size": {
+                "height": 40,
+                "width": 201
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "United States (English)",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 120,
+                "y": 2843
+            },
+            "size": {
+                "height": 40,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "For Job Seekers",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 120,
+                "y": 2923
+            },
+            "size": {
+                "height": 24,
+                "width": 116
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "For Employers",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 400,
+                "y": 2923
+            },
+            "size": {
+                "height": 24,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Helpful Resources",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 681,
+                "y": 2923
+            },
+            "size": {
+                "height": 24,
+                "width": 132
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Do Not Sell Personal Info",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 681,
+                "y": 3211
+            },
+            "size": {
+                "height": 24,
+                "width": 175
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

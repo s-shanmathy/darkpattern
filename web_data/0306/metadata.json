@@ -1,0 +1,201 @@
+{
+    "title": "Official UNISA Website, your favourite brand's website.",
+    "url": "unisa-europa.com",
+    "full_url": "https://www.unisa-europa.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 33,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 33,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 770,
+                "y": 420
+            },
+            "size": {
+                "height": 33,
+                "width": 190
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 33,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 33,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 33,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search here",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            102,
+            102,
+            102
+        ],
+        [
+            20,
+            10,
+            6
+        ],
+        [
+            24,
+            14,
+            9
+        ]
+    ],
+    "desc": "Unisa women's shoes, your Official Online Shoe Shop. You will be able to find your own style in women's shoes with elegant, sophisticated designs.",
+    "text": "España\nAndorra\nAustralia\nBelgië\nBulgaria- България\nCeska Republika\nChina - 中华人民共和国\nDanmark\nDeutschland\nEspaña\nFrance\nGreece - Ελλάδα\nHong Kong - 香港\nHrvatska - Croatia\nHungría-Magyarország\nIreland\nIsrael\nItalia\nLuxembourg\nNetherlands\nNippon\nNorge\nPolska\nPortugal\nRomania\nSchweiz\nSlovenija - Eslovenia\nSlovensko - Eslovaquia\nSouth Korea - 대한민국\nSuomi - Finland\nSweden - Sverige\nTürkiye\nUnited Arab Emirates\nUnited Kingdom\nÖsterreich\nRest of World\nTienda online\nEspañol\nEnglish\nEspañol\nUtilizamos cookies propias y de terceros para analizar los hábitos de navegación, obtener información estadística, mostrarte publicidad personalizada e interactuar con redes sociales. Si aceptas, permites la instalación de dichas cookies en tu dispositivo. También puedes configurar la instalación de las cookies. +info en nuestra Política de cookies.\nCONFIGURAR COOKIES\nACEPTAR Y CERRAR",
+    "font": "montserrat, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "CONFIGURAR COOKIES",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 729,
+                "y": 704
+            },
+            "size": {
+                "height": 58,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "ACEPTAR Y CERRAR",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 909,
+                "y": 704
+            },
+            "size": {
+                "height": 58,
+                "width": 110
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

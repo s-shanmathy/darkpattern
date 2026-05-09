@@ -1,0 +1,99 @@
+{
+    "title": "Free Video Conferencing Software for Web & Mobile | Jitsi",
+    "url": "jitsi.org",
+    "full_url": "https://jitsi.org/",
+    "images": [
+        {
+            "alt": "Jitsi",
+            "location": {
+                "x": 29,
+                "y": 103
+            },
+            "size": {
+                "height": 75,
+                "width": 111
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            58,
+            117,
+            181
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "Learn more about Jitsi, a free open-source video conferencing software for web & mobile. Make a call, launch on your own servers, integrate into your app, and more.",
+    "navbar": "Docs Projects Blog Community About\nDownload",
+    "text": "JaaS: the Team that Builds Jitsi Can Now Also Run it for You! Start now\nJaaS: the Team that Builds Jitsi Can Now Also Run it for You! Start now\nDocs Projects Blog Community About\nDownload\nMore secure, more flexible, and\ncompletely free video conferencing\nLearn more\nSee it in Action! Start a Meeting\nSelf-hosting a fully-featured Jitsi Meet instance just got as easy as pie\nDECEMBER 16, 2022\nHey there Fellow Jitsters! Have you ever considered adding telephony to your Jitsi Meet self-hosted instance? Up until now you only had the option to run Jigasi and deal with telephony yourself. Many of our […]\nRead more\nIntroducing whiteboards in Jitsi Meet\nDECEMBER 1, 2022\nTrying to explain something to someone and they just don’t get it? If an image is worth a thousand words how about a diagram? Today we’re excited to announce the availability of whiteboards in Jitsi […]\nRead more\nLow-latency conference streaming to very large audiences\nNOVEMBER 10, 2022\nJitsi today supports life-streaming conferences to large audiences through our Jibri tool – this tool renders all the media from the conference, and forwards it to a streaming service such as YouTube. This approach works, […]\nRead more\nRead all Blog articles\nThe Tor Project @torproject\nIf you want an alternative to Zoom: try Jitsi Meet. It’s encrypted, open source, and you don’t need an account. Meet Jitsi.\ntmcnet.com @tmcnet\nItalian Schools Using WeSchool Platform Based on 8×8’s Jitsi for Distance Learning.\nLangSciPress @LangSciPress\nSomewhat unexpected, but we now run our own videoconferencing software, #Jitsi It is 100% privacy friendly, 100% open source and runs on our own servers.\nWho is using Jitsi?\nDownload Jitsi today.\nApp Store\nGoogle Play\nF-Droid\nFrequently Asked Questions\nRead More\nAsk the Community\nCheck It Out\nJitsi is a trademark of © 8x8, Inc. All Rights Reserved.",
+    "font": "Roboto, \"Helvetica Neue\", Helvetica, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "App Store",
+            "bg-color": "rgba(0, 0, 0, 0.02)",
+            "location": {
+                "x": 103,
+                "y": 1878
+            },
+            "size": {
+                "height": 50,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Google Play",
+            "bg-color": "rgba(0, 0, 0, 0.02)",
+            "location": {
+                "x": 601,
+                "y": 1878
+            },
+            "size": {
+                "height": 53,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "F-Droid",
+            "bg-color": "rgba(0, 0, 0, 0.02)",
+            "location": {
+                "x": 352,
+                "y": 1951
+            },
+            "size": {
+                "height": 53,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

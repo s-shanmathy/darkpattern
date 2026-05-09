@@ -1,0 +1,524 @@
+{
+    "title": "ActiveState | Secure & Reproducible Python Runtimes",
+    "url": "activestate.com",
+    "full_url": "https://www.activestate.com/",
+    "images": [
+        {
+            "alt": "ActiveState Logo",
+            "location": {
+                "x": 42,
+                "y": 112
+            },
+            "size": {
+                "height": 40,
+                "width": 125
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Checkmark signifying a package building finished.",
+            "location": {
+                "x": 376,
+                "y": 583
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Checkmark signifying a package building finished.",
+            "location": {
+                "x": 376,
+                "y": 626
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Checkmark signifying a package building finished.",
+            "location": {
+                "x": 376,
+                "y": 669
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Checkmark signifying a package building finished.",
+            "location": {
+                "x": 376,
+                "y": 712
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Python",
+            "location": {
+                "x": 180,
+                "y": 1102
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Perl",
+            "location": {
+                "x": 380,
+                "y": 1102
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tcl",
+            "location": {
+                "x": 580,
+                "y": 1102
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ruby",
+            "location": {
+                "x": 780,
+                "y": 1102
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HSBC Logo",
+            "location": {
+                "x": 63,
+                "y": 1221
+            },
+            "size": {
+                "height": 38,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Toyota Logo",
+            "location": {
+                "x": 249,
+                "y": 1202
+            },
+            "size": {
+                "height": 75,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cisco Logo",
+            "location": {
+                "x": 434,
+                "y": 1202
+            },
+            "size": {
+                "height": 75,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Northrop Grumman Logo",
+            "location": {
+                "x": 620,
+                "y": 1221
+            },
+            "size": {
+                "height": 38,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tesco Logo",
+            "location": {
+                "x": 806,
+                "y": 1217
+            },
+            "size": {
+                "height": 46,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter ActiveState",
+            "location": {
+                "x": 514,
+                "y": 4349
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTube ActiveState",
+            "location": {
+                "x": 560,
+                "y": 4349
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook ActiveState",
+            "location": {
+                "x": 604,
+                "y": 4349
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ActiveState Instagram",
+            "location": {
+                "x": 694,
+                "y": 4349
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 56,
+                "y": 548
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 56,
+                "y": 548
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 56,
+                "y": 603
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 56,
+                "y": 603
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 56,
+                "y": 657
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 56,
+                "y": 657
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 56,
+                "y": 712
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 56,
+                "y": 712
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email Address",
+            "type": "email",
+            "location": {
+                "x": 770,
+                "y": 4068
+            },
+            "size": {
+                "height": 40,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 770,
+                "y": 4123
+            },
+            "size": {
+                "height": 42,
+                "width": 125
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            69,
+            69,
+            69
+        ],
+        [
+            50,
+            104,
+            228
+        ]
+    ],
+    "desc": "Ready-to-use open source languages and tools to help coders and teams be more productive. Get the security and license compliance you need.",
+    "navbar": "WHY ACTIVESTATE\nPRODUCTS\nENTERPRISE\nPRICING\nRESOURCES",
+    "text": "Need help with Python 2.7 Extended Lifecycle Support?\nLearn More\nCONTACT SALESSIGN IN\nWHY ACTIVESTATE\nPRODUCTS\nENTERPRISE\nPRICING\nRESOURCES\nFREE ACCOUNT\nSupply Chain Security that Developers Love\n\nThe only secure build service for your open source dependencies across multi-platforms.\nGet StartedSchedule a Demo\nFlask 2.2.1\nFlask-Login 0.6.0\nrequests 2.27.1\nSQLAlchemy 1.4.35\n1\nSelect the packages you need from our trusted catalog.\nBUILD PROGRESS\nFlask 2.21\nFlask-Login 0.6.0\nrequests 2.27.1\nSQLAlchemy 1.4.35\n2\nWe build all dependencies from source, for each OS you need.\n$ state activate my-runtime\nDownloading dependencies...\nActivating environment...\nDone!\n $ flask run\nRunning on http://127.0.0.1:5000/\n3\nYou get a one-line command for easy installation and sharing.\nLoved by open source communities, fit for enterprises\nWhy choose ActiveState for your open source dependencies?\nCurated Catalog\nWith millions of trusted open source components.\nSecure Build Service\nEasily build and consume trusted open source dependencies.\nEnvironment Management\nReproducible, secure runtimes across different operating systems.\nOpen Source Insights\nAll the critical data you need for open source dependencies - including vulnerabilities and license.\nManaged Services\nBuild Gurus help you manage your supply chain end to end.\nLong-Term Support\nFor older versions of open source languages such as Python 2.7.\nGet Started\nSchedule a Demo\nChoose from our open source language lineup\nWe're bringing the same great features to every language we offer\nPython\nChoose from all the latest packages from PyPI and beyond. Trusted and verified.\nDownload Python\nPerl\nThe latest and greatest modules from CPAN are all available for your runtimes.\nDownload Perl\nTcl\nAccess the largest repository of trusted Tcl packages.\nDownload Tcl\nRuby\nA selection of the most popular Gems are available for your runtimes.\nDownload Ruby\n\"ActiveState satisfied the internal needs of both engineering and DevOps. We gain speed, flexibility and engineering time, plus can better manage the risk of products running Python with a uniform and consistent approach.\"\nRaj Behera\nVice President Research and Development\nMSC Software / Hexagon\nLet us show you how it works\nGet a brief demo from one of our experts and see how ActiveState can help your organization manage open source risks & pain points.\nSchedule a Demo\nLanguages & Tools\nActiveState Platform\nState Tool\nPerl\nPython\nTcl\nRuby\nKomodo IDE\nProduct Info\nWhy ActiveState\nEnterprise Solutions\nEnterprise Security\nPlans & Pricing\nActivePython vs Anaconda\nProduct Updates\nProduct Roadmap\nSupport\nContact Support\nService Status\nDocumentation\nFAQs\nCommunity Forum\nKomodo Forum\nVideos\nCompany\nAbout Us\nContact Us\nResellers\nCustomers\nCareers\nLeadership\nPress\nStay Up-To-Date On ActiveState News\nYou can unsubscribe at any time. For more information, consult our Privacy Policy.\n© 2022 ActiveState Software Inc. All rights reserved. ActiveState®, ActivePerl®, ActiveTcl®, ActivePython®, Komodo®, ActiveGo™, ActiveRuby™, ActiveNode™, ActiveLua™, and The Open Source Languages Company™ are all trademarks of ActiveState.\nLegal -Privacy Policy -Accessibility\n×",
+    "font": "\"Open Sans\", sans-serif",
+    "buttons": [
+        {
+            "text": "×",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 979,
+                "y": 764
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.6)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "title": "Podcast | Osterholm Update: COVID-19",
+    "url": "osterholmupdate.com",
+    "full_url": "https://www.osterholmupdate.com/",
+    "images": [
+        {
+            "alt": "Act of Kindness from Sandra",
+            "location": {
+                "x": 34,
+                "y": 762
+            },
+            "size": {
+                "height": 164,
+                "width": 292
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            50,
+            130,
+            162
+        ],
+        [
+            250,
+            253,
+            253
+        ]
+    ],
+    "desc": "The Osterholm Update: COVID-19 podcast features commentary from infectious disease expert Dr. Michael Osterholm on the coronavirus pandemic.",
+    "navbar": "HOME\nABOUT\nPODCAST\nA PANDEMIC OF KINDNESS\nCONTACT",
+    "text": "HOME\nABOUT\nPODCAST\nA PANDEMIC OF KINDNESS\nCONTACT\nLog In\nThe Osterholm Update: COVID-19\nPodcast\nA Pandemic of Kindness\nSubmissions from our Listeners\nAct of Kindness from Sandra\n360\n0\n9 likes. Post not marked as liked\n9\nAct of Kindness from Liane\n185\n0\n6 likes. Post not marked as liked\n6\nAct of Kindness from Michele\n184\n0\n6 likes. Post not marked as liked\n6\nMORE ACTS OF KINDNESS\nAbout the Podcast\nThe Osterholm Update: COVID-19 podcast began in March 2020, as the COVID-19 pandemic began to reach all parts of the globe. Each episode features discussion and analysis on the latest COVID-19 developments by Dr. Michael Osterholm and host Chris Dall.\nLEARN MORE\nWatch our latest live podcast recording on YouTube\nThe Osterholm Update: COVID-19 podcast is created by the Center for Infectious Disease Research and Policy (CIDRAP) at the University of Minnesota.",
+    "font": "Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 666,
+                "y": 1784
+            },
+            "size": {
+                "height": 55,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Log In",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 880,
+                "y": 14
+            },
+            "size": {
+                "height": 38,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 100,
+                "y": 297
+            },
+            "size": {
+                "height": 52,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 884,
+                "y": 297
+            },
+            "size": {
+                "height": 52,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "9 likes. Post not marked as liked\n9",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 271,
+                "y": 1027
+            },
+            "size": {
+                "height": 19,
+                "width": 31
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6 likes. Post not marked as liked\n6",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 595,
+                "y": 1029
+            },
+            "size": {
+                "height": 19,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "6 likes. Post not marked as liked\n6",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 919,
+                "y": 1029
+            },
+            "size": {
+                "height": 19,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

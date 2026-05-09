@@ -1,0 +1,567 @@
+{
+    "title": "Funderstanding: Education, Curriculum and Learning Resources",
+    "url": "funderstanding.com",
+    "full_url": "https://www.funderstanding.com/",
+    "images": [
+        {
+            "alt": "Funderstanding",
+            "location": {
+                "x": 44,
+                "y": 175
+            },
+            "size": {
+                "height": 72,
+                "width": 388
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 44,
+                "y": 778
+            },
+            "size": {
+                "height": 81,
+                "width": 81
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 44,
+                "y": 970
+            },
+            "size": {
+                "height": 81,
+                "width": 81
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 44,
+                "y": 1214
+            },
+            "size": {
+                "height": 81,
+                "width": 81
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 44,
+                "y": 1432
+            },
+            "size": {
+                "height": 81,
+                "width": 81
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 44,
+                "y": 1624
+            },
+            "size": {
+                "height": 81,
+                "width": 81
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Three Keys To Powerful Learning For Kids Of All Ages",
+            "location": {
+                "x": 44,
+                "y": 2034
+            },
+            "size": {
+                "height": 81,
+                "width": 81
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Slow Down To Learn Faster? Find Out How In Our New Ebook!",
+            "location": {
+                "x": 681,
+                "y": 690
+            },
+            "size": {
+                "height": 156,
+                "width": 273
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 721,
+                "y": 1240
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 721,
+                "y": 1323
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 721,
+                "y": 1470
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "search",
+            "type": "text",
+            "location": {
+                "x": 684,
+                "y": 277
+            },
+            "size": {
+                "height": 20,
+                "width": 193
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your name",
+            "type": "text",
+            "location": {
+                "x": 691,
+                "y": 454
+            },
+            "size": {
+                "height": 26,
+                "width": 233
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your email",
+            "type": "text",
+            "location": {
+                "x": 691,
+                "y": 490
+            },
+            "size": {
+                "height": 26,
+                "width": 233
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 691,
+                "y": 526
+            },
+            "size": {
+                "height": 38,
+                "width": 233
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your name",
+            "type": "text",
+            "location": {
+                "x": 675,
+                "y": 3916
+            },
+            "size": {
+                "height": 26,
+                "width": 290
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Enter your email",
+            "type": "text",
+            "location": {
+                "x": 675,
+                "y": 3952
+            },
+            "size": {
+                "height": 26,
+                "width": 290
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 675,
+                "y": 3988
+            },
+            "size": {
+                "height": 36,
+                "width": 290
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            237,
+            237,
+            237
+        ],
+        [
+            91,
+            51,
+            51
+        ]
+    ],
+    "desc": "We make learning fun! Our curriculum tools and learning management systems help parents,",
+    "navbar": "About Us| Contact Us| Newsletter| Authors\nConnect with us\nRSS\nGoogle +\nFacebook\nTwitter\nYoutube",
+    "text": "About Us| Contact Us| Newsletter| Authors\nConnect with us\nRSS\nGoogle +\nFacebook\nTwitter\nYoutube\nHOME\nACTIVITIES\nLEARNING\nRESOURCES\nBLOG\nPARENTS\nsearch\nLOW TECH\nMOMMY BLOGGERS SHARE THE MOST IMPORTANT THING THEY TEACH THEIR KIDS\nREAD MORE\n1\n2\n3\n4\n5\nNEWSLETTER\nSIGN UP\n\nLEARN MORE\nLATEST ARTICLES\nBLOG\nFOUR GREAT PODCASTS FOR YOUNGER KIDS\nSure, most podcast listeners know about Serial, TED Talks, and This American Life but what if you're interested in finding a podcast for the youngsters in your life? What do you suggest to them? Even better, what can you listen to together, as a family? The great thing is that… Read More\nBLOG\nTHREE SUBJECTS TO TEACH YOUR KIDS BEFORE THEY GRADUATE (BECAUSE THEIR HIGH SCHOOLS WON’T)\nI’ll never forget sitting in my AP Government class one day, a few weeks after the 2008 financial crisis first hit. My teacher, usually bright and bubbly, seemed distracted and irritated. “Okay,” she said all of a sudden. “I’m really not supposed to do this, but I have to make… Read More\nBLOG\nA POWERFUL KEY TO BETTER UNDERSTANDING: MAKE THE CORE IDEA PERSONAL\nThere is a huge difference between knowing about a concept or process and really understanding it. This applies both to learning in school and in the real world, and applies to everything from finding out about marketing to studying the Constitution. The point that I want to discuss here is… Read More\nBLOG\nMAKE CONFUSION YOUR FRIEND\nConfusion is natural:  don’t fight it – use it. It is quite natural to be confused or feel awkward when dealing with a new concept or skill.  And it is quite natural to resent feeling confused.  But the bottom line is that confusion and awkwardness are natural.  And one of… Read More\nBLOG\nTO LEARN ANYTHING WELL, GET IT IN YOUR FEELINGS!\nKnowing something well enough to use in the real world is different from knowing it well enough to get a high score on a test.  Tests play an important role, but the key to real world competence is to get a “feel” for the skill or subject area. So what… Read More\nPARENTS\n3 GREAT LEARNING SITES\n  Software and Business A lot of people love lynda.com to learn software. I’ve been a big fan for several years. However, another site I love is creativelive.com. Similar to lynda.com, creativelive is more than just learning about software. They have classes that relate to business and education. The nice thing about creativelive is… Read More\nPARENTS\nTHREE KEYS TO POWERFUL LEARNING FOR KIDS OF ALL AGES\n  Perhaps the most frustrating aspect of learning and guiding the learning of others, such as our kids, is that many of the “obvious” things to do sometimes just don’t work.  They should.  Everyone seems to agree.  But they don’t.  And for years I’ve been asking why. My first hint… Read More\nFEATURED VIDEO\nMOST POPULAR ARTICLES\nROLLER COASTER GAME\nWelcome to the death defying Funderstanding Roller Coaster! This simulator is designed for people who…\nRead More\nCREATING AN INSPIRING & ENGAGING CLASSROOM\nWhat to look for in this infographic Goals are necessary but not sufficient to create…\nRead More\nBEHAVIORISM\nDefinition Behaviorism is a learning theory that only focuses on objectively observable behaviors and discounts…\nRead More\nJEAN PIAGET: COGNITIVE DEVELOPMENT IN THE CLASSROOM\nEvery experience and interaction has an impact on development in early childhood. Swiss biologist and…\nRead More\nCATEGORIES\nACTIVITIES\nACTIVITIES\nACTIVITIES\nACTIVITIES\nACTIVITIES\nASSESSMENT METHODS AND TOOLS\nAUTHORS BLOG\nBEHAVIORISM\nBLOG\nBRAIN\nBRAIN\nBRAIN ANATOMY\nBRAIN BASED LEARNING\nBRAIN GAMES\nCAINE\nCHILD DEVELOPMENT\nCHOICE THEORY\nCONSTRUCTIVISM\nCREATIVITY\nCURRENT EVENTS FOR KIDS\nCURRICULUM\nEBOOKS\nEDUCATIONAL PRODUCT REVIEWS\nEDUCATORS\nEMOTIONAL INTELLIGENCE\nFEATURED\nFOR HOME AND SCHOOL\nGENERAL\nGENERAL\nGENERAL\nGENERAL\nGURUS\nHISTORY OF EDUCATION\nINTRO TO CHOICE THEORY\nKIDS\nLEARNING MANAGEMENT SYSTEMS\nLEARNING STYLES\nLESSON PLANS\nLESSON PLANS\nLMS FOR BUSINESSES\nLMS FOR SCHOOLS\nLOW TECH\nMULTICULTURALISM\nNEUROSCIENCE\nNEWSLETTERS\nOPINIONS\nORGANIZATIONAL\nOTHER LEARNING THEORIES\nPARENTS\nPIAGET\nREWARDS – EXTERNAL VS. INTERNAL MOTIVATION\nRIGHT BRAIN / LEFT BRAIN\nROLLER COASTER\nROLLER COASTER\nSCIENCE IS FUN\nSOCIAL EMOTIONAL LEARNING\nSOCIAL LEARNING THEORY\nSTAGES OF CHILD DEVELOPMENT\nSULLO\nTEACHING METHODS\nTECHNOLOGY IN THE CLASSROOM\nTHEORY\nVIDEOS\nVYGOTSKY AND SOCIAL COGNITION\nWEBINARS\nLATEST\nARTICLES\nFour Great Podcasts for Younger Kids\nThree Subjects To Teach Your Kids Before They Graduate (Because Their High Schools Won’t)\nA powerful key to better understanding: Make the core idea personal\nABOUT US\nFunderstanding is a resource for teachers, parents, and students to stay up to date on education-related issues. The company focuses on innovative and progressive approaches to inspire learning in classrooms as well as homes.\nFunderstanding is also an ebook publishing partner company, focused on education-related content, which provides complete epublishing services as well as an expertise in ebook marketing and author branding.\nNEWSLETTER SIGN UP\nGet learning tips twice a month to inspire the educator in you\n\n© 2022 Funderstanding.com    Privacy Policy    Terms of Use\nConnect with us\nRSS\nGoogle +\nFacebook\nTwitter\nYoutube",
+    "font": "sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 34,
+                "y": 2395
+            },
+            "size": {
+                "height": 347,
+                "width": 607
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": true
+        }
+    ],
+    "buttons": [
+        {
+            "text": "search",
+            "bg-color": "rgba(233, 233, 233, 1)",
+            "location": {
+                "x": 905,
+                "y": 273
+            },
+            "size": {
+                "height": 27,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

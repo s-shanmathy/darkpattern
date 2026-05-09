@@ -1,0 +1,181 @@
+{
+    "title": "Great Plains Nature Center - GPNC",
+    "url": "gpnc.org",
+    "full_url": "https://gpnc.org/",
+    "images": [
+        {
+            "alt": "GPNC_Logo_white-100",
+            "location": {
+                "x": 40,
+                "y": 91
+            },
+            "size": {
+                "height": 96,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Turtle in Front of the Great Plains Nature Center",
+            "location": {
+                "x": 612,
+                "y": 1486
+            },
+            "size": {
+                "height": 348,
+                "width": 348
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LogoUSFWS",
+            "location": {
+                "x": 66,
+                "y": 3335
+            },
+            "size": {
+                "height": 179,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CityOfWichita-Park&Rec-RGB",
+            "location": {
+                "x": 282,
+                "y": 3373
+            },
+            "size": {
+                "height": 103,
+                "width": 202
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KDWP LOGO",
+            "location": {
+                "x": 553,
+                "y": 3377
+            },
+            "size": {
+                "height": 95,
+                "width": 146
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FGPNCLOGO",
+            "location": {
+                "x": 793,
+                "y": 3378
+            },
+            "size": {
+                "height": 93,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            25,
+            32,
+            22
+        ],
+        [
+            240,
+            240,
+            240
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "The Great Plains Nature Center is a natural oasis in the middle of Wichita. Experience natural Kansas through our free exhibits and paved walking trails.",
+    "navbar": "Visit the GPNC\nLearn with Us\nGet Involved\nDonate Now!",
+    "text": "Visit the GPNC\nLearn with Us\nGet Involved\nDonate Now!\nThis Week at the Great Plains Nature Center:\nDEC 4 - DEC 10, 2022\nSUN\n4\nMON\n5\n11:00 AM - 11:30 AM\nCREATURE FEATURE\nTUE\n6\n10:00 AM - 12:00 PM\nNATURALLY CRAFTY\nWED\n7\n10:00 AM - 10:30 AM\nCRITTER TALES\nTHU\n8\nFRI\n9\nSAT\n10\nWant a National Park Pass?\nBe sure to call first to make sure there is a staff member who can assist you! See the Owl's Nest Gift Shop page for more information. \nOur Vision\nTo inspire stewardship of the natural world through exceptional experiences to benefit future generations.\nOur Mission\nThe Great Plains Nature Center is a cooperative project between the U.S. Fish & Wildlife Service, Kansas Department of Wildlife & Parks, City of Wichita, and the Friends of the Great Plains Nature Center nonprofit organization. These Partners share a common goal of providing opportunities for the public to investigate, understand and develop an appreciation for wildlife and the environment, while promoting sound stewardship of natural resources.\nSign up for the Prairie Post eNews for free today!\n Be the first to hear about our upcoming events\nGet the latest news delivered every two weeks to your email\nReceive a 50% off membership offer to the Friends of the Great Plains Nature Center when you sign up\nGreat Plains Nature Center\nExhibits: 9am - 5pm, FREE\nGift Shop: 10am- 4pm\nClosed Sundays\n316-683-5499 \ninfo@gpnc.org\nFAQ\nContact Us\n© 2017 GPNC. All Rights Reserved.",
+    "font": "helvetica, Verdana, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://www.google.com/maps/embed/v1/place?q=6232+E.+29th+Street+North+Wichita%2C+KS+67220-2200&key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8",
+            "location": {
+                "x": 524,
+                "y": 2835
+            },
+            "size": {
+                "height": 400,
+                "width": 445
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(26, 35, 22, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 42,
+                "width": 52
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

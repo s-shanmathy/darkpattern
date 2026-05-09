@@ -1,0 +1,84 @@
+{
+    "title": "Stellar - an open network for money",
+    "url": "stellar.org",
+    "full_url": "https://stellar.org/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Email address",
+            "type": "email",
+            "location": {
+                "x": 48,
+                "y": 6575
+            },
+            "size": {
+                "height": 48,
+                "width": 58
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 114,
+                "y": 6576
+            },
+            "size": {
+                "height": 46,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            12,
+            3,
+            29
+        ],
+        [
+            14,
+            9,
+            49
+        ],
+        [
+            255,
+            168,
+            41
+        ]
+    ],
+    "desc": "Stellar makes it easy to create, send, and trade digital representations of all forms of money—dollars, pesos, bitcoin, pretty much anything.",
+    "navbar": "Learn\nUse Stellar\n\n\nDevelopers\nCommunity\nFoundation\nGet Started",
+    "text": "Learn how to protect yourself from\nscams\nLearn\nUse Stellar\n\n\nDevelopers\nCommunity\nFoundation\nGet Started\nLAST 24 HOURS\nOperations\n12.429M\nVolume\n11.313M\nActive Accounts\n56,959\nLast Ledger\n#43924576\nOperations\n929\nClosing Time\n6s\nStellar is an open network for storing and moving money.\nBorderless. Limitless. Powerful.\nStellar makes it possible to create, send, and trade digital representations of all forms of money: dollars, pesos, bitcoin, pretty much anything. It’s designed so all the world’s financial systems can work together on a single network.\nLearn more\nStellar makes money better.\nStellar's API and SDKs are ready to help you transform the world of finance, and the network’s currency connections could give even a small company the power and reach of an international bank. Here's what you can build with a few lines of code:\nBALANCE\n$525.96\n$492.40\n$472.72\n$187.84\nUSD\nYOUR BALANCES\nMexican Peso\n18.87 MXP = 1 USD\n1,974.17\nEuro\n0.90 EUR = 1 USD\n38.97\nGlobal Payment Apps\nLeverage the many currency-backed tokens already on the Stellar network.\nAsset exchanges\nUse Stellar's built-in decentralized exchange for crypto, forex, or securities. Users can swap between tokens using simple functions built into the protocol.\nEXCHANGE YOUR ASSETS\n0.030\nBTC\n1 BTC = 5.26 oz GOLD\n0.157\nGOLD\nEXCHANGE\nBy Jane Smith\nBorderless decentralize Nigerian naira economic public ledger digital. Stablecoins wallet send, digital assets multisig path payment value tokenize. Fast API Brazilian reais trade compliance make markets. Open source no middleman, bank cross border API financial institutions.\n\nAtomic swap universal asset issuer redeem. Distributed cash tokens access equitable nonprofit.\nUnlock this article for $0.05\nUNLOCK\nMicropayment services\nPower payments of any size with Stellar's low, flat fees and fast transactions.\nDesigned for developers\nStellar has the documentation, tooling, and support to help you get your project up quickly.\nExplore resources\nCreate account\nSend payment\nIssue asset\nMake a buy offer\nAll transactions performed on the testnet\nBuilt on Stellar\nLarge enterprise companies and companies as small as single-dev startups have chosen Stellar to move money and access new markets.\nSee all projects\nSubscribe to our monthly roundup\nLanguage\nRESOURCES\nGet Started\nLearn\nCase Studies\nStellar Quest\nTOOLS\nAccount Viewer\nLaboratory\nDashboard\nLedger Explorer\nAll Tools\nLUMENS\nStellar Lumens\nExchanges\nWallets\nCOMMUNITY\nCommunity\nProjects\nEvents\nPodcast\nFAQ\nCommunity Blog\nFOUNDATION\nAbout\nTeam\nCareers\nRoadmap\nMandate\nSDF Blog\nDEVELOPERS\nDeveloper Resources\nDocumentation\nAPI Reference\nStatus\nTechnical Papers\nDevelopers Blog\nCONNECT\nNewsletters\nPress\nCode of Conduct\nSecurity Guide\nBug Bounty Program\nContact\nTOKENS & MARKETS\nExplore on StellarX\nExplore on StellarExpert\nMarket Making with Kelp\n© 2022 Stellar Development Foundation\nBrand Policy\nPrivacy Policy\nTerms of Service\nLearn\nUse Stellar\n\n\nDevelopers\nCommunity\nFoundation\nGet Started",
+    "font": "Arial, \"Helvetica Neue\", Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://runkit.com/e/application-sha256-d971acf25780b741ea627efbeb3238100556c91f836083a584249fb0b2aea3c0#https%3A%2F%2Fstellar.org",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 900,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

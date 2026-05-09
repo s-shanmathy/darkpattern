@@ -1,0 +1,99 @@
+{
+    "title": "Commercial Exchange",
+    "url": "commercialexchange.com",
+    "full_url": "https://www.commercialexchange.com/",
+    "images": [
+        {
+            "alt": "Commercial Exchange",
+            "location": {
+                "x": 28,
+                "y": 24
+            },
+            "size": {
+                "height": 35,
+                "width": 188
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter a City, State",
+            "type": "text",
+            "location": {
+                "x": 350,
+                "y": 401
+            },
+            "size": {
+                "height": 48,
+                "width": 390
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            123,
+            199
+        ],
+        [
+            39,
+            45,
+            51
+        ]
+    ],
+    "desc": "Search commercial real estate property listings for sale and lease across the U.S., including office, retail, industrial, multi-family, and land. Find your next investment, or lease your dream space.",
+    "text": "Sign Up\n  Log In\nYour national commercial real estate database\nFind the perfect commercial property\nAll Property Types\nRetail\nOffice\nIndustrial\nLand\nFarm/Ranch\nHospitality\nSpecialty\nMulti-Family\nSearch\nFind your next investment\nSearch verified listings with an array of intelligent filters, plus deep data to help with your due dilligence.\nSearch For Sale\nList your properties\nPost unlimited listings for $99/month and reach a nationwide network of potential buyers, tenants, and brokers.\nSign Up\nLease your dream space\nWith thousands of availabilities for lease, we’ll help you find the space you need for your growing business.\nSearch For Lease\nCommercial Exchange is a national commercial real estate marketplace powered by Catylist.\nHelpFAQTerms of UsePrivacy PolicyDo Not Sell My Personal Information© 2001-2021 Catylist.",
+    "font": "\"Gotham Book\", \"Avenir Next\", Avenir, Helvetica, Arial, Trebuchet, Verdana, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "  Log In",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 786,
+                "y": 27
+            },
+            "size": {
+                "height": 33,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(16, 133, 209, 1)",
+            "location": {
+                "x": 739,
+                "y": 401
+            },
+            "size": {
+                "height": 49,
+                "width": 115
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

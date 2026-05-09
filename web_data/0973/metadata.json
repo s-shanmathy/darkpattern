@@ -1,0 +1,392 @@
+{
+    "title": "OWASP Foundation, the Open Source Foundation for Application Security | OWASP Foundation",
+    "url": "owasp.org",
+    "full_url": "https://owasp.org/",
+    "images": [
+        {
+            "alt": "OWASP logo",
+            "location": {
+                "x": -99986,
+                "y": 85
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Top 10 Logo",
+            "location": {
+                "x": 18,
+                "y": 780
+            },
+            "size": {
+                "height": 120,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "OWASP 2022 Global AppSec APAC Virtual Event",
+            "location": {
+                "x": 514,
+                "y": 820
+            },
+            "size": {
+                "height": 205,
+                "width": 430
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 384,
+                "y": 1422
+            },
+            "size": {
+                "height": 101,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 36,
+                "y": 2030
+            },
+            "size": {
+                "height": 42,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 560,
+                "y": 2076
+            },
+            "size": {
+                "height": 38,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 740,
+                "y": 2079
+            },
+            "size": {
+                "height": 32,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 560,
+                "y": 2208
+            },
+            "size": {
+                "height": 73,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 740,
+                "y": 2197
+            },
+            "size": {
+                "height": 95,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 560,
+                "y": 2379
+            },
+            "size": {
+                "height": 32,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 740,
+                "y": 2377
+            },
+            "size": {
+                "height": 35,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 560,
+                "y": 2529
+            },
+            "size": {
+                "height": 32,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 740,
+                "y": 2533
+            },
+            "size": {
+                "height": 24,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image",
+            "location": {
+                "x": 560,
+                "y": 2679
+            },
+            "size": {
+                "height": 32,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search OWASP.org",
+            "type": "search",
+            "location": {
+                "x": -199998,
+                "y": 154
+            },
+            "size": {
+                "height": 32,
+                "width": 35
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search OWASP.org",
+            "type": "search",
+            "location": {
+                "x": 496,
+                "y": 110
+            },
+            "size": {
+                "height": 32,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            30,
+            64,
+            127
+        ],
+        [
+            67,
+            67,
+            67
+        ]
+    ],
+    "desc": "OWASP Foundation, the Open Source Foundation for Application Security on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.",
+    "navbar": "",
+    "text": "Please support the OWASP mission to improve software security through Open Source initiatives and community education. Donate Now!\nPROJECTS\nCHAPTERS\nEVENTS\nABOUT\nStore Donate Join\nThis website uses cookies to analyze our traffic and only share that information with our analytics partners.\nAccept\nx\nWho is the OWASP® Foundation?\nThe Open Web Application Security Project® (OWASP) is a nonprofit foundation that works to improve the security of software. Through community-led open-source software projects, hundreds of local chapters worldwide, tens of thousands of members, and leading educational and training conferences, the OWASP Foundation is the source for developers and technologists to secure the web.\nTools and Resources\nCommunity and Networking\nEducation & Training\nFor nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. Donate, Join, or become a Corporate Member today.\nProject Spotlight: OWASP Top 10\nWe are back again with yet another OWASP Spotlight series and this time we have a project which needs no introduction and I got the chance to interact with Andrew van der Stock, OWASP Foundation Executive Director and the project leader for OWASP Top 10.\nThe OWASP Top 10 is a book/referential document outlining the 10 most critical security concerns for web application security. The report is put together by a team of security experts from all over the world and the data comes from a number of organisations and is then analysed.\nRead more..\nOWASP 2022 Global AppSec APAC Virtual Event\nRegistration Open!\nJoin us virtually August 29 - September 1, for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.\nExhibit and Sponsorship Opportunities\n\nRead more..\nOWASP Top 10 CI/CD Security Risks\nDaniel Krivelevich, November 10, 2022\nWe’re excited to announce the “Top 10 CI/CD Security Risks” framework is now officially an OWASP project, titled “OWASP Top 10 CI/CD Security Risks”!\n...read more\nRecent OWASP News & Opinions\nHelp OWASP SAMM Improve Global Software Security, October 28, 2022\nCo-marketing and chapter meeting co-hosting procedures, October 20, 2022\nIntroducing new \"Production\" project maturity level, October 3, 2022\nRaising the bar for application security assessments with the ASVS and MASVS, September 20, 2022\nUpcoming Conferences\nOWASP December Webinar, December 5-6, 2022 Eastern Standard Time (EST)\nOWASP Global AppSec Dublin 2023, February 13-16, 2023\nEdit on GitHub\nSpotlight: Rezilion Inc\nRezilion is an automated DevSecOps platform that allows organizations to effortlessly manage and eliminate software vulnerabilities from dev to prod and across cloud workloads, applications, and IoT devices. With operations in Israel and the United States, Rezilion is swiftly attracting a growing client base of Fortune 100 companies and leading industry partners. For more information, visit www.rezilion.com.\nCorporate Supporters\nBecome a corporate supporter\nPRIVACY SITEMAP CONTACT\nOWASP, Open Web Application Security Project, and Global AppSec are registered trademarks and AppSec Days, AppSec California, AppSec Cali, SnowFROC, LASCON, and the OWASP logo are trademarks of the OWASP Foundation, Inc. Unless otherwise specified, all content on the site is Creative Commons Attribution-ShareAlike v4.0 and provided without warranty of service or accuracy. For more information, please refer to our General Disclaimer. OWASP does not endorse or recommend commercial products or services, allowing our community to remain vendor neutral with the collective wisdom of the best minds in software security worldwide. Copyright 2022, OWASP Foundation, Inc.",
+    "font": "roboto, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -199988,
+                "y": 164
+            },
+            "size": {
+                "height": 12,
+                "width": 34
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(35, 62, 129, 1)",
+            "location": {
+                "x": -199998,
+                "y": 186
+            },
+            "size": {
+                "height": 160,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(35, 62, 129, 1)",
+            "location": {
+                "x": -199998,
+                "y": 346
+            },
+            "size": {
+                "height": 160,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(35, 62, 129, 1)",
+            "location": {
+                "x": -199998,
+                "y": 506
+            },
+            "size": {
+                "height": 129,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(35, 62, 129, 1)",
+            "location": {
+                "x": -199998,
+                "y": 634
+            },
+            "size": {
+                "height": 114,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 656,
+                "y": 118
+            },
+            "size": {
+                "height": 15,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

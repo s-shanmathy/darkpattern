@@ -1,0 +1,824 @@
+{
+    "title": "Nusenda Credit Union | Local New Mexico Banking",
+    "url": "nusenda.org",
+    "full_url": "https://www.nusenda.org/",
+    "images": [
+        {
+            "alt": "Nusenda Credit Union home",
+            "location": {
+                "x": 20,
+                "y": 20
+            },
+            "size": {
+                "height": 220,
+                "width": 283
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nusenda Team Member Vincent Smith smiling",
+            "location": {
+                "x": 0,
+                "y": 311
+            },
+            "size": {
+                "height": 398,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Nusenda Team Member Vincent Smith smiling",
+            "location": {
+                "x": 0,
+                "y": 311
+            },
+            "size": {
+                "height": 398,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Woman using her Nusenda Debit card at grocery store",
+            "location": {
+                "x": 0,
+                "y": 311
+            },
+            "size": {
+                "height": 398,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A same-sex couple seated in a park taking a selfie ",
+            "location": {
+                "x": 0,
+                "y": 311
+            },
+            "size": {
+                "height": 398,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Father and daughter sitting by a Christmas tree ",
+            "location": {
+                "x": 0,
+                "y": 311
+            },
+            "size": {
+                "height": 398,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Couple enjoying a meal",
+            "location": {
+                "x": 0,
+                "y": 311
+            },
+            "size": {
+                "height": 398,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "EYR",
+            "location": {
+                "x": 173,
+                "y": 1674
+            },
+            "size": {
+                "height": 136,
+                "width": 136
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Community-Rewards",
+            "location": {
+                "x": 464,
+                "y": 1674
+            },
+            "size": {
+                "height": 136,
+                "width": 136
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "locations",
+            "location": {
+                "x": 754,
+                "y": 1674
+            },
+            "size": {
+                "height": 136,
+                "width": 136
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "technology",
+            "location": {
+                "x": 73,
+                "y": 1973
+            },
+            "size": {
+                "height": 136,
+                "width": 136
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "member-savings",
+            "location": {
+                "x": 309,
+                "y": 1974
+            },
+            "size": {
+                "height": 136,
+                "width": 136
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "power-of-we",
+            "location": {
+                "x": 545,
+                "y": 1974
+            },
+            "size": {
+                "height": 136,
+                "width": 136
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Student in graduation cap",
+            "location": {
+                "x": 782,
+                "y": 1974
+            },
+            "size": {
+                "height": 136,
+                "width": 136
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "circle-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "graph-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "circle-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "graph-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "circle-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "graph-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "circle-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "graph-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "circle-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "graph-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "circle-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "graph-left",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Facebook Icon",
+            "location": {
+                "x": 281,
+                "y": 3637
+            },
+            "size": {
+                "height": 40,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter Icon",
+            "location": {
+                "x": 335,
+                "y": 3637
+            },
+            "size": {
+                "height": 40,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram Icon",
+            "location": {
+                "x": 389,
+                "y": 3637
+            },
+            "size": {
+                "height": 40,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn Icon",
+            "location": {
+                "x": 443,
+                "y": 3637
+            },
+            "size": {
+                "height": 40,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chat button, agent online",
+            "location": {
+                "x": 973,
+                "y": 339
+            },
+            "size": {
+                "height": 160,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search or Ask a Question",
+            "type": "text",
+            "location": {
+                "x": 807,
+                "y": 20
+            },
+            "size": {
+                "height": 40,
+                "width": 141
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search or Ask a Question",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            86,
+            146,
+            85
+        ],
+        [
+            133,
+            185,
+            91
+        ]
+    ],
+    "desc": "Low rates, convenient locations. Nusenda is the largest federal credit union in New Mexico. Employees serve and give back to the community. Routing #307083665",
+    "navbar": "LOCATIONS CAREERS ABOUT CONTACT",
+    "text": "LOCATIONS CAREERS ABOUT CONTACT\nAsk\nRouting Number (ABA): 307083665\nAccounts\nLoans & Credit Cards\nMortgages\nInvestments\nBusiness\nMember Benefits\nNews & Resources\n●●●●●\nLog In To Your Account\nJoin or Apply Today!\nBecome a Member\nApply for a Mortgage\nApply for a Loan\nMake an Appointment\n\nThe Power of WE®\nWe're Nusenda Credit Union — around for nearly a century, but continually reinventing what we do and how we do it, to better serve your financial needs.\n\nInstead of being nickeled and dimed with unnecessary fees — we put money back in your pocket. We’re a credit union — with all of the services a big bank has to offer — plus added benefits simply for being a member. And because we’re a not-for-profit, we pay back earnings to you with higher savings rates and lower loan rates, using the best tools to keep your money safe.\n\nThink about us as your banking partner — trusted advisor — champion.\nMember Benefits\nEarn Your Return\n\n\nCommunity Rewards\n\n\nLocations\n\n\n\nTechnology\n\n\nMember Savings\n\n\nPower of WE\n\n\nEducation\n\n\nRates\nAuto Credit Card Home Equity Deposits\nAuto\nSince we’re a credit union, we offer competitive rates on everything from auto loans and credit cards to home equity loans and certificates. Click on the buttons below for more product information, comparisons with other institutions and more. Note that Nusenda rates used are the best rates currently available.\nSee All Auto Loan Rates*\nNews & Resources\n \nNewsroom\n\nSecurity Alerts\n\nFinancial Library\n\nCalculators\n\nSite Map\nPolicies and Disclosures\n\nRouting Number: 307083665\nNMLS: 477659\nFederally insured by NCUA. Your savings are insured to at least $250,000 and backed by the full faith and credit of the United States Government, National Credit Union Administration, a U.S. Government Agency.\n\nEqual Opportunity Lender. We do business in accordance with the Federal Fair Housing Law and the Equal Credit Opportunity Act.\n©2022 Nusenda Credit Union. All Rights Reserved.",
+    "font": "\"open sans\", sans-serif",
+    "iframes": [
+        {
+            "title": "Log in to Mobile and Internet Banking",
+            "src": "https://www.nusenda.org/includes/online-banking/home/?v=042021",
+            "location": {
+                "x": 669,
+                "y": 438
+            },
+            "size": {
+                "height": 250,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://6528888.fls.doubleclick.net/activityi;src=6528888;type=count0;cat=sitev03m;ord=1;num=4396383726999;gtm=2wgbu0;auiddc=1281103454.1670556266;~oref=https%3A%2F%2Fwww.nusenda.org%2F?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "reCAPTCHA",
+            "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Lev7HwaAAAAAAdmkRmEfV_GadEMQ-D-Jidb2_s_&co=aHR0cHM6Ly93d3cubnVzZW5kYS5vcmc6NDQz&hl=en&v=pn3ro1xnhf4yB8qmnrhh9iD2&size=invisible&cb=ha72q09uva3s",
+            "location": {
+                "x": 939,
+                "y": 768
+            },
+            "size": {
+                "height": 60,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "Ask",
+            "bg-color": "rgba(130, 186, 81, 1)",
+            "location": {
+                "x": 948,
+                "y": 20
+            },
+            "size": {
+                "height": 40,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

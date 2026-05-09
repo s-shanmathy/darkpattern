@@ -1,0 +1,419 @@
+{
+    "title": "NEST Protocol | The most important infrastructure after ETH",
+    "url": "nestprotocol.org",
+    "full_url": "https://nestprotocol.org/",
+    "images": [
+        {
+            "alt": "nest",
+            "location": {
+                "x": 45,
+                "y": 34
+            },
+            "size": {
+                "height": 20,
+                "width": 62
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "huobi",
+            "location": {
+                "x": 122,
+                "y": 6210
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "binance",
+            "location": {
+                "x": 337,
+                "y": 6210
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coinbase",
+            "location": {
+                "x": 552,
+                "y": 6210
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "polygon",
+            "location": {
+                "x": 767,
+                "y": 6210
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "kcc",
+            "location": {
+                "x": 14,
+                "y": 6315
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cointelegraph",
+            "location": {
+                "x": 230,
+                "y": 6315
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cube",
+            "location": {
+                "x": 444,
+                "y": 6315
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "peckshield",
+            "location": {
+                "x": 660,
+                "y": 6315
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "fortube",
+            "location": {
+                "x": 874,
+                "y": 6315
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "polynetwork",
+            "location": {
+                "x": 122,
+                "y": 6420
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CoFiX",
+            "location": {
+                "x": 337,
+                "y": 6420
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Parasset",
+            "location": {
+                "x": 552,
+                "y": 6420
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "certik",
+            "location": {
+                "x": 767,
+                "y": 6420
+            },
+            "size": {
+                "height": 45,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NEST-Protocol github",
+            "location": {
+                "x": 266,
+                "y": 6997
+            },
+            "size": {
+                "height": 44,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NEST-Protocol Twitter",
+            "location": {
+                "x": 326,
+                "y": 6997
+            },
+            "size": {
+                "height": 44,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NEST-Protocol Telegram",
+            "location": {
+                "x": 386,
+                "y": 6997
+            },
+            "size": {
+                "height": 44,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NEST-Protocol Medium",
+            "location": {
+                "x": 446,
+                "y": 6997
+            },
+            "size": {
+                "height": 44,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NEST-Protocol Discord",
+            "location": {
+                "x": 506,
+                "y": 6997
+            },
+            "size": {
+                "height": 44,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "hello@nestprotocol.org",
+            "location": {
+                "x": 566,
+                "y": 6997
+            },
+            "size": {
+                "height": 44,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            255,
+            145,
+            55
+        ],
+        [
+            232,
+            159,
+            39
+        ]
+    ],
+    "desc": "NEST Protocol is the stochastic computer based on PVM, enables the generation and programming of stochastic assets.",
+    "text": "Cyber Ink\nNESTFi\nDevelopers\nDoc\nBlog\nAbout\nApp\nCyber Ink\nis a collection of 10,000 NFTs on the blockchain.\nWhat's more, each Cyber Ink can unlock the\nNEST Fi membership and additional benefits.\nNFT\nNEST PROTOCOL\nTHE MOST IMPORTANT\nINFRASTRUCTURE\nAFTER ETH\nNEST Protocol is the stochastic computer based on PVM,\nenables the generation and programming of stochastic assets.\nApp\nWhat is stochastic assets?\nStochastic Asset is an on-chain asset that can be issued and destroyed in response to random information flows\nToken is information asset\nThe blockchain mechanism prevents consensus information (such as wallet balance) from being spent twice. The source of token value and the basis for token becoming an asset is the scarcity of consensus information. As a result, we refer to a token as an information asset that can generate scarce information and is a unit that measures the value of information.\nWhat is the difference between BTC, ETH and NEST?\nThe mechanisms of BTC's UTXO and ETH's EVM both ensure that the quantity of tokens will not increase during the transaction. NEST's PVM extends this scenario by controlling the expected value rather than by controlling the quantity, which will lead to a new paradigm revolution.\nWhy do blockchain need stochastic assets?\nAlmost all financial applications can be thought of as the acquisition of stochastic assets with varying risk-return structures. Stochastic assets are a more natural way for building on-chain finance, such as decentralized derivatives.\nHow does NEST Protocol work?\nProgram stochastic asset\nPVM\nProvide random information flow\nNEST Oracle\nGenerate stochastic assets\nOMM\nPVM\nPVM (Probabilistic Virtual Machine) is a class of\nvirtual machine structures based on a library of basic\nfunctions that allow a developer to assemble as many\napplications as he wants - similar to EVM programming\nPVM enables the generation and programming of\nstochastic assets, which is widely used in DeFi, GameFi,\nNFT, etc. Learn more\nDevelopment path\nThe NEST community always insists\non decentralization and innovation\n2018.12 v1.0\nStart! A lending protocol goes live.\n2019.12 v2.0\nNEST oracle V1.0 goes live.\n2020.07 v3.0\nNEST oracle upgraded. Open all oracle tracks and supported all ERC20 Token/ETH price\n2021.04 v3.6\nVoting governance module was added\n2021.11 v4.1\nNEST oracle upgraded. Allows anyone to build their oracle for their project.\nMore\nOver 1 MILLION community members, Join us\n@NEST_Protocol\n@NEST_Community\n@nest_chat\nFor developers\nListed on more than 15 exchanges\nBlogs\nCoinbase Announces Planned Listing of Tokens, Adds $NEST to ‘Experimental Asset’ Label\nLeading United States-based cryptocurrency\nJuly 25, 2022\nNEST Protocol: A New Paradigm of Game Theoretic Oracle\nBlockchain innovation defined the major part of the last decade, with\nJun 9, 2022\nNEST’s RSS FEED INTEGRATED WITH CRYPTO.COM PRICE PAGE\nThrough Crypto.com’s NEST Price Page, you can now directly access NEST’s\nMay 6, 2022\nMore\nIntegrations & Partners\nLaunch App\nOpen futures, options NFT here\nNEST Blog\nBlogs & news from NEST\nWhitepaper\nLearn more about NEST\nDeveloper Docs\nKnow how to develop on NEST\nFAQs\nFrequently asked questions\nMarket price\n@2022 NEST",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Helvetica, Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "App",
+            "bg-color": "rgba(234, 170, 0, 1)",
+            "location": {
+                "x": 859,
+                "y": 27
+            },
+            "size": {
+                "height": 34,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "NFT",
+            "bg-color": "rgba(234, 170, 0, 1)",
+            "location": {
+                "x": 372,
+                "y": 398
+            },
+            "size": {
+                "height": 44,
+                "width": 280
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "App",
+            "bg-color": "rgba(234, 170, 0, 1)",
+            "location": {
+                "x": 432,
+                "y": 1414
+            },
+            "size": {
+                "height": 44,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "More",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 452,
+                "y": 5837
+            },
+            "size": {
+                "height": 34,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

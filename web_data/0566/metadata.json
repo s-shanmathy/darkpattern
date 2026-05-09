@@ -1,0 +1,81 @@
+{
+    "title": "cagreatamerica.com",
+    "url": "cagreatamerica.com",
+    "full_url": "https://cagreatamerica.com/",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            118,
+            228
+        ],
+        [
+            95,
+            99,
+            104
+        ]
+    ],
+    "navbar": "Reload\nDetails",
+    "text": "This site can’t be reached\ncagreatamerica.com took too long to respond.\nTry:\nChecking the connection\nChecking the proxy and the firewall\nERR_TIMED_OUT\nReload\nDetails",
+    "font": "system-ui, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "Reload",
+            "bg-color": "rgba(26, 115, 232, 1)",
+            "location": {
+                "x": 738,
+                "y": 483
+            },
+            "size": {
+                "height": 32,
+                "width": 74
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(26, 115, 232, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 32,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Details",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 212,
+                "y": 483
+            },
+            "size": {
+                "height": 34,
+                "width": 74
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

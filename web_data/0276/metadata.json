@@ -1,0 +1,80 @@
+{
+    "title": "Cycling '74",
+    "url": "cycling74.com",
+    "full_url": "https://cycling74.com/",
+    "images": [
+        {
+            "alt": "Cycling '74",
+            "location": {
+                "x": 48,
+                "y": 1104
+            },
+            "size": {
+                "height": 58,
+                "width": 280
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            230,
+            230,
+            230
+        ],
+        [
+            34,
+            34,
+            34
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "",
+    "text": "Max is 20% off for a limited time\nMAX\nRNBO\nLEARN\nSHOP\nSUPPORT\nRESOURCES\nDOWNLOAD\nSIGN IN\nRNBO is here\nExport code with the sound of Max\nLearn more\nFind RNBO tutorials, documentation, and project guides at rnbo.cycling74.com\nLearning Synths — how Ableton used RNBO to bring the sound of Max to the web\nBook: Generating Sound & Organizing Time: Thinking in Gen\nThis website uses cookies.\nClicking “Accept” means you consent to your data being processed and you’ll let us use cookies and other technologies to process your personal information to personalize and enhance your experience. Click “Close” to deny consent and continue with technically required cookies that are essential for the website to function.\nAccept\nClose\nPrivacy Policy\nMax\nRNBO\nMira\nMax for Live\nCycles\nBooks\nMerchandise\nCertified Trainers\nResellers\nForums\nCompany\nJobs\nContact\nSupport\nSystem Status\nSign up for the newsletter to receive the latest news from Cycling ’74\nTerms and Conditions\nPrivacy Policy\nCopyright © 2022 Cycling ’74",
+    "font": "Lato, sans-serif",
+    "buttons": [
+        {
+            "text": "Accept",
+            "bg-color": "rgba(3, 119, 203, 1)",
+            "location": {
+                "x": -80,
+                "y": 710
+            },
+            "size": {
+                "height": 46,
+                "width": 418
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Close",
+            "bg-color": "rgba(34, 34, 34, 1)",
+            "location": {
+                "x": -80,
+                "y": 764
+            },
+            "size": {
+                "height": 42,
+                "width": 205
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

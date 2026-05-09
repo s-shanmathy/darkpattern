@@ -1,0 +1,858 @@
+{
+    "title": "Comisión Económica para América Latina y el Caribe",
+    "url": "cepal.org",
+    "full_url": "https://www.cepal.org/es",
+    "images": [
+        {
+            "alt": "Inicio",
+            "location": {
+                "x": 40,
+                "y": 62
+            },
+            "size": {
+                "height": 59,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "portada documento",
+            "location": {
+                "x": -3027,
+                "y": 205
+            },
+            "size": {
+                "height": 738,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Banner de la reunión.",
+            "location": {
+                "x": -2018,
+                "y": 205
+            },
+            "size": {
+                "height": 738,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Foto informe seguridad alimentaria CEPAL-FAO-WFP",
+            "location": {
+                "x": -1009,
+                "y": 205
+            },
+            "size": {
+                "height": 738,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fotografía de los participantes de la reunión.",
+            "location": {
+                "x": 0,
+                "y": 205
+            },
+            "size": {
+                "height": 738,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "portada documento",
+            "location": {
+                "x": 1009,
+                "y": 205
+            },
+            "size": {
+                "height": 738,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Banner de la reunión.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Foto informe seguridad alimentaria CEPAL-FAO-WFP",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Fotografía de los participantes de la reunión.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "portada documento",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Servicios modernos",
+            "location": {
+                "x": 364,
+                "y": 1091
+            },
+            "size": {
+                "height": 342,
+                "width": 608
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sociedad del cuidado- igualdad de género",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Portada minisitio Per Ses 39 ESP",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ciudades-photo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Hacia una seguridad alimentaria y nutricional sostenible en América Latina y el Caribe en respuesta a la crisis alimentaria mundial",
+            "location": {
+                "x": 281,
+                "y": 3207
+            },
+            "size": {
+                "height": 270,
+                "width": 209
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La Inversión Extranjera Directa en América Latina y el Caribe 2022",
+            "location": {
+                "x": 506,
+                "y": 3207
+            },
+            "size": {
+                "height": 274,
+                "width": 209
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Panorama Social de América Latina y el Caribe 2022: la transformación de la educación como base para el desarrollo sostenible",
+            "location": {
+                "x": 731,
+                "y": 3207
+            },
+            "size": {
+                "height": 274,
+                "width": 209
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Banner taller Buenas prácticas del sector académico",
+            "location": {
+                "x": 36,
+                "y": 3964
+            },
+            "size": {
+                "height": 162,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "portada ficha web",
+            "location": {
+                "x": 36,
+                "y": 4341
+            },
+            "size": {
+                "height": 162,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LACME - Evento de Lanzamiento",
+            "location": {
+                "x": 36,
+                "y": 4770
+            },
+            "size": {
+                "height": 162,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Evento",
+            "location": {
+                "x": 36,
+                "y": 5058
+            },
+            "size": {
+                "height": 162,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Banner del curso",
+            "location": {
+                "x": 504,
+                "y": 3964
+            },
+            "size": {
+                "height": 162,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Banner del curso",
+            "location": {
+                "x": 504,
+                "y": 4187
+            },
+            "size": {
+                "height": 162,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UN 75th Anniversary",
+            "location": {
+                "x": 36,
+                "y": 7119
+            },
+            "size": {
+                "height": 73,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Buscar",
+            "type": "text",
+            "location": {
+                "x": 755,
+                "y": 62
+            },
+            "size": {
+                "height": 38,
+                "width": 214
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 932,
+                "y": 64
+            },
+            "size": {
+                "height": 33,
+                "width": 33
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Buscar",
+            "type": "text",
+            "location": {
+                "x": 34,
+                "y": 3319
+            },
+            "size": {
+                "height": 40,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 206,
+                "y": 3322
+            },
+            "size": {
+                "height": 33,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            0,
+            97,
+            157
+        ],
+        [
+            171,
+            171,
+            171
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "La CEPAL es una de las cinco comisiones regionales de las Naciones Unidas y su sede está en Santiago de Chile. Se fundó para contribuir al desarrollo económico de América Latina, coordinar las acciones encaminadas a su promoción y reforzar las relaciones económicas de los países entre sí y con las demás naciones del mundo. Posteriormente, su labor se amplió a los países del",
+    "navbar": "TEMAS\nARQUITECTURA REGIONAL\nCOOPERACIÓN\nDATOS Y ESTADÍSTICAS\nCONOCIMIENTO\nNOTICIAS\nEVENTOS",
+    "text": "Pasar al contenido principal\nNACIONES UNIDAS\nAGENDA 2030\nCOVID-19\nESPAÑOL\nENGLISH\nPORTUGUÊS\nACERCA DE\nTW\nFB\nFL\nYT\nTEMAS\nARQUITECTURA REGIONAL\nCOOPERACIÓN\nDATOS Y ESTADÍSTICAS\nCONOCIMIENTO\nNOTICIAS\nEVENTOS\nNoticias destacadas\nCEPAL, FAO y WFP llaman a fortalecer la producción agrícola y los sistemas de protección social para responder al desafío de combatir la inseguridad alimentaria\nPrevious\nNext\nCEPAL organiza Quinta Conferencia Regional Intergubernamental sobre Envejecimiento y Derechos de las...\nCEPAL, FAO y WFP llaman a fortalecer la producción agrícola y los...\nLa vivienda y la ciudad son motores para la reactivación económica, la...\nLa inversión extranjera directa en América Latina y el Caribe aumentó un...\n1\nTemas de actualidad\nServicios modernos\nSociedad del cuidado\nTrigésimo noveno período de sesiones de la CEPAL\nCiudades sostenibles\n22/11/2022\nLos servicios modernos como factor dinamizador del comercio regional\nLos servicios modernos -que corresponden a aquellas prestaciones suministradas digitalmente como los servicios informáticos, servicios financieros y servicios empresariales han sido la categoría más dinámica del comercio internacional en la última década. Sin embargo, América Latina y el Caribe es todavía un jugador marginal en el comercio mundial de servicios modernos.\n1\nDatos y estadísticas\nPublicaciones\nAccede a todos los documentos e informes de la CEPAL dentro del repositorio:\n6 DIC 2022 COEDICIONES\nHacia una seguridad alimentaria y nutricional...\n29 NOV 2022 LA INVERSIÓN EXTRANJERA DIRECTA EN AMÉRICA LATINA Y EL CARIBE\nLa Inversión Extranjera Directa en América Latina...\n24 NOV 2022 PANORAMA SOCIAL DE AMÉRICA LATINA Y EL CARIBE\nPanorama Social de América Latina y el Caribe...\nPrevious\nNext\nVer últimas publicaciones\nEventos\n7 DIC 2022 SANTIAGO, CHILE | REUNIONES Y SEMINARIOS TÉCNICOS\nSeminario - Buenas Prácticas del sector académico en la promoción del gobierno/Estado abierto para un desarrollo sostenible\n7 DIC 2022 OTROS EVENTOS\nPresentación virtual: Desafíos y reflexiones en los sistemas de protección social para la inclusión laboral de las personas con discapacidad en América Latina y el Caribe\n7 DIC 2022 SANTIAGO, CHILE | CONFERENCIAS Y REUNIONES DE ÓRGANOS SUBSIDIARIOS\nLanzamiento del Marketplace Explorer de América Latina y el Caribe\n7 DIC 2022 REUNIONES Y SEMINARIOS TÉCNICOS\nWebinario Trabajo decente y economía social y solidaria en América Latina y el Caribe: Avances y desafíos a partir de la Resolución de la 110ª Conferencia Internacional del Trabajo de la OIT\nMás eventos\nCursos\n24 OCT-16 DIC 2022 CURSO\nValor público y gestión por resultados\n7 NOV-9 DIC 2022 CURSO\nOportunidades e desafios para MPMEs no e-commerce internacional\nMás cursos\nPie de página\nSede de la CEPAL\nAv. Dag Hammarskjöld 3477, Vitacura, Santiago de Chile\nTeléfono: (56-2) 2471 2000 • 2210 2000\nSede subregional de la CEPAL en México\nCorporativo MCS, Blv. Miguel de Cervantes Saavedra #193 piso 12, 11520 México D.F., México\nTeléfono: (52 55) 4170.5600\nSede subregional de la CEPAL para el Caribe\n1 Chancery Lane, P.O. Box 1113 Puerto España, Trinidad y Tobago\nTeléfono: (868)224-8000\nAcerca de\nAcerca de la CEPAL\nSecretario Ejecutivo\nSedes y oficinas\nCómo trabajamos\nCómo nos organizamos\nDirectores de la CEPAL\nHistoria de la CEPAL\nTrabaja con nosotros: Empleo\nProveedores: Adquisiciones\nAgenda 2030\nSDG Gateway\nArquitectura regional\nPeríodos de sesiones de la Comisión\nObservatorios\nÓrganos subsidiarios\nForo Regional de Desarrollo Sostenible\nTratados y acuerdos\nConocimiento\nPublicaciones\nCapacitación\nBiblioteca\nComunidades\nCooperación\nCuenta de Desarrollo de las Naciones Unidas\nPrograma Ordinario de Cooperación Técnica\nProgramas y proyectos extrapresupuestarios\nCovid-19\nObservatorio COVID\nDatos y estadísticas\nCEPALSTAT\nNoticias\nTransmisiones en vivo\nNoticias\nComunicados\nAnuncios\nColumnas de opinión\nDiscursos\nInfografías\nImágenes\nCEPAL en los medios\nVideos\nTemas\nEconómicos\nDesarrollo económico\nComercio internacional e integración\nDesarrollo productivo y empresarial\nSociales\nDesarrollo social\nPoblación y desarrollo\nAmbientales\nDesarrollo sostenible y asentamientos humanos\nRecursos naturales\nTransversales\nAgenda 2030\nAsuntos de género\nPlanificación para el desarrollo\nEstadísticas\nEventos\nEventos\nContacto\nContacto\n© ECLAC - United Nations\nTerms and conditions",
+    "font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 34,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(232, 232, 232, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 478
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 961,
+                "y": 478
+            },
+            "size": {
+                "height": 42,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 494,
+                "y": 944
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Servicios modernos",
+            "bg-color": "rgba(0, 82, 138, 1)",
+            "location": {
+                "x": 36,
+                "y": 1091
+            },
+            "size": {
+                "height": 89,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Sociedad del cuidado",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 36,
+                "y": 1180
+            },
+            "size": {
+                "height": 91,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Trigésimo noveno período de sesiones de la CEPAL",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 36,
+                "y": 1271
+            },
+            "size": {
+                "height": 148,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Ciudades sostenibles",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 36,
+                "y": 1419
+            },
+            "size": {
+                "height": 91,
+                "width": 312
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 658,
+                "y": 1814
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 228,
+                "y": 3393
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 944,
+                "y": 3393
+            },
+            "size": {
+                "height": 42,
+                "width": 42
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

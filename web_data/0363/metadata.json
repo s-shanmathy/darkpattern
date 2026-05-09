@@ -1,0 +1,2782 @@
+{
+    "title": "Vacation Homes & Condo Rentals - Airbnb - Airbnb",
+    "url": "airbnb.com",
+    "full_url": "https://www.airbnb.com/",
+    "images": [
+        {
+            "alt": "Airbnb 2022 Winter Release",
+            "location": {
+                "x": 310,
+                "y": 384
+            },
+            "size": {
+                "height": 73,
+                "width": 403
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Airbnb 2022 Winter Release",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Airbnb 2022 Winter Release",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search destinations",
+            "type": "text",
+            "location": {
+                "x": 367,
+                "y": 104
+            },
+            "size": {
+                "height": 18,
+                "width": 261
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            102,
+            102,
+            102
+        ],
+        [
+            247,
+            247,
+            247
+        ],
+        [
+            99,
+            99,
+            99
+        ]
+    ],
+    "desc": "Dec 7, 2022 - Find the perfect place to stay at an amazing price in 191 countries. Belong anywhere with Airbnb.",
+    "text": "Skip to content\nIntroducing our 2022 Winter Release\nPlay the film\nExplore what's new\nStart your search\nLocation\nAnywhere\nCheck in / Check out\nAny week\nGuests\nAdd guests\nAirbnb your home\n9 of 61 items showing\nCabins\nOMG!\nAmazing views\nCaves\nArctic\nTreehouses\nA-frames\nCastles\nTrending\nMansions\nTiny homes\nBeachfront\nDesign\nAmazing pools\nOff-the-grid\nPlay\nLakefront\nLake\nTop of the world\nNew\nSkiing\nNational parks\nLuxe\nSki-in/out\nCountryside\nEarth homes\nFarms\nIslands\nBed & breakfasts\nHouseboats\nChef's kitchens\nBoats\nCreative spaces\nDomes\nTropical\nCamping\nBarns\nHistorical homes\nDesert\nYurts\nVineyards\nContainers\nGrand pianos\nPrivate rooms\nSurfing\nCasas particulares\nShepherd's huts\nTowers\nRyokans\nGolfing\nIconic cities\nRiads\nMinsus\nDammusi\nCycladic homes\nTrulli\nHanoks\nCampers\nWindmills\nAdapted\nBeach\nFilters\nShow map\n© 2022 Airbnb, Inc.·Privacy·Terms·Sitemap·Destinations\nChoose a language\nEnglish (US)\nChoose a currency\n$\nUSD\nSupport & resources\nSeattle, Washington\n7 miles away\nDec 16 – 21\n$512 \nnight\n$512 per night\n4.95\nSilverdale, Washington\n20 miles away\nFeb 1 – 6\n$131 \nnight\n$131 per night\n4.91\nNorth Bend, Washington\n29 miles away\nDec 18 – 23\n$243 \nnight\n$243 per night\n4.97\nAirbnb 2022 Winter Release\nReady, Setup, Host\nWe’ve just made it easier than ever to put your home on Airbnb.\nExplore our Winter Release",
+    "font": "Circular, -apple-system, \"system-ui\", Roboto, \"Helvetica Neue\", sans-serif",
+    "buttons": [
+        {
+            "text": "Play the film",
+            "bg-color": "rgba(247, 247, 247, 1)",
+            "location": {
+                "x": 658,
+                "y": 10
+            },
+            "size": {
+                "height": 46,
+                "width": 171
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Location\nAnywhere",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 325,
+                "y": 80
+            },
+            "size": {
+                "height": 48,
+                "width": 109
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Check in / Check out\nAny week",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 434,
+                "y": 80
+            },
+            "size": {
+                "height": 48,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Guests\nAdd guests",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 531,
+                "y": 80
+            },
+            "size": {
+                "height": 48,
+                "width": 146
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 449,
+                "y": 37
+            },
+            "size": {
+                "height": 38,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 470,
+                "y": 37
+            },
+            "size": {
+                "height": 38,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 375,
+                "y": 202
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 423,
+                "y": 202
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 471,
+                "y": 202
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 375,
+                "y": 335
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 423,
+                "y": 335
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 471,
+                "y": 335
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 56, 92, 1)",
+            "location": {
+                "x": 633,
+                "y": 87
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 844,
+                "y": 83
+            },
+            "size": {
+                "height": 42,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 892,
+                "y": 83
+            },
+            "size": {
+                "height": 42,
+                "width": 77
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 40,
+                "y": 189
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Cabins",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 40,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 39
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "OMG!",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 111,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Amazing views",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 199,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 85
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Caves",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 315,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Arctic",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 403,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Treehouses",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 491,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 65
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "A-frames",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 589,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Castles",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 677,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Trending",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 765,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Mansions",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 853,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Tiny homes",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 941,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Beachfront",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1037,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 63
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Design",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1132,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Amazing pools",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1220,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 84
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Off-the-grid",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1336,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Play",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1437,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Lakefront",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1525,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Lake",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1613,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Top of the world",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1701,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 92
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "New",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1825,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Skiing",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1913,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "National parks",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2001,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 81
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Luxe",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2114,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Ski-in/out",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2202,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Countryside",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2290,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Earth homes",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2391,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 71
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Farms",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2494,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Islands",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2582,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Bed & breakfasts",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2670,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 96
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Houseboats",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2798,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 68
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Chef's kitchens",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 2898,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 87
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Boats",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3017,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Creative spaces",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3105,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Domes",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3227,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Tropical",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3315,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Camping",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3403,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Barns",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3491,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Historical homes",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3579,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 94
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Desert",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3705,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Yurts",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3793,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Vineyards",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3881,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Containers",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 3969,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 62
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Grand pianos",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4063,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 75
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Private rooms",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4170,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 78
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Surfing",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4280,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Casas particulares",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4368,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Shepherd's huts",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4504,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Towers",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4626,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Ryokans",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4714,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Golfing",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4802,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Iconic cities",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4890,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 67
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Riads",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 4989,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Minsus",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5077,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Dammusi",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5165,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Cycladic homes",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5253,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 89
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Trulli",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5374,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Hanoks",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5462,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Campers",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5550,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Windmills",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5638,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Adapted",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5726,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Beach",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 5814,
+                "y": 176
+            },
+            "size": {
+                "height": 66,
+                "width": 56
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 830,
+                "y": 189
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Filters",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 878,
+                "y": 179
+            },
+            "size": {
+                "height": 48,
+                "width": 91
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Show map",
+            "bg-color": "rgba(34, 34, 34, 1)",
+            "location": {
+                "x": 438,
+                "y": 706
+            },
+            "size": {
+                "height": 48,
+                "width": 132
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Destinations",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 377,
+                "y": 810
+            },
+            "size": {
+                "height": 18,
+                "width": 81
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Choose a language\nEnglish (US)",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 617,
+                "y": 809
+            },
+            "size": {
+                "height": 18,
+                "width": 101
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Choose a currency\n$\nUSD",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 742,
+                "y": 809
+            },
+            "size": {
+                "height": 18,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Support & resources",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 810,
+                "y": 809
+            },
+            "size": {
+                "height": 18,
+                "width": 159
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 290,
+                "y": 292
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 52,
+                "y": 411
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 290,
+                "y": 411
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 607,
+                "y": 292
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 370,
+                "y": 411
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 607,
+                "y": 411
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 925,
+                "y": 292
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 687,
+                "y": 411
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 925,
+                "y": 411
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 290,
+                "y": 711
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 52,
+                "y": 830
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 290,
+                "y": 830
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 607,
+                "y": 711
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 370,
+                "y": 830
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 607,
+                "y": 830
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 925,
+                "y": 711
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 687,
+                "y": 830
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 925,
+                "y": 830
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 290,
+                "y": 1130
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 52,
+                "y": 1249
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 290,
+                "y": 1249
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 607,
+                "y": 1130
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 370,
+                "y": 1249
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 607,
+                "y": 1249
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 925,
+                "y": 1130
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 687,
+                "y": 1249
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 925,
+                "y": 1249
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 290,
+                "y": 1549
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 52,
+                "y": 1668
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 290,
+                "y": 1668
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 607,
+                "y": 1549
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 370,
+                "y": 1668
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 607,
+                "y": 1668
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 925,
+                "y": 1549
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 687,
+                "y": 1668
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 925,
+                "y": 1668
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 290,
+                "y": 1968
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 52,
+                "y": 2087
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 290,
+                "y": 2087
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 607,
+                "y": 1968
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 370,
+                "y": 2087
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 607,
+                "y": 2087
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 925,
+                "y": 1968
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 687,
+                "y": 2087
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 925,
+                "y": 2087
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 290,
+                "y": 2387
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 52,
+                "y": 2506
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 290,
+                "y": 2506
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 607,
+                "y": 2387
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 370,
+                "y": 2506
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 607,
+                "y": 2506
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 925,
+                "y": 2387
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 687,
+                "y": 2506
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 925,
+                "y": 2506
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 290,
+                "y": 2806
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 52,
+                "y": 2925
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 290,
+                "y": 2925
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 607,
+                "y": 2806
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 370,
+                "y": 2925
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 0.9)",
+            "location": {
+                "x": 607,
+                "y": 2925
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 188,
+                "y": 205
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 189,
+                "y": 237
+            },
+            "size": {
+                "height": 289,
+                "width": 646
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,933 @@
+{
+    "title": "Security Magazine | The business magazine for security executives",
+    "url": "securitymagazine.com",
+    "full_url": "https://www.securitymagazine.com/",
+    "images": [
+        {
+            "alt": "federal-state-cybersecurity-fp1170x658c.jpg",
+            "location": {
+                "x": 15,
+                "y": 401
+            },
+            "size": {
+                "height": 357,
+                "width": 634
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SEC_Web_5Minutes-Pasteris-0123_1170x658.jpg",
+            "location": {
+                "x": 15,
+                "y": 1066
+            },
+            "size": {
+                "height": 111,
+                "width": 197
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cyberattack-ddos-freepik1170x658.jpg",
+            "location": {
+                "x": 234,
+                "y": 1066
+            },
+            "size": {
+                "height": 111,
+                "width": 197
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cybersecurity-freepik1170x658.jpg",
+            "location": {
+                "x": 453,
+                "y": 1066
+            },
+            "size": {
+                "height": 111,
+                "width": 197
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "future workplace",
+            "location": {
+                "x": 15,
+                "y": 1662
+            },
+            "size": {
+                "height": 357,
+                "width": 634
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SEC_Web_Cyber_2023-1170x658.jpg",
+            "location": {
+                "x": 684,
+                "y": 1112
+            },
+            "size": {
+                "height": 39,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SEC_Web_Top10-DataBreaches_2022-1170x658.jpg",
+            "location": {
+                "x": 684,
+                "y": 1230
+            },
+            "size": {
+                "height": 39,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "security predictions 2023",
+            "location": {
+                "x": 684,
+                "y": 1348
+            },
+            "size": {
+                "height": 39,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cyber-security-fp1170",
+            "location": {
+                "x": 684,
+                "y": 1466
+            },
+            "size": {
+                "height": 39,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "globe",
+            "location": {
+                "x": 684,
+                "y": 1594
+            },
+            "size": {
+                "height": 39,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clear Seas Research",
+            "location": {
+                "x": 674,
+                "y": 1723
+            },
+            "size": {
+                "height": 93,
+                "width": 305
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Security 500",
+            "location": {
+                "x": 674,
+                "y": 1863
+            },
+            "size": {
+                "height": 325,
+                "width": 305
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "hacker",
+            "location": {
+                "x": 15,
+                "y": 2369
+            },
+            "size": {
+                "height": 264,
+                "width": 470
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "security predictions 2023",
+            "location": {
+                "x": 509,
+                "y": 2369
+            },
+            "size": {
+                "height": 264,
+                "width": 470
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "security-strategy-fp1170x658v5.jpg",
+            "location": {
+                "x": 15,
+                "y": 2935
+            },
+            "size": {
+                "height": 264,
+                "width": 470
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "manufacturing-security-fp1170x658.jpg",
+            "location": {
+                "x": 509,
+                "y": 2935
+            },
+            "size": {
+                "height": 264,
+                "width": 470
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "future workplace",
+            "location": {
+                "x": 15,
+                "y": 3600
+            },
+            "size": {
+                "height": 172,
+                "width": 305
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "flood",
+            "location": {
+                "x": 345,
+                "y": 3600
+            },
+            "size": {
+                "height": 172,
+                "width": 305
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "airport",
+            "location": {
+                "x": 674,
+                "y": 3600
+            },
+            "size": {
+                "height": 172,
+                "width": 305
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "security camera",
+            "location": {
+                "x": 15,
+                "y": 4112
+            },
+            "size": {
+                "height": 225,
+                "width": 301
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "security office",
+            "location": {
+                "x": 346,
+                "y": 4112
+            },
+            "size": {
+                "height": 225,
+                "width": 301
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "fiserv-forum ",
+            "location": {
+                "x": 678,
+                "y": 4112
+            },
+            "size": {
+                "height": 225,
+                "width": 301
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Cybersecurity and Geopolitical Podcast — Global Threats in 2022: Looking Back to Move Forward — Episode 13",
+            "location": {
+                "x": 15,
+                "y": 4685
+            },
+            "size": {
+                "height": 172,
+                "width": 305
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Security News in Review – November 2022 ",
+            "location": {
+                "x": 345,
+                "y": 4685
+            },
+            "size": {
+                "height": 172,
+                "width": 305
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Camera Captures Tornado Destruction",
+            "location": {
+                "x": 25,
+                "y": 5029
+            },
+            "size": {
+                "height": 90,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "World's Dumbest Criminal-Caught by VITEK!",
+            "location": {
+                "x": 355,
+                "y": 5029
+            },
+            "size": {
+                "height": 90,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Most Influential",
+            "location": {
+                "x": 631,
+                "y": 5508
+            },
+            "size": {
+                "height": 372,
+                "width": 348
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SEC New Name",
+            "location": {
+                "x": 593,
+                "y": 673
+            },
+            "size": {
+                "height": 320,
+                "width": 400
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 592,
+                "y": 26
+            },
+            "size": {
+                "height": 39,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Geopolitical conflict",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Geopolitical conflict",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 45,
+                "y": 5682
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 45,
+                "y": 5708
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 45,
+                "y": 5735
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 45,
+                "y": 5761
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 45,
+                "y": 5788
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Geopolitical conflict",
+            "type": "submit",
+            "location": {
+                "x": 45,
+                "y": 5829
+            },
+            "size": {
+                "height": 35,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            244,
+            245,
+            246
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "desc": "Security provides security industry news and trends on video surveillance, cyber security, physical security, security guards, risk management, access control and more for security executives and the security industry.",
+    "navbar": "",
+    "text": "This website requires certain cookies to work and uses other cookies to help you have the best experience. By visiting this website, certain cookies have already been set, which you may delete and block. By closing this message or continuing to use our site, you agree to the use of cookies. Visit our updated privacy and cookie policy to learn more.\n\nsearch\ncart\nfacebook twitter linkedin youtube\nSIGN IN\nCREATE ACCOUNT\nNEWS\nSECURITY NEWSWIRE\nTECHNOLOGIES & SOLUTIONS\nSECURITY BLOG\nNEWSLETTER\nWEB EXCLUSIVES\nCOLUMNS\nCYBER TACTICS\nLEADERSHIP & MANAGEMENT\nSECURITY TALK\nCAREER INTELLIGENCE\nLEADER TO LEADER\nCYBERSECURITY EDUCATION & TRAINING\nMANAGEMENT\nLEADERSHIP MANAGEMENT\nENTERPRISE SERVICES\nSECURITY EDUCATION & TRAINING\nMORE\nPHYSICAL\nACCESS MANAGEMENT\nVIDEO SURVEILLANCE\nIDENTITY MANAGEMENT\nMORE\nCYBER\nCYBERSECURITY NEWS\nMORE\nSECTORS\nEDUCATION: UNIVERSITY\nHOSPITALS & MEDICAL CENTERS\nCRITICAL INFRASTRUCTURE\nMORE\nEXCLUSIVES\nTOP CYBERSECURITY LEADERS\nTHE SECURITY BENCHMARK REPORT\nMOST INFLUENTIAL PEOPLE IN SECURITY\nTOP GUARD AND SECURITY OFFICER COMPANIES\nTHE SECURITY LEADERSHIP ISSUE\nWOMEN IN SECURITY\nEVENTS\nINDUSTRY EVENTS\nWEBINARS\nSOLUTIONS BY SECTOR\nSECURITY 500 CONFERENCE\nMORE\nCALL FOR ENTRIES\nPODCASTS\nVIDEOS\nPHOTO GALLERIES\nPOLLS\nCLASSIFIEDS & JOB LISTINGS\nWHITE PAPERS\nSTORE\nSPONSOR INSIGHTS\nCONTINUING EDUCATION\nINFOCENTERS\nPUT THE SMART IN BUILDING SECURITY\nEMAGAZINE\nEMAGAZINE\nTHIS MONTH'S CONTENT\nCONTACT US\nADVERTISE\nSUBSCRIBE\nRead The 2022 Security Benchmark Report now!\nBuilding a whole-of-state approach to cybersecurity\nCYBERSECURITY EDUCATION & TRAINING\nWhat can U.S. states do to mitigate ransomware and cybersecurity risks? A two-tiered approach that begins with continuous data care best practices and diligent data recovery measures, followed by public and private partnerships is the most successful path.\nBy: Chris Cruz\nLatest News\nMaking cybersecurity a board-level imperative\nJay Pasteris, CIO and CISO at GreenPages, talks to...\nLOGICAL SECURITY\nMaking sense of the muddled mess of cybersecurity terms\nIf the decision-makers aren’t speaking the same language,...\nCYBERSECURITY NEWS\nTips to overcome the limitations of MFA\nLearn about a few common MFA pitfalls attackers can take...\nSECURITY ENTERPRISE SERVICES\nFEMA emergency preparedness report highlights security challenges\nClimate change, poverty and insufficient medical care are...\nPHYSICAL SECURITY\n2022 breaks record for TSA firearm interceptions\nTSA officers intercepted 6,301 firearms brought by...\nSECURITY LEADERSHIP AND MANAGEMENT\nIllinois car dealership defends against theft with video surveillance\nGjovik Ford, an auto dealership in Plano, Illinois,...\nVIDEO SURVEILLANCE\nThe case for security intelligence\nPHYSICAL\nDeveloping an intelligence model for your security function will drive informed decision-making and aid in operational continuity.\nBy: Maggie Shein\nMost Popular\n18 cybersecurity predictions for 2023\nCYBERSECURITY\nThe top 10 data breaches of 2022\nMANAGEMENT\nTop physical security predictions for 2023\nMANAGEMENT\nLeading cyber risks & trends in 2022\nMANAGEMENT\n5 geopolitical risk factors affecting organizations in 2023\nMANAGEMENT\n\nMANAGEMENT\nThink like a hacker: Offensive cybersecurity approaches\nOrganizations should consider red, blue and purple teaming, penetration testing services, and bug bounty programs to expose attackers and strengthen their security posture.\nBy: Pascal Geenens\nMANAGEMENT\nTop physical security predictions for 2023\nDrones, insider risk, workplace violence prevention and more — security leaders share what's on the horizon for the industry in 2023.\nBy: Madeline Lauver\nMANAGEMENT\nSecurity needs a new mindset\nBeing alert and anticipative – conducting regular cybersecurity drills, for example – is as essential as prioritization, cyber-resilience and adaptiveness in improving the security mindset of an organization. \nBy: Vishal Salvi\nCYBERSECURITY NEWS\nDigital manufacturing is a double-edged sword: How to leverage opportunities while mitigating threats\nManufacturing phases that run on off-site cloud servers come with added security concerns.\nBy: Ramesh Karri\nSEE MORE OF THE LATEST\nPhysical\nThe case for security intelligence\nDeveloping an intelligence model for your security...\nLOGICAL SECURITY\nBy: Maggie Shein\nFEMA emergency preparedness report highlights security challenges\nClimate change, poverty and insufficient medical care are...\nPHYSICAL SECURITY\nBy: Security Staff\n2022 breaks record for TSA firearm interceptions\nTSA officers intercepted 6,301 firearms brought by...\nMANAGEMENT\nBy: Security Staff\nSponsored Content\nThe power of analytics in surveillance: What can they do for you?\nVideo analytics is not a new capability, but its value in today’s technologically-reliant society has become...\nSPONSORED BYAXIS\nTaking a Personal Approach to Identity Will Mitigate Fraud Risk & Ensure a Great Customer Experience\nNew and fast-evolving threats such as synthetic identity fraud and other types of cybercrime, have made the exercise...\nSPONSORED BYEXPERIAN\nWisconsin’s Deer District scores a winning security plan\nMilwaukee Bucks protect new Fiserv Forum arena and growing downtown entertainment district with intelligent...\nSPONSORED BYAXIS\nVideos\nMore Videos\nThe Cybersecurity and Geopolitical Podcast — Global Threats in 2022: Looking Back to Move Forward — Episode 13\nSecurity News in Review – November 2022\nSEC Most Popular Videos\nCamera Captures Tornado Destruction\nSEC Most Popular Videos\nWorld's Dumbest Criminal-Caught by VITEK!\nStay in the know! Subscribe for free today.\nSUBSCRIBE NOW\neMagazine Subscriptions\nSecurity eNewsletter & Other eNews Alerts\nOnline Registration\nMobile App\nSubscription Customer Service\nPodcasts\nMore Podcasts\nAnalyzing the Top Data Breaches of 2022\nThe Cybersecurity and Geopolitical Podcast — Global Threats in 2022: Looking Back to Move Forward — Episode 13\nPolls\nMore Polls\nWhich of these global issues has affected your organization the most?\nGeopolitical conflict\nSupply chain delays\nCOVID-19\nStaffing shortages\nOther\nVIEW RESULTS\nEvents\nMore Events\n06\nDec\nBuilding a Resilient Enterprise\n19\nJan\nComprehensive Security Programs in Higher Education\n26\nJan\nWorkplace Violence and Strategic Planning: Its Role and Impact on your Organization\nThe Magazine\n2023 January\n2022 December\n2022 November\n2022 October\nSEE MORE ARCHIVED ISSUES\nGet our new eMagazine delivered to your inbox every month.\nStay in the know on the latest enterprise risk and security industry trends.\nSUBSCRIBE TODAY!\nWANT MORE\nConnect\nPartners\nSubscribe\nRESOURCES\nEditorial Guidelines\nSecurity Group\nMarket Research\nCustom Content & Marketing Services\nSurvey And Sample\nPRIVACY\nPRIVACY POLICY\nTERMS & CONDITIONS\nDO NOT SELL MY PERSONAL INFORMATION\nPRIVACY REQUEST\nACCESSIBILITY\nCopyright ©2023. All Rights Reserved BNP Media.",
+    "font": "\"Nunito Sans\", \"Open Sans\", serif",
+    "iframes": [
+        {
+            "title": "AddThis utility frame",
+            "src": "https://s7.addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html#rand=0.646738999525964&iit=1672951679727&tmr=load%3D1672951668216%26core%3D1672951668658%26main%3D1672951679660%26ifr%3D1672951679775&cb=0&cdn=0&md=0&kw=security%2Cvideo%20surveillance%2Ccyber%20security%2Cphysical%20security%2Csecurity%20guards%2Caccess%20management%2Csecurity%20executives%2Csecurity%20industry%2Cbiometrics%2Crisk%20management%2Caccess%20control%2Csecurity%20news&ab=-&dh=www.securitymagazine.com&dr=&du=https%3A%2F%2Fwww.securitymagazine.com%2F&href=https%3A%2F%2Fwww.securitymagazine.com%2F&dt=Security%20Magazine%20%7C%20The%20business%20magazine%20for%20security%20executives&dbg=0&cap=tc%3D0%26ab%3D0&inst=1&jsl=1&prod=undefined&lng=en&ogt=&pc=men&pub=ra-5159f27a1160d2b2&ssl=1&sid=63b73774473da12c&srf=0.01&ver=300&xck=0&xtr=0&og=&csi=undefined&rev=v8.28.8-wp&ct=1&xld=1&xd=1",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://secure-ds.serving-sys.com/resources/PROD/html5/5822/20211119/1076286744/66787183063733505/index.html?v=_2_160_1_0&n=1&sHost=secure-ds.serving-sys.com",
+            "location": {
+                "x": 148,
+                "y": 202
+            },
+            "size": {
+                "height": 90,
+                "width": 728
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 876,
+                "y": 301
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 747,
+                "y": 401
+            },
+            "size": {
+                "height": 600,
+                "width": 160
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 133,
+                "y": 2250
+            },
+            "size": {
+                "height": 90,
+                "width": 728
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 704,
+                "y": 4714
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://15e0b56d4b583cbe35b861216452342a.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 767,
+                "y": 37
+            },
+            "size": {
+                "height": 16,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 43,
+                "width": 57
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

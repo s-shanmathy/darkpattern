@@ -1,0 +1,197 @@
+{
+    "title": "Matchbox Twenty",
+    "url": "matchboxtwenty.com",
+    "full_url": "https://matchboxtwenty.com/",
+    "images": [
+        {
+            "alt": "Official MB20 Store",
+            "location": {
+                "x": -2018,
+                "y": 100
+            },
+            "size": {
+                "height": 490,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "2023 Matchbox Twenty Tour Reschedule",
+            "location": {
+                "x": -1009,
+                "y": 100
+            },
+            "size": {
+                "height": 490,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Official MB20 Store",
+            "location": {
+                "x": -51,
+                "y": 100
+            },
+            "size": {
+                "height": 490,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2023 Matchbox Twenty Tour Reschedule",
+            "location": {
+                "x": 0,
+                "y": 100
+            },
+            "size": {
+                "height": 490,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Official MB20 Store",
+            "location": {
+                "x": 1009,
+                "y": 100
+            },
+            "size": {
+                "height": 490,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Please and Thank You",
+            "location": {
+                "x": 189,
+                "y": 3339
+            },
+            "size": {
+                "height": 47,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            130,
+            134,
+            139
+        ],
+        [
+            145,
+            151,
+            155
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "navbar": "",
+    "text": "Skip to content\n‹\n›\nSIGN UP FOR MATCHBOX 20 NEWS!\nALBUM #6… STAY TUNED\nJUNE 20, 2022\nREAD MORE\nUPCOMING EVENTS\nVIEW ALL EVENTS\nPrivacy Policy Terms & Conditions\n2022 © Matchbox Twenty. All Rights Reserved. Website by P&TY\nVisit www.OnGuardOnline.gov for social networking safety tips for parents and youth.",
+    "font": "\"Noto Sans\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://www.youtube.com/embed/qbk6a3Rjv6Q",
+            "location": {
+                "x": 0,
+                "y": 1570
+            },
+            "size": {
+                "height": 568,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": true
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 919,
+                "y": 15
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "‹",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 31,
+                "y": 320
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "›",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 920,
+                "y": 320
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

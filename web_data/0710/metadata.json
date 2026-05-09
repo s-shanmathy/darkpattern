@@ -1,0 +1,82 @@
+{
+    "title": "Historic Naval Ships Association | Big Ships! Small Ships! Fun for the whole family!",
+    "url": "hnsa.org",
+    "full_url": "https://www.hnsa.org/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 678,
+                "y": 61
+            },
+            "size": {
+                "height": 37,
+                "width": 258
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 936,
+                "y": 61
+            },
+            "size": {
+                "height": 37,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            33,
+            43,
+            75
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "navbar": "Memberships\nDonate\nLogin\nFacebook\nTwitter",
+    "text": "Memberships\nDonate\nLogin\nFacebook\nTwitter\nAbout Us\nShips\nResources\nMembership\nNews\nContact Us\nDonate\n2022 HNSA Conference\nRegistration is now open for the 2022 HNSA Conference in Hawai‘i and hosted by the Battleship Missouri Memorial! Mark your calendars, the conference will take place from Tuesday, September 13 through Friday, September 16 in the heart of Waikiki at the Hilton Waikiki Beach.\nRead More\nFind a Ship\nFleet Talk\nAssociate Members\nWho We Are\nThe Historic Naval Ships Association (HNSA) links the public with historic ships from around the world. These ships are storytellers and the deeds of those who served aboard them provide inspiration to present and future generations.\n\nThe Association is a non-profit organization whose membership is comprised of naval ship museums and memorials around the world as well as individuals, businesses and organizations that promote our mission. We support the ships in our Fleet by being a networking and information hub linking our members to advance the preservation and promotion of all ships we represent.\nRead More\nUpcoming Events\nNo upcoming events\nInteractive Ship Map\n\nLatest News\nAnchor Watch\nUSS Kidd Executive Director Search\nJune 27th, 2022 by Matt Eng\nThe Louisiana Naval War Memorial Commission, which operates the USS KI... Read more\nSave the Date – 2022 HNSA Conference in Hawai‘i\nMarch 28th, 2022 by Matt Eng\nWe are excited to announce that the 2022 Historic Naval Ships Associat... Read more\nWorld Of Warships Hosting Charity Concert For Museum Ship USS Lexington\nSeptember 1st, 2020 by Matt Eng\nThe pandemic’s been hard on a lot of us, whether we’re students, p... Read more\nView All\n@hnsaorg: In early 1945, the Imperial Japanese Navy made a difficult decision: it would sacrifice the largest, most powerful… https://t.co/SbcLKXsSTn.... 4 years\nFOLLOW US\nCopyright © 1997-2022, Historic Naval Ships Association\nAll Rights Reserved.\nLegal Notices Privacy Policy\nAbout Us\nShips\nResources\nMembership\nNews\nContact Us\nDonate",
+    "font": "Lato, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 34,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

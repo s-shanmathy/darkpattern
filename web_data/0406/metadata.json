@@ -1,0 +1,169 @@
+{
+    "title": "The Shirley Journey - Finding Joy in the Journey",
+    "url": "theshirleyjourney.com",
+    "full_url": "https://theshirleyjourney.com/",
+    "images": [
+        {
+            "alt": "Travel with Us",
+            "location": {
+                "x": 361,
+                "y": 2672
+            },
+            "size": {
+                "height": 287,
+                "width": 287
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LEGO Fun",
+            "location": {
+                "x": 657,
+                "y": 2672
+            },
+            "size": {
+                "height": 287,
+                "width": 287
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Raising Boys is definitely different! Check out these books that every mom of boys should read, all available on amazon!",
+            "location": {
+                "x": 44,
+                "y": 3646
+            },
+            "size": {
+                "height": 216,
+                "width": 216
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            236,
+            232
+        ],
+        [
+            251,
+            237,
+            233
+        ]
+    ],
+    "desc": "Finding Joy in the Journey",
+    "navbar": "HOME\nABOUT ME\nDISCLOSURE & PRIVACY POLICY\nSPONSOR/PR",
+    "text": "HOME\nABOUT ME\nDISCLOSURE & PRIVACY POLICY\nSPONSOR/PR\nTHE SHIRLEY JOURNEY\nFinding Joy in the Journey\nFAMILY\nFOOD\nFUN\nTRAVEL\nHOME\nMR. FASHIONABLE\nTOP POSTS\nExplore Jamestown Settlement\ntravel\nShop, Play, Win! at Albertsons Stores\nUncategorized\n5 Reasons to Have a Gift Closet\nUncategorized\nLATEST FROM THE BLOG\nExplore Jamestown Settlement\nShop, Play, Win! at Albertsons Stores\n5 Reasons to Have a Gift Closet\nChristmas Sugar Cookie Salt Dough Ornaments\nMEET THE AUTHOR\nMom to Charlie + Owen.\nWife to Tom.\nLover of food, fun, family travel & the craziness that is life in a house of boys! Read More…\nABOUT\nTRAVEL WITH US\nLEGO FUN\nFOOD\n12 Quick & Easy Lunches for Preschoolers\nHam and Pickle Dip\nTropical Chocolate Granola\nEasy Fruit Ice Pops\nMORE FOOD POSTS\nPARENTING\nBooks Every Mom of Boys Should Read\nWhy Kids Should Pack Their Own Lunch\nWhy Open-Ended Play is Important\nChristmas Decorations Kids Can Play With\nMORE PARENTING POSTS\nTRAVEL\nWeekend Getaway to Central New York in the 2017 Kia Sorento SX Limited\nWhat to Do with Little Kids at Busch Gardens Williamsburg and Water Country USA\nPledge to Drive Cell Free and Avoid Distracted Driving\nSee the Northern Lights on a Hurtigruten Cruise\nMORE TRAVEL POSTS\nGIFT GUIDES\nThe Best Subscription Box Gifts for Kids\nMother’s Day Gift Guide for Modern Moms\nGifts for the Traveler\nGifts for the Boy Scout\nMORE GIFT GUIDE POSTS\nHEALTH & FITNESS\nGo Pink for Breast Cancer with Valpak\nSave Time with the TB Blood Test\n10 Things Great Parents Do\nFive Facts About CHD\nMORE HEALTH & FITNESS POSTS\nCOPYRIGHT © 2022 · SAVORY THEME BY RESTORED 316\nCOPYRIGHT © 2022 · SAVORY THEME ON GENESIS FRAMEWORK · WORDPRESS · LOG IN",
+    "font": "\"Playfair Display\", serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 34,
+                "y": 356
+            },
+            "size": {
+                "height": 463,
+                "width": 940
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://snapwidget.com/embed/352834",
+            "location": {
+                "x": 0,
+                "y": 5757
+            },
+            "size": {
+                "height": 150,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 900,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

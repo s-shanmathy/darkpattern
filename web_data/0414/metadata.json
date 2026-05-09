@@ -1,0 +1,164 @@
+{
+    "title": "Home - Shakers Canterbury Shaker Village, National Historic Landmark",
+    "url": "shakers.org",
+    "full_url": "https://www.shakers.org/",
+    "images": [
+        {
+            "alt": "canterbury shaker village",
+            "location": {
+                "x": 15,
+                "y": 11
+            },
+            "size": {
+                "height": 94,
+                "width": 405
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "plant-logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Holiday Sale",
+            "location": {
+                "x": 18,
+                "y": 1727
+            },
+            "size": {
+                "height": 300,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Concert & Cocktails",
+            "location": {
+                "x": 346,
+                "y": 1697
+            },
+            "size": {
+                "height": 316,
+                "width": 316
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Canterbury Singers",
+            "location": {
+                "x": 691,
+                "y": 1727
+            },
+            "size": {
+                "height": 300,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NH Humanities",
+            "location": {
+                "x": 20,
+                "y": 4948
+            },
+            "size": {
+                "height": 63,
+                "width": 227
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            174,
+            17,
+            19
+        ]
+    ],
+    "desc": "Canterbury Shaker Village is a National Historic Landmark and museum with 29 Shaker buildings and 694 acres offering tours, programs, exhibits, and events.",
+    "navbar": "BUY TICKETS JOIN & GIVE\nHOME\nVISIT\nABOUT\nWHAT’S ON\nSUPPORT\nSHOP\nNEWS",
+    "text": "BUY TICKETS JOIN & GIVE\nHOME\nVISIT\nABOUT\nWHAT’S ON\nSUPPORT\nSHOP\nNEWS\nHoliday Open House\nNovember 25 - November 27\n10 am - 4 pm\nThe Village gives guests myriad reasons to be grateful by hosting a Holiday Open House on Friday, November 25, Saturday, November 26, and Sunday, November 27. \nLearn More\nConcert & Cocktails\nSaturday, December 3\n4 pm\nEnjoy a concert at 4pm from Symphony New Hampshire String Quartet in the Village’s Meeting House followed by a festive reception.\nLearn More\nCanterbury Singers\nSunday, December 11\n4 pm\nCelebrate the magic of the holiday season with us on Sunday, December 11 with the Canterbury Singers as they sing Holiday Shaker songs. \nLearn More\n\nFour Ways to Support the Village Right Now\nBecome a Member\nBecome a Sponsor\nMake a Donation\nShop our Store\nThank you to our generous Sponsors:\nCanterbury Shaker Village is partially supported by grants from:\n\nMcIninch Foundation\n\nSamuel P. Hunt Foundation\nHeader photo: Peter Bloch, EarthAerial Productions\nCanterbury Shaker Village\n288 Shaker Road\nCanterbury NH 03224\n603 783 9511\nSign up for Email\nJoin\nNews\nNRS Blog\nDirections\nContact us\nPhotography Policy\nEmployment\nAccessibility\n  Gift Card\nCanterbury Shaker Village, Inc. is a non-profit 501(c)3 educational institution supported by admissions, memberships, gifts from individuals, foundations, and corporations, and sales of gifts, crafts, and food.\n© 2022 Canterbury Shaker Village All Rights Reserved | Website Design by Pat Scully Design | Website Development by NH Strategic Marketing\nBuy Tickets",
+    "font": "lato, sans-serif",
+    "iframes": [
+        {
+            "title": "FareHarbor",
+            "src": "https://fareharbor.com/embeds/cart/?u=8d209dd5-f39e-4729-b029-a8a0f5fa4bda&from-ssl=yes&a=yes&back=https://www.shakers.org/",
+            "location": {
+                "x": 759,
+                "y": 960
+            },
+            "size": {
+                "height": 50,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

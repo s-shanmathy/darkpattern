@@ -1,0 +1,45 @@
+{
+    "title": "FreeS/WAN Project: Home Page",
+    "url": "freeswan.org",
+    "full_url": "https://freeswan.org/",
+    "images": [
+        {
+            "alt": "The Linux FreeS/WAN Project",
+            "location": {
+                "x": 204,
+                "y": 8
+            },
+            "size": {
+                "height": 200,
+                "width": 600
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "text": "Introduction     Online Documentation     FreeS/WAN Download     Old News     Related Tools     Helping Out     Bug Reports     Maillist & Archives     IPSEC Community     History & Politics     Credits     Home Page   !Lights!\nThe current version of Linux FreeS/WAN is 2.06, released 2004/04/22.\nRecent Project News:\n2003/04/22\n   The FreeS/WAN team is proud to announce the arrival of 2.06, the project's final release of its freely redistributable IPsec for Linux. Here are a few of its notable features, as documented in the CHANGES file:\nKLIPS has been ported to Linux 2.6; please see the INSTALL file for more details.\nFreeS/WAN's kernel configuration option, CONFIG_IPSEC, has been changed to CONFIG_KLIPS, due to a name conflict with 2.6 IPsec. This breaks \"make oldgo\" on any kernel version, unless a corresponding change is made by hand to the kernel's .config file.\nKLIPS modules generated for 2.4 kernels via \"make module\" are now created in the modobj subdirectory, instead of linux/net/ipsec. The \"make minstall\" target has been updated, but users accustomed to a manual install take note.\nKLIPS now permits DNS packets out on UDP and TCP port 53.\nAll support for transport mode has been removed.\n  Due to a bugfix which addresses a buffer overrun, users of past releases may wish to upgrade:\nKLIPS code has been updated to avoid buffer overruns during generation of /proc file contents.\n  As usual, you can grab this release via ftp from xs4all.nl:\n    ncftpget ftp://ftp.xs4all.nl/pub/crypto/freeswan/freeswan-*\n  ... and binaries for RedHat/Fedora Core users here:\n    ncftp ftp://ftp.xs4all.nl/pub/crypto/freeswan/binaries/RedHat-RPMs/\n  Although this is the final full release, if bugfixes warrant it, patches will be posted here. The team would like to thank our sponsors, past team members, and all the contributors and users of past FreeS/WAN releases. Thanks to all for your hard work and community support. Lastly, for current FreeS/WAN users who are wondering \"where do I go from here?\", take note of two projects, both forks of the FreeS/WAN codebase: Openswan and Strongswan.\n2004/03/01\n   FreeS/WAN is no longer in active development. Although we've created a solid IPsec implentation widely used to construct Virtual Private Networks, the project's major goal, ubiquitous Opportunistic Encryption, is unlikely to be reached given its current level of community support. For the full story, please see this announcement.\n   We plan a final (2.06) development release shortly, with bugfix releases to follow as needed. Our community at lists.freeswan.org will continue to provide a forum where users can support one another, and our Web site will remain up. We expect that FreeS/WAN and its derivatives will be actively used for some time to come.\n2004/02/09\n   The FreeS/WAN team has shipped release 2.05, our first release with AH (Authentication Header) removed! As part of our continuing efforts to create a lightweight, robust Opportunistic Encryption (OE) product, (and inspired by Schneier and Ferguson's critique of IPsec), we've removed AH from FreeS/WAN. For more information, see this page.\n   Still in the \"experimental support stage\" is lwdnsq (lightweight DNS queue), a mini resolver designed to provide resilient, authenticated DNS lookups to facilitate OE. lwdnsq now supports DNSsec.\n   FreeS/WAN now by default generates RSA keys of random length for authentication. If variable key lengths are widely deployed, FreeS/WAN will not provide a \"sweet spot\" key length where crackers could easily focus their efforts. A generic attack on FreeS/WAN might then require a more diverse and thorough approach. For more, see this design-list discussion.\n   Please see our CHANGES file for more detail.\n2003/12/22\n   The mailing lists are running again. For the users' list, we've had to revert to an October 8 backup. If you find yourself inadvertently subscribed again, or want to be effortlessly resubscribed, send mail to sam at freeswan dot org.\n2003/12/07\n   The FreeS/WAN mailing lists (lists.freeswan.org) have been down since Thursday, due to hard disk failure. We are recovering the data and expect to have the lists running again soon.\n2003/11/13\n   2.04 is a bugfix release, important for users of FreeS/WAN 2.03 with 2.6 kernel native IPsec. It is not relevant to users of FreeS/WAN's KLIPS code on a regular 2.4 series kernel.\n   FreeS/WAN 2.03 with 2.6 kernel IPsec is vulnerable to a class of exploits based on properties of that kernel's Netlink code, itself still in development. For example, Netlink can receive input from a userspace process and pass it along to another process which relies on Netlink, such as FreeS/WAN's Pluto keying daemon. A local user might use this method to send malicious messages to Pluto. Our 2.04 release contains bugfixes hardening Pluto against this class of attack. All users of FreeS/WAN 2.03 on 2.6 series kernels are encouraged to upgrade.\n   For this release, we have created RPMs suitable for use on Fedora Core 1. They are available via the usual download methods.\n2003/10/13\n   Linux FreeS/WAN 2.03 is out! It features preliminary support for 2.6 kernels, either via KLIPS or the native 2.6 kernel IPsec. See the new 2.6.known-issues document for more details. 2.03 also ships with an iproute2 based _updown script. Several bugfixes are included, notably a fix for SHA1 packet reception. For more information, see our CHANGES and BUGS documents.\n2003/09/04\n   The Linux FreeS/WAN team is pleased to announce release 2.02. This release offers several new conveniences, including:\none-line configuration for initiator-only Opportunistic Encryption, (OE) using ipsec.conf's new myid option. See our quickstart guide to get set up for OE.\na new RPM (Redhat Package Manager) spec file. This will help folks who need to compile RPMs from FreeS/WAN source.\nIn addition, wavesec and OE now coexist nicely. As always, more details are in CHANGES and BUGS.\n2003/07/04\n   FreeS/WAN 2.01 has shipped and is available as both source and binary RPM's. This is an important release for anyone using Opportunistic Encryption (OE) as there is a small but serious change to the OE protocol. For now the protocol is backwards compatible, but we strongly suggest upgrading to 2.01 to everyone (OE and VPN users alike).\n   To see whats different and just to get using OE as quickly as possible review our \"Quickstart Guide\" while downloading.",
+    "font": "Times",
+    "iframes": [],
+    "buttons": []
+}

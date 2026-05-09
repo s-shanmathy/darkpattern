@@ -1,0 +1,130 @@
+{
+    "title": "Buy Me a Coffee",
+    "url": "buymeacoffee.com",
+    "full_url": "https://www.buymeacoffee.com/",
+    "images": [
+        {
+            "alt": "support",
+            "location": {
+                "x": 42,
+                "y": 1027
+            },
+            "size": {
+                "height": 527,
+                "width": 925
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "membership",
+            "location": {
+                "x": 42,
+                "y": 1924
+            },
+            "size": {
+                "height": 619,
+                "width": 925
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "extras",
+            "location": {
+                "x": 42,
+                "y": 2948
+            },
+            "size": {
+                "height": 771,
+                "width": 925
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "yourname",
+            "type": "text",
+            "location": {
+                "x": 456,
+                "y": 479
+            },
+            "size": {
+                "height": 36,
+                "width": 157
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            255,
+            252,
+            232
+        ],
+        [
+            254,
+            254,
+            254
+        ]
+    ],
+    "desc": "Buy Me a Coffee is the best way for creators and artists to accept support and membership from their fans.",
+    "text": "FAQ\nLog in\nSign up\nA supporter is worth a thousand followers.\nAccept donations. Start a membership. Sell anything you like. It’s easier than you think.\nbuymeacoffee.com/\nStart my page\nIt’s free, and takes less than a minute.\nDONATIONS\nGive your audience an easy way to say thanks.\nBuy Me a Coffee makes supporting fun and easy. In just a couple of taps, your fans can make the payment (buy you a coffee) and leave a message. They don’t even have to create an account!\nMEMBERSHIPS\nMonthly membership for your biggest fans.\nEarn a recurring income by accepting monthly or yearly membership. Share exclusive content, or just give them a way to support your work on an ongoing basis.\nEXTRAS\nIntroducing Extras, the creative way to sell.\nThe things you’d like to sell probably do not belong in a Shopify store. Extras is designed from the ground up with creators in mind. Whether it’s a 1-1 Zoom call, art commissions, or an ebook, Extras is for you.\nDesigned for\ncreators,\nnot for businesses.\nWe don't call them \"customers\" or transactions. They are your\nsupporters.\nYou get paid instantly to your bank account.\nNo more 30-day delays.\nYou have 100% ownership of your supporters. We never email them, and you can export the list any time you like.\nYou get to talk to a human for help, or if you just like some advice to hit the ground running.\nStart my page — It’s free\nIt’s free, and takes less than a minute.\nAbout\nHelp Center\nApps\nResources\nPrivacy\nTerms\n© Buy Me a Coffee",
+    "font": "ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "buttons": [
+        {
+            "text": "Start my page",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 613,
+                "y": 469
+            },
+            "size": {
+                "height": 56,
+                "width": 178
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

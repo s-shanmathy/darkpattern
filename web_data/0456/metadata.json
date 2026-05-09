@@ -1,0 +1,736 @@
+{
+    "title": "TouchArcade – iPhone and iPad Games",
+    "url": "toucharcade.com",
+    "full_url": "https://toucharcade.com/",
+    "images": [
+        {
+            "alt": "Anotherkellydown",
+            "location": {
+                "x": 627,
+                "y": 4980
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "La-Apps",
+            "location": {
+                "x": 627,
+                "y": 5047
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boardumb",
+            "location": {
+                "x": 627,
+                "y": 5124
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boardumb",
+            "location": {
+                "x": 627,
+                "y": 5191
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boardumb",
+            "location": {
+                "x": 627,
+                "y": 5258
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boardumb",
+            "location": {
+                "x": 627,
+                "y": 5324
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boardumb",
+            "location": {
+                "x": 627,
+                "y": 5391
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boardumb",
+            "location": {
+                "x": 627,
+                "y": 5457
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boardumb",
+            "location": {
+                "x": 627,
+                "y": 5524
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Boardumb",
+            "location": {
+                "x": 627,
+                "y": 5591
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 16,
+                "y": 107
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 320,
+                "y": 7
+            },
+            "size": {
+                "height": 46,
+                "width": 461
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 1024,
+                "y": 6
+            },
+            "size": {
+                "height": 48,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            244,
+            247,
+            254
+        ],
+        [
+            51,
+            62,
+            88
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "navbar": "",
+    "text": "LOG IN\nSIGN UP\nHome\nNews\nReviews\nHot Games\nForums\nPodcast\nProduct Reviews\n'Six Match' Updated With Controller Support, Premium Price, and More\nMikhail Madnani,\nPosted on\nJanuary 5, 2023\nNew Games Round-Up: January 5th, 2023\nJared Nelson,\nPosted on\nJanuary 4, 2023\nSwitchArcade Round-Up: January 4th, 2023\nShaun Musgrave,\nPosted on\nJanuary 4, 2023\nTouchArcade 2022 Game of the Year\nJared Nelson,\nPosted on\nJanuary 4, 2023\nSwitchArcade Round-Up: January 3rd, 2022\nShaun Musgrave,\nPosted on\nJanuary 3, 2023\nHot Games\nNew Games\n$3.99\n4. Pine Tar Poker\nFree\n5. Skies of Chaos\nFree\n6. Creatures of the Deep\n$5.99\n7. Isle of Arrows â€“ Tower Defense\n$7.99\n8. Monster Train\n$2.99\n9. MAGICUS\nFree\n10. Tallowmere 2\nNews\nUnique Match-3 Puzzler ‘Six Match’ Updated To Go Premium With New Puzzle Mode, UI, and Controller Support\nMikhail Madnani,\nPosted on\nJanuary 5, 2023\nThere are tons of match-3 puzzlers on mobile, but Aaron Steed’s Six Match ($2.99) was one that caught my eye …\nNews\nOut Now: ‘Rocco’s Island: Pocket Edition’, ‘Mighty Aphid 2’, ‘Pocket GM 3: Football Manager’, ‘Resonance of the Ocean’, ‘Lillie is the Keeper’, ‘Eversoul’, ‘Metarails’ and More\nJared Nelson,\nPosted on\nJanuary 4, 2023\nEach and every day new mobile games are hitting the App Store, and so each week we put together a …\n  News\nSwitchArcade Round-Up: Reviews Featuring ‘Guntech 2’ and ‘Pixel Boy’, Plus the Latest Releases and Sales\nShaun Musgrave,\nPosted on\nJanuary 4, 2023\nHello gentle readers, and welcome to the SwitchArcade Round-Up for January 4th, 2023. It’s a quiet one today, folks. Only …\nNews\nTouchArcade 2022 Game of the Year\nJared Nelson,\nPosted on\nJanuary 4, 2023\nWell here we are, 2022 is past us and we’re now on our way into 2023. As is always the …\nNews\nSwitchArcade Round-Up: ‘Chained Echoes’ Review, Plus ‘HEROish’ and Today’s Other Releases and Sales\nShaun Musgrave,\nPosted on\nJanuary 3, 2023\nHello gentle readers, and welcome to the SwitchArcade Round-Up for January 3rd, 2023. In today’s article, we’ve got a full …\nNews\nPocket Card Jockey: Ride On, Episode XOXO, Illustrated, and Squiggle Drop Arrive on Apple Arcade This Month\nMikhail Madnani,\nPosted on\nJanuary 3, 2023\nApple has revealed (via GodisaGeek) the new games coming to Apple Arcade this month. The highlight is definitely Pocket Card …\nNews\nJourney to the Savage Land in the Latest ‘Marvel Snap’ Season\nShaun Musgrave,\nPosted on\nJanuary 3, 2023\nIt’s a new year, but for Marvel Snap (Free) the more important thing is that it’s a new month. Most …\nNews\nSwitchArcade Round-Up: ‘Vampire Slayer: The Resurrection’ and Today’s Other New Releases, Plus the Latest Sales\nShaun Musgrave,\nPosted on\nJanuary 2, 2023\nHello gentle readers, and welcome to the SwitchArcade Round-Up for January 2nd, 2023. It’s our first edition of the year …\nNews\nBest iPhone Game Updates: ‘Township’, ‘Sonic Dash’, ‘Lunar’, ‘Minion Rush’, and More\nShaun Musgrave,\nPosted on\nJanuary 2, 2023\nHello everyone, and welcome to the week! It’s time once again for our look back at the noteworthy updates of …\nNews\n‘Lunar: Silver Star Story Touch’ Receives Massive 3.0 Update With New Options, Music, and More\nShaun Musgrave,\nPosted on\nJanuary 2, 2023\nIt’s been a little while since the last update to SoMoGa’s fine port of Lunar, Lunar: Silver Star Story Touch …\nNews\nTactical Arcade Shooter ‘Blast Waves’ Gets Its First Discount Alongside Big Content Update\nMikhail Madnani,\nPosted on\nJanuary 2, 2023\nImmortal Rogue developer Kyle Barret released a major update for his tactical arcade shooter Blast Waves ($2.99) over the weekend. …\nNews\n‘Stardew Valley’ 1.5 for Mobile Should Be Out in About a Week, Work Being Done To Ensure Quality\nMikhail Madnani,\nPosted on\nJanuary 2, 2023\nThe last bit of information we had for the Stardew Valley ($4.99) massive version 1.5 update pointed to a release …\nAn End of Year Homecoming – The TouchArcade Show #547\nJared Nelson,\nPosted on\nDecember 30, 2022\nWow, after a month-long hiatus, the TouchArcade Show returns just in time for the end of 2022! As a special …\nNews\nSwitchArcade Round-Up: ‘Toy Soldiers HD’, Plus Sales on ‘Samurai Shodown’ and More\nShaun Musgrave,\nPosted on\nDecember 30, 2022\nHello gentle readers, and welcome to the SwitchArcade Round-Up for December 30th, 2022. In today’s article, we’re finishing up the …\nNews\nThe 10 Best Nintendo Switch Games of 2022 – SwitchArcade Special\nShaun Musgrave,\nPosted on\nDecember 30, 2022\nHello gentle readers, and welcome to our final special edition for the year of 2022. Today we’ve got our list …\nView all\n  Support us on Patreon\nGive Support\nJoin us on the TouchArcade Discord server\nSupport TouchArcade by shopping on Amazon\nFollow TouchArcade on Twitch to watch our playthroughs\nLatest Reviews\n‘Need for Speed Unbound’ Steam Deck Review – Back Underground?\n4 stars, Ratings, Reviews\n‘Vampire Survivors: Legacy of the Moonspell’ DLC Steam Deck Review – Superlative Value\n4.5 stars, Ratings, Reviews\n‘Romancing SaGa -Minstrel Song-‘ Review – Toss a Coin to Your Minstrel\n$24.99\n$24.99, 4 stars, Reviews\n‘Vampire Survivors’ Mobile Review – Nearly Perfect\nFree\n4.5 stars, Free, Reviews\n‘Pulstar ACA NEOGEO’ Review – Kiss Your Thumbs Good-Bye\n$3.99\n$3.99, 4.5 stars, Reviews\n‘Top Hunter Roddy & Cathy’ Review – This One’s a Bit of a Stretch\n$3.99\n$3.99, 3.5 stars, Reviews\n‘OPUS: Echo of Starsong’ Review – Emotional and Essential\n$8.99\n$8.99, 4.5 stars, Reviews\n‘Marvel’s Spider-Man: Miles Morales’ Steam Deck Review – Be Yourself on the Go\n5 stars, Reviews\n‘Sackboy: A Big Adventure’ Steam Deck Review\n4.5 stars, Ratings, Reviews\n‘Uncharted: Legacy of Thieves Collection’ Steam Deck Review\n4 stars, Ratings, Reviews\nLatest Posts\nWavecade (by Andrew Spalato)\nAnotherkellydown, Today at 3:39 PM\nNumbers Game 2 - Number Match (by Lars Fessen-Fallsehr)\nLa-Apps, Today at 1:55 PM\nAncients Reborn: MMORPG (by Xisle Games)\nBoardumb, Today at 12:26 AM\nSubtransit Drive (by Wagon Software)\nBoardumb, Today at 12:00 AM\nMonopong (by Joel Collins)\nBoardumb, Yesterday at 11:57 PM\nIdle Bank Tycoon: Money Empire (by Kolibri Games)\nBoardumb, Yesterday at 11:37 PM\nEversoul (by Kakao Games Corp.)\nBoardumb, Yesterday at 10:00 PM\nSquiggle Drop (by Noodlecake)\nBoardumb, Yesterday at 9:42 PM\nPocket Card Jockey: Ride On! (by Game Freak)\nBoardumb, Yesterday at 9:32 PM\nIllustrated (by BorderLeap)\nBoardumb, Yesterday at 9:30 PM\nTouchArcade covers the latest games and apps for Apple's iPhone and iPod Touch. We are the largest site dedicated to iPhone and iPod Touch gaming.\nTouchArcade\nNews\nReviews\nGames\nForums\nSupport\nPress\nAdvertise with Us\nContact - Tips\nContact - Support\nTouch Arcade - New\nDeveloped by Audentio. Privacy Policy / DMCA Contact\n\n\n\n\nInformation from your device can be used to personalize your ad experience.\n\nCustomize my ad experience.",
+    "font": "-apple-system, \"system-ui\", \"segoe ui\", roboto, oxygen, ubuntu, cantarell, \"fira sans\", \"droid sans\", \"helvetica neue\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 616,
+                "y": 1668
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 616,
+                "y": 3130
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 616,
+                "y": 4606
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 240,
+                "y": 4693
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://39c93034b9d93e5e958488e6b7e5429c.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://ads.adthrive.com/builds/core/d30a628/html/topics.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://ads.adthrive.com/builds/core/d30a628/html/rnf.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://s.amazon-adsystem.com/iu3?cm3ppd=1&d=dtb-pub&csif=t&dl=gg_n-mediagrid_n-index_n-sharethrough_pm-db5_rbd_n-vmg_ox-db5_an-db5_3lift",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://pandg.tapad.com/tag?referrer_url=&page_url=https%3A%2F%2Ftoucharcade.com%2F&owner=P%26G&bp_id=cafemedia&initiator=js",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://eb2.3lift.com/sync?gdpr=&cmp_cs=&us_privacy=1YNY&redir=https%3A%2F%2Fprebid-server.rubiconproject.com%2Fsetuid%3Fbidder%3Dtriplelift%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D1YNY%26account%3D%26f%3Db%26uid%3D%24UID",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=&gdpr_consent=&us_privacy=1YNY&predirect=https%3A%2F%2Fprebid-server.rubiconproject.com%2Fsetuid%3Fbidder%3Dpubmatic%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D1YNY%26account%3D%26f%3Db%26uid%3D",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://ssc-cms.33across.com/ps/?m=xch&rt=html&gdpr=&gdpr_consent=&us_privacy=1YNY&id=zzz000000000002zzz&ru=https%3A%2F%2Fprebid-server.rubiconproject.com%2Fsetuid%3Fbidder%3D33across%26gdpr%3D%26gdpr_consent%3D%26us_privacy%3D1YNY%26account%3D%26f%3Db%26uid%3D33XUSERID33X",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

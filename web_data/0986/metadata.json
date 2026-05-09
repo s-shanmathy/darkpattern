@@ -1,0 +1,549 @@
+{
+    "title": "Mitsubishi Chemical Group - Advanced Materials Division",
+    "url": "mcam.com",
+    "full_url": "https://www.mcam.com/en",
+    "images": [
+        {
+            "alt": "mcg-am-logo",
+            "location": {
+                "x": 24,
+                "y": 48
+            },
+            "size": {
+                "height": 40,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "home-header",
+            "location": {
+                "x": 0,
+                "y": 29
+            },
+            "size": {
+                "height": 729,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "0-Hero_Banner_1408x1344",
+            "location": {
+                "x": 504,
+                "y": 822
+            },
+            "size": {
+                "height": 344,
+                "width": 480
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "video poster",
+            "location": {
+                "x": 24,
+                "y": 1326
+            },
+            "size": {
+                "height": 261,
+                "width": 464
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Colleagues collaborating while using a microscope",
+            "location": {
+                "x": 24,
+                "y": 2279
+            },
+            "size": {
+                "height": 348,
+                "width": 464
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "accessing-materials",
+            "location": {
+                "x": 520,
+                "y": 2199
+            },
+            "size": {
+                "height": 348,
+                "width": 464
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wind turbines used in renewable energy generation",
+            "location": {
+                "x": 24,
+                "y": 2659
+            },
+            "size": {
+                "height": 348,
+                "width": 464
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Colleagues collaborating in an industrial facility",
+            "location": {
+                "x": 520,
+                "y": 2579
+            },
+            "size": {
+                "height": 348,
+                "width": 464
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MCAM homepage image - 1920x1080",
+            "location": {
+                "x": -216,
+                "y": 4281
+            },
+            "size": {
+                "height": 810,
+                "width": 1440
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wing of a commercial passenger aircraft",
+            "location": {
+                "x": 520,
+                "y": 5377
+            },
+            "size": {
+                "height": 266,
+                "width": 400
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sunrise over the Earth as seen from space",
+            "location": {
+                "x": 0,
+                "y": 6023
+            },
+            "size": {
+                "height": 602,
+                "width": 505
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MCG_Logo",
+            "location": {
+                "x": 24,
+                "y": 6737
+            },
+            "size": {
+                "height": 50,
+                "width": 147
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            227,
+            232,
+            235
+        ],
+        [
+            241,
+            243,
+            246
+        ]
+    ],
+    "desc": "A global leader in high-performance thermoplastics, our advanced engineering materials help make ambitious ideas possible.",
+    "navbar": "Global - EN\nContact us\nAbout\nIndustries\nServices\nProducts\nSupport\nEngineering Possibilities\nCareers",
+    "text": "Do you want to consent to cookies?\nWe use cookies to personalize content and ads, to provide social media features and to analyze our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. For more information, please check our Privacy Notice page.\nManage your preferences\nReject all\nAllow all\nGlobal - EN\nContact us\nAbout\nIndustries\nServices\nProducts\nSupport\nEngineering Possibilities\nCareers\nHIGH-PERFORMANCE MATERIALS\nMaking ambitious\nideas possible\nWe partner with our customers to help get their ideas to market faster, advancing our industry in ways that also enhance the world.\nSEE WHAT WE ARE MADE OF\nIntroducing Statera™: Recycled engineering plastics\nOur new offering of recycled thermoplastics enables the transition to sustainable engineering without interruption or performance compromise.\nDiscover Statera\nPlay video https://youtu.be/ouwM6T_TvCA\nOCTOBER 2022 - JANUARY 2023\nThe Composites Engineering Challenge\nRewrite the rules of scaling with composite materials\nHave an original idea that we can help you scale? We are looking for startups and scale-ups who aim to ramp up production and need the right combination of materials, design support, and production technology. \nThe Composite Engineering Challenge is open to entrepreneurs and innovators globally, providing them with the opportunity to access up to $25,000 USD worth of support to scale their project.\nDiscover all details\nFROM IDEA TO REALITY\nAdvancing your ideas and enhancing the world\nDELIVERING RESULTS\nInnovative services\nand technologies\nOur bespoke technologies and engineering platforms support the development of every project from idea to prototype and onto global manufacturing, helping our customers get their products to market faster.\nFind out more\nACCESSING MATERIALS\nThe widest range of\nadvanced materials\nWith quick access to a comprehensive portfolio of specialist polymer solutions, thermoplastics and composites, our intuitive systems and technologies make finding the right materials easier.\nFind out more\nENHANCING THE WORLD\nA commitment to sustainability\nBy balancing our commitment to the circular economy with new possibilities in materials recycling, our KAITEKI philosphy allows our customers to deliver on their global sustainability commitments.\nFind out more\nCREATING PARTNERSHIPS\nGlobal expertise and collaboration\nOur network of materials and industry experts across 46 global sites provides proactive support, insights and inspiration to help customers in industries from aeronautics to bio-science make their ideas possible.\nFind out more\nFROM PART TO PARTNERSHIP\nDiscover how we’re shifting what’s possible across industries, products, services and innovation.\nInnovation\nFrom R&D of new, advanced materials, to partnering with innovators, and helping grow emerging ideas, our collaborative approach to finding the best solutions to today’s engineering challenges is driving our industry forward.\nRead more\nSustainability\nBased on our KAITEKI philosophy – meeting our own needs without compromising the ability of future generations to meet theirs – our commitment to sustainability goes much further than recycling our materials. We’re helping enhance the world.\nRead more\nServices\nWhether it’s rapid prototyping technology, new platforms or supply chain and distribution support, our bespoke services and high-tech systems offer industry-leading solutions.\nRead more\nProducts\nFrom high performance injection moldable carbon fibre composites to biocompatible engineering plastics and a variety of recyclable solutions, we offer the widest range of advanced materials.\nRead more\nIndustries\nOur established global partnerships, broad industry knowledge and range of materials expertise enables customers to find solutions that meet industry-specific requirements.\nRead more\nGETTING INGENIOUS IDEAS TO MARKET, FASTER\nOur latest collaborations are re-imagining engineering partnerships to bring truly ambitious ideas to life\nAerospace\nRenewable Energy\nFood & Pharma\nAutomotive\nSemiconductor\nCASE STUDY\nReducing costs and emissions through material expertise\nOur experts produced a self-lubricating plastic solution that not only delivered to our customer’s needs, but also resulted in a lighter plane with a lower risk of failure and reduced maintenance requirements. This in turn led to better fuel efficiency and reduced CO₂ emissions, which helped create a more sustainable aircraft.\nLearn More\nWing of a commercial passenger aircraft\n\n\n\n\n\n\nGET IN TOUCH\nStill not sure it’s possible?\nLooking for something specific? Get in touch with our specialist teams by filling in the contact form. We’re ready to meet your next challenge.\nContact us\nBack to top\nHome\nAbout MCAM\nCareers\nAbout KAITEKI\nMitsubishi Chemical Group Chemical Business Website\nCalifornia Human Trafficking Policy\nGlobal EHS and Business Excellence Policy\nQuality\nSafety\nCompliance\nTerms of Use\nPrivacy notice\nImprint\nSitemap\n2007-2022 © the Mitsubishi Chemical Group of companies. All rights reserved.",
+    "font": "\"Helvetica Neue LT Std\", \"Helvetica Neue\", HelveticaNeue, Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Composite Engineering Challenge launch",
+            "location": {
+                "x": 24,
+                "y": 1326
+            },
+            "size": {
+                "height": 261,
+                "width": 464
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Blank",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Blank",
+            "location": {
+                "x": 0,
+                "y": -9999
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SEE WHAT WE ARE MADE OF",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 24,
+                "y": 466
+            },
+            "size": {
+                "height": 68,
+                "width": 308
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Aerospace",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 24,
+                "y": 5234
+            },
+            "size": {
+                "height": 72,
+                "width": 191
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Renewable Energy",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 216,
+                "y": 5234
+            },
+            "size": {
+                "height": 96,
+                "width": 191
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Food & Pharma",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 407,
+                "y": 5234
+            },
+            "size": {
+                "height": 96,
+                "width": 191
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Automotive",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 598,
+                "y": 5234
+            },
+            "size": {
+                "height": 72,
+                "width": 191
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Semiconductor",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 789,
+                "y": 5234
+            },
+            "size": {
+                "height": 72,
+                "width": 195
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Back to top",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 24,
+                "y": 6673
+            },
+            "size": {
+                "height": 32,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

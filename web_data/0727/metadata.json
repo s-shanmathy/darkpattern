@@ -1,0 +1,643 @@
+{
+    "title": "American Society of Plastic Surgeons",
+    "url": "plasticsurgery.org",
+    "full_url": "https://www.plasticsurgery.org/",
+    "images": [
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 15,
+                "y": -4
+            },
+            "size": {
+                "height": 140,
+                "width": 130
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PSMatch - Logo",
+            "location": {
+                "x": 156,
+                "y": 120
+            },
+            "size": {
+                "height": 50,
+                "width": 203
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PSMatch - Logo - Small Size",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "PSConnect - Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "PSConnect - Logo - Small Size",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "PSConnect - Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 455,
+                "y": 616
+            },
+            "size": {
+                "height": 100,
+                "width": 99
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Scott Sattler Headshot",
+            "location": {
+                "x": 64,
+                "y": 936
+            },
+            "size": {
+                "height": 104,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Joshua Cooper Headshot",
+            "location": {
+                "x": 307,
+                "y": 936
+            },
+            "size": {
+                "height": 104,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Austin Hayes Headshot",
+            "location": {
+                "x": 550,
+                "y": 936
+            },
+            "size": {
+                "height": 104,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "George Marosan Headshot",
+            "location": {
+                "x": 792,
+                "y": 936
+            },
+            "size": {
+                "height": 104,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marshall Partington Headshot",
+            "location": {
+                "x": 64,
+                "y": 1266
+            },
+            "size": {
+                "height": 104,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shahram Salemy Headshot",
+            "location": {
+                "x": 307,
+                "y": 1266
+            },
+            "size": {
+                "height": 104,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shannon Colohan Headshot",
+            "location": {
+                "x": 550,
+                "y": 1266
+            },
+            "size": {
+                "height": 104,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Otway Louie Headshot",
+            "location": {
+                "x": 792,
+                "y": 1266
+            },
+            "size": {
+                "height": 104,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Scott Sattler Headshot",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Joshua Cooper Headshot",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Austin Hayes Headshot",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "George Marosan Headshot",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Marshall Partington Headshot",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Shahram Salemy Headshot",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Shannon Colohan Headshot",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Otway Louie Headshot",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 504,
+                "y": 1724
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 504,
+                "y": 3057
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 111,
+                "y": 3623
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 353,
+                "y": 3623
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 596,
+                "y": 3623
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo",
+            "location": {
+                "x": 838,
+                "y": 3623
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 80,
+                "y": 3917
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 201,
+                "y": 3917
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram",
+            "location": {
+                "x": 80,
+                "y": 3937
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 201,
+                "y": 3937
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTube",
+            "location": {
+                "x": 80,
+                "y": 3957
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 201,
+                "y": 3957
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search PlasticSurgery.org",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search PlasticSurgery.org",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            241,
+            227
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            13,
+            69,
+            93
+        ]
+    ],
+    "desc": "Get information on plastic surgery procedures, view before and after photos, read about the latest trends and find board-certified plastic surgeons in your area.",
+    "navbar": "Log In\nFor Medical Professionals",
+    "text": "AMERICAN SOCIETY OF\nPLASTIC SURGEONS\nHome\nCosmetic\nReconstructive\nBefore & After Photos\nFind a Surgeon\nMORE\nask a surgeon\npatient community\nLog In\nFor Medical Professionals\nCosmetic Surgery\nNew procedures and advanced technologies offer plastic surgery patients more options than ever before. Your board-certified plastic surgeon can help you reach your aesthetic goals.\nBefore & After Gallery\nCosmetic Procedures\nSurgeons In Your Area\nScott Sattler, MD\n4915 25th. Ave. N.E. Sound Plastic Surgery Sui...\nSeattle, WA 98105\n(206) 7292248\nVIEW PROFILE\nJoshua Cooper, MD\n4915 25th Avenue NE Ste. 103A\nSeattle, WA 98105\n(206) 7292248\nVIEW PROFILE\nAustin Hayes, MD\n1101 Madison Street Suite 1280\nSeattle, WA 98104\n(206) 624-6200\nVIEW PROFILE\nGeorge Marosan, MD\n11820 Northup Way Ste E190\nBellevue, WA 98005\n(425) 450-1994\nMarshall Partington, MD\n12301 NE 10th Place Suite 100\nBellevue, WA 98005\n(425) 2471895\nShahram Salemy, MD\n1101 Madison Street Suite 1101\nSeattle, WA 98104\n(206) 467-1101\nShannon Colohan, MD\n1959 NE Pacific St Box 356410/Room BB487 Univers...\nSeattle, WA 98195-6410\n(206) 543-5516\nOtway Louie, MD\n1959 NE Pacific St. Box 356410 Univ of Washington...\nSeattle, WA 98195-6410\n(206) 543-5516\n\n\n\n\n\n\n\n\nView All Surgeons Near You\nChoose The Right Procedure For You\nCOSMETIC\nSURGERY\nRECONSTRUCTIVE\nSURGERY\n\n\nWhy Choose a Board-Certified Plastic Surgeon\nChoose a board-certified plastic surgeon and be confident you are in the care of a highly trained surgeon you can trust.\nPatient Resources\nPatient Care Center\nBefore\n& After\nPhotos\nView Photo Gallery\nVideo\nGallery\nView Video Gallery\n3D\nAnimations\nView 3D Animations\nPatient\nSafety\nView Patient Safety\n\nHome Cosmetic Reconstructive Before & After Photos Find a Surgeon Patient Safety News Patients of Courage About ASPS Foundation\nCOSMETIC PROCEDURES\nAesthetic Genital Plastic Surgery Arm Lift Body Contouring Body Lift Botulinum Toxin Breast Augmentation Breast Implant Removal Breast Implant Revision Breast Lift Breast Reduction Brow Lift Buccal Fat Removal Buttock Enhancement Cheek Augmentation Chemical Peel Chin Surgery Dermabrasion Dermal Fillers Ear Surgery Eyelid Surgery Facelift Facial Implants Fat Transfer Breast Augmentation Gynecomastia Surgery Hair Transplantation and Restoration Laser Hair Removal Laser Skin Resurfacing Liposuction Liposuction - Assisted Men and Plastic Surgery Microdermabrasion Mommy Makeover Neck Lift Nonsurgical Aesthetic Genital Procedures Nonsurgical Fat Reduction Rhinoplasty Skin Rejuvenation and Resurfacing Spider Vein Treatment Tattoo Removal Thigh Lift Thread Lift Tummy Tuck\nRECONSTRUCTIVE PROCEDURES\nBreast Implant Removal Breast Reconstruction Breast Reduction Cleft Lip and Cleft Palate Repair Congenital Anomalies Craniosynostosis Surgery Gender Affirmation Surgeries Giant Nevi Removal Hand Surgery Lymphedema Treatment Microsurgery Migraine Surgery Orthognathic Surgery Panniculectomy Regenerative Medicine Scar Revision Septoplasty Skin Cancer Removal Tissue Expansion\nPROCEDURES EN ESPAÑOL\nAbdominoplastía Aumento de Senos Cirugia de Naríz Cirugía del Párpado Estiramiento de la Piel Facial Liposucción\nNEWS & PATIENT SAFETY\nPlastic Surgery News Plastic Surgery Blog Plastic Surgery Vlog Plastic Surgery Statistics ASPS Press Releases Patient Safety\nCORPORATE OPPORTUNITIES\nAdvertising Opportunities Corporate Champions Mailing List Rental Corporate Support & Exhibits\nFOR MEDICAL PROFESSIONALS\nMy Account Join ASPS Shop Education Publications Community Registries Advocacy Quality Health Policy Resources\n\n\nCopyright © 2022 American Society of Plastic Surgeons\nPrivacy Policy | Cookies Policy | Terms and Conditions | Accessibility Statement | Site Map | Contact Us | RSS Feeds | Website Feedback\nThis website uses cookies. By continuing to use this website you are giving consent to cookies being used. For more information visit our Privacy and Cookie Policies. DISMISS",
+    "font": "Lato, sans-serif",
+    "buttons": [
+        {
+            "text": "DISMISS",
+            "bg-color": "rgba(0, 0, 0, 0.3)",
+            "location": {
+                "x": 905,
+                "y": 788
+            },
+            "size": {
+                "height": 32,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

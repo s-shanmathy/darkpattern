@@ -1,0 +1,1349 @@
+{
+    "title": "Conso durable et styles de vie engagés. Environnement, éthique, partage, pour vivre mieux",
+    "url": "consoglobe.com",
+    "full_url": "https://www.consoglobe.com/",
+    "images": [
+        {
+            "alt": "consoGlobe, le site de la nouvelle consommation",
+            "location": {
+                "x": 10,
+                "y": 55
+            },
+            "size": {
+                "height": 78,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chargement...",
+            "location": {
+                "x": 320,
+                "y": 331
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Idée reçue : un sapin artificiel, c'est mieux pour l'environnement",
+            "location": {
+                "x": 20,
+                "y": 572
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Entretenir les ustensiles et les outils de jardinage avant l'hiver",
+            "location": {
+                "x": 20,
+                "y": 763
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Découvrez la Table de Noël des arnaques 2022 de Foodwatch",
+            "location": {
+                "x": 20,
+                "y": 954
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Environnement : la nouvelle appli pour connaître les risques de vos produits du quotidiens",
+            "location": {
+                "x": 20,
+                "y": 1145
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pénurie d'électricité : la Suisse restreint l'utilisation des voitures électriques",
+            "location": {
+                "x": 20,
+                "y": 1408
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Menu de Noël : des desserts gourmands et bio",
+            "location": {
+                "x": 352,
+                "y": 1408
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bicarbonate de soude : toutes les astuces écolo en cuisine !",
+            "location": {
+                "x": 20,
+                "y": 1551
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Préparer son jardin de balcon à l'hiver : ce qu'il ne faut pas oublier",
+            "location": {
+                "x": 352,
+                "y": 1551
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Énergie : les granulés en marc de café, moins chers et aussi performants que les pellets de bois",
+            "location": {
+                "x": 20,
+                "y": 1694
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cheminée, chaudière... Votre chauffage peut tuer, alertent les pompiers qui rappellent les bons gestes",
+            "location": {
+                "x": 352,
+                "y": 1694
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Reconnaître la fatigue chronique, maladie bien plus répandue qu'on ne le pense",
+            "location": {
+                "x": 20,
+                "y": 1837
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jho : marque française de protections hygiéniques bio, engagée aux côtés des femmes",
+            "location": {
+                "x": 352,
+                "y": 1837
+            },
+            "size": {
+                "height": 100,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Idée reçue : un sapin artificiel, c'est mieux pour l'environnement",
+            "location": {
+                "x": 700,
+                "y": 304
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Entretenir les ustensiles et les outils de jardinage avant l'hiver",
+            "location": {
+                "x": 700,
+                "y": 364
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Découvrez la Table de Noël des arnaques 2022 de Foodwatch",
+            "location": {
+                "x": 700,
+                "y": 426
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Environnement : la nouvelle appli pour connaître les risques de vos produits du quotidiens",
+            "location": {
+                "x": 700,
+                "y": 486
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pénurie d'électricité : la Suisse restreint l'utilisation des voitures électriques",
+            "location": {
+                "x": 700,
+                "y": 548
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Menu de Noël : des desserts gourmands et bio",
+            "location": {
+                "x": 700,
+                "y": 608
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bicarbonate de soude : toutes les astuces écolo en cuisine !",
+            "location": {
+                "x": 700,
+                "y": 670
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Préparer son jardin de balcon à l'hiver : ce qu'il ne faut pas oublier",
+            "location": {
+                "x": 700,
+                "y": 730
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SE SOIGNER AVEC LA NATURE",
+            "location": {
+                "x": 710,
+                "y": 848
+            },
+            "size": {
+                "height": 122,
+                "width": 280
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ENTRETENIR & PROTÉGER SON JARDIN",
+            "location": {
+                "x": 710,
+                "y": 980
+            },
+            "size": {
+                "height": 122,
+                "width": 280
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MANGER AUTREMENT",
+            "location": {
+                "x": 710,
+                "y": 1112
+            },
+            "size": {
+                "height": 122,
+                "width": 280
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Les 5 arbres les plus originaux de la planète",
+            "location": {
+                "x": 18,
+                "y": 2066
+            },
+            "size": {
+                "height": 100,
+                "width": 298
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Votre horoscope vert de l'année 2017",
+            "location": {
+                "x": 354,
+                "y": 2066
+            },
+            "size": {
+                "height": 100,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "En images - 8 espèces invasives en Europe",
+            "location": {
+                "x": 688,
+                "y": 2066
+            },
+            "size": {
+                "height": 100,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Idée reçue : un sapin artificiel, c'est mieux pour l'environnement",
+            "location": {
+                "x": 20,
+                "y": 2300
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sondage - Noël et sobriété énergétique : allez-vous décorer votre maison ?",
+            "location": {
+                "x": 352,
+                "y": 2299
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Arbre de Noël DIY : les alternatives originales aux sapins traditionnels",
+            "location": {
+                "x": 352,
+                "y": 2392
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Quel sapin choisir pour un Noël plus vert ?",
+            "location": {
+                "x": 352,
+                "y": 2485
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Entretenir",
+            "location": {
+                "x": 680,
+                "y": 2347
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "assainir",
+            "location": {
+                "x": 680,
+                "y": 2440
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Faire des économies",
+            "location": {
+                "x": 680,
+                "y": 2533
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Environnement : la nouvelle appli pour connaître les risques de vos produits du quotidiens",
+            "location": {
+                "x": 20,
+                "y": 2710
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jho : marque française de protections hygiéniques bio, engagée aux côtés des femmes",
+            "location": {
+                "x": 352,
+                "y": 2709
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ces réflexes à avoir avant d'acheter un vêtement",
+            "location": {
+                "x": 352,
+                "y": 2802
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "L'huile de chanvre, une précieuse alliée pour la peau et les cheveux",
+            "location": {
+                "x": 352,
+                "y": 2895
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nutrition santé",
+            "location": {
+                "x": 680,
+                "y": 2757
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Soin du visage",
+            "location": {
+                "x": 680,
+                "y": 2850
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Psycho",
+            "location": {
+                "x": 680,
+                "y": 2943
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "10 conseils pour réduire sa facture de chauffage",
+            "location": {
+                "x": 18,
+                "y": 3123
+            },
+            "size": {
+                "height": 250,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Economisez votre carburant !",
+            "location": {
+                "x": 276,
+                "y": 3123
+            },
+            "size": {
+                "height": 250,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Faut-il exploiter les gaz de schiste en France ?",
+            "location": {
+                "x": 534,
+                "y": 3123
+            },
+            "size": {
+                "height": 250,
+                "width": 195
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "L'eau, une ressource à préserver",
+            "location": {
+                "x": 792,
+                "y": 3123
+            },
+            "size": {
+                "height": 250,
+                "width": 195
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Découvrez la Table de Noël des arnaques 2022 de Foodwatch",
+            "location": {
+                "x": 20,
+                "y": 3498
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Menu de Noël : des desserts gourmands et bio",
+            "location": {
+                "x": 352,
+                "y": 3496
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bicarbonate de soude : toutes les astuces écolo en cuisine !",
+            "location": {
+                "x": 352,
+                "y": 3590
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Préparez vos citrons confits pour l'hiver : la méthode facile... et délicieuse !",
+            "location": {
+                "x": 352,
+                "y": 3683
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Recettes",
+            "location": {
+                "x": 680,
+                "y": 3544
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bien choisir ses aliments",
+            "location": {
+                "x": 680,
+                "y": 3638
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cuisine pratique",
+            "location": {
+                "x": 680,
+                "y": 3730
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Entretenir les ustensiles et les outils de jardinage avant l'hiver",
+            "location": {
+                "x": 20,
+                "y": 3908
+            },
+            "size": {
+                "height": 104,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Préparer son jardin de balcon à l'hiver : ce qu'il ne faut pas oublier",
+            "location": {
+                "x": 352,
+                "y": 3906
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Récolter et stocker les radis d'hiver : ces astuces à connaître pour les conserver toute la saison",
+            "location": {
+                "x": 352,
+                "y": 4000
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Potager, serre, gazon et fleurs : que faire avant l'hiver ?",
+            "location": {
+                "x": 352,
+                "y": 4093
+            },
+            "size": {
+                "height": 52,
+                "width": 156
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ecogestes au jardin",
+            "location": {
+                "x": 680,
+                "y": 3954
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jardiner en ville",
+            "location": {
+                "x": 680,
+                "y": 4048
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mon potager",
+            "location": {
+                "x": 680,
+                "y": 4140
+            },
+            "size": {
+                "height": 73,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "label harris interactive",
+            "location": {
+                "x": 264,
+                "y": 4326
+            },
+            "size": {
+                "height": 120,
+                "width": 120
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 282,
+                "y": 4272
+            },
+            "size": {
+                "height": 36,
+                "width": 227
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Rechercher une information sur consoGlobe",
+            "type": "submit",
+            "location": {
+                "x": 508,
+                "y": 4272
+            },
+            "size": {
+                "height": 36,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 718,
+                "y": 3
+            },
+            "size": {
+                "height": 31,
+                "width": 247
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Rechercher une information sur consoGlobe",
+            "type": "submit",
+            "location": {
+                "x": 964,
+                "y": 3
+            },
+            "size": {
+                "height": 31,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            55,
+            123,
+            199
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "Tout pour consommer durable ; infos, conseils, produits bio et ecolo, consommer autrement, respecter la planete et son budget",
+    "navbar": "Alimentation\nBeauté Mode\nSanté Bien-être\nMa maison\nMon jardin\nNos enfants\nMa planète\nTourisme\nMobilité\nÉnergies\nConsom'\nACTION",
+    "text": "Alimentation\nBeauté Mode\nSanté Bien-être\nMa maison\nMon jardin\nNos enfants\nMa planète\nTourisme\nMobilité\nÉnergies\nConsom'\nACTION\nChauffage à 19°C : que risquez-vous si ...\nMaladies cardiovasculaires : une ...\nLe meilleur saumon fumé pour Noël est ...\nPréparer les rosiers pour l'hiver : 5 ...\nMaladies cardiovasculaires : une cardiologue alerte au sujet de 5 aliments à éviter, pourtant très consommés\nIdée reçue : un sapin artificiel, c’est mieux pour l’environnement\nVous souhaitez privilégier un sapin artificiel pour préserver l'environnement ? Erreur ! Les sapins naturels possèdent un...\nMa Maison\nEntretenir les ustensiles et les outils de jardinage avant l’hiver\nAvec les années, vous utilisez certainement de plus en plus de matériel de jardinage, surtout si vous avez commencez avec peu....\nMon Jardin\nDécouvrez la Table de Noël des arnaques 2022 de Foodwatch\nDes produits alimentaires aux fausses promesses, voire contenant des ingrédients nocifs pour la santé : Foodwatch dévoile...\nAlimentation\nEnvironnement : la nouvelle appli pour connaître les risques de vos produits du quotidiens\nL'application QuelProduit de l'UFC-Que Choisir offre désormais des informations permettant de vérifier la dangerosité des...\nBeaute\nEn bref\nPénurie d’électricité : la Suisse restreint l’utilisation des voitures électriques\nMobilité\nMenu de Noël : des desserts gourmands et bio\nAlimentation\nBicarbonate de soude : toutes les astuces écolo en cuisine !\nAlimentation\nPréparer son jardin de balcon à l’hiver : ce qu’il ne faut pas oublier\nMon Jardin\nÉnergie : les granulés en marc de café, moins chers et aussi performants que les pellets de bois\nEnergies\nCheminée, chaudière… Votre chauffage peut tuer, alertent les pompiers qui rappellent les bons gestes\nEnergies\nReconnaître la fatigue chronique, maladie bien plus répandue qu’on ne le pense\nSante\nJho : marque française de protections hygiéniques bio, engagée aux côtés des femmes\nBeaute\n> TOUTES LES ACTUS\nEn continu\nhier\nIdée reçue : un sapin artificiel, c'est mieux pour l'environnement\nhier\nEntretenir les ustensiles et les outils de jardinage avant l'hiver\nhier\nDécouvrez la Table de Noël des arnaques 2022 de Foodwatch\nhier\nEnvironnement : la nouvelle appli pour connaître les risques de vos produits du quotidiens\nhier\nPénurie d'électricité : la Suisse restreint l'utilisation des voitures électriques\nhier\nMenu de Noël : des desserts gourmands et bio\nhier\nBicarbonate de soude : toutes les astuces écolo en cuisine !\n2 j\nPréparer son jardin de balcon à l'hiver : ce qu'il ne faut pas oublier\nEn ce moment\nSE SOIGNER AVEC LA NATURE\nENTRETENIR & PROTÉGER SON JARDIN\nMANGER AUTREMENT\nDiaporamas\nLes 5 arbres les plus originaux de la planète\nVotre horoscope vert de l’année 2017\nEn images – 8 espèces invasives en Europe\n> VOIR TOUS LES DIAPORAMAS\nMa Maison\nIdée reçue : un sapin artificiel, c’est mieux pour l’environnement\nIdée reçue de circonstance en cette période ! À quelques semaines du réveillon de Noël, la question du sapin commence à se poser dans de nombreux foyers français. Cette année, sapin naturel ou sapin artificiel ? Voici...\nSondage – Noël et sobriété énergétique : allez-vous décorer...\nArbre de Noël DIY : les alternatives originales aux sapins traditionnels\nQuel sapin choisir pour un Noël plus vert ?\n> TOUS LES ARTICLES HABITAT\nA lire également :\nBeauté - santé\nEnvironnement : la nouvelle appli pour connaître les risques de vos produits du quotidiens\nLe réchauffement climatique est au centre de toutes les attentions. Lutter contre nécessite un changement radical dans la consommation, surtout en termes d'énergie. Mais les consommateurs peuvent protéger l'environnement de bien des façons, et...\nJho : marque française de protections hygiéniques bio, engagée aux...\nCes réflexes à avoir avant d’acheter un vêtement\nL’huile de chanvre, une précieuse alliée pour la peau et les cheveux\n> TOUS LES ARTICLES BEAUTÉ - SANTÉ\nA lire également :\nDerniers dossiers\n> VOIR TOUS LES DOSSIERS\nAlimentation\nDécouvrez la Table de Noël des arnaques 2022 de Foodwatch\nL'ONG Foodwatch reconduit sa campagne de Noël dans laquelle elle met en exergue des produits alimentaires suremballés ou contenant des ingrédients ou additifs nocifs pour la santé. Additifs : les E250 et E150 bien présents à la table de...\nMenu de Noël : des desserts gourmands et bio\nBicarbonate de soude : toutes les astuces écolo en cuisine !\nPréparez vos citrons confits pour l’hiver : la méthode...\n> TOUS LES ARTICLES ALIMENTATION\nA lire également :\nMon Jardin\nEntretenir les ustensiles et les outils de jardinage avant l’hiver\nLes outils de jardinage sont mis à contribution toute l'année, souvent sans trop de considération pour leur état, étant donné le nombre d'urgences potagères à mener de front... Avec la fin de l'automne viendra le moment de leur...\nPréparer son jardin de balcon à l’hiver : ce qu’il ne faut...\nRécolter et stocker les radis d’hiver : ces astuces à connaître...\nPotager, serre, gazon et fleurs : que faire avant l’hiver ?\n> TOUS LES ARTICLES JARDINAGE\nA lire également :\nNOUS SUIVRE :\nQu'est-ce que consoGlobe ?\nL'équipe\nContact\nFAQ\nConditions générales\nDEVENEZ ANNONCEUR\nLa communauté de rédacteurs\nParticiper à la rédaction\nDans les médias\nRecrutement\nLes dossiers thématiques\nLes événements consoGlobe\nNOS AUTRES SITES :\nSE CONNECTER",
+    "font": "\"Roboto Condensed\", Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

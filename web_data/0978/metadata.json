@@ -1,0 +1,164 @@
+{
+    "title": "DoorDash Food Delivery & Takeout - From Restaurants Near You",
+    "url": "doordash.com",
+    "full_url": "https://www.doordash.com/",
+    "images": [
+        {
+            "alt": "Become a Dasher",
+            "location": {
+                "x": 286,
+                "y": 636
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Become a Partner",
+            "location": {
+                "x": 286,
+                "y": 812
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Try the App",
+            "location": {
+                "x": 286,
+                "y": 1028
+            },
+            "size": {
+                "height": 124,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter delivery address",
+            "type": "text",
+            "location": {
+                "x": 338,
+                "y": 332
+            },
+            "size": {
+                "height": 24,
+                "width": 318
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            250,
+            250
+        ],
+        [
+            193,
+            193,
+            193
+        ]
+    ],
+    "desc": "Delivery & takeout from the best local restaurants. Breakfast, lunch, dinner and more, delivered safely to your door. Now offering pickup & no-contact delivery.",
+    "text": "Sign In\nSign Up\nRestaurants and more, delivered to your door\nSign in for saved address\nBecome a Dasher\nAs a delivery driver, you'll make reliable money—working anytime, anywhere.\nStart earning\nBecome a Partner\nGrow your business and reach new customers by partnering with us.\nSign up your store\nTry the App\nExperience the best your neighborhood has to offer, all in one app.\nGet the app\nIt’s all here. \nAll in one app.\nDiscover local, on-demand delivery or Pickup from restaurants, nearby grocery and convenience stores, and more.\nGet the app\nEvery Flavor Welcome\nFrom your neighborhood sushi spot to the burger and fries you crave, choose from over 300,000 local and national favorites across the U.S., Canada and Australia.\nFind restaurants\nTop Cities\nNew York City\nLos Angeles\nToronto\nChicago\nHouston\nBrooklyn\nSan Diego\nLas Vegas\nSan Francisco\nSeattle\nAtlanta\nQueens\nVancouver, BC\nMiami\nSan Antonio\nPhoenix\nDenver\nAustin\nWashington, DC\nDallas\nMelbourne\nSydney\nMontreal\nAll Cities\nTop Cuisines Near You\nPizza Near Me\nChinese Food Near Me\nSushi Near Me\nCafe Near Me\nMexican Food Near Me\nThai Food Near Me\nLunch Near Me\nSeafood Near Me\nIndian Food Near Me\nDessert Near Me\nBurgers Near Me\nAsian Food Near Me\nItalian Food Near Me\nVegan Food Near Me\nSandwiches Near Me\nRestaurants Near Me\nGet to Know Us\nAbout Us\nCareers\nInvestors\nCompany Blog\nEngineering Blog\nMerchant Blog\nGift Cards\nPromotions\nDasher Central\nDoorDash Stories\nLinkedIn\nGlassdoor\nAccessibility\nLet Us Help You\nAccount Details\nOrder History\nHelp\nDoing Business\nBecome a Dasher\nList Your Business\nGet Dashers for Deliveries\nGet DoorDash for Work\nTerms of Service\nPrivacy\nNotice At Collection\nDelivery Locations\n© 2022 DoorDash",
+    "font": "Times",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 664,
+                "y": 324
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Start earning",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 474,
+                "y": 760
+            },
+            "size": {
+                "height": 20,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Sign up your store",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 474,
+                "y": 976
+            },
+            "size": {
+                "height": 20,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Get the app",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 474,
+                "y": 1152
+            },
+            "size": {
+                "height": 20,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

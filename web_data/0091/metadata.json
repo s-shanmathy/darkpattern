@@ -1,0 +1,305 @@
+{
+    "title": "LG CNS",
+    "url": "lgcns.com",
+    "full_url": "https://www.lgcns.com/",
+    "images": [
+        {
+            "alt": "LG CNS",
+            "location": {
+                "x": 50,
+                "y": 47
+            },
+            "size": {
+                "height": 26,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LG CNS",
+            "location": {
+                "x": 50,
+                "y": 4331
+            },
+            "size": {
+                "height": 34,
+                "width": 146
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "검색어를 입력하세요.",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            45,
+            45,
+            45
+        ],
+        [
+            245,
+            245,
+            245
+        ]
+    ],
+    "desc": "LG CNS는 IT신기술로 고객의 DX를 선도하는 Digital Growth Partner 입니다.",
+    "navbar": "본문 바로가기",
+    "text": "본문 바로가기\n블로그\n문의하기\n고객의 소리\nKR\n메뉴\nDigital Growth Partner\nLG CNS\n최신소식\n유튜브🎥\nAI 연구원들의 직무를 낱낱히 파헤쳐보았다\n보도자료📰\nLG CNS, “AI컨택센터 구독해서 쓰세요”\n비즈니스\n이전\n다음\nDX솔루션\n보안\n클라우드\nSaaS Integration\n보도자료\nLG CNS의 최신 소식을 지금 만나보세요.\nLG CNS, “AI컨택센터 구독해서 쓰세요”\n2022.12.08\nLG CNS AI튜터 앱 ‘버터타임’으로 영어회화 실력 쑥↑\n2022.11.28\nLG CNS, ‘DX 전문가’ 꿈꾸는 청소년들 ‘AI 아이디어’ 육성\n2022.11.22\nLG CNS, 인도네시아 新수도 스마트시티 청사진 그린다\n2022.11.15\n더보기\n블로그\nAll CNS Tech IT Trend Event\n더보기\nTOP\n문의하기 사이트맵\n개인정보처리방침\n이메일주소 무단수집 거부\n정도경영 사이버 신문고\n서울시 강서구 마곡중앙8로 71 LG 사이언스파크 E13, E14\nCopyright © LG CNS. All Rights Reserved.\nYouTube\nFacebook\nInstagram\nLinkedIn\n네이버 포스트\n패밀리 사이트 바로가기",
+    "font": "LGSmHa, \"Noto Sans\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "about:blank",
+            "location": {
+                "x": 569,
+                "y": 989
+            },
+            "size": {
+                "height": 700,
+                "width": 400
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "KR",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 838,
+                "y": 47
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 884,
+                "y": 47
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "메뉴",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 930,
+                "y": 47
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1391,
+                "y": 40
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1443,
+                "y": 40
+            },
+            "size": {
+                "height": 26,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 17,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "이전",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 50,
+                "y": 1388
+            },
+            "size": {
+                "height": 62,
+                "width": 27
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "다음",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 932,
+                "y": 1388
+            },
+            "size": {
+                "height": 62,
+                "width": 27
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "패밀리 사이트 바로가기",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 699,
+                "y": 4510
+            },
+            "size": {
+                "height": 48,
+                "width": 260
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 889,
+                "y": 780
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

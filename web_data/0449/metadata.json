@@ -1,0 +1,132 @@
+{
+    "title": "Home | ChicoBag",
+    "url": "chicobag.com",
+    "full_url": "https://www.chicobag.com/",
+    "images": [
+        {
+            "alt": "ChicoBag",
+            "location": {
+                "x": 368,
+                "y": 2
+            },
+            "size": {
+                "height": 70,
+                "width": 272
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ChicoBag and To-Go Ware are Certified B Corps, 1 Percent For The Planet Members and offset 100 percent of all our carbon emissions ",
+            "location": {
+                "x": 40,
+                "y": 752
+            },
+            "size": {
+                "height": 291,
+                "width": 450
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 40,
+                "y": 1881
+            },
+            "size": {
+                "height": 38,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            130,
+            185,
+            89
+        ],
+        [
+            117,
+            130,
+            137
+        ]
+    ],
+    "navbar": "SHOP\nCUSTOM\nBLOG\nOUR COMMITMENT\nLITTLE BIT BETTER\n0\nSign in",
+    "text": "SHOP\nCUSTOM\nBLOG\nOUR COMMITMENT\nLITTLE BIT BETTER\n0\nSign in\n  Holiday Special - 30% OFF Travel Pack Prints - Use Code: TPPRINTS30 • Free shipping on $75\nTWO BRANDS, ONE MISSION | BAGGING THE SINGLE-USE HABIT\nPlastic pollution and marine debris are a serious and growing problem that is not going away without a global change in humanity's relationship with single-use plastics. So far, ChicoBag and To-Go Ware have helped millions significantly reduce their single-use consumption and have saved over 25 BILLION single-use items from entering the waste-stream.\nSustainably Made For You and the Planet\nOur products meet the highest standards of verified social and environmental performance, public transparency, and legal accountability to balance profit and purpose.\nLearn More\nTOP-SELLING FAVORITES\n\nUseful Links\nHome\nBecome a Retailer \nFundraising\nShipping Information\nTerms and Conditions\nAbout us\nOur Mission: Helping Humanity Bag The Single-Use Habit\nBy exchanging wasteful, single-use bags, utensils, and containers for high quality, long-lasting reusable products, we protect our planet from pollution and preserve its beauty for generations to come.\n\nConnect with us\nContact us\ninfo@chicobag.com\n+1 (530) 342-4426\nCopyright © ChicoBag Company & To-Go Ware\nPowered by - The #1 Open Source eCommerce",
+    "font": "Roboto, \"Odoo Unicode Support Noto\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(53, 151, 156, 1)",
+            "location": {
+                "x": 129,
+                "y": 1881
+            },
+            "size": {
+                "height": 38,
+                "width": 41
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

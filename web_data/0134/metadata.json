@@ -1,0 +1,572 @@
+{
+    "title": "Outside Magazine",
+    "url": "outsideonline.com",
+    "full_url": "https://www.outsideonline.com/",
+    "images": [
+        {
+            "alt": "Sasha DiGiulian climbing Rayu in Spain in 2022",
+            "location": {
+                "x": 275,
+                "y": 299
+            },
+            "size": {
+                "height": 259,
+                "width": 460
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "John John Florence sailing off the coast off Honolulu",
+            "location": {
+                "x": 30,
+                "y": 299
+            },
+            "size": {
+                "height": 121,
+                "width": 215
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Placeholder",
+            "location": {
+                "x": 30,
+                "y": 606
+            },
+            "size": {
+                "height": 121,
+                "width": 215
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Placeholder",
+            "location": {
+                "x": 764,
+                "y": 299
+            },
+            "size": {
+                "height": 121,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Placeholder",
+            "location": {
+                "x": 764,
+                "y": 581
+            },
+            "size": {
+                "height": 121,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration by Graham Samuels",
+            "location": {
+                "x": 86,
+                "y": 1287
+            },
+            "size": {
+                "height": 88,
+                "width": 88
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The author in Croft State Park, Spartanburg, South Carolina",
+            "location": {
+                "x": 336,
+                "y": 1287
+            },
+            "size": {
+                "height": 88,
+                "width": 88
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Father and son off Tasiilaq, Greenland",
+            "location": {
+                "x": 585,
+                "y": 1287
+            },
+            "size": {
+                "height": 88,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "John and Ann Bender were building their dream life in Costa Rica. Then everything went wrong.",
+            "location": {
+                "x": 835,
+                "y": 1287
+            },
+            "size": {
+                "height": 88,
+                "width": 88
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mozambique hazy trees illustration",
+            "location": {
+                "x": 30,
+                "y": 5135
+            },
+            "size": {
+                "height": 268,
+                "width": 460
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "skis from the 2023 ski test",
+            "location": {
+                "x": 520,
+                "y": 5135
+            },
+            "size": {
+                "height": 268,
+                "width": 460
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A group of people practicing yoga in a park on a sunny summer evening",
+            "location": {
+                "x": 30,
+                "y": 6103
+            },
+            "size": {
+                "height": 268,
+                "width": 460
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of people outside reacting to music",
+            "location": {
+                "x": 520,
+                "y": 6867
+            },
+            "size": {
+                "height": 268,
+                "width": 460
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The author beside a giant sequoia during the 2021 KNP Complex",
+            "location": {
+                "x": 30,
+                "y": 7646
+            },
+            "size": {
+                "height": 268,
+                "width": 460
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "total composites truck camper in action",
+            "location": {
+                "x": 520,
+                "y": 7646
+            },
+            "size": {
+                "height": 268,
+                "width": 460
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gaia GPS app icon",
+            "location": {
+                "x": 30,
+                "y": 8572
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Trailforks app icon",
+            "location": {
+                "x": 354,
+                "y": 8572
+            },
+            "size": {
+                "height": 70,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Outside TV app icon",
+            "location": {
+                "x": 678,
+                "y": 8572
+            },
+            "size": {
+                "height": 78,
+                "width": 70
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carr sailing in the Bahamas in 1981.",
+            "location": {
+                "x": 578,
+                "y": 9029
+            },
+            "size": {
+                "height": 191,
+                "width": 328
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Magazine issue",
+            "location": {
+                "x": 355,
+                "y": 10062
+            },
+            "size": {
+                "height": 320,
+                "width": 244
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Outside Magazine Nov/Dec 2022 Cover",
+            "location": {
+                "x": 356,
+                "y": 10792
+            },
+            "size": {
+                "height": 392,
+                "width": 298
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 30,
+                "y": -691
+            },
+            "size": {
+                "height": 93,
+                "width": 949
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "Outside covers travel, sports, gear, and fitness, as well as the personalities, the environment, and the style and culture of the outdoors.",
+    "navbar": "WATCH\nLEARN\nPODCASTS\nMAPS\nEVENTS\nSHOP\nNEW\nNFTS\nO+",
+    "text": "Outside\nWATCH\nLEARN\nPODCASTS\nMAPS\nEVENTS\nSHOP\nNEW\nNFTS\nO+\nJOIN NOW\nSIGN IN\n\n\nCLIMBING\nFLY FISHING FILM TOUR\nGAIA GPS\nNATIONAL PARK TRIPS\nOUTSIDE\nOUTSIDE WATCH\nSKI\nWARREN MILLER ENTERTAINMENT\nOXYGEN\nVEGETARIAN TIMES\nYOGA JOURNAL\nCYCLINGTIPS\nPELOTON MAGAZINE\nPINKBIKE\nROLL MASSIF\nTRAILFORKS\nTRAIL RUNNER\nTRIATHLETE\nVELONEWS\nWOMEN'S RUNNING\nBICYCLE RETAILER & INDUSTRY NEWS\nFINISHERPIX\nIDEA\nNASTAR\nOUTSIDE BUSINESS JOURNAL\nOUTSIDE SHOP\nVELOPRESS\nVELOSWAP\nGET 30% OFF OUTSIDE+\nFuel All Your Adventures With This Holiday Sale\nSAVE NOW\nOutside Online\nGEAR\nADVENTURE\nHEALTH\nTRAVEL\nCULTURE\nFOOD\nLONG READS\nVIDEOS\nPODCASTS\nBUSINESS JOURNAL\nBleeding Fingers, Hailstorms, and 2,000 Vertical Feet: How Three Women Set a Big-Wall Climbing Record\nSasha DiGiulian, Brette Harrington, and Matilda Söderlund traveled to Spain to send one of the hardest such routes. Rayu marks 16 pitches of biting limestone and a 5.14b crux. For DiGiulian, it also signaled a return to the height of her athletic career.\nSasha DiGiulian\nPro Surfer John John Florence’s Guide to Oahu: His Favorite Beaches, Breaks, and Local Food\nTasha Zemke\nThe Forest Service Will Replace All 17,000 of Its Vehicles with Electric Ones\nWes Siler\nReport: Family Home of Iranian Climber Elnaz Rekabi Destroyed\nDelaney Miller\nAn Oregon School District Pulled Kids Out of a Camp with Nonbinary Counselors\nSJ Keller\nOUTSIDE CLASSICS: THE BEST STORIES WE'VE EVER TOLD\nOn the Hunt for America’s Last Great Treasure\nWe’re Here. You Just Don’t See Us.\nOn the Hilarious Dynamics of Family Travel (with Mild Nudity and Sibling Violence)\nLove and Madness in the Jungle\nLATEST\nISSUES\nIn an Industry First, Park City Mountain Lift Operators and Electricians Unionize\nLast year Park City ski patrollers unionized. Now it's the lifties' and electricians' turn.\nSteve Larese 13 hours ago\nEXPLORATION & SURVIVAL\nA Hiker Was Stranded for Two Weeks. He Survived on Half a Jar of Salsa.\nInjured in the SoCal backcountry, a man got a break when two campers heard him screaming for help\nMary Beth “Mouse” Skylis 14 hours ago\nBIKING\nVideo: Pinkbike Academy Season 3, Episode 8: ”Content Is King,” Part 2\nTen of the world’s best amateur riders battle it out for a pro contract from Orbea Bikes and a $30,000 prize purse\nChristie Fitzpatrick 15 hours ago\nNORTH AMERICA\nThis May Be the Next National Monument\nIf Avi Kwa Ame becomes a national monument, the designation would continue a huge push by the current administration to increase land protections and enhance opportunities for co-management between Tribes and the government.\nEmily Pennington 15 hours ago\nEVEREST\nNims Purja Thinks He Can Go Even Faster on the 8,000-Meter Peaks\nArticles editor Frederick Dreier sat down with Purja to discuss the triumphs and tragedies from his 2022 climbing season, as well as the speed record he thinks is possible on the 8,000ers\nFrederick Dreier 16 hours ago\nADVOCACY\nMassachusetts Announces New Office of Outdoor Recreation\nThe Massachusetts Office of Outdoor Recreation will advance outdoor opportunities, policies, and infrastructure in the Bay State\nKristin Hostetter 16 hours ago\nLOVE & HUMOR\nWhat Are Your Ethical Responsibilities at a Potluck?\nOutside’s ethics guru weighs in\nSundog 17 hours ago\nISSUES\nThe Plus-Size Outdoor Apparel Market Is Booming\nCompanies are realizing the business benefits of size inclusivity\nKara Richardson Whitely Dec 5, 2022\nINJURY PREVENTION\nDown on Hiking? You Might Be Burned Out.\nBurnout can affect participants of any sport—including hiking. Here’s how to identify, prevent, and cure it.\nCorey Buhay Dec 3, 2022\nCLIMBING\nThis 11-Year-Old Completed Two 5.14b Climbs in One Day\nColoradan Bayes Wilder had a massive day of climbing in Spain\nDelaney Miller Dec 3, 2022\nSEE ALL\nWHAT MEMBERS ARE READING\nFor exclusive access to all of our fitness, gear, adventure, and travel stories, plus discounts on trips, events, and gear, join Outside+.\nJOIN OUTSIDE+\nMember Perks: The Latest Deals\nThe Smartest Thing Anyone Has Ever Said to Me\nBrendan Leonard\nYou Have Too Much Old Bike Stuff. Here’s What to Do with It.\nEben Weiss\nADVENTURE\n“I'm Still Alive but Sh*t Is Getting Wild”: Inside the Siege of the Amarula\nWhen vast gas reserves were discovered off the idyllic coast of northern Mozambique, a crew of roughnecks flew in from around the world to make their fortunes. But in March 2021, Islamist rebels attacked, and the foreigners and thousands of Mozambicans were abandoned. Two hundred holed up at the Amarula Lodge, where the expats faced a choice: save themselves, or risk it all to save everyone. As oil and gas fuel a new war in Europe, Alex Perry pieces together, shot by shot, a stunning morality tale for the global economy.\nEDITORS’ PICKS\nThe Ethics of Thru-Hiking with Kids\nThis Rare Drone Footage of Everest Is Stunning\nSurvival Stories: Impaled by a Tree While Mountain Biking\nVIEW MORE\nGEAR GUIDE\nThe 2023 Winter Gear Guide\nWe rallied 441 testers and 1,300 products across every category of winter gear. After more than 7,500 miles and 830,000 vertical feet, we landed on 500 pieces that stood out for skiing, snowboarding, running, climbing, hiking, and more.\nEDITORS’ PICKS\nThe Best Cross-Country Skis of 2023\nTackle Any Winter Wonderland with the Best Snowshoes of 2023\nThe Top Snowboards of 2023 Are Some of the Raddest We’ve Ever Seen\nVIEW MORE\nHEALTH\n12 Yoga Poses for Strong Legs\nTry these strengthening stretches for stronger limbs\nEDITORS’ PICKS\nBuilding Mental Toughness - How to Push Through the Pain\nHow Wildfire Smoke Affects Your Body and Mind\nThe 11 Mental Skills That Make an Athlete Elite\nVIEW MORE\nTRAVEL\nThis Might Be the Most Spectacular Road Trip in America\nA longtime resident of the Southwest shares her favorite ways to see this region’s geological wonders, surreal sunsets, and wide-open spaces\nEDITORS’ PICKS\nThe Best Hike in Every National Park\nThe Best Free Campsites in All 50 States\nHow to Avoid Crowds in the 10 Most Popular National Parks\nVIEW MORE\nFOOD\n4 Drinks We’ll Be Sipping When Temperatures Drop\nWhether you're warming up after a day on the slopes or filling a flask for the pumpkin patch, we've got your drinking needs covered\nEDITORS’ PICKS\nHow to Prepare Your Vegetable Garden for Winter\nMeater Plus Is the Best Wireless Meat Thermometer\nThe 4 Best Food and Beer Pairings for Camping\nVIEW MORE\nCULTURE\nWhat’s the Deal with People Blasting Their Speakers in the Backcountry?\nOutside’s ethics guru weighs in on the Great Outdoors Music Debate\nEDITORS’ PICKS\nCheryl Strayed on the 1995 Pacific Crest Trail Thru-Hike That Changed Everything\nContestants on ‘Alone’ May Have Found the Perfect Backcountry Food\n7 Essential Commands Your Dog Should Know—and How to Train Them\nVIEW MORE\nLONG READS\nTo Save Sequoias from Wildfire, We Must Save Them from Ourselves\nOnce thought to be basically immortal, giant sequoias are dying in droves as fires burn bigger, hotter, and longer than at any other point in human history. Protecting them is possible, but managing western woods is a Pandora’s box of tough choices.\nEDITORS’ PICKS\nThis Bike Company Launched a Black Reparations Program. Then the Lawyers Called.\nOne Woman’s Wholesome Mission to Get Naked Outside\nA Legendary Hot-Air Balloon Pilot Died after a Bizarre Crash. It Still Doesn’t Make Sense.\nVIEW MORE\nGEAR\nHow I Built Out the Dream DIY Adventure Truck Camper\nThis four-season, ultralight truck camper is designed to go anywhere, anytime\nEDITORS’ PICKS\nI Used to Camp with Sleeping Pads. Now I Swear by Camping Cots.\nThe 10 Best Fanny Packs for Every Type of Adventure\nThis Bike Company Launched a Black Reparations Program. Then the Lawyers Called.\nVIEW MORE\nOUTSIDE\nAPPS\nGAIA GPS\nGet off the beaten path, and stay found.\nDOWNLOAD\nTRAILFORKS\nDiscover the best trails in the world.\nDOWNLOAD\nOUTSIDE TV\nUnlock 600+ hours of ad-free films and series.\nDOWNLOAD\nWATCH\nThis Camper Comes with Its Own Stovetop, Toilet, and Shower System\nIn this episode of the 101, Bryan Rogala reviews a SkinnyGuy camper. This fully-featured, pop-up truck camper is one of the most unique lightweight truck-based campers on the market.\nVIEW MORE\nLISTEN\nWeekend Read: An SOS from the Middle of the Ocean\nRichard Carr was halfway across the Pacific, alone on a yacht, when he began sending frantic alerts that he was being kidnapped by pirates\nVIEW MORE\nENVIRONMENT\nThe Optimist’s Guide to Climate Change\nWe’re not putting our heads in the sand. But there are reasons to be hopeful and things everyone can do in the face of unprecedented change.\nDec 7, 2022\nCONTINUE READING\nLATEST ISSUE\nNovember/December 2022\nOutside Magazine\nSEE THE ISSUE\nSEE THE ARCHIVE\nOUTSIDE+\nJoin Outside+ to get Outside magazine, access to exclusive content, 1,000s of training plans, and more.\nLEARN MORE\nADVERTISE PRIVACY POLICY CONTACT CAREERS TERMS OF USE LICENSING & ACCOLADES COOKIES SETTINGS\nHEALTHY LIVING\nCLEAN EATING\nOXYGEN\nVEGETARIAN TIMES\nYOGA JOURNAL\nOUTDOOR\nBACKPACKER\nCLIMBING\nFLY FISHING FILM TOUR\nGAIA GPS\nNATIONAL PARK TRIPS\nOUTSIDE\nOUTSIDE TV\nSKI\nWARREN MILLER\nENDURANCE\nBETA MTB\nCYCLINGTIPS\nFASTEST KNOWN TIME\nPELOTON\nPINKBIKE\nTRAILFORKS\nTRAIL RUNNER\nTRIATHLETE\nVELONEWS\nWOMEN'S RUNNING\nINDUSTRY\nATHLETEREG\nBICYCLE RETAILER & INDUSTRY NEWS\nFINISHERPIX\nINKWELL\nNASTAR\nROAM MEDIA\nOUTSIDE BOOKS\nOUTSIDE EVENTS CYCLING SERIES\nOUTSIDE SHOP\nVELOSWAP\n© 2022 Outside Interactive, Inc",
+    "font": "sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 123,
+                "y": 17
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "JOIN NOW\nSIGN IN",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 816,
+                "y": 15
+            },
+            "size": {
+                "height": 25,
+                "width": 163
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 929,
+                "y": -812
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 944,
+                "y": -642
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 934,
+                "y": -741
+            },
+            "size": {
+                "height": 35,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 895,
+                "y": -676
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 959,
+                "y": 168
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 30,
+                "y": 21
+            },
+            "size": {
+                "height": 14,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 812,
+                "y": 16
+            },
+            "size": {
+                "height": 25,
+                "width": 167
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "COOKIES SETTINGS",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 554,
+                "y": 11858
+            },
+            "size": {
+                "height": 17,
+                "width": 170
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

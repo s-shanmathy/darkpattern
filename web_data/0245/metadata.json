@@ -1,0 +1,408 @@
+{
+    "title": "Ask Ubuntu",
+    "url": "askubuntu.com",
+    "full_url": "https://askubuntu.com/",
+    "images": [
+        {
+            "alt": "Ask Ubuntu",
+            "location": {
+                "x": 8,
+                "y": 264
+            },
+            "size": {
+                "height": 48,
+                "width": 144
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eliza Romanski's user avatar",
+            "location": {
+                "x": 403,
+                "y": 669
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eus's user avatar",
+            "location": {
+                "x": 465,
+                "y": 755
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Julien Givernaud's user avatar",
+            "location": {
+                "x": 395,
+                "y": 923
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Artur Meinild's user avatar",
+            "location": {
+                "x": 406,
+                "y": 1088
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "user3282997's user avatar",
+            "location": {
+                "x": 423,
+                "y": 1231
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Morhaf's user avatar",
+            "location": {
+                "x": 443,
+                "y": 1374
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "feder's user avatar",
+            "location": {
+                "x": 444,
+                "y": 1517
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ali Dehkhodaei's user avatar",
+            "location": {
+                "x": 403,
+                "y": 1638
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "yurenchen's user avatar",
+            "location": {
+                "x": 408,
+                "y": 1759
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "muru's user avatar",
+            "location": {
+                "x": 436,
+                "y": 1844
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "muru's user avatar",
+            "location": {
+                "x": 436,
+                "y": 2030
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Community's user avatar",
+            "location": {
+                "x": 395,
+                "y": 2152
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Emily's user avatar",
+            "location": {
+                "x": 453,
+                "y": 2261
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "giammi56's user avatar",
+            "location": {
+                "x": 421,
+                "y": 2416
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search on Ask Ubuntu…",
+            "type": "text",
+            "location": {
+                "x": 131,
+                "y": 9
+            },
+            "size": {
+                "height": 33,
+                "width": 650
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 393,
+                "y": 498
+            },
+            "size": {
+                "height": 33,
+                "width": 373
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            47,
+            51,
+            55
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            220,
+            70,
+            38
+        ]
+    ],
+    "desc": "Q&A for Ubuntu users and developers",
+    "navbar": "",
+    "text": "Log in\nSign up\nAsk Ubuntu is a question and answer site for Ubuntu users and developers. It only takes a minute to sign up.\nSign up to join this community\nAnybody can ask a question\nAnybody can answer\nThe best answers are voted up and rise to the top\nHome\nPUBLIC\nQuestions\nTags\nUsers\nCompanies\nUnanswered\nTEAMS\nStack Overflow for Teams – Start collaborating and sharing organizational knowledge.\nCreate a free Team Why Teams?\nExplore our questions\nAsk Question\nbootnetworkingcommand-line14.04drivers16.04dual-boot12.04aptserver more tags\nActive\n5 Bountied\nHot\nWeek\nMonth\n0\nvotes\n0\nanswers\n20\nviews\nsending a job in cluster using R\nrshcsvcluster\nEliza Romanski\n13\nmodified 8 mins ago\n2\nvotes\n1\nanswer\n449\nviews\nX server crashes after last nights update\n16.04dell\nEus\n1\nanswered 12 mins ago\n-1\nvotes\n2\nanswers\n208\nviews\nCannot install Python old version(including ~3.9) in ubuntu 22.10\npython22.10pgadmin\nJulien Givernaud\n1\nmodified 13 mins ago\n0\nvotes\n0\nanswers\n5\nviews\nSum of memory used by processes is higher than total memory used - how can that be?\nprocessmemory-usage\nArtur Meinild\n12.4k\nasked 14 mins ago\n0\nvotes\n0\nanswers\n7\nviews\nlibreoffice logs me out when launched with AL_USE_VCLPLUGIN=gen\n22.04libreoffice\nuser3282997\n11\nasked 16 mins ago\n0\nvotes\n2\nanswers\n505\nviews\nLogin loop when rotating display in Ubuntu 22.04 X11\nxorgamd-graphics22.04display-rotation\nMorhaf\n1\nanswered 20 mins ago\n0\nvotes\n0\nanswers\n29\nviews\nFail to login with Ubuntu One to Ubuntu Core 22\n22.04ubuntu-oneubuntu-core\nfeder\n121\nmodified 23 mins ago\n0\nvotes\n0\nanswers\n11\nviews\nIdentify Onboard USB3 in Ubuntu 22.04\nusb22.04\nAli Dehkhodaei\n1\nmodified 26 mins ago\n5\nvotes\n3\nanswers\n16k\nviews\ngnome-terminal fails to start (timed out)\n18.04gnome-terminal\nyurenchen\n321\nanswered 26 mins ago\n0\nvotes\n0\nanswers\n13\nviews\nCan't upload files from google chrome\n22.04\nmuru\n187k\nmodified 29 mins ago\n0\nvotes\n0\nanswers\n12\nviews\nHow do I view the history of at commands executed? Can I view the outputs of those commands as well?\ncommand-line20.04at-command\nmuru\n187k\nmodified 29 mins ago\n1\nvote\n1\nanswer\n4k\nviews\nHow can I disable apt-get autoremove?\naptpackage-management\nCommunity\nBot\n1\nmodified 33 mins ago\n0\nvotes\n1\nanswer\n30\nviews\nUbuntu 22.04 boots into a purple/gray screen\nbootgrub2uefi\nEmily\n1\nanswered 35 mins ago\n0\nvotes\n0\nanswers\n19\nviews\nOkular snap issues: open files /tmp and files in tab\n20.04kdesnapokular\ngiammi56\n88\nmodified 49 mins ago\nBrowse more Questions\nHot Network Questions\nPasswordAuthentication no, but I can still login by password\nAre there different \"levels\" of self-referentiality in arithmetic?\nWould the US East Coast raise if everyone living there moved away?\nWhat tool should I be using on this bottom bracket?\nHow could a really intelligent species be stopped from developing?\nChallenges of a small company working with an external dev team from another country\nCGAC2022 Day 7: Fen The Wicked\nWhat is the best way to learn cooking for a student?\nWhy is integer factoring hard while determining whether an integer is prime easy?\nDid they forget to add the layout to the USB keyboard standard?\nHow to fit data to a math formula?\nHow do Trinitarians respond to this contradiction of dogmatic 'oneness'?\nHow do I persuade (La)TeX(3) to read a file character by character?\nHow was Aragorn's legitimacy as king verified?\nautomatic memory allocation\nWhat factors led to Disney retconning Star Wars Legends in favor of the new Disney Canon?\nWere CD-ROM-based games able to \"hide\" audio tracks inside the \"data track\"?\nAfter a couple of months I've been asked to leave small comments on my time-report sheet, is that bad?\nIs there any other chance for looking to the paper after rejection?\nWhy does brake pedal ever move\nCan you defame a profession?\nCan I use logistic regression when all of the regressors sum to 1?\nDoes it matter how HV contactor is connected?\nSeparating columns of layer and exporting set of columns in a new QGIS layer\nRecent questions feed\nASK UBUNTU\nTour\nHelp\nChat\nContact\nFeedback\nCOMPANY\nStack Overflow\nTeams\nAdvertising\nCollectives\nTalent\nAbout\nPress\nLegal\nPrivacy Policy\nTerms of Service\nCookie Settings\nCookie Policy\nSTACK EXCHANGE NETWORK\nTechnology\nCulture & recreation\nLife & arts\nScience\nProfessional\nBusiness\nAPI\nData\nBlog\nFacebook\nTwitter\nLinkedIn\nInstagram\nSite design / logo © 2022 Stack Exchange Inc; user contributions licensed under CC BY-SA. rev 2022.12.6.43081\nUbuntu and Canonical are registered trademarks of Canonical Ltd.\nYour privacy\nBy clicking “Accept all cookies”, you agree Stack Exchange can store cookies on your device and disclose information in accordance with our Cookie Policy.\nAccept all cookies\nCustomize settings",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI Adjusted\", \"Segoe UI\", \"Liberation Sans\", sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 834,
+                "y": 74
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Accept all cookies",
+            "bg-color": "rgba(220, 70, 29, 1)",
+            "location": {
+                "x": 48,
+                "y": 710
+            },
+            "size": {
+                "height": 38,
+                "width": 357
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Customize settings",
+            "bg-color": "rgba(250, 227, 221, 1)",
+            "location": {
+                "x": 48,
+                "y": 756
+            },
+            "size": {
+                "height": 38,
+                "width": 357
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

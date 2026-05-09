@@ -1,0 +1,134 @@
+{
+    "title": "Roomi",
+    "url": "roomiapp.com",
+    "full_url": "https://roomiapp.com/",
+    "images": [
+        {
+            "alt": "mover",
+            "location": {
+                "x": 0,
+                "y": 125
+            },
+            "size": {
+                "height": 246,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "lister",
+            "location": {
+                "x": 809,
+                "y": 156
+            },
+            "size": {
+                "height": 215,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Find friendly roommates on Roomi",
+            "location": {
+                "x": 0,
+                "y": 457
+            },
+            "size": {
+                "height": 394,
+                "width": 505
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Roomi ensures verified roommates with a background check",
+            "location": {
+                "x": 504,
+                "y": 891
+            },
+            "size": {
+                "height": 420,
+                "width": 505
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pay your first months rent through the Roomi App",
+            "location": {
+                "x": 0,
+                "y": 1368
+            },
+            "size": {
+                "height": 383,
+                "width": 505
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Select City",
+            "type": "text",
+            "location": {
+                "x": 264,
+                "y": 341
+            },
+            "size": {
+                "height": 40,
+                "width": 232
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "text": "Rooms for Rent\nFind Roommates\nDiscover\n👀 Be the first to check out Roomi 2.0 🎉\nCreate A Listing\nLog in\nSign up\nThis site uses cookies to provide you a better experience. By using Roomi, you are giving us your consent to use cookies. Learn more about our Ad and Cookie Policy\nclose\nRent rooms and find roommates \nin our verified community\nHow Roomi works\nLocation\nBrowse Rooms\nPopular\nManhattan\nBrooklyn\nQueens\nYour Place, Your Rules\nRoomi helps you share a room or an entire home — on your terms. Welcome to the future of co-living!\nA ROOMMATE FOR EVERYONE\nWhether you're looking for a new BFF or just someone to split the rent, Roomi is the easiest roommate finder out there.\nFLEXIBLE RENTING TERMS\nGot rooms to rent? Find someone to move in with you – for three months or a year!\nSublet Safely\nTrust and transparency are the keys to safely find rooms for rent. Let us help with that!\nBackground Checks by Garbo\nCheck to see if someone has a history of violent or harmful behavior.\nSECURE IN-APP MESSAGING\nKeep your contact info private by chatting to potential roommates through the Roomi app or website.\nRent Easier\nRoomi makes finding cheap rooms or putting your house for rent easier than ever. Plus, everything is documented and verified.\nOnline Booking\nEasily review booking requests from potential roommates. Once you approve their booking, we'll take your listing off the market and set up a secure payment.\nSECURE PAYMENTS\nOnce you find a room, we hold and safely transfer your first month's rent payment to the lister. No sketchy, offline cash payments!\nLooking for a room to rent?\nSearch rooms\nNeed to rent out a room?\nCreate a listing\nRoomi Testimonials\nRoomi is a quick and easy way to find a trustworthy roommate compared to other outlets. Nice to have an app that emphasizes security and provides quality service.\nElena\nFound a Room\nPut my room on Roomi and found multiple cool peeps interested in my apartment. Best of all, they had profiles I could easily vet before showing the room…Couldn't be happier with my new roommate and Roomi's customer service.\nAlex\nFilled a Room\nRoomi was spot on. I was able to find a place within two weeks of me first using the app. I found a clean and affordable place just outside of NYC. I am thrilled about how things worked out!\nCJ\nFound a Room\nCities on Roomi\nCountries on Roomi\nAustralia\nIndia\nUSA\nNetherlands\nNew Zealand\nIndonesia\nThailand\nSpain\nBelize\nGermany\nKorea\nCanada\nSouth Africa\nViet Nam\nHong Kong\nMalaysia\nUnited Kingdom\nJapan\nFrance\nSingapore\nIsrael\nArgentina\nChile\nColombia\nMexico\nPeru\nBrazil\nDon’t see your city?\nRequest it!\nCompany\nAbout\nHow Roomi Works\nMedia\nPartnerships\nBlog\nTestimonials\nContact\nContact Support\nHelp Center\nTerms and Policies\nDownload our app\nDownload app from Apple Store\nEnglish\n©2022 Roomi inc.",
+    "font": "avenir, roboto, \"helvetica neue\", sans-serif",
+    "iframes": [],
+    "buttons": []
+}

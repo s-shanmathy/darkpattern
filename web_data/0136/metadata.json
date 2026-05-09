@@ -1,0 +1,770 @@
+{
+    "title": "Orlando News, Weather, and Sports | WFTV – WFTV",
+    "url": "wftv.com",
+    "full_url": "https://www.wftv.com/",
+    "images": [
+        {
+            "alt": "WFTV Channel 9 Orlando Logo",
+            "location": {
+                "x": 90,
+                "y": 8
+            },
+            "size": {
+                "height": 40,
+                "width": 151
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mostly Cloudy",
+            "location": {
+                "x": 776,
+                "y": 13
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DISH customers: Call 800-333-3474 & demand they bring back WFTV Channel 9; switch TV providers today",
+            "location": {
+                "x": 30,
+                "y": 434
+            },
+            "size": {
+                "height": 169,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Football coach shot 10 times trying to protect children, attorney says",
+            "location": {
+                "x": 30,
+                "y": 641
+            },
+            "size": {
+                "height": 110,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Documents marked classified found in search of Trump storage unit, reports say",
+            "location": {
+                "x": 241,
+                "y": 641
+            },
+            "size": {
+                "height": 110,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Anne Heche was not impaired at time of deadly crash, autopsy reveals",
+            "location": {
+                "x": 452,
+                "y": 641
+            },
+            "size": {
+                "height": 110,
+                "width": 195
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2 missing Volusia County teens found safe, 1 still missing ",
+            "location": {
+                "x": 30,
+                "y": 968
+            },
+            "size": {
+                "height": 110,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mount Dora police search for woman who allegedly stole more than $19K from Walmart",
+            "location": {
+                "x": 241,
+                "y": 968
+            },
+            "size": {
+                "height": 110,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sentenced: Man accused of fleeing in deadly hit-and-run crash in April",
+            "location": {
+                "x": 452,
+                "y": 968
+            },
+            "size": {
+                "height": 110,
+                "width": 195
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Time announces 2022 Person of the Year",
+            "location": {
+                "x": 30,
+                "y": 1218
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Seminole County issues last call for hurricane debris pickup",
+            "location": {
+                "x": 346,
+                "y": 1218
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Winter Park police search for 12-year-old girl reported missing for more than a week",
+            "location": {
+                "x": 30,
+                "y": 1294
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pearl Harbor anniversary: Here are 10 things you may not know about the attack",
+            "location": {
+                "x": 346,
+                "y": 1294
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Archaeologists: Mystery object unearthed by hurricanes in Volusia County could be 1800s cargo ship",
+            "location": {
+                "x": 30,
+                "y": 1370
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Full cold moon: Final full moon of 2022 rises Wednesday night",
+            "location": {
+                "x": 346,
+                "y": 1370
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ocala couple arrested on multiple human trafficking charges, Marion County deputies say",
+            "location": {
+                "x": 30,
+                "y": 1446
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sheriff Lopez, deputies search woods for suspect in Osceola County",
+            "location": {
+                "x": 346,
+                "y": 1446
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rare December disturbance moves through Central Atlantic",
+            "location": {
+                "x": 30,
+                "y": 1522
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oh, what fun: Holiday festival kicks off in Lake Nona",
+            "location": {
+                "x": 346,
+                "y": 1522
+            },
+            "size": {
+                "height": 53,
+                "width": 95
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AMS Certified",
+            "location": {
+                "x": 793,
+                "y": 755
+            },
+            "size": {
+                "height": 34,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NWA Certified",
+            "location": {
+                "x": 861,
+                "y": 759
+            },
+            "size": {
+                "height": 27,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mostly Cloudy",
+            "location": {
+                "x": 699,
+                "y": 866
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clear",
+            "location": {
+                "x": 789,
+                "y": 866
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clear",
+            "location": {
+                "x": 878,
+                "y": 866
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apps Download Button",
+            "location": {
+                "x": 679,
+                "y": 962
+            },
+            "size": {
+                "height": 125,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "weblinks",
+            "location": {
+                "x": 679,
+                "y": 1320
+            },
+            "size": {
+                "height": 169,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": -309,
+                "y": 72
+            },
+            "size": {
+                "height": 48,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Zip Code",
+            "type": "text",
+            "location": {
+                "x": 703,
+                "y": 1230
+            },
+            "size": {
+                "height": 42,
+                "width": 89
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email* (required)",
+            "type": "email",
+            "location": {
+                "x": 800,
+                "y": 1230
+            },
+            "size": {
+                "height": 42,
+                "width": 155
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            23,
+            46,
+            68
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "navbar": "Sections\n80\n°\nWATCH\n   NEWS\n   WEATHER\n   EYE ON THE TROPICS\n   VIDEO\n   9 INVESTIGATES\n   ACTION 9\n   TRAFFIC\n   SPORTS\n   9 FAMILY CONNECTION\n   STEALS AND DEALS\n(OPENS IN NEW WINDOW)",
+    "text": "Sections\n80\n°\nWATCH\n   NEWS\n   WEATHER\n   EYE ON THE TROPICS\n   VIDEO\n   9 INVESTIGATES\n   ACTION 9\n   TRAFFIC\n   SPORTS\n   9 FAMILY CONNECTION\n   STEALS AND DEALS\n(OPENS IN NEW WINDOW)\nWEATHER ALERT|Flood Warning\n3/4\nWFTV Now\n6-16-Cook Like a Chef-Allium Episode with…\nLive Streams\nDrag to Resize Video\nHappening Now\nDISH customers: Call 800-333-3474 & demand they bring back WFTV Channel 9; switch TV providers today\nNovember 28, 2022 at 7:45 pm EST\nFootball coach shot 10 times trying to protect children, attorney says\nDocuments marked classified found in search of Trump storage unit, reports say\nAnne Heche was not impaired at time of deadly crash, autopsy reveals\n2 missing Volusia County teens found safe, 1 still missing\nMount Dora police search for woman who allegedly stole more than $19K from Walmart\nSentenced: Man accused of fleeing in deadly hit-and-run crash in April\nMore Top Stories\nTime announces 2022 Person of the Year\nSeminole County issues last call for hurricane debris pickup\nWinter Park police search for 12-year-old girl reported missing for more than a week\nPearl Harbor anniversary: Here are 10 things you may not know about the attack\nArchaeologists: Mystery object unearthed by hurricanes in Volusia County could be 1800s cargo ship\nFull cold moon: Final full moon of 2022 rises Wednesday night\nOcala couple arrested on multiple human trafficking charges, Marion County deputies say\nSheriff Lopez, deputies search woods for suspect in Osceola County\nRare December disturbance moves through Central Atlantic\nOh, what fun: Holiday festival kicks off in Lake Nona\nLatest Videos\nForecast from Chief Meteorologist\nTom Terry\nNOW\n80°\n7 PM\n71°\n10 PM\n67°\nWFTV Newsletters\nDELIVERED TO YOUR INBOX\nLatest Trending\n9 Investigates\nAction 9\nFlorida Government\nLatest Photo Galleries\nNEWS\nLocal News\nVideo\nTraffic\nWEATHER\nWeather\nLive Doppler 9 HD\nSTATION\nEEOC Statement\nWFTV Public File\nWRDQ Public File\nAbout WFTV\nFCC applications\nFOLLOW US\nWFTV facebook feed(Opens a new window)\nWFTV twitter feed(Opens a new window)\nWFTV youtube feed(Opens a new window)\n© 2022 Cox Media Group. This station is part of Cox Media Group Television. Learn about careers at Cox Media Group. By using this website, you accept the terms of our Visitor Agreement and Privacy Policy, and understand your options regarding Ad Choices.",
+    "font": "\"Source Sans Pro\", sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Sections",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 20,
+                "y": 12
+            },
+            "size": {
+                "height": 32,
+                "width": 54
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -52,
+                "y": 80
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 142
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 182
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 222
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 262
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 342
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 502
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 542
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 622
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -48,
+                "y": 662
+            },
+            "size": {
+                "height": 22,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 970,
+                "y": 106
+            },
+            "size": {
+                "height": 20,
+                "width": 39
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

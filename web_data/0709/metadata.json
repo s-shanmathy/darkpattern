@@ -1,0 +1,64 @@
+{
+    "title": "NirSoft - freeware utilities: password recovery, system utilities, desktop utilities",
+    "url": "nirsoft.net",
+    "full_url": "https://www.nirsoft.net/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "search",
+            "type": "text",
+            "location": {
+                "x": 200,
+                "y": 418
+            },
+            "size": {
+                "height": 20,
+                "width": 685
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            247,
+            247,
+            247
+        ],
+        [
+            210,
+            229,
+            246
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "Unique collection of freeware desktop utilities, system utilities, password recovery tools, and more",
+    "text": "Main Page\nBlog\nSearch\nFAQ\nTOP 10\nPad Files\nContact\nAbout...\nDonate\nAll Utilities\nPassword Tools\nSystem Tools\nBrowser Tools\nProgrammer Tools\nNetwork Tools\nOutlook/Office\n64-bit Download\nPanel\nForensics\nPre-Release Tools\nArticles\n        NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.\nIf you are looking for Windows password-recovery tools, click here.\nIf you are looking for network tools, click here.\nTo view your IP address and other information, click here.\nTo view all major IP address blocks assigned to your country, click here.\nTo read the Blog of NirSoft, click here.\nTo download a package of all NirSoft utilities (Updated every week), go to this Web page.\nSee also: Video Streaming Capture Tools, Windows Registry Tools, Domain/IP Lookup Tools\n35.4K\nSearch in NirSoft Web site:\nsearch\nHere's some examples of what you can find in NirSoft Web site:\nPassword Recovery Utilities\nWebBrowserPassView - View the passwords stored by your Web browser (Supports Internet Explorer, Firefox, Chrome, Safari, and Opera)\nRouterPassView: Router Password Recovery - Extract passwords and other information from router backup file (For supported routers).\nMail PassView - Recover the passwords of popular email clients: Outlook Express, MS Outlook, Eudora, Mozilla Thunderbird , and more...\nDialupass: Dialup Password Recovery - Recovers the passwords of dialup entries (VPN and Internet connections). Works also under Windows 2000/XP.\nNetwork Password Recovery - Freeware utility that recovers the network passwords stored by Windows XP (Credentials file).\nBulletsPassView - Reveal the passwords hidden behind asterisk ('****') or bullets characters in standard password text-boxes.\nWirelessKeyView - Recover lost wireless network key stored on Windows\nPstPassword - Recover the password of Outlook PST file.\nNetwork Monitoring Tools\nWirelessNetView - View the details of all wireless network in your area (SSID, Signal Quality, MAC Address, and more...)\nWireless Network Watcher - Show who is connected to your wireless network.\nBluetoothView - Monitor the Bluetooth activity around you.\nSmartSniff: TCP/IP Sniffer - Capture TCP/IP packets on your network adapter and view the captured data as sequence of conversations between clients and servers.\nCurrPorts: TCP/IP Connections Viewer - Freeware tool that displays the list of all currently opened TCP and UDP ports on your local computer.\nAdapterWatch - displays useful information about your network adapters: IP addresses, Hardware address, WINS servers, DNS servers, MTU value, Number of bytes received or sent, The current transfer speed, and more...\nDownTester - Test the download speed of your Internet connection.\nInternet Related Utilities\nBrowsingHistoryView: Web Browser History Viewer - View browsing history of your Web browsers (Firefox,Chrome,IE,Edge)\nIPNetInfo - Find all available information about an IP address: The owner of the IP address, the country/state name, IP addresses range, contact information (address, phone, fax, and email), and more.\nMyLastSearch - View your latest searches with Google, Yahoo, and MSN.\nVideoCacheView - Copy video files (.flv and others) from the Web browser cache and temporary folder.\nSiteShoter - Take a screenshot of a Web site.\nDNSDataView - View the DNS records of specified domains.\nIECookiesView: Cookies Viewer/Manager for IE - View/Delete/Modify the cookies that Internet Explorer stores on your computer. Read More >>\nIEHistoryView - View/Delete the URLs that you visited in the last few days.\nWhoisThisDomain - Get information about a registered domain.\nDNSDataView - DNS lookup tool.\nMS-Outlook Tools\nNK2Edit - Edit, delete, add, merge, and repair records in the AutoComplete files (.NK2) of Outlook.\nOutlookAttachView - View and extract attachments of your Outlook mailbox.\nOutlookStatView - Get statistics about your Outlook mailbox.\nOutlookAddressBookView - View or export the address book of Outlook.\nCommand-Line Utilities\nNirCmd: Freeware Command-Line Tool - Do some useful tasks from command-line: turn off your monitor, turn off the computer, open/close the door of your cd-rom drive, dial to VPN/Internet connection, change your display settings, and much more !!\nSoundVolumeView - Control the sound volume from command-line or GUI on Windows 10/7/8/2008.\nGUIPropView - hide,show,disable,enable,minimize,maximize,resize windows from command-line.\nDesktop Utilities\nUninstallView - Alternative to the software uninstaller of Windows.\nSearchMyFiles - Alternative to 'Search For Files And Folders' module of Windows and also duplicate files search.\nVolumouse - Control the sound volume with your wheel mouse !!\nFileTypesMan - Alternative to 'File Types' manager of Windows.\nFreeware System Tools\nProduKey - Recover Office/Windows CD-Key\nShellExView - Displays the details of shell extensions installed on your computer, and allows you to easily disable and enable each shell extension.\nWhatInStartup - Add, delete, modify or disable programs that run at Windows startup.\nUSBDeview - View all installed/connected USB devices on your system.\nDevManView - Alternative to device manager of Windows.\nDriverView - List all device drivers currently loaded on your Windows.\nRegScanner (Registry Scanner) - Scan and find values in the Registry.\nOpenedFilesView - View opened/locked files in your system.\nSysExporter - Grab the data stored in standard list-views, list boxes, and combo boxes from almost any application running on your system, and export it to text, HTML or XML file.\nBlueScreenView - View crash information stored in the MiniDump files created on blue screen of Windows.\nWhat's New \n01/12/2022 Update: BrowsingHistoryView v2.53\n29/11/2022 Update: SoundVolumeCommandLine v1.15\n28/11/2022 Update: SoundVolumeView v2.36\n26/11/2022 Update: GUIPropView v1.24\n25/11/2022 Update: WirelessConnectionInfo v1.17\n22/11/2022 Update: DNSDataView v1.70\n21/11/2022 Update: FullEventLogView v1.75\n18/11/2022 Update: CountryTraceRoute v1.33\n16/11/2022 Update: ManageWirelessNetworks v1.10\n15/11/2022 Update: MACAddressView v1.47\n14/11/2022 Update: OpenSaveFilesView v1.16\n12/11/2022 Update: OutlookAttachView v3.47\n10/11/2022 Update: NetConnectChoose v1.10\n09/11/2022 Update: OutlookAddressBookView v2.41\n08/11/2022 Update: ChromeCookiesView v1.73\n07/11/2022 Update: NetworkInterfacesView v1.25\n06/11/2022 Update: NTFSLinksView v1.33\n05/11/2022 Update: OutlookStatView v2.28\n02/11/2022 Update: MZCookiesView v1.60\n28/10/2022 Update: OpenedFilesView v1.87\n26/10/2022 Update: FolderTimeUpdate v1.71\n25/10/2022 Update: GUIPropView v1.23\n24/10/2022 Update: BatteryHistoryView v1.01\n22/10/2022 Update: NetworkTrafficView v2.42\n21/10/2022 Update: FullEventLogView v1.74\n20/10/2022 Update: MZCacheView v2.21\n19/10/2022 Update: ChromeHistoryView v1.52\n17/10/2022 Update: AppResourcesUsageView v1.01\n15/10/2022 Update: ChromeCookiesView v1.72\n13/10/2022 Update: DNSLookupView v1.11\n11/10/2022 Update: ESEDatabaseView v1.71\n09/10/2022 Update: NK2Edit v3.45\n08/10/2022 Update: LastActivityView v1.36\n07/10/2022 Update: FileAccessErrorView v1.31\n05/10/2022 Update: AlternateStreamView v1.57\n04/10/2022 Update: Product Key Scanner v1.02\n03/10/2022 Update: DiskCountersView v1.30\n01/10/2022 Update: TaskSchedulerView v1.72\n29/09/2022 Update: FullEventLogView v1.73\n27/09/2022 Update: BrowsingHistoryView v2.52\n26/09/2022 Update: OutlookAttachView v3.46\n24/09/2022 Update: LoadedDllsView v1.06\n22/09/2022 Update: MobileFileSearch v1.44\n21/09/2022 Update: OutlookStatView v2.27\n19/09/2022 Update: ManageWirelessNetworks v1.08\n18/09/2022 Update: NetworkCountersWatch v1.05\n14/09/2022 New: BatteryHistoryView v1.00\n13/09/2022 Update: ProcessTCPSummary v1.17\n11/09/2022 Update: SimpleProgramDebugger v1.16\n10/09/2022 Update: SearchMyFiles v3.22\n08/09/2022 Update: NetworkOpenedFiles v1.53\n06/09/2022 Update: HandleCountersView v1.16\n04/09/2022 Update: Volumouse v2.10\n02/09/2022 Update: UninstallView v1.47\n01/09/2022 Update: WifiHistoryView v1.64\n30/08/2022 Update: USBDeview v3.06\n29/08/2022 Update: SimpleWMIView v1.52\n27/08/2022 Update: FullEventLogView v1.72\n25/08/2022 Update: ChromeHistoryView v1.51\n24/08/2022 Update: USBDriveLog v1.11\n23/08/2022 Update: NetworkConnectLog v1.15\n21/08/2022 Update: TcpLogView v1.36\n17/08/2022 New: AppResourcesUsageView v1.00\n16/08/2022 Update: WifiDiagnosticsView v1.02\n15/08/2022 Update: SimpleCodeGenerator v1.12\n13/08/2022 Update: ChromeCookiesView v1.71\n12/08/2022 Update: InstalledAppView v1.05\n11/08/2022 Update: ChromeCacheView v2.40\n10/08/2022 Update: ControlMyMonitor v1.36\n09/08/2022 Update: CSVFileView v2.61\n08/08/2022 Update: MobileFileSearch v1.43\n06/08/2022 Update: FirmwareTablesView v1.02\n05/08/2022 Update: SoundVolumeView v2.35\n03/08/2022 Update: NetworkLatencyView v1.67\n02/08/2022 Update: SearchMyFiles v3.21\n01/08/2022 Update: DevManView v1.77\n29/07/2022 Update: WebBrowserBookmarksView v1.06\n28/07/2022 Update: TCPConnectProblemView v1.05\n26/07/2022 Update: WifiHistoryView v1.63\n25/07/2022 New: RuntimeClassesView v1.00\n24/07/2022 Update: NetworkUsageView v1.30\n20/07/2022 Update: GUIPropView v1.22\n19/07/2022 Update: DNSLookupView v1.10\n18/07/2022 Update: OutlookAddressBookView v2.40\n17/07/2022 Update: CSVFileView v2.60\n14/07/2022 Update: LiveTcpUdpWatch v1.43\n13/07/2022 Update: AppNetworkCounter v1.51\n11/07/2022 Update: EventLogChannelsView v1.37\n09/07/2022 Update: BrowserDownloadsView v1.42\n06/07/2022 New: IPPathTableView v1.00\n05/07/2022 Update: FolderTimeUpdate v1.70\n04/07/2022 Update: OutlookAttachView v3.45\n03/07/2022 Update: SoundVolumeView v2.31\n02/07/2022 Update: ChromePass v1.57\n01/07/2022 Update: PropertySystemView v1.19\n29/06/2022 Update: NetworkUsageView v1.27\n  About NirSoft Contact USB Flash Drive Speed Windows 7 DLL Information Windows 8 DLL Information Search Privacy Policy\n  ",
+    "font": "Times",
+    "buttons": [
+        {
+            "text": "search",
+            "bg-color": "rgba(77, 144, 254, 1)",
+            "location": {
+                "x": 913,
+                "y": 414
+            },
+            "size": {
+                "height": 27,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

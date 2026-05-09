@@ -1,0 +1,181 @@
+{
+    "title": "Enterprise Open Source and Linux | Ubuntu",
+    "url": "ubuntu.com",
+    "full_url": "https://ubuntu.com/",
+    "images": [
+        {
+            "alt": "Amazon Web Services logo",
+            "location": {
+                "x": 686,
+                "y": 770
+            },
+            "size": {
+                "height": 94,
+                "width": 134
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Microsoft Azure logo",
+            "location": {
+                "x": 852,
+                "y": 770
+            },
+            "size": {
+                "height": 94,
+                "width": 134
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AT&T logo",
+            "location": {
+                "x": 686,
+                "y": 863
+            },
+            "size": {
+                "height": 94,
+                "width": 134
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google Cloud logo",
+            "location": {
+                "x": 852,
+                "y": 863
+            },
+            "size": {
+                "height": 94,
+                "width": 134
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search our sites",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            52,
+            52,
+            52
+        ],
+        [
+            22,
+            22,
+            22
+        ]
+    ],
+    "desc": "Ubuntu is the modern, open source operating system on Linux for the enterprise server, desktop, cloud, and IoT.",
+    "navbar": "Canonical logo\nWe are hiring Products",
+    "text": "Canonical logo\nWe are hiring Products\nEnterprise\nDeveloper\nCommunity\nDownload\nSign in\nWhich Embedded Linux distribution to pick?\nA technical comparison between Yocto and Ubuntu Core\nDownload the comparison\nCentOS users, 6 things to know when considering a migration to Ubuntu LTS ›\nModern enterprise open source\nPublisher of Ubuntu.\nSecurity. Support. Managed Services.\nContact Canonical\nLatest news from our blog ›\n6 DECEMBER 2022\nCanonical joins SOAFEE SIG\n5 DECEMBER 2022\nHigh-performance computing (HPC) technologies: what does the future hold? [part 6]\n5 DECEMBER 2022\nJoin Canonical and the financial services open-source community at OSSF NY\nSPOTLIGHT\nCanonical announces new enterprise-grade Ubuntu images designed for Intel IoT platforms\nEnergise your engineers\nBetter security. More packages. Newer tools. All your open source, from cloud to edge.\n66% of experienced developers prefer Ubuntu.\nThat’s why Ubuntu supports the fastest, biggest and most successful digital operations.\nLet’s talk open source › Watch Ubuntu Masters in action ›\nOpen source security\nMore than Linux. Security and compliance for the full stack.\nSecure your open source apps. Patch the full stack, from kernel to library and applications, for CVE compliance. Governments and auditors certify Ubuntu for FedRAMP, FISMA and HITECH.\n10 year security maintenance and CVE Patching Kernel Livepatch for 24/7 patching with no downtime Extended security for infrastructure and applications FIPS 140-2 cryptographic modules certified by NIST Common Criteria EAL2: ISO/IEC IS 15408 validated by CSEC DISA/STIG hardening for DoD compliance CIS profiles for cyber defence and malware prevention\nSecure all your open source with us ›\nSignificant enterprise savings\nSustainable open source at the lowest cost, everywhere.\nRethink what’s possible with Linux and open source.\nCompanies engage Canonical to drive down open source operating costs. Automate everything: multi-cloud operations, bare metal provisioning, edge clusters and IoT.\nNo mandatory subscriptions for Ubuntu Security, support and fully managed infra and apps Public cloud, data centre, edge cluster and appliances Long term maintenance commitment Transparent pricing for enterprise and ISV Switch from VMware to OpenStack TCO analysis of Open Infra 451 study on private/public cloud costs\nLet’s talk open source ›\nPublic cloud optimisation\nMost public cloud instances are Ubuntu, for performance and security.\nOptimised kernels for AWS, Azure, Google, Oracle, IBM FIPS, CIS hardening and CVE fixes with Ubuntu Pro Minimise rolling reboots with Kernel Livepatch Network & storage performance optimisation GPU enablement for machines and containers Pay-as-you-go billing, no more licenses Enterprise support and Extended Security Maintenance Cloud workload migration service Containerisation and cloud-native migration service Fully managed application service\nLearn more › Contact us ›\nCarrier-grade private cloud\nOperate private cloud the smart way – supported or fully managed.\n10 year security maintenance and support Hyperconverged or segregated architecture Encryption at rest for GDPR, HIPAA, FedRAMP Wide choice of SDN and storage Upgrades and day-2 operations, automated Integrated logging, monitoring and alerting Platform and infrastructure hardening High availability Carrier-grade NFVI\nLearn more › Contact us ›\nMulti-cloud Kubernetes and containers\nAKS. EKS. GKE. Kubeadm. MicroK8s. Charmed Kubernetes. All on Ubuntu.\nSupport for all public cloud Kubernetes On-prem MicroK8s, Charmed K8s, kubeadm Fully-managed Kubernetes on-prem or public cloud Model-driven Kubernetes Operators Full stack support for apps, Kubernetes, and OS K8s architecture and deployment consulting Cloud-native workload migration services GPU enablement for AI/ML workloads on K8s Bare metal, OpenStack and VMware Pluggable CNIs, CSIs, CRIs and third-party tools\nLearn more › Contact us ›\nUltra secure things\nUbuntu Core Appliances with transactional updates for a better embedded Linux.\nOTA compressed updates for apps, kernel and OS Automatic rollback and data snapshots Managed private app stores for secure fleet management DevSecOps pipeline for edge app delivery Built-in device recovery and remote disk repair 10 year security maintenance for every device Provable system and software integrity Secure boot backed by root of trust Full disk encryption with hardware keys FIPS certifiable embedded Linux\nLearn more › Contact us ›\nWorkstations and desktops\nOptimised AI/ML and cloud devops. The professional developer’s preference.\nActive Directory and LDAP integration Full disk encryption Security updates for the full open source stack Estate monitoring and management Configuration lockdown Local Kubernetes for offline development Instant Ubuntu on Windows and macOS with WSL and Multipass Optimised images and certified workstations\nLearn more › Contact us ›\nData centre automation\nTurn a rack into a bare metal cloud. Metal-as-a-Service provisions Windows, ESXi and Linux.\nBare metal cloud with on-demand servers Remote edge cluster operations Infrastructure monitoring and discovery Ansible, Chef, Puppet, SALT, Juju integration Super fast install from scratch VMWare ESXi, Windows, CentOS, RHEL, Ubuntu Custom images with pre-installed apps Disk and network configuration API-driven DHCP, DNS, PXE, IPAM, provisioning LDAP authentication and RBAC\nLearn more Contact us\nSmart robots of all shapes and sizes\nFrom turtles to trucks, Ubuntu drives the robot revolution.\nFull support for ROS and ROS2 Security patches for long-term ROS Fault tolerant over-the-air updates CIS certification for ROS and ROS2 Trim time-to-market with SMART START consulting Leading Robot-as-a-Platform ecosystem Curated app stores\nLearn more › Contact us ›\nMulti-cloud applications – beyond PAAS\nUniversal model-driven operators for classic and Kubernetes estate.\nOperate smoothly across public and private cloud Reusable integration code as open source packages Python Operator Framework for rapid development Bring the K8s operator pattern to classic workloads Lifecycle management and Day 2 operations Open collection of community-driven operators\nLearn more about universal operators\nOpenStack\nWhat is OpenStack\nFeatures\nManaged\nConsulting\nInstall\nSupport\nCeph\nWhat is Ceph\nManaged\nConsulting\nDocs\nInstall\nManaged\nOpenStack\nKubernetes\nCeph\nApps\nObservability\nKubernetes\nWhat is Kubernetes\nCharmed Kubernetes\nManaged\nInstall\nDocs\nResources\nAI / ML\nWhat is Kubeflow\nServices\nRobotics\nROS ESM\nWhat is ROS\nCommunity\nCloud\nWhat is private cloud\nWhat is hybrid cloud\nWhat is multi-cloud\nPublic cloud\nIoT\nApp store\nEmbedded Linux\nEdgeX\nManagement\nRaspberry Pi\nDesktop\nServer\nCore\nConsulting\nSuccess stories\nFeatures\nTutorials\nDocs\nDesktop\nFeatures\nOrganisations\nDevelopers\nPartners\nFlavours\nServer\nHyperscale\nDocs\nSecurity\nESM\nLivepatch\nCertifications & Hardening\nCVEs\nNotices\nDocker Images\nDownloads\nDesktop\nServer\nIoT\nCloud\nObservability\nWhat is observability\nManaged\nAppliance\nAbout\nPortfolio\nCommunity\nHardware\nVirtual machines\nSupport\nYour subscriptions\nAccount users\nSupport\nPricing\nDiscourse\nPricing\nSupport\nConsulting\nDesktops\nDevices\nSectors\nAutomotive\nIndustrial\nGovernment\nTelco\nFinance\nContainers\nTutorials\n16-04\nModel-driven operations\nLandscape\nCanonical Embedding Programme\nContact us About us Community Careers Blog Resources Press centre\n© 2022 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.\nLegal information Data privacy Manage your tracker settings Report a bug on this site\nYour tracker settings\nWe use cookies and similar methods to recognise visitors and remember preferences. We also use them to measure campaign effectiveness and analyse site traffic.\nBy selecting ‘Accept‘, you consent to the use of these methods by us and trusted third parties.\nFor further details or to change your consent choices at any time see our cookie policy.\nAccept all and visit site Manage your tracker settings",
+    "font": "Ubuntu, -apple-system, \"Segoe UI\", Roboto, Oxygen, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Accept all and visit site",
+            "bg-color": "rgba(14, 132, 32, 1)",
+            "location": {
+                "x": 40,
+                "y": 512
+            },
+            "size": {
+                "height": 37,
+                "width": 195
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Manage your tracker settings",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 254,
+                "y": 512
+            },
+            "size": {
+                "height": 37,
+                "width": 241
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ]
+}

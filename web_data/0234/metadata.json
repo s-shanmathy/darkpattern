@@ -1,0 +1,491 @@
+{
+    "title": "Neoseeker - Game Walkthroughs, Guides, and Cheats",
+    "url": "neoseeker.com",
+    "full_url": "https://www.neoseeker.com/",
+    "images": [
+        {
+            "alt": "High On Life Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 21,
+                "y": 1539
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cats and the Other Lives Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 247,
+                "y": 1539
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chained Echoes Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 473,
+                "y": 1539
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Callisto Protocol Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 21,
+                "y": 1719
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cultic Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 247,
+                "y": 1719
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Dark Pictures Anthology: The Devil in Me Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 473,
+                "y": 1719
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Somerville Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 21,
+                "y": 1899
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tactics Ogre: Reborn Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 247,
+                "y": 1899
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Entropy Centre Walkthrough and Guide Walkthrough",
+            "location": {
+                "x": 473,
+                "y": 1899
+            },
+            "size": {
+                "height": 130,
+                "width": 216
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search by Game Title",
+            "type": "search",
+            "location": {
+                "x": 298,
+                "y": 10
+            },
+            "size": {
+                "height": 30,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "password",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            248,
+            248,
+            248
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            9,
+            13,
+            24
+        ]
+    ],
+    "desc": "PC and Console Game Walkthroughs, Guides, FAQs, Cheats, Wikis, Hints, Strategies and Forums.",
+    "navbar": "PC\nPS4\nPS5\nXB1\nXSX\nSwitch\nGuides\nFAQs\nCheats\nHardware\nGames\nwikis\nforum",
+    "text": "PC\nPS4\nPS5\nXB1\nXSX\nSwitch\nGuides\nFAQs\nCheats\nHardware\nGames\nwikis\nforum\nLogin\nRegister\nSign in with:\nOverwatch 2 Graphics and Performance Guide\nNews\nHot\nNew\nShared\nTrend\nBeta\nFFVII Rebirth producer teases big series announcement for 2023\nFinal Fantasy is making a comeback this year, so what else is in store for fans?\nMon 6:30am, by Leo Chan   |   6 comments   |   3\nSony shares hardware design insights for PS5 DualSense Edge controller\nSame form factor, packed with new features and improvements\nDec 21 at 2:00am, by Leo Chan   |   1 comment   |   1\nAmazon Games teams up with Crystal Dynamics for next Tomb Raider game\nNew Tomb Raider installment already in development using Unreal Engine 5\nDec 15 at 3:24pm, by Leo Chan   |   6 comments   |   2\nSuper Nintendo World Hollywood to open on February 17th 2023\nWelcome to Mario Park\nDec 14 at 1:07pm, by Leo Chan   |   4 comments   |   2\nSonic Frontiers sells over 2.5M copies worldwide since launch\nGoing Open Zone has paid off for Sonic\nDec 12 at 11:44pm, by Leo Chan   |   2 comments   |   2\nModern Warfare II surpasses Elden Ring as top-selling game of 2022 in US\nNot even November's new releases could dethrone MWII\nDec 09 at 5:25pm, by Leo Chan   |   4 comments   |   1\nFTC to challenge Microsoft's bid for Activision Blizzard\nCommission votes to file legal complaint against $68.7B acquisition\nDec 08 at 7:20pm, by Leo Chan   |   4 comments   |   2\nMicrosoft ready to guarantee Call of Duty on PC, Nintendo platforms for 10 years\nAssuming proposed merger with Activision Blizzard goes through, that is\nDec 07 at 5:16am, by Leo Chan   |   5 comments   |   2\n» more\nWalkthrough Guides\nHigh On Life Walkthrough and Guide\nCats and the Other Lives Walkthrough and Guide\nChained Echoes Walkthrough and Guide\nThe Callisto Protocol Walkthrough and Guide\nCultic Walkthrough and Guide\nThe Dark Pictures Anthology: The Devil in Me Walkthrough and Guide\nSomerville Walkthrough and Guide\nTactics Ogre: Reborn Walkthrough and Guide\nThe Entropy Centre Walkthrough and Guide\nGod of War Ragnarök Walkthrough and Guide Harvestella Walkthrough and Guide The Chant Walkthrough and Guide\nThe Excavation of Hob's Barrow Walkthrough and Guide Doraemon Story of Seasons: Friends of the Great Kingdom Walkthrough and Guide Star Ocean: The Divine Force Walkthrough and Guide\nSIGNALIS Walkthrough and Guide Gotham Knights Walkthrough and Guide Call of Duty: Modern Warfare II Graphics and Performance Guide\nLatest FAQs\nRomancing SaGa\nDec 20\nShin Megami Tensei if... (Import)\nDec 19\nHeracles no Eikou IV: Kamigami-kara no Okurimono\nDec 15\nLightning Returns: Final Fantasy XIII\nDec 12\nDigimon Digital Card Battle\nDec 6\nLatest Achievement Guides\nHigh On Life Achievements\nJanuary 1, 2023\nSteelrising - Cagliostro’s Secrets (DLC) Achievement/Trophy Guide\nDecember 27, 2022\nHarvestella Achievements Guide\nDecember 19, 2022\nSIGNALIS Achievements_and_Trophies\nDecember 16, 2022\nCats and the Other Lives Achievements\nDecember 15, 2022\nFeatured Guides We're Working On\nBlacktail Walkthrough and Guide\nDecember 27, 2022\nBayonetta 3 Walkthrough and Guide\nNovember 6, 2022\nThe Chant Walkthrough and Guide\nNovember 3, 2022\nMonster Prom 3: Monster Roadtrip Walkthrough and Guide\nOctober 23, 2022\nMario + Rabbids Sparks of Hope Walkthrough and Guide\nOctober 22, 2022\nTerms of Use Privacy Policy Contact Us Advertise © 2023 Neo Era Media Inc.\nvisit mobile mode\n(0.0259/mc/www3)",
+    "font": "\"helvetica neue\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "3rd party ad content",
+            "src": "",
+            "location": {
+                "x": 148,
+                "y": 116
+            },
+            "size": {
+                "height": 90,
+                "width": 728
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.facebook.com/plugins/likebox.php?id=20139923491&width=300&connections=10&stream=false&header=false&height=220",
+            "location": {
+                "x": 703,
+                "y": 1427
+            },
+            "size": {
+                "height": 220,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://401f3cdce69a3b500223030089207a02.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "about:blank",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 1)",
+            "location": {
+                "x": 607,
+                "y": 10
+            },
+            "size": {
+                "height": 30,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

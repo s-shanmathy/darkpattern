@@ -1,0 +1,397 @@
+{
+    "title": "GoodTherapy - Find the Right Therapist",
+    "url": "goodtherapy.org",
+    "full_url": "https://www.goodtherapy.org/",
+    "images": [
+        {
+            "alt": "ADHD and Technology: Lifelong Frienemies",
+            "location": {
+                "x": 61,
+                "y": 599
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Acceptance and Commitment Therapy Basics: 6 Processes to Improve Therapeutic Outcomes",
+            "location": {
+                "x": 364,
+                "y": 599
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Healing from Extramarital Affairs",
+            "location": {
+                "x": 666,
+                "y": 599
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GoodTherapy | Communicate with family",
+            "location": {
+                "x": 61,
+                "y": 789
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GoodTherapy | Drug addiction denial",
+            "location": {
+                "x": 364,
+                "y": 789
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GoodTherapy | Grief",
+            "location": {
+                "x": 666,
+                "y": 789
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GoodTherapy | find a therapist",
+            "location": {
+                "x": 61,
+                "y": 910
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GoodTherapy | Play Therapy",
+            "location": {
+                "x": 364,
+                "y": 910
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GoodTherapy | quality of life",
+            "location": {
+                "x": 666,
+                "y": 910
+            },
+            "size": {
+                "height": 83,
+                "width": 83
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter ZIP or City",
+            "type": "text",
+            "location": {
+                "x": 321,
+                "y": 280
+            },
+            "size": {
+                "height": 56,
+                "width": 550
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter Search term",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter email address",
+            "type": "text",
+            "location": {
+                "x": 732,
+                "y": 2856
+            },
+            "size": {
+                "height": 42,
+                "width": 227
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            241,
+            241,
+            241
+        ],
+        [
+            163,
+            177,
+            70
+        ]
+    ],
+    "desc": "Research ethical, healthy therapy and find the right therapist, counselor, psychologist, marriage counselor, or mental health professional with GoodTherapy.",
+    "navbar": "",
+    "text": "SIGN UP AND GET LISTED LOGIN\nGoodTherapy\n®\nFIND A THERAPIST\nFIND TELEHEALTH\nFIND A FACILITY\nFIND AN EVENT\nSEARCH BLOG\nBe found at the exact moment they are searching. Sign up and Get Listed\n\nUPCOMING CE EVENTS FOR THERAPISTS\nADHD and Technology: Lifelong Frienemies\nDecember 13, 2022\nAcceptance and Commitment Therapy Basics: 6 Processes to Improve Therapeutic Outcomes\nJanuary 13, 2023\nHealing from Extramarital Affairs\nFebruary 28, 2023\nView All\nGOODTHERAPY BLOG\nHow to Have Assertive Communication – Without Ghosting or Raging\nDecember 6, 2022\nCommon Barriers to Seeking Addiction Treatment\nNovember 29, 2022\nHow to Navigate Grief During the Holidays\nNovember 22, 2022\nWhat is Self-Help for Mental Health? \nNovember 9, 2022\nWhen Should You Consider Child Therapy?\nOctober 27, 2022\n3 Questions That Upgrade Your Quality of Life!\nOctober 17, 2022\n\"I am very impressed with your mission statement. The world needs more of this full-on belief that each person carries an inner wisdom that is always ready to help them in their healing, change, and growth.\"\n– Mary Disharoon, MFT\n\"GoodTherapy.org is an amazing resource for professionals and individuals looking for mental health referrals and information. This website is dedicated to providing education and truly creates a mental health community. I am impressed with the breadth and depth of information and opportunities it provides...\"\n– Rebecca Wilson, MSW, LCSW\n\"GoodTherapy.org is a wonderfully rich and thoughtful resource for both the therapist and the consumer, committed to upholding the highest standards for ethical and best clinical practices.\"\n– Diana Lynn Barnes, PsyD, MFT\n\"Whether you're someone looking for help or a clinician interested in sharpening your skills, GoodTherapy.org has it all. Finding a therapist, viewing interesting and relevant articles, and taking web-based CE classes on numerous topics are just some of the resources available to those who visit the site.\"\n– Scott Granet, LCSW\n\"It is a true joy to discover this wonderful website and means of describing the precious encounter we have with clients in therapy.\"\n– Brenda Shoshanna, PhD\n1\n2\n3\n4\n5\nAs seen in\nFIND A THERAPIST, PSYCHOLOGIST, OR MARRIAGE COUNSELOR\nTop U.S. Cities\nU.S. States\nCanadian Province\nCountry\nTreatment Centers\nWorkshops\nU.S. STATES\nAlabama\nAlaska\nArizona\nArkansas\nCalifornia\nColorado\nConnecticut\nDelaware\nDistrict of Columbia\nFlorida\nGeorgia\nHawaii\nIdaho\nIllinois\nIndiana\nIowa\nKansas\nKentucky\nLouisiana\nMaine\nMaryland\nMassachusetts\nMichigan\nMinnesota\nMississippi\nMissouri\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Jersey\nNew Mexico\nNew York\nNorth Carolina\nNorth Dakota\nOhio\nOklahoma\nOregon\nPennsylvania\nRhode Island\nSouth Carolina\nSouth Dakota\nTennessee\nTexas\nUtah\nVermont\nVirginia\nWashington\nWest Virginia\nWisconsin\nWyoming\nTOP CITIES\nAsheville\nAtlanta\nAustin\nBellevue\nBerkeley\nBethesda\nBeverly Hills\nBoulder\nBrooklyn\nCharlotte\nChicago\nColorado Springs\nDallas\nDenver\nEncino\nEvanston\nFort Collins\nHouston\nIrvine\nLong Beach\nLos Angeles\nMiami\nMinneapolis\nNaperville\nNewport Beach\nNew York\nOakland\nOlympia\nOrlando\nPalo Alto\nPasadena\nPhiladelphia\nPhoenix\nPittsburgh\nPortland\nSacramento\nSalt Lake City\nSan Antonio\nSan Diego\nSan Francisco\nSan Jose\nSan Rafael\nSanta Monica\nScottsdale\nSeattle\nSherman Oaks\nSt. Louis\nTampa\nWashington DC\nWichita\nMore\nFIND A THERAPIST BY MODE\nMarriage Counselors\nFamily Counselors\nPsychotherapists\nCounselors\nChild Psychologists\nChild Therapists/Counselors\nPsychologists\nPsychiatrists\nMental Health Counselors\nPSYCHOLOGY TESTS\nTake an assessment test to learn more about your personality and skills.\nCareer Personality and Aptitude Test\nEmotional Intelligence Test\nInterpersonal Communication Skills Test\nARE YOU A THERAPIST?\nGet Listed Today\nABOUT GOODTHERAPY\nAbout Us\nMission and Vision\nAdvertise\nPress Room\nGoodCause\nTherapist Membership\nTx Center Membership\nStudent Membership\nPartnership Information\nContact Us\nRESOURCES\nFind a Therapist\nExplore Therapy\nElements of Good Therapy\nModes of Therapy\nDear GoodTherapy\nFind a Treatment Center\nWhat Is Therapy?\nTypes of Therapy\nIssues Treated in Therapy\nWarning Signs in Therapy\nSUBSCRIBE TO NEWSLETTER\nFOLLOW GOODTHERAPY\nCopyright © 2007 - 2022 GoodTherapy, LLC. All rights reserved.\nHome Terms of Service Privacy Policy Sitemap Subscribe to The GoodTherapy Blog.\nGoodTherapy uses cookies to personalize content and ads to provide better services for our users and to analyze our traffic. By continuing to use this site you consent to our cookies.",
+    "font": "Oxygen, \"Open Sans\", sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(224, 109, 0, 1)",
+            "location": {
+                "x": 822,
+                "y": 283
+            },
+            "size": {
+                "height": 50,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(224, 109, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(224, 109, 0, 1)",
+            "location": {
+                "x": 922,
+                "y": 2859
+            },
+            "size": {
+                "height": 36,
+                "width": 34
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,481 @@
+{
+    "title": "GTA5-Mods.com - Your source for the latest GTA 5 car mods, scripts, tools and more.",
+    "url": "gta5-mods.com",
+    "full_url": "https://www.gta5-mods.com/",
+    "images": [
+        {
+            "alt": "FrozenV",
+            "location": {
+                "x": 36,
+                "y": 344
+            },
+            "size": {
+                "height": 242,
+                "width": 462
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brabus GT 600 [Add-On]",
+            "location": {
+                "x": 36,
+                "y": 344
+            },
+            "size": {
+                "height": 242,
+                "width": 462
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carson City [Add-On SP]",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "B-21 Raider [Add-On]",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "FrozenV",
+            "location": {
+                "x": 513,
+                "y": 349
+            },
+            "size": {
+                "height": 52,
+                "width": 144
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brabus GT 600 [Add-On]",
+            "location": {
+                "x": 513,
+                "y": 411
+            },
+            "size": {
+                "height": 52,
+                "width": 144
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Carson City [Add-On SP]",
+            "location": {
+                "x": 513,
+                "y": 473
+            },
+            "size": {
+                "height": 52,
+                "width": 144
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "B-21 Raider [Add-On]",
+            "location": {
+                "x": 513,
+                "y": 535
+            },
+            "size": {
+                "height": 52,
+                "width": 144
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tu-141 Strizh Drone [Add-On]",
+            "location": {
+                "x": 36,
+                "y": 646
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Destroyer Prometheus (Marvel Future Fight) [Add-On Ped] ",
+            "location": {
+                "x": 36,
+                "y": 931
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Serrano without the V12 6.5sc badge",
+            "location": {
+                "x": 36,
+                "y": 1216
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Edited YMT for MpClothes (Female Only)",
+            "location": {
+                "x": 36,
+                "y": 1501
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Xmas Penguin Mask",
+            "location": {
+                "x": 36,
+                "y": 1786
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "[2019 Dodge Challenger Redeye]Geigercars.de livery",
+            "location": {
+                "x": 36,
+                "y": 2071
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DLS Config Files for 11John11 BSO & BCSD and Nachtfliege Game Warden",
+            "location": {
+                "x": 36,
+                "y": 2356
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rockford Home [ymap][Map Builder]",
+            "location": {
+                "x": 36,
+                "y": 2641
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Akatsuki Necklace for MP Male",
+            "location": {
+                "x": 36,
+                "y": 2926
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BMW Vision M Next [Add-On]",
+            "location": {
+                "x": 514,
+                "y": 646
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chevrolet Corvette/Camaro (LT1) Engine Sound [OIV Add-On | FiveM]",
+            "location": {
+                "x": 514,
+                "y": 931
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ugase City [Add-On SP / FiveM]",
+            "location": {
+                "x": 514,
+                "y": 1216
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hummer H3 [Add-On] ",
+            "location": {
+                "x": 514,
+                "y": 1501
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Air Jordan 4 for MP Male",
+            "location": {
+                "x": 514,
+                "y": 1786
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Safeword - Vixxen Dress (STV2 and SLIM)",
+            "location": {
+                "x": 514,
+                "y": 2071
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "B-21 Raider [Add-On]",
+            "location": {
+                "x": 514,
+                "y": 2356
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Volkswagen Touareg 2019 [Add-On | Animations]",
+            "location": {
+                "x": 514,
+                "y": 2641
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HK-416 from Escape From Tarkov [Animated, Replace]",
+            "location": {
+                "x": 514,
+                "y": 2926
+            },
+            "size": {
+                "height": 308,
+                "width": 463
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search GTA 5 mods...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            239,
+            239,
+            239
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "navbar": "  English\n5mods on Discord\nUpload\nLog In\nRegister",
+    "text": "  English\n5mods on Discord\nUpload\nLog In\nRegister\nWelcome to GTA5-Mods.com\nSelect one of the following categories to start browsing the latest GTA 5 PC mods:\nTOOLS\nVEHICLES\nPAINT JOBS\nWEAPONS\nSCRIPTS\nPLAYER\nMAPS\nMISC\nFORUMS\nMORE\nFeatured Files\nSee All\nFrozenV\n1.1\nBy Alex106\nLatest Files\nSee All\n20 5\nTu-141 Strizh Drone [Add-On]\n1.0\nBy SkylineGTRFreak\n10 1\nDestroyer Prometheus (Marvel Future Fight) [Add-On Ped]\n1.0\nBy IPhorkos\n4.5\n12 0\nSerrano without the V12 6.5sc badge\nBy Myraiz\n5.0\n65 8\nEdited YMT for MpClothes (Female Only)\n1.0\nBy LittleSpoon\n24 2\nXmas Penguin Mask\nBy Yzze\n99 6\n[2019 Dodge Challenger Redeye]Geigercars.de livery\nBy UT-1992\n58 1\nDLS Config Files for 11John11 BSO & BCSD and Nachtfliege Game Warden\nBy neversober81\n5.0\n219 7\nRockford Home [ymap][Map Builder]\nBy zamalone\n53 0\nAkatsuki Necklace for MP Male\n1.0\nBy ThurtleMan\nMost Downloaded This Week\nSee All\n3.0\n1,411 24\nBMW Vision M Next [Add-On]\n1.0\nBy C6g3\n5.0\n1,339 31\nChevrolet Corvette/Camaro (LT1) Engine Sound [OIV Add-On | FiveM]\nBy TheAdmiester\n4.93\n1,271 50\nUgase City [Add-On SP / FiveM]\nSP V1\nBy ON3FLY3R\n1,241 41\nHummer H3 [Add-On]\n1.0\nBy Megzo\n5.0\n1,084 28\nAir Jordan 4 for MP Male\n1.0\nBy TideFN\n966 11\nSafeword - Vixxen Dress (STV2 and SLIM)\n1.0\nBy LittleSpoon\n5.0\n835 38\nB-21 Raider [Add-On]\n1.0\nBy SkylineGTRFreak\n5.0\n825 28\nVolkswagen Touareg 2019 [Add-On | Animations]\nBy hongqi-9\n5.0\n643 16\nHK-416 from Escape From Tarkov [Animated, Replace]\nBy _keegan_\nDesigned in Alderney\nMade in Los Santos\nGTA 5 Modding Tools\nGTA 5 Vehicle Mods\nGTA 5 Vehicle Paint Job Mods\nGTA 5 Weapon Mods\nGTA 5 Script Mods\nGTA 5 Player Mods\nGTA 5 Map Mods\nGTA 5 Misc Mods\nLatest Files\nFeatured Files\nMost Liked Files\nMost Downloaded Files\nHighest Rated Files\nGTA5-Mods.com Leaderboard\nContact\nPrivacy Policy\nTerms of Use\nDMCA\n@5mods on Twitter\n5mods on Facebook\n5mods on Discord",
+    "font": "\"helvetica neue\", Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(32, 186, 78, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

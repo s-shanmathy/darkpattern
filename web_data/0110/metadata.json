@@ -1,0 +1,1395 @@
+{
+    "title": "The Korea Herald",
+    "url": "koreaherald.com",
+    "full_url": "https://www.koreaherald.com/",
+    "images": [
+        {
+            "alt": "SIS",
+            "location": {
+                "x": 15,
+                "y": 78
+            },
+            "size": {
+                "height": 60,
+                "width": 234
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Justice minister dismisses rumor of running for ruling party leadership",
+            "location": {
+                "x": 15,
+                "y": 243
+            },
+            "size": {
+                "height": 184,
+                "width": 245
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "First lady asks Vietnamese president to look into Koreans’ visa problems",
+            "location": {
+                "x": 15,
+                "y": 712
+            },
+            "size": {
+                "height": 184,
+                "width": 245
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UN Security Council plans ‘closed-door’ discussion on NK human rights despite calls",
+            "location": {
+                "x": 15,
+                "y": 1180
+            },
+            "size": {
+                "height": 184,
+                "width": 245
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Korea may lift indoor mask mandate in January",
+            "location": {
+                "x": 293,
+                "y": 243
+            },
+            "size": {
+                "height": 247,
+                "width": 368
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Narcotics control tower under gov't review to tackle growing drug-related offences",
+            "location": {
+                "x": 293,
+                "y": 855
+            },
+            "size": {
+                "height": 93,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vietnam’s industry minister urges resource investment from S. Korea",
+            "location": {
+                "x": 293,
+                "y": 1003
+            },
+            "size": {
+                "height": 93,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SK chief stresses ties with Japan to tackle geopolitical challenges",
+            "location": {
+                "x": 293,
+                "y": 1151
+            },
+            "size": {
+                "height": 93,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LG Innotek becomes first to adopt plastic to ADAS lenses",
+            "location": {
+                "x": 293,
+                "y": 1275
+            },
+            "size": {
+                "height": 93,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "US ambassador visits Coupang fulfillment center in Daegu",
+            "location": {
+                "x": 293,
+                "y": 1399
+            },
+            "size": {
+                "height": 93,
+                "width": 124
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "catch table",
+            "location": {
+                "x": 694,
+                "y": 1270
+            },
+            "size": {
+                "height": 90,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Worldcup",
+            "location": {
+                "x": 694,
+                "y": 1380
+            },
+            "size": {
+                "height": 90,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " ‘Long live the bill’ in cashless society",
+            "location": {
+                "x": 15,
+                "y": 1997
+            },
+            "size": {
+                "height": 315,
+                "width": 470
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "South Korea handily defeated by Brazil",
+            "location": {
+                "x": 545,
+                "y": 1983
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Crypto hacking behind N. Korea’s renewed nuclear ambition",
+            "location": {
+                "x": 545,
+                "y": 2082
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Korea may lift indoor mask mandate in January",
+            "location": {
+                "x": 545,
+                "y": 2180
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Samsung promotes execs in 30s, 40s in push for change",
+            "location": {
+                "x": 545,
+                "y": 2279
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "[Newsmaker] [From the Scene] World Cup fever in S. Korea ends on a bittersweet note",
+            "location": {
+                "x": 545,
+                "y": 2378
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "S. Korea's new COVID-19 cases top 77,000 amid concerns of seasonal surge",
+            "location": {
+                "x": 545,
+                "y": 2477
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Are Hongdae clubs and streets safe?",
+            "location": {
+                "x": 545,
+                "y": 2575
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cabinet defers another back-to-work order as truckers' strike loses steam",
+            "location": {
+                "x": 545,
+                "y": 2674
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Couple face arrest for abandoning dead daughter in kimchi container for 3 years",
+            "location": {
+                "x": 545,
+                "y": 2773
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Samsung, Naver team up to develop AI chips",
+            "location": {
+                "x": 545,
+                "y": 2872
+            },
+            "size": {
+                "height": 73,
+                "width": 116
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "topics",
+            "location": {
+                "x": 82,
+                "y": 3044
+            },
+            "size": {
+                "height": 90,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "padcast",
+            "location": {
+                "x": 370,
+                "y": 3044
+            },
+            "size": {
+                "height": 90,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "leadersclub",
+            "location": {
+                "x": 658,
+                "y": 3044
+            },
+            "size": {
+                "height": 90,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Iran protests displace nuclear issue",
+            "location": {
+                "x": 15,
+                "y": 3339
+            },
+            "size": {
+                "height": 125,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Standing between K-pop and K-plague",
+            "location": {
+                "x": 265,
+                "y": 3339
+            },
+            "size": {
+                "height": 125,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Korea Herald Youtube",
+            "location": {
+                "x": 144,
+                "y": 3583
+            },
+            "size": {
+                "height": 130,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "‘Bring my child back’: American fathers cry foul",
+            "location": {
+                "x": 15,
+                "y": 3818
+            },
+            "size": {
+                "height": 341,
+                "width": 487
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " (32) 'No one man should have all that power'",
+            "location": {
+                "x": 508,
+                "y": 3818
+            },
+            "size": {
+                "height": 167,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Are Hongdae clubs and streets safe?",
+            "location": {
+                "x": 754,
+                "y": 3818
+            },
+            "size": {
+                "height": 167,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Jeong or warm heartedness and thoughtfulness",
+            "location": {
+                "x": 508,
+                "y": 3991
+            },
+            "size": {
+                "height": 167,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " (31) South Korea's moment of glory in World Cup",
+            "location": {
+                "x": 754,
+                "y": 3991
+            },
+            "size": {
+                "height": 167,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Itaewon streets after the deadly crowd crush",
+            "location": {
+                "x": 43,
+                "y": 4329
+            },
+            "size": {
+                "height": 118,
+                "width": 211
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Memorials for the deadly Itaewon crowd crush",
+            "location": {
+                "x": 43,
+                "y": 4558
+            },
+            "size": {
+                "height": 118,
+                "width": 211
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Multinational Asian stars collab to show 'One Asia'",
+            "location": {
+                "x": 280,
+                "y": 4329
+            },
+            "size": {
+                "height": 251,
+                "width": 449
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Everything about Anupam Tripathi from Squid Game",
+            "location": {
+                "x": 755,
+                "y": 4329
+            },
+            "size": {
+                "height": 118,
+                "width": 211
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " How a Filipino-Argentinian star broke into the Kpop scene",
+            "location": {
+                "x": 755,
+                "y": 4558
+            },
+            "size": {
+                "height": 118,
+                "width": 211
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Blackpink announces plan for Japan tour",
+            "location": {
+                "x": 15,
+                "y": 4936
+            },
+            "size": {
+                "height": 341,
+                "width": 487
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hybe's first Japanese band &Team makes global debut",
+            "location": {
+                "x": 508,
+                "y": 4936
+            },
+            "size": {
+                "height": 167,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Blackpink is ‘Entertainer of the Year’: Time",
+            "location": {
+                "x": 754,
+                "y": 4936
+            },
+            "size": {
+                "height": 167,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " BTS’ Suga reaches 400m views with ‘Daechwita’ video",
+            "location": {
+                "x": 508,
+                "y": 5109
+            },
+            "size": {
+                "height": 167,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " RM: Seeing the person before the art",
+            "location": {
+                "x": 754,
+                "y": 5109
+            },
+            "size": {
+                "height": 167,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Joseon cosmetics revived with modern touches",
+            "location": {
+                "x": 40,
+                "y": 5479
+            },
+            "size": {
+                "height": 148,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Long-awaited ‘Avatar 2’ leads year-end movie releases",
+            "location": {
+                "x": 275,
+                "y": 5479
+            },
+            "size": {
+                "height": 148,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "‘Uncanny Convenience Store’ tops bestseller lists at major bookstores",
+            "location": {
+                "x": 510,
+                "y": 5479
+            },
+            "size": {
+                "height": 148,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bong Joon-ho’s 'Mickey 17' confirmed for March 2024 release",
+            "location": {
+                "x": 744,
+                "y": 5479
+            },
+            "size": {
+                "height": 148,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Exhibition on Korean food making and sharing opens in Jeonju",
+            "location": {
+                "x": 40,
+                "y": 5754
+            },
+            "size": {
+                "height": 148,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Youn Yuh-jung parts ways with Hook Entertainment",
+            "location": {
+                "x": 275,
+                "y": 5754
+            },
+            "size": {
+                "height": 148,
+                "width": 225
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Artist Nam Hwa-yeon turns eye towards future at Atelier Hermes",
+            "location": {
+                "x": 510,
+                "y": 5754
+            },
+            "size": {
+                "height": 148,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jongno Culture Diversity Film Festival kicks off this week",
+            "location": {
+                "x": 744,
+                "y": 5754
+            },
+            "size": {
+                "height": 148,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " A year without hagwon, away from concrete jungle",
+            "location": {
+                "x": 15,
+                "y": 6105
+            },
+            "size": {
+                "height": 333,
+                "width": 326
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Jeju Biennale shows the island's natural identity",
+            "location": {
+                "x": 341,
+                "y": 6105
+            },
+            "size": {
+                "height": 166,
+                "width": 326
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Revived G-Star back with bang",
+            "location": {
+                "x": 668,
+                "y": 6105
+            },
+            "size": {
+                "height": 333,
+                "width": 326
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Medicine for better college, does such panacea exist?",
+            "location": {
+                "x": 15,
+                "y": 6438
+            },
+            "size": {
+                "height": 166,
+                "width": 326
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Mountain temples perfect place to enjoy autumn",
+            "location": {
+                "x": 341,
+                "y": 6272
+            },
+            "size": {
+                "height": 333,
+                "width": 326
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Strong dollar, weak won: What does it mean for ordinary people?",
+            "location": {
+                "x": 668,
+                "y": 6438
+            },
+            "size": {
+                "height": 166,
+                "width": 326
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ANN",
+            "location": {
+                "x": 46,
+                "y": 6679
+            },
+            "size": {
+                "height": 90,
+                "width": 500
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Investor",
+            "location": {
+                "x": 514,
+                "y": 6679
+            },
+            "size": {
+                "height": 90,
+                "width": 500
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Suneung is a week away",
+            "location": {
+                "x": 15,
+                "y": 6876
+            },
+            "size": {
+                "height": 490,
+                "width": 490
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Bangkok Skytrain exterior ads",
+            "location": {
+                "x": 504,
+                "y": 6876
+            },
+            "size": {
+                "height": 245,
+                "width": 245
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " K-street fashion",
+            "location": {
+                "x": 749,
+                "y": 6876
+            },
+            "size": {
+                "height": 245,
+                "width": 245
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Colorful autumn seen across the Korean Peninsula",
+            "location": {
+                "x": 504,
+                "y": 7120
+            },
+            "size": {
+                "height": 245,
+                "width": 245
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " At long last, freedom",
+            "location": {
+                "x": 749,
+                "y": 7120
+            },
+            "size": {
+                "height": 245,
+                "width": 245
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "After server shutdown, Kakao pledges to triple investment over next 5 years",
+            "location": {
+                "x": 15,
+                "y": 7506
+            },
+            "size": {
+                "height": 172,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vietnam’s industry minister urges resource investment from S. Korea",
+            "location": {
+                "x": 265,
+                "y": 7506
+            },
+            "size": {
+                "height": 172,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Narcotics control tower under gov't review to tackle growing drug-related offences",
+            "location": {
+                "x": 514,
+                "y": 7506
+            },
+            "size": {
+                "height": 172,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SK chief stresses ties with Japan to tackle geopolitical challenges",
+            "location": {
+                "x": 764,
+                "y": 7506
+            },
+            "size": {
+                "height": 172,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Feminine power celebrated at National celebrated at National Museum of Australia",
+            "location": {
+                "x": 35,
+                "y": 8053
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mondial-2022 : réactions de supporters après la qualification du Maroc",
+            "location": {
+                "x": 275,
+                "y": 8053
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Why Korean bronzeware, or bangjja yugi, is so expensive",
+            "location": {
+                "x": 514,
+                "y": 8053
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "US politics: Democrats seal absolute Senate majority with Georgia win",
+            "location": {
+                "x": 754,
+                "y": 8053
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Right Frequency: Is talk radio dividing the US? | The Listening Post",
+            "location": {
+                "x": 35,
+                "y": 8304
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New medication being trialled to treat serious condition",
+            "location": {
+                "x": 275,
+                "y": 8304
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coup d'envoi de la COP15, le sommet de la décennie pour sauver la nature",
+            "location": {
+                "x": 514,
+                "y": 8304
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Meet the Amazon warehouse workers paying the price for fast, free shipping",
+            "location": {
+                "x": 754,
+                "y": 8304
+            },
+            "size": {
+                "height": 132,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Korea, Vietnam pledge economic alliance",
+            "location": {
+                "x": 15,
+                "y": 8696
+            },
+            "size": {
+                "height": 172,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SK On, Ford break ground on largest EV battery plant in US",
+            "location": {
+                "x": 265,
+                "y": 8696
+            },
+            "size": {
+                "height": 172,
+                "width": 230
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Samsung, Naver team up to develop AI chips",
+            "location": {
+                "x": 514,
+                "y": 8696
+            },
+            "size": {
+                "height": 172,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Samsung chief inspects Barakah nuclear plant site in UAE",
+            "location": {
+                "x": 764,
+                "y": 8696
+            },
+            "size": {
+                "height": 172,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 45,
+                "y": 45
+            },
+            "size": {
+                "height": 45,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "The Korea Herald is South Korea’s largest English-language daily and the country’s sole member of the Asia News Network (ANN). ",
+    "text": "Back To Top\nK-Pop Herald\nThe Investor\nThe Herald Business\nThe Herald POP\nReal Foods\nNewsletter\nSign in\n'Extraordinary Attorney Woo' 2nd-most searched keyword by S. Korean users in 2022: Google\nBarakat Contemporary introduces prominent Korean artists in London\nAsian health experts debate how to combat pandemics\n[Today’s K-pop] Blackpink announces plan for Japan tour\n‘Bring my child back’: American fathers cry foul\nUS ambassador visits Coupang fulfillment center in Daegu\nSeoul shares down for 4th day amid U.S. rate hike woes\nJustice minister dismisses rumor of running for ruling party leadership\nAfter server shutdown, Kakao pledges to triple investment over next 5 years\nVietnam’s industry minister urges resource investment from S. Korea\nHybe's first Japanese band &Team makes global debut\nSK chief stresses ties with Japan to tackle geopolitical challenges\n[Newsmaker] ‘Long live the bill’ in cashless society\nJoseon cosmetics revived with modern touches\nPublic fury continues over 9-year-old's death in school zone\nUN Security Council plans ‘closed-door’ discussion on NK human rights despite calls\nLong-awaited ‘Avatar 2’ leads year-end movie releases\nNarcotics control tower under gov't review to tackle growing drug-related offences\n＋\nNational\nBusiness\nFinance\nLife&Style\nEntertainment\nSports\nWorld\nOpinion\nK-POP\nWeekender\nEnglish Eye\nSubscribe\nJustice minister dismisses rumor of running for ruling party leadership\nPolitics\nAmid growing speculation that Justice Minister Han Dong-hoon may run for the ruling party leadership early next year, Han dismissed the possibility Wednesday, saying he will continue to do his job as the head of the ministry. Han met with reporters before attending a plenary session of the National Assembly's Legislation and Judiciary Committee on the day and said, \"No one has suggested me (to run for the party leadership).\" \"I have done my best as a justice minister although\nFirst lady asks Vietnamese president to look into Koreans’ visa problems\nForeign affairs\nSouth Korean President Yoon Suk-yeol and first lady Kim Keon-hee met with Vietnam's President Nguyen Xuan Phuc on Tuesday, asking the Vietnamese president to look into Korean citizens’ visa issues in the Southeast Asian country. The first lady called for the Vietnamese president’s “keen interest” in Koreans’ visa-related issues during Phuc’s visit to Cheong Wa Dae, saying she saw news reports about how Korean travelers or nationals dwelling in Vietnam hav\nUN Security Council plans ‘closed-door’ discussion on NK human rights despite calls\nNorth Korea\nHuman rights groups and defenders urge UNSC to resume open discussion on matter\nKorea may lift indoor mask mandate in January\nSocial affairs\nSouth Korea's pandemic response authorities proposed on Wednesday to lift the nationwide indoor mask mandate as early as January next year, with plans for policy talks and forums beginning this month. \"As long as conditions (regarding the gravity of coronavirus) are met, (the eased mask rules) will come into effect at least in January, or March at the latest,\" Peck Kyong-ran, commissioner of the Korea Disease Control and Prevention Agency, said in a briefing in Seoul Wednesday. Pe\n▼+2 more Related Articles\nㆍ Top pandemic adviser rules out easing indoor mask mandate\nNarcotics control tower under gov't review to tackle growing drug-related offences\nSocial affairs\nVietnam’s industry minister urges resource investment from S. Korea\nIndustry\nSK chief stresses ties with Japan to tackle geopolitical challenges\nIndustry\nLG Innotek becomes first to adopt plastic to ADAS lenses\nTechnology\nUS ambassador visits Coupang fulfillment center in Daegu\nIndustry\nLATEST NEWS\n'Extraordinary Attorney Woo' 2nd-most searched keyword by S. Korean users in 2022: Google\nBarakat Contemporary introduces prominent Korean artists in London\nS. Korea rolls out biotech plan\nAsian health experts debate how to combat pandemics\n[Today’s K-pop] Blackpink announces plan for Japan tour\n‘Bring my child back’: American fathers cry foul\nSeoul shares down for 4th day amid U.S. rate hike woes\nClimate Clock\n#ActInTime\nDEADLINETIME LEFT TO LIMIT GLOBAL WARMING TO 1.5°C\n6YRS227DAYS06:42:29\nLIFELINELAND PROTECTED BY INDIGENOUS PEOPLE\n43,500,000KM²\nCOP27 CONCLUDES WITH HISTORIC DEAL ON LOSS AND DAMAGE | SHARK FIN TRADE REGULATED IN LANDMARK DECISION | US APPROVES LARGEST DAM REMOVAL TO SAVE ENDANGERED SALMON | CANADA TURNS TO INDIGENOUS PEOPLE TO SAVE ITS FORESTS | VIETNAM NEARS $11 BILLION-PLUS DEAL TO SHIFT ECONOMY FROM COAL | BARCELONA STUDENTS TO TAKE MANDATORY CLIMATE CRISIS COURSE FROM 2024 | MEXICO PLEDGES 35% EMISSIONS CUTTING TARGET BY 2030 | COP27 DELIVERS €15 MILLION TO PROTECT EGYPT’S CORAL REEFS | KUWAIT TO BECOME CARBON NEUTRAL IN OIL & GAS BY 2050 |\nNEWSMAKER\n‘Long live the bill’ in cashless society\nMoney\nBOK says 50,000-won banknote has life span over 15 years, compared to 23 years of $100 and 41 years of 50-pound bills\nGRAPHIC NEWS\nMOST POPULAR\n1\nSouth Korea handily defeated by Brazil\n2\nCrypto hacking behind N. Korea’s renewed nuclear ambition\n3\nKorea may lift indoor mask mandate in January\n4\nSamsung promotes execs in 30s, 40s in push for change\n5\n[Newsmaker] [From the Scene] World Cup fever in S. Korea ends on a bittersweet note\n6\nS. Korea's new COVID-19 cases top 77,000 amid concerns of seasonal surge\n7\nAre Hongdae clubs and streets safe?\n8\nCabinet defers another back-to-work order as truckers' strike loses steam\n9\nCouple face arrest for abandoning dead daughter in kimchi container for 3 years\n10\nSamsung, Naver team up to develop AI chips\nOPINION\nIran protests displace nuclear issue\nViewpoints\nStanding between K-pop and K-plague\nViewpoints\nIndoor mask mandate\nConsistent policy needed to brace for winter COVID-19 surge\nEditorial\nA debate has been reignited over lifting indoor mask mandates as cautious attitudes toward COVID-19 infection is steadily being replaced by public complacency, but authorities and experts have offer mixed views about easing mandatory masking. The municipal government of Daejeon sent an official notification to the government’s COVID-19 response headquarters Sunday, saying it will lift the indoor mask mandates from next year through its own administrative order unless the central government\nNo sanctuary in probe\nEx-security adviser held for covering up case of fishery official killed by NK soldiers\nEditorial\nSuh Hoon, former director of the National Security Office at Cheong Wa Dae, was arrested on Saturday on suspicion of “covering up the case of a fisheries official killed by North Korean troops in September 2020.” After media broke news that Lee Dae-jun, an official of the Ministry of Oceans and Fisheries, was killed by North Korean soldiers in the West Sea after falling overboard a fisheries guidance boat and floating into North Korean waters, Suh jumped to the conclusion that Lee wa\n‘Bring my child back’: American fathers cry foul\n(32) 'No one man should have all that power'\nAre Hongdae clubs and streets safe?\nJeong or warm heartedness and thoughtfulness\n(31) South Korea's moment of glory in World Cup\nVIDEO\nItaewon streets after the deadly crowd crush\nMemorials for the deadly Itaewon crowd crush\nMultinational Asian stars collab to show 'One Asia'\nEverything about Anupam Tripathi from Squid Game\nHow a Filipino-Argentinian star broke into the Kpop scene\nK-POP\nBlackpink announces plan for Japan tour\nHybe's first Japanese band &Team makes global debut\nBlackpink is ‘Entertainer of the Year’: Time\nBTS’ Suga reaches 400m views with ‘Daechwita’ video\nRM: Seeing the person before the art\nSPOTLIGHT\nCulture\nJoseon cosmetics revived with modern touches\nFilm\nLong-awaited ‘Avatar 2’ leads year-end movie releases\nBooks\n‘Uncanny Convenience Store’ tops bestseller lists at major bookstores\nFilm\nBong Joon-ho’s 'Mickey 17' confirmed for March 2024 release\nCulture\nExhibition on Korean food making and sharing opens in Jeonju\nFilm\nYoun Yuh-jung parts ways with Hook Entertainment\nArts&Design\nArtist Nam Hwa-yeon turns eye towards future at Atelier Hermes\nFilm\nJongno Culture Diversity Film Festival kicks off this week\nWEEKENDER\nA year without hagwon, away from concrete jungle\nJeju Biennale shows the island's natural identity\nRevived G-Star back with bang\nMedicine for better college, does such panacea exist?\nMountain temples perfect place to enjoy autumn\nStrong dollar, weak won: What does it mean for ordinary people?\nPHOTO NEWS\nSuneung is a week away\nBangkok Skytrain exterior ads\nK-street fashion\nColorful autumn seen across the Korean Peninsula\nAt long last, freedom\nFEATURES\nAfter server shutdown, Kakao pledges to triple investment over next 5 years\nTechnology\nIT behemoth keeps mum on compensation plan for individual victims\nVietnam’s industry minister urges resource investment from S. Korea\nIndustry\nNguyen Hong Dien, Vietnam’s minister of industry and trade, on Tuesday urged South Korea to invest in clean energy and mineral resource development, in a step toward strengthening the two countries’ bilateral ties. “In a few weeks, Vietnamese government will approve the country’s long-term eight master plans centering on renewable energy. We hope South Korean companies invest in mineral resource development here, that is essential to the energy industry,” the mini\nNarcotics control tower under gov't review to tackle growing drug-related offences\nSocial affairs\nAs a rapid rise in drug-related offences is catching South Korea off guard, eyes are on the Ministry of the Interior and Safety’s final decision to abolish or formalize an official organization overseeing narcotics-related matters in the country. The Ministry of Food and Drug Safety is currently putting the final touches on transitioning a temporary narcotics division to an official organization called the Deputy Director General for Narcotics Safety Planning, with the aim of making it a m\nSK chief stresses ties with Japan to tackle geopolitical challenges\nIndustry\nSouth Korea, the United States and Japan should work closely together to address geopolitical challenges pressing Northeast Asia and beyond, SK Group Chairman Chey Tae-won said at a forum. Chey made the remarks at the 2022 Trans-Pacific Dialogue in the US, an annual gathering hosted by the Chey Institute for Advanced Studies, an SK-affiliated think tank named after the chairman's father, SK Group founder Chey Jong-hyun. The three-day forum, which kicked off Monday, was attended by former an\nGlobal Insight\nFeminine power celebrated at National celebrated at National Museum of Australia\nABC News\nMondial-2022 : réactions de supporters après la qualification du Maroc\nFrance24\nWhy Korean bronzeware, or bangjja yugi, is so expensive\nBusiness Insider\nUS politics: Democrats seal absolute Senate majority with Georgia win\nEuro News\nThe Right Frequency: Is talk radio dividing the US? | The Listening Post\nAl Jazeera\nNew medication being trialled to treat serious condition\nABC News\nCoup d'envoi de la COP15, le sommet de la décennie pour sauver la nature\nFrance24\nMeet the Amazon warehouse workers paying the price for fast, free shipping\nBusiness Insider\nTHE INVESTOR\nKorea, Vietnam pledge economic alliance\nMarket Now\nVietnamese president vows full support for Korean businesses\nSK On, Ford break ground on largest EV battery plant in US\nMarket Now\nSK On aims to be global top 3 by 2025, calling Biden's IRA a boon for its expansion\nSamsung, Naver team up to develop AI chips\nMarket Now\nSamsung Electronics said Tuesday that the company will collaborate with local internet giant Naver to develop next-generation semiconductor solutions for advanced artificial intelligence systems. The two companies will develop chip solutions that have greater capacity to process large-sized data, which existing computing systems have difficulties in dealing with, the firm said. The duo seeks to find new solutions that better address the bottlenecks in advancing AI systems and maximize efficien\nSamsung chief inspects Barakah nuclear plant site in UAE\nMarket Now\nSamsung Electronics said Tuesday Chairman Lee Jae-yong visited a Samsung C&T construction site of a new nuclear power plant in the United Arab Emirates and encouraged workers there. The construction unit of Samsung Group is building two nuclear reactors at the Barakah nuclear power plant. During his visit, Lee held a meeting with local employees, most of them in their 20s and 30s. “The Middle East, which is currently pushing for a ‘great transformation’ to find a new grow\nABOUT KOREA HERALD\nABOUT HERALD CORPORATION\nCODE OF ETHICS\nANNOUNCEMENT\nCS CENTER\nCONTACT US\nLOCATION\nNational\nPolitics\nSocial Affairs\nForeign Affairs\nDefense\nNorth Korea\nHwang on China\nScience\nDiplomatic Circuit\nEducation\nK-Wellness\nBusiness\nIndustry\nTechnology\nTransport\nRetail\nFinance\nEconomy\nMarket\nMoney\nLife&Style\nCulture\nTravel\nFashion\nFood & Beverage\nBooks\nPeople\nExpat Living\nArts & Design\nHealth\nEntertainment\nFilm\nTelevision\nMusic\nTheater\nK-pop\nesports\nSports\nWorld Cup\nSoccer\nBaseball\nGolf\nMore Sports\nWorld\nWorld News\nWorld Business\nOpinion\nEditorial\nViewpoints\nEnglish Eye\nPodcast\nEnglish Cafe\n#Hashtag Korea\nTopics\nWeekender\nInteractive\nPR Newswire\nGlobal Insight\n한국어판\nPRIVACY STATEMENT\nCOPYRIGHT POLICY\nHERALD OMBUDSMAN\nOur Site\nThe Korea Herald by Herald Corporation\nCopyright Herald Corporation. All Rights Reserved.\nAddress : Huam-ro 4-gil 10, Yongsan-gu,Seoul, Korea\nOnline newspaper registration No : Seoul 아03711\nDate of registration : 2015.04.28\nPublisher. Editor : Jeon Chang-hyeop\nJuvenile Protection Manager: Ahn Sung-mi\nTel : +82-2-727-0114",
+    "font": "\"Noto Sans\", \"San Francisco\", \"Myriad Set Pro\", \"Lucida Grande\", \"Helvetica Neue\", Helvetica, AppleSDGothicNeo, \"Droid sans\", MalgumGothic, \"HY Dotum\", dotum, \"Lexi Gulim\", Arial, Verdana, \"sans-serif\", Bodoni",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 45,
+                "y": 0
+            },
+            "size": {
+                "height": 45,
+                "width": 45
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

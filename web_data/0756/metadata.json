@@ -1,0 +1,897 @@
+{
+    "title": "Search Engine Land - News, Search Engine Optimization (SEO), Pay-Per-Click (PPC)",
+    "url": "searchengineland.com",
+    "full_url": "https://searchengineland.com/",
+    "images": [
+        {
+            "alt": "Search Engine Land",
+            "location": {
+                "x": 36,
+                "y": 330
+            },
+            "size": {
+                "height": 25,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The SMX Conference logo.",
+            "location": {
+                "x": 697,
+                "y": 949
+            },
+            "size": {
+                "height": 146,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your business email here",
+            "type": "email",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your business email here.",
+            "type": "email",
+            "location": {
+                "x": 702,
+                "y": 689
+            },
+            "size": {
+                "height": 38,
+                "width": 266
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 697,
+                "y": 2166
+            },
+            "size": {
+                "height": 38,
+                "width": 250
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your business email here.",
+            "type": "email",
+            "location": {
+                "x": 424,
+                "y": 4951
+            },
+            "size": {
+                "height": 38,
+                "width": 373
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            231,
+            231,
+            239
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "Breaking news, updates, insights, analysis and guides covering SEO, PPC and all things search from the Search Engine Land team and subject matter experts.",
+    "navbar": "SEO\nPPC\nPlatforms\nSMX\nAwards\nWebinars\nIntelligence reports\nWhite papers\nAbout",
+    "text": "SEO\nPPC\nPlatforms\nSMX\nAwards\nWebinars\nIntelligence reports\nWhite papers\nAbout\nSEO\nGoogle brings continuous scroll to desktop search results\nThis is now rolling out for English / U.S. search results.\nby Barry Schwartz\nSEO\nLocation pages in Google’s crosshairs after October spam update\nby Jake Hundley\nSEO\nHow to optimize underperforming content\nby Julia McCoy\nSEO\nGoogle helpful content system update rolling out now (December 2022 update)\nby Barry Schwartz\nAnalytics & conversion\nSupercharge your marketing ROI for success\nby Wrike\nGet the daily newsletter search marketers rely on.\nSUBSCRIBE\nSee terms.\nSEO\nGoogle Chrome adds 3 site search shortcuts\nAdding @bookmarks, @history or @tabs into your Chrome address bar should help speed up your searches in these categories.\nDanny Goodwin | Dec 6, 2022 at 3:27 pm ET\nSEO\nGoogle helpful content system update rolling out now (December 2022 update)\nThis update adds new signals and also brings the helpful content update globally for all languages.\nBarry Schwartz | Dec 6, 2022 at 11:45 am ET\nPPC\n4 new Microsoft features, and 5 other December updates\nSome of the updates, announced earlier this year, have been expanded into new markets.\nNicole Farley | Dec 6, 2022 at 9:46 am ET\nSEO\nEcommerce SEO & UX: 4 simple tips to boost traffic and sales\nMake the shopping experience better for users. Take a cue from brick-and-mortars with these ecommerce organization and merchandising tips.\nMark Jackson | Dec 6, 2022 at 8:00 am ET\nAnalytics & conversion\nSupercharge your marketing ROI for success\nMeasuring marketing performance is a delicate balance between science and art.\nWrike | Dec 6, 2022 at 7:00 am ET\nSEO\nLocation pages in Google’s crosshairs after October spam update\nRanking drops and deindexed pages are plaguing service area business sites. Let's explore the potential cause and what local SEOs can do.\nJake Hundley | Dec 6, 2022 at 6:00 am ET\nSEO\nGoogle Search rolls out new search refinements for top bar filters with related topics\nAs previewed at the Search On event, now these new related topics options can show in the top far filter options.\nBarry Schwartz | Dec 5, 2022 at 3:00 pm ET\nAnalytics & conversion\nWebinar: Drive smarter engagement across the customer journey\nLearn the tools and tactics to execute personalization across channels from a data-first organization.\nCynthia Ramsaran | Dec 5, 2022 at 12:37 pm ET\nSEO\nGoogle brings continuous scroll to desktop search results\nThis is now rolling out for English / U.S. search results.\nBarry Schwartz | Dec 5, 2022 at 12:35 pm ET\nLocal\nGoogle shut down Duplex on the Web\nGoogle has also retired the DuplexWeb-Google web crawler.\nBarry Schwartz | Dec 5, 2022 at 8:03 am ET\nSEO\nHow to optimize underperforming content\nDon't let stale or lackluster content drag down your SEO performance. Learn how to find content underperformers and ways to reoptimize them.\nJulia McCoy | Dec 5, 2022 at 8:00 am ET\nSEO\n3 last-minute Amazon optimization tips for the holidays\nHere's how you can optimize your Amazon product listings, attract last-minute shoppers and get a slice of the holiday sales pie.\nEvan Facinger | Dec 5, 2022 at 6:00 am ET\nPPC\nYouTube year in review: The top 10 ads of 2022\nYouTube has been a major player in marketing for a while, and this year was no exception.\nNicole Farley | Dec 2, 2022 at 12:02 pm ET\nPPC\nTwitstorm timeline: The latest on Elon Musk’s Twitter 2.0\nElon Musk and Twitter continue to remain in the spotlight, for better or worse. Here is everything brands and marketers need to know.\nNicole Farley | Dec 2, 2022 at 9:41 am ET\nSEO\nYouTube SEO: How to find the best traffic-generating keywords\nWant to increase the chances of your videos showing up in YouTube’s search results? Here's a keyword research process you can follow.\nSherry Bonelli | Dec 2, 2022 at 8:00 am ET\nPPC\nWhat it takes to be a subject matter expert in search marketing\nHaving subject matter expertise is valuable for digital marketers. Learn tips for navigating and growing your career as an SME.\nJason Tabeling | Dec 2, 2022 at 6:00 am ET\nPPC\nViews per Session and Average Session Duration now available in GA4\nAdvertisers should be aware that the difference in session counts between UA and GA4 can vary from business to business.\nNicole Farley | Dec 1, 2022 at 12:25 pm ET\nPPC\nGoogle is updating its Display and Video 360 Account Level Suspensions policy\nIf policy violations are detected, accounts may be suspended immediately and without prior warning.\nNicole Farley | Dec 1, 2022 at 9:05 am ET\nSEO\nIn-house vs. agency SEO work: The pros and cons\nLooking for a change in your SEO career? Can't decide between an in-house marketing or agency role? Here are the pros and cons to consider.\nJackie Chu | Dec 1, 2022 at 8:00 am ET\nPPC\nInstacart has launched Coupons and Stock Up & Save promotion campaigns in Ad Manager\nThousands of brands now have access to the new promotions that offer incentives and discounts to consumers.\nNicole Farley | Dec 1, 2022 at 7:50 am ET\n12345\n»\nATTEND OUR EVENTS\nLearn actionable search marketing tactics that can help you drive more traffic, leads, and revenue.\nStart Training Now: SMX Next\nMarch 15-16, 2023: SMX Munich\n\nDiscover time-saving technologies and actionable tactics that can help you overcome crucial marketing challenges.\nWEBINARS\nPutting in the Work: Understanding B2B Audiences on Connected TV\nDo More with Less: Connect Customer Data to Drive Marketing Efficiency\n5 Ways to Make Customer Experiences Drive Conversions & Revenue\nSEE MORE WEBINARS\nINTELLIGENCE REPORTS\nEnterprise Digital Events Platforms: A Marketer’s Guide\nEnterprise Marketing Performance Management Platforms: A Marketer’s Guide\nEnterprise Customer Journey Orchestration Platforms: A Marketer’s Guide\nSEE MORE INTELLIGENCE REPORTS\nFEATURED WHITE PAPER\nThe Ultimate Reputation Management Guide for Financial Services\nSEE MORE WHITEPAPERS\nSEARCH OUR SITE\nSEARCH\nReceive daily search news and analysis.\nSUBSCRIBE\nTOPICS\nSEO\nPPC\nPlatforms\nAll topics\nOUR EVENTS\nSearch Marketing Expo - SMX\nMarTech\nABOUT\nAbout us\nContact\nPrivacy\nTerms\nMarketing opportunities\nStaff\nFOLLOW US\nFacebook\nTwitter\nLinkedIn\nNewsletters\nRSS\nYoutube\n© 2022 Third Door Media, Inc. All rights reserved.",
+    "font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 147, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(33, 37, 41, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(33, 37, 41, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(33, 37, 41, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SUBSCRIBE",
+            "bg-color": "rgba(33, 37, 41, 1)",
+            "location": {
+                "x": 702,
+                "y": 731
+            },
+            "size": {
+                "height": 38,
+                "width": 266
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SEARCH",
+            "bg-color": "rgba(0, 147, 255, 1)",
+            "location": {
+                "x": 947,
+                "y": 2166
+            },
+            "size": {
+                "height": 36,
+                "width": 69
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 147, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SUBSCRIBE",
+            "bg-color": "rgba(0, 147, 255, 1)",
+            "location": {
+                "x": 798,
+                "y": 4951
+            },
+            "size": {
+                "height": 38,
+                "width": 187
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

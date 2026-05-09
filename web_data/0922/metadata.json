@@ -1,0 +1,48 @@
+{
+    "title": "Home - ECHO",
+    "url": "echonet.org",
+    "full_url": "https://echonet.org/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 504,
+                "y": 450
+            },
+            "size": {
+                "height": 115,
+                "width": 706
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            243,
+            234,
+            223
+        ],
+        [
+            243,
+            234,
+            222
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "ECHO has been equipping and empowering hungry families for over 30 years. We’ve impacted millions of lives by teaching small-scale, sustainable farming.",
+    "navbar": "ABOUT US\nVISIT ECHO\nCONTACT",
+    "text": "ABOUT US\nVISIT ECHO\nCONTACT\nOur Work\nMake an Impact\nLearn\nGIVE\nGIFT CATALOG\nHope Against\nHunger\nWHAT WE DO\n\nVISIT ECHO GLOBAL FARM\nGrow. Explore. Taste.\nExplore our lush tropical garden, experience our friendly farm animals and learn about ECHO’s mission to help families help themselves out of hunger and poverty.\nVISIT ECHO",
+    "font": "\"Avenir Next\", sans-serif",
+    "iframes": [],
+    "buttons": []
+}

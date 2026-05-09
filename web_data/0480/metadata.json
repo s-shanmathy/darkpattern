@@ -1,0 +1,579 @@
+{
+    "title": "Home Page",
+    "url": "fntg.com",
+    "full_url": "https://fntg.com/",
+    "images": [
+        {
+            "alt": "Click Here for COVID-19 Info",
+            "location": {
+                "x": 14,
+                "y": 0
+            },
+            "size": {
+                "height": 80,
+                "width": 980
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Header with FNTG Logo, a business woman, a commercial building, and family in front of a house",
+            "location": {
+                "x": 4,
+                "y": 81
+            },
+            "size": {
+                "height": 195,
+                "width": 1000
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Skip Navigation Links",
+            "location": {
+                "x": 4,
+                "y": 276
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Expand About FNTG",
+            "location": {
+                "x": 228,
+                "y": 286
+            },
+            "size": {
+                "height": 15,
+                "width": 25
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Expand Title Insurance",
+            "location": {
+                "x": 429,
+                "y": 286
+            },
+            "size": {
+                "height": 15,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Expand More Services",
+            "location": {
+                "x": 621,
+                "y": 286
+            },
+            "size": {
+                "height": 15,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Scroll up",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Scroll down",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Scroll up",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Scroll down",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Scroll up",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Scroll down",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Alamo Title Insurance Logo",
+            "location": {
+                "x": 38,
+                "y": 764
+            },
+            "size": {
+                "height": 75,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chicago Title Insurance Company Logo",
+            "location": {
+                "x": 232,
+                "y": 764
+            },
+            "size": {
+                "height": 75,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Other Services Logo",
+            "location": {
+                "x": 418,
+                "y": 764
+            },
+            "size": {
+                "height": 75,
+                "width": 178
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Home Warranty Logo",
+            "location": {
+                "x": 612,
+                "y": 775
+            },
+            "size": {
+                "height": 53,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Commonwealth Land Title Insurance Company Logo",
+            "location": {
+                "x": 38,
+                "y": 855
+            },
+            "size": {
+                "height": 75,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fidelity National Title Insurance Company Logo",
+            "location": {
+                "x": 232,
+                "y": 855
+            },
+            "size": {
+                "height": 75,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FRS Logo",
+            "location": {
+                "x": 418,
+                "y": 855
+            },
+            "size": {
+                "height": 75,
+                "width": 178
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IPX 1031 Logo",
+            "location": {
+                "x": 624,
+                "y": 869
+            },
+            "size": {
+                "height": 48,
+                "width": 95
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lawyers Title Logo",
+            "location": {
+                "x": 38,
+                "y": 954
+            },
+            "size": {
+                "height": 47,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ticor Title Logo",
+            "location": {
+                "x": 232,
+                "y": 952
+            },
+            "size": {
+                "height": 52,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fidelity National Timeshare Logo",
+            "location": {
+                "x": 432,
+                "y": 952
+            },
+            "size": {
+                "height": 51,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ServiceLink Logo",
+            "location": {
+                "x": 622,
+                "y": 963
+            },
+            "size": {
+                "height": 30,
+                "width": 100
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "National Title Insurance of New York, Inc.",
+            "location": {
+                "x": 38,
+                "y": 1034
+            },
+            "size": {
+                "height": 35,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FNTG National Agency Logo",
+            "location": {
+                "x": 241,
+                "y": 1039
+            },
+            "size": {
+                "height": 26,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UCCPlus Logo",
+            "location": {
+                "x": 420,
+                "y": 1014
+            },
+            "size": {
+                "height": 75,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "US Map Icon",
+            "location": {
+                "x": 838,
+                "y": 481
+            },
+            "size": {
+                "height": 76,
+                "width": 76
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Find An Office",
+            "location": {
+                "x": 809,
+                "y": 672
+            },
+            "size": {
+                "height": 30,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            194,
+            60,
+            67
+        ],
+        [
+            196,
+            214,
+            231
+        ]
+    ],
+    "text": "                                                                                                                                                         Home\nAbout FNTG\nTitle Insurance\nMore Services\nFind an Office\nCareers\nContact Us\nWelcome to Fidelity National Financial Title Group\n\nFidelity National Title Group is a member of the Fidelity National Financial (NYSE: FNF) family of companies and the nation’s largest group of title companies and title insurance underwriters - Chicago Title Insurance Company, Commonwealth Land Title Insurance Company, Fidelity National Title Insurance Company, Alamo Title Insurance, Lawyers Title, and Ticor Title - that collectively issue more title insurance policies than any other title company in the United States.\n  Rate Calculators\nNATIONAL RATE CALCULATOR\nThe National Rate Calculator provides Title Insurance Rates only. Lenders and other customers obtaining quotes for loan estimates and/or title and settlement rates must use the Title & Settlement Rate Quote calculator.\n\nOnline quotes are not available for IA, IL, IN, KS, MO and OK.\n\nRateCalculator.FNF.com\nTITLE & SETTLEMENT RATE QUOTE CALCULATOR\nIf you are a Real Estate professional or Lender and do NOT require a customized quote, then please click the Access Public Rate Calculator link to use our Public Rate Calculator.\n\nRates.FNTG.com\n\nTitle Insurance\nMore Services\n  FNF STOCK\n$37.39 ( TICKER: FNF )\n\n  OFFICE LOCATOR\nNo matter what you need, we're here to help! \n\nGet contact info, locations, services offered and much more.\n\n \nNEWS\n07/19/2022\nFidelity National Financial Announces Second Quarter 2022 Earnings Release and Conference Call\n\n06/01/2022\nFidelity National Financial Releases 2021 Sustainability Report and Launches Sustainability Webpage\n\nMore News...\n\n \n\nNOTICES\nBEWARE: Unauthorized Escrow Websites\n\nCompliance Notification to All Employees and Agents\n\n \nFidelity National Title Group We’ve Got You Covered.\nCopyright 2022 Fidelity National Title Group. All Rights Reserved. Privacy    |     Webmaster    |     California Privacy    |     Terms of Use    |     Accessibility    ",
+    "font": "Verdana",
+    "iframes": [],
+    "buttons": []
+}

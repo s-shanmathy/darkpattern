@@ -1,0 +1,98 @@
+{
+    "title": "RubyGems.org | your community gem host",
+    "url": "rubygems.org",
+    "full_url": "https://rubygems.org/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Search Gems…",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search Gems…\nAdvanced Search",
+            "type": "search",
+            "location": {
+                "x": 122,
+                "y": 302
+            },
+            "size": {
+                "height": 41,
+                "width": 780
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search Gems…\nAdvanced Search",
+            "type": "submit",
+            "location": {
+                "x": 862,
+                "y": 312
+            },
+            "size": {
+                "height": 20,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            216,
+            97,
+            73
+        ],
+        [
+            21,
+            28,
+            33
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "navbar": "RELEASES BLOG GEMS GUIDES SIGN IN SIGN UP",
+    "text": "⬢\nRubyGems\nRELEASES BLOG GEMS GUIDES SIGN IN SIGN UP\nFind, install, and publish RubyGems.\nSearch Gems…\nAdvanced Search\n121,046,860,402\nDOWNLOADS & COUNTING\nInstall RubyGems\nSTATUS\nUPTIME\nSTATUS\nUPTIME\nCODE\nDATA\nDISCUSS\nSTATS\nCONTRIBUTE\nABOUT\nHELP\nAPI\nSECURITY\nMAINTAINERS WANTED\nRubyGems.org is the Ruby community’s gem hosting service. Instantly publish your gems and then install them. Use the API to find out more about available gems. Become a contributor and improve the site yourself.\nRubyGems.org is made possible through a partnership with the greater Ruby community. Fastly provides bandwidth and CDN support, Ruby Central covers infrastructure costs, and Ruby Together funds ongoing development and ops work. Learn more about our sponsors and how they work together.\nWe need your help to fund the developer time that keeps RubyGems.org running smoothly for everyone. Join Ruby Together today.\nSupported by\nRuby Central\nSupported by\nRuby Together\nDesigned by\nDockYard\nResolved with\nDNSimple\nOptimized by\nNew Relic\nMonitored by\nDatadog\nMonitored by\nRunscope\nGems served by\nFastly\nMonitored by\nHoneybadger\nVerified by\nDomainr\nSecured by\nWhitesource\nENGLISH\nNEDERLANDS\n简体中文\n正體中文\nPORTUGUÊS DO BRASIL\nFRANÇAIS\nESPAÑOL\nDEUTSCH\n日本語",
+    "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

@@ -1,0 +1,64 @@
+{
+    "title": "WikiLeaks",
+    "url": "wikileaks.org",
+    "full_url": "https://wikileaks.org/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Search Keywords",
+            "type": "text",
+            "location": {
+                "x": 199,
+                "y": 138
+            },
+            "size": {
+                "height": 54,
+                "width": 612
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            247,
+            247,
+            247
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "navbar": "Intelligence Global Economy International Politics Corporations Government War & Military",
+    "text": "Intelligence Global Economy International Politics Corporations Government War & Military\nFeatured\nThe Intolerance Network\nToday, 5th August 2021, WikiLeaks publishes \"The Intolerance Network\" over 17,000 documents from internationally active right wing campaigning organisations HazteOir and CitizenGO.\n05 August 2021\nCustom Search\nFishrot\nToday, November 12, WikiLeaks publishes over 30000 documents from SAMHERJI\n12 November 2019\nOPCW Douma\nToday, October 23, WikiLeaks publishes a statement made by a panel that listened to testimony and reviewed evidence from a whistleblower from the OPCW (update)\n23 October 2019\nPope's Orders\nToday, January 30th WikiLeaks publishes a set of documents from the Catholic Church, shedding light on the power struggle within highest offices\n30 January 2019\nUS Embassy Shopping List\nToday, 21 December 2018, WikiLeaks publishes a searchable database of more than 16,000 procurement requests posted by United States embassies around the world.\n21 December 2018\nAmazon Atlas\nToday, 11 Oct 2018, WikiLeaks publishes a highly confidential internal document from the cloud computing provider Amazon.\n11 October 2018\nDealmaker: Al Yousef\nToday, 28 September 2018, WikiLeaks releases a secret document from the ICC portaining a dispute over commission payment in relation to $3.6B arms deal\n28 September 2018",
+    "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 779,
+                "y": 149
+            },
+            "size": {
+                "height": 23,
+                "width": 22
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

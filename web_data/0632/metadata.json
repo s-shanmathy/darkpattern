@@ -1,0 +1,2084 @@
+{
+    "title": "Safeopedia - Empowering the workplace with free health and safety info",
+    "url": "safeopedia.com",
+    "full_url": "https://www.safeopedia.com/",
+    "images": [
+        {
+            "alt": "Menu Toggler",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Safeopedia Logo",
+            "location": {
+                "x": 26,
+                "y": 128
+            },
+            "size": {
+                "height": 31,
+                "width": 174
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for WIS Show: Step it up! Supporting the LGBTQS2+ in the workplace",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Meet the Author with Andrew Blain",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Meet the Author with Dr. Ian Snape",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for WIS Show: The Progression of Women in Safety Panel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Are Heat Edemas a Safety Issue?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Manage Heat Stress in Open Pit Mining Operations",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Handle Heat Stress on the Construction Site",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Electrolytes: What They Are and Why They Matter for On-the-Job Hydration",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for A Primer on the Noise Reduction Rating (NRR)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Safety Benefits of Using Sound Masking in the Office",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Protecting Your Hearing on the Job: The 5 Principles of Hearing Protection",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Safety Talks #5 - Noise Exposure: Evolving Legislation and Recent Court Actions with Andrew McNeil",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 4 Solutions to Eliminate Arc Flash Hazards in the Workplace",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 5 Leading Electrical Hazards and How to Avoid Them",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for The Dangers of Gas in a Confined Space",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 7 Things to Consider Before Entering a Confined Space",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Are Workplace Risks Hiding in Plain Sight?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Properly Measure Contractor Engagement",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Measuring Actions (Not Documents) for Better Trade Partner Engagement",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 7 Supply Chain Risks You Need to Anticipate and Manage",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 6 Jobs That Call for Disposable Clothing",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for The 3 Key Classes of Safety Visibility Apparel (And When to Use Them)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Work Boots and Shoes Specifically Designed for Women Matter - Here's Why",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Staying Safe from Head to Toe: Complete Arc Flash Protection",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Select the Right Hand Protection for Chemical Hazards",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Cut-Resistant Leather Gloves: How to Choose What's Best for You",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Safety Glove Materials: What They Mean and What to Look For",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Hand Safety at Work Starts in Your Head",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 6 Jobs That Call for Disposable Clothing",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Protective Clothing for Agricultural Workers and Pesticide Handlers",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Stay Safe When Spray Painting and Coating",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Detecting, Sampling, and Measuring Silica on Your Job Site",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for An Overview of Self-Retracting Fall Protection Devices",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Buy the Right Safety Harness for Your Job",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Put Together a Safety Program for Working at Heights",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 4 Steps to Calculating Fall Arrest Distance",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Select the Right Respirator for Confined Space Work",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Safely Rescue Someone from a Confined Space",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Creating a Confined Space Rescue Plan: Every Step You Need",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for The Equipment You Need for a Confined Space Rescue",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Safe Work Practices and Safe Job Procedures: What's the Difference?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for A Primer on Administrative Controls",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for QUIZ: Safety Leadership Skills",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Properly Measure Contractor Engagement",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Driving Safety with Kindness",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 5 Ways to Empower Frontline Workers and Improve Industrial Safety",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for What It Really Means to Empower Workers",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Use Social Media to Boost your Organization's Safety Culture",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Stay Safe from Welding Fumes and Gases",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for How to Select the Right Respirator for Confined Space Work",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for A Primer on the Noise Reduction Rating (NRR)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for 6 Jobs That Call for Disposable Clothing",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Everything You Need to Know About Safety Data Sheets",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Which Type of HAZWOPER Training Do Your Workers Need?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for A Primer on the Noise Reduction Rating (NRR)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Addressing Safety Challenges in Clean Room Environments",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Search Icon",
+            "location": {
+                "x": 815,
+                "y": 131
+            },
+            "size": {
+                "height": 6,
+                "width": 6
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "YouTube",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "LinkedIn",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "YouTube",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Search Icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Search Icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Sign Blindness Is Real - Here's What You Can Do About It",
+            "location": {
+                "x": 30,
+                "y": 246
+            },
+            "size": {
+                "height": 413,
+                "width": 465
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for Daniel Clark",
+            "location": {
+                "x": 50,
+                "y": 600
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for Safe Work Practices and Safe Job Procedures: What's the Difference?",
+            "location": {
+                "x": 514,
+                "y": 246
+            },
+            "size": {
+                "height": 90,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for A Primer on Administrative Controls",
+            "location": {
+                "x": 514,
+                "y": 382
+            },
+            "size": {
+                "height": 90,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for Are Workplace Risks Hiding in Plain Sight?",
+            "location": {
+                "x": 514,
+                "y": 505
+            },
+            "size": {
+                "height": 90,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Icon for Popular",
+            "location": {
+                "x": 332,
+                "y": 715
+            },
+            "size": {
+                "height": 23,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo of Jessica Barrett",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Photo of Catheline Fontaine",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Photo of Bart Briggs, CSP",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Photo of Karoly Ban Matei",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Photo of Steve Theunissen",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Photo of Gary Melrose",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Image for Are Heat Edemas a Safety Issue?",
+            "location": {
+                "x": 10,
+                "y": 1386
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for How to Stay Safe from Welding Fumes and Gases",
+            "location": {
+                "x": 10,
+                "y": 1633
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for 6 Common Workplace Chemicals (And How to Handle Them Safely)",
+            "location": {
+                "x": 10,
+                "y": 1880
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for Driving Safety with Kindness",
+            "location": {
+                "x": 10,
+                "y": 2162
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for QUIZ: Safety Leadership Skills",
+            "location": {
+                "x": 10,
+                "y": 2603
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for Last Minute Seats Are Still Available for the 2022 EHS Congress",
+            "location": {
+                "x": 10,
+                "y": 2850
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for EHS Congress 2022 Is Taking Place in Berlin on September 13 - 14",
+            "location": {
+                "x": 10,
+                "y": 3132
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for 5 Ways to Empower Frontline Workers and Improve Industrial Safety",
+            "location": {
+                "x": 10,
+                "y": 3414
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for First Aid for Chemical Exposure Incidents",
+            "location": {
+                "x": 10,
+                "y": 3825
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for What It Really Means to Empower Workers",
+            "location": {
+                "x": 10,
+                "y": 4096
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for Certifications vs. Certificates: What's the Difference?",
+            "location": {
+                "x": 10,
+                "y": 4343
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for Everything You Need to Know About Safety Data Sheets",
+            "location": {
+                "x": 10,
+                "y": 4614
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for WIS Show: Step it up! Supporting the LGBTQS2+ in the workplace",
+            "location": {
+                "x": 10,
+                "y": 5047
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for Meet the Author with Andrew Blain",
+            "location": {
+                "x": 10,
+                "y": 5329
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image for How to Select the Right Respirator for Confined Space Work",
+            "location": {
+                "x": 10,
+                "y": 5576
+            },
+            "size": {
+                "height": 200,
+                "width": 350
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow us on Facebook",
+            "location": {
+                "x": 580,
+                "y": 6946
+            },
+            "size": {
+                "height": 80,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow us on Twitter",
+            "location": {
+                "x": 760,
+                "y": 6946
+            },
+            "size": {
+                "height": 80,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow us on LinkedIn",
+            "location": {
+                "x": 580,
+                "y": 7026
+            },
+            "size": {
+                "height": 80,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow us on YouTube",
+            "location": {
+                "x": 760,
+                "y": 7026
+            },
+            "size": {
+                "height": 80,
+                "width": 174
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo of Bryan McWhorter",
+            "location": {
+                "x": 93,
+                "y": 7366
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo of Karoly Ban Matei",
+            "location": {
+                "x": 429,
+                "y": 7366
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo of Daniel Clark",
+            "location": {
+                "x": 766,
+                "y": 7366
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Safeopedia Logo",
+            "location": {
+                "x": 10,
+                "y": 8382
+            },
+            "size": {
+                "height": 42,
+                "width": 232
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow us on Facebook",
+            "location": {
+                "x": 514,
+                "y": 8422
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow us on Twitter",
+            "location": {
+                "x": 566,
+                "y": 8422
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow us on LinkedIn",
+            "location": {
+                "x": 514,
+                "y": 8460
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow us on YouTube",
+            "location": {
+                "x": 566,
+                "y": 8460
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Janalta Logo",
+            "location": {
+                "x": 430,
+                "y": 8977
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Go back to top",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Email Address",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email Address",
+            "type": "text",
+            "location": {
+                "x": 800,
+                "y": 2805
+            },
+            "size": {
+                "height": 38,
+                "width": 166
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email Address",
+            "type": "text",
+            "location": {
+                "x": 10,
+                "y": 7018
+            },
+            "size": {
+                "height": 38,
+                "width": 381
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email Address",
+            "type": "text",
+            "location": {
+                "x": 683,
+                "y": 8422
+            },
+            "size": {
+                "height": 38,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            96,
+            102,
+            114
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "A comprehensive online resource for safety professionals and decision makers. Let’s make workplaces safer!",
+    "navbar": "Dictionary\nTopics\nWebinars\nGuides\nResources\nPodcasts\nAD Safety Network\nFollow\nMore",
+    "text": "Dictionary\nTopics\nWebinars\nGuides\nResources\nPodcasts\nAD Safety Network\nFollow\nMore\nSAFETY SIGNS\nSign Blindness Is Real - Here's What You Can Do About It\nSign, sign - everywhere a sign.Signage is used on nearly every worksite as a way of capturing attention and alerting people to something important. But have you ever...\nBy: Daniel Clark\nEHS PROGRAMS\nSafe Work Practices and Safe Job Procedures: What's the Difference?\nBy: Karoly Ban Matei | HR and Safety Manager\nEHS PROGRAMS\nA Primer on Administrative Controls\nBy: Daniel Clark\nHAZARDS\nAre Workplace Risks Hiding in Plain Sight?\nBy: Safeopedia Staff\nPopular on Safeopedia\nTerms\nArticles\nQ&A\nEHS PROGRAMS\nOccupational Health and Safety\nOccupational health and safety (OHS) is a branch of public health aimed at improving workplace health and safety standards. It studies injury and illness trends in the worker population and offers suggestions for mitigating the risks and hazards they encounter on the job.Every occupation has health...\nView Full Term\nEHS PROGRAMS\nLeave of Absence\nA leave of absence (LOA) is time off from work that has been authorized by the employer. During this period the employee is not undertaking their job tasks but retains their status as an employee. They may or may not continue to receive paychecks and employee benefits depending on the employer'...\nView Full Term\nEDUCATION\nPull Factors\nA pull factor is a motivating cause that attracts a person to migrate to another region or country.Common pull factors include:Employment opportunitiesHigher incomeBetter working conditions and facilitiesEducational opportunitiesHigher living standardsBetter public servicesReligious freedomFreedom...\nView Full Term\nLatest Articles\nHAZARDS\nAre Heat Edemas a Safety Issue?\nAnyone working in hot environments is at risk of developing a series of heat-related illnesses.Indoor work conditions are more predictable and not likely to change...\nBy: Karoly Ban Matei | HR and Safety Manager\nHAZMAT\nHow to Stay Safe from Welding Fumes and Gases\nOpen flames, sparks, and high heat may be some of the most visible hazards in the welding process, but welding also comes with respiratory hazards that need to be taken...\nBy: Karoly Ban Matei | HR and Safety Manager\nHAZMAT\n6 Common Workplace Chemicals (And How to Handle Them Safely)\nNearly every workplace stocks and makes use of chemicals, from the cleaning solutions kept under the washroom sink to the products used in industrial processes.What...\nBy: Daniel Clark\nLEADERSHIP\nDriving Safety with Kindness\n“Many communicate, but few connect” - John MaxwellKindness is not only a prerequisite for safety - it's at the core of it.Psychological safety must be...\nBy: Bryan McWhorter | Lead Safety Advisor, Author, Writer, Speaker\nAdvertisement\nLEADERSHIP\nQUIZ: Safety Leadership Skills\nBeing a strong safety leader requires more than just demonstrating actions that are aligned with the value of safety. It also requires working with employees across...\nBy: Safeopedia Staff\nSAFETY ASSOCIATIONS\nLast Minute Seats Are Still Available for the 2022 EHS Congress\nThe EHS Congress is an annual, two-day powerhouse event bringing together senior health and safety executives from across Europe. This year's Congress will be held...\nBy: Aron Tozser\nLEADERSHIP\nEHS Congress 2022 Is Taking Place in Berlin on September 13 - 14\n2022 marks the 5th Annual EHS Congress. Returning to the heart of Europe, the flagship savety event will once again be held in Berlin on September 13-14. It's an...\nBy: Aron Tozser\nSAFETY SOFTWARE\n5 Ways to Empower Frontline Workers and Improve Industrial Safety\nKeeping frontline workers engaged with safety is a tricky business.Tech can be effective, but there has long been a digital divide in the workplace. Software solutions...\nBy: Daniel Clark\nAdvertisement\nFIRST AID\nFirst Aid for Chemical Exposure Incidents\nIn a perfect world, implementing hazard controls would be sufficient to keep all workers safe from harmful chemicals. In reality, however, an unplanned chemical event is...\nBy: Karoly Ban Matei | HR and Safety Manager\nSAFETY CULTURE\nWhat It Really Means to Empower Workers\nSafety is everyone's responsibility.Right?Sure, it makes a great slogan, but it can ring a bit hollow. After all, employees and management don't just have a...\nBy: Daniel Clark\nSAFETY CERTIFICATIONS\nCertifications vs. Certificates: What's the Difference?\nAccording to the Bureau of Labor Statistics' Occupational Outlook Handbook, the workplace safety profession's current growth rate is around 7%. With each passing...\nBy: Pete Nemmers, CSM | Director of Training Development\nHAZMAT\nEverything You Need to Know About Safety Data Sheets\nChemical substances are common in practically every workplace. Managing them can be complex, since they come in endless varieties. You've got those that clean, those...\nBy: Daniel Clark\nAdvertisement\nSAFEOPEDIA PODCASTS\nWIS Show: Step it up! Supporting the LGBTQS2+ in the workplace\nJoin in the discussion as Amandeep Beesla of SALUS and Tamara Parris \"Stepping It Up\" in this conversation with Jag Nagra and Javier Vargas to open a candid...\nBy: Tamara Parris\nSAFEOPEDIA PODCASTS\nMeet the Author with Andrew Blain\nJoin us for a collaborative session on Meet the Author with Andrew Blain as we discuss \"Remote Agile Framework\", a framework for remote and hybrid enterprises...\nBy: Tamara Parris\nPPE\nHow to Select the Right Respirator for Confined Space Work\nIn 2021, three workers in the Bahamas entered a metal storage tank to perform a routine cleaning task. The first to enter the space was quickly overcome by the hazardous...\nBy: Daniel Clark\nView More Articles\nAdvertisement\nTERM OF THE DAY\nExplosive (Flammable) Limits\nThe minimum concentration of a certain combustible gas or vapor necessary for it to combust in air is defined as the Lower...\nRead Full Term\nAdvertisement\nLet's Make Workplaces Safer!\nSubscribe to the Safeopedia newsletter to stay on top of current industry trends and up-to-date know-how from subject matter authorities. Our comprehensive online resources are dedicated to safety professionals and decision makers like you.\nSign up\nLatest Q&As\nWhat type of clothing should be worn inside a clean room?\nBy: Henry Skjerven\nWhat are the most common toxic gases in confined spaces?\nBy: Bob Henderson | President\nWhat is the best kind of gas detector to use in confined spaces?\nBy: Chad Schmidt | Business Development Manager - Western Canada\nCan I use regular detergent to clean FR clothing?\nBy: Karoly Ban Matei | HR and Safety Manager\nWhat risks need to be considered when rescuing someone from a confined space?\nBy: Steve Prentice\nAdvertisement\nResources\nThe Need for Strategic Risk Management\nZero Incidents, Zero Accidents:\nThe ROI of Streamlined Contractor Qualification and Management\nUsing Technology to Empower Frontline Workers\nHow to Hire and Build and Effective Safety Team\nMinimize Incidents & Injuries at the Workplace\nHow to Fulfill the Regulatory Demands for Occupational Safety\nLet's Make Workplaces Safer!\nSubscribe to the Safeopedia newsletter to stay on top of current industry trends and up-to-date know-how from subject matter authorities. Our comprehensive online resources are dedicated to safety professionals and decision makers like you.\nSubscribe\nBy clicking sign up, you agree to receive emails from Safeopedia and agree to our terms of use and privacy policy.\nFollow Us on Our Social Media\nFollow us on social to stay up to date with everything Safeopedia and the latest news you must know!\n\nMeet Our Experts\nBryan McWhorter\nLead Safety Advisor, Author, Writer, Speaker\nBryan McWhorter is a safety professional with eight years of experience in driving and teaching safety. Bryan gained his knowledge and experience as the safety officer and Senior Trainer for Philips Lighting. Philips is a strong health and well-being company that promotes a safety first culture.\nLATEST ARTICLE\nVideo Q&A - What if you’re not sure if a roof can support you?\nKaroly Ban Matei\nHR and Safety Manager\nKaroly has worked at a senior level (both as an employee and a contractor) for organizations in the construction and manufacturing industries. He has a passion for developing and improving health and safety programs.\nLATEST ARTICLE\nCan I use regular detergent to clean FR clothing?\nDaniel Clark\n  Daniel Clark is the founder and President of Clark Health and Safety Ltd., providing safety and quality consultation across various industries in Calgary, Alberta. Daniel has a Bachelor of Science degree, certification in health and safety, certificates in both CAD design and CNC, auditing certifications and the designation of Canadian Registered Safety Professional. Being raised and practicing in Calgary, the heart of Canada’s energy industry, most of Daniel’s career has been energy related. He has performed safety and quality roles from field supervision to office-based administration and management. Daniel’s consulting business has worked with organizations offering engineering services, restoration, pipeline, environmental, manufacturing and food service.\nLATEST ARTICLE\nDo I really need electrolyte drinks to stay hydrated on the job?\nView All of Our Experts\nWrite for Us\nSafeopedia provides a platform for EHS professionals to learn, collaborate, have access to FREE content, and feel supported. PUBLICATON + AGENCY + EXISTING GLOBAL AUDIENCE + SAFETY\nCopyright © 2022 Safeopedia Inc. - Terms of Use - Privacy Policy - Editorial Review Policy\nCookie Settings\nDictionary\nTopics\nWebinars\nQ&A\nGuides\nSoftware\nAD Safety Network\nMeeting Topics\nPodcasts\nAbout\nContributors\nAdvertising Info\nWrite for Us\nContact Us\nSitemap\nFollow Us\nSubscribe To Our Newsletter\nSubscribe\nBy clicking sign up, you agree to receive emails from Safeopedia and agree to our Terms of Use & Privacy Policy.\nSafeopedia Terms\n#\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\nK\nL\nM\nN\nO\nP\nQ\nR\nS\nT\nU\nV\nW\nX\nY\nZ\nSafeopedia is a part of Janalta Interactive.",
+    "font": "Verdana, sans-serif",
+    "iframes": [
+        {
+            "title": "Sumo Hidden Content",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 28,
+                "width": 49
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Follow",
+            "bg-color": "rgba(168, 218, 220, 1)",
+            "location": {
+                "x": 827,
+                "y": 124
+            },
+            "size": {
+                "height": 40,
+                "width": 76
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(168, 218, 220, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(47, 101, 170, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Sign up",
+            "bg-color": "rgba(168, 218, 220, 1)",
+            "location": {
+                "x": 800,
+                "y": 2859
+            },
+            "size": {
+                "height": 38,
+                "width": 87
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Subscribe",
+            "bg-color": "rgba(47, 101, 170, 1)",
+            "location": {
+                "x": 390,
+                "y": 7018
+            },
+            "size": {
+                "height": 38,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Cookie Settings",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 8784
+            },
+            "size": {
+                "height": 31,
+                "width": 128
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Subscribe",
+            "bg-color": "rgba(47, 101, 170, 1)",
+            "location": {
+                "x": 895,
+                "y": 8422
+            },
+            "size": {
+                "height": 38,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 249, 254, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

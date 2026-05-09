@@ -1,0 +1,287 @@
+{
+    "title": "PlanetWare - Travel Guides by the Experts",
+    "url": "planetware.com",
+    "full_url": "https://www.planetware.com/",
+    "images": [
+        {
+            "alt": "PlanetWare.com",
+            "location": {
+                "x": 30,
+                "y": 0
+            },
+            "size": {
+                "height": 48,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "California Travel Guide",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "England Travel Guide",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Morocco Travel Guide",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Turkey Travel Guide",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "11 Top-Rated Things to Do in Frankenmuth, MI",
+            "location": {
+                "x": 0,
+                "y": 1037
+            },
+            "size": {
+                "height": 168,
+                "width": 252
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "16 Top-Rated Things to Do in Upstate New York",
+            "location": {
+                "x": 252,
+                "y": 1037
+            },
+            "size": {
+                "height": 168,
+                "width": 252
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "13 Top-Rated Things to Do in Bethlehem, PA",
+            "location": {
+                "x": 504,
+                "y": 1037
+            },
+            "size": {
+                "height": 168,
+                "width": 252
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "12 Top-Rated Things to Do in Yorkshire",
+            "location": {
+                "x": 757,
+                "y": 1037
+            },
+            "size": {
+                "height": 168,
+                "width": 252
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "25 Top-Rated Things to Do in Bali",
+            "location": {
+                "x": 0,
+                "y": 1205
+            },
+            "size": {
+                "height": 168,
+                "width": 252
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "15 Top-Rated Things to Do in Ogunquit, ME",
+            "location": {
+                "x": 252,
+                "y": 1205
+            },
+            "size": {
+                "height": 168,
+                "width": 252
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "11 Top-Rated Things to Do in Chichester, West Sussex",
+            "location": {
+                "x": 504,
+                "y": 1205
+            },
+            "size": {
+                "height": 168,
+                "width": 252
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "11 Top-Rated Things to Do in La Paz",
+            "location": {
+                "x": 757,
+                "y": 1205
+            },
+            "size": {
+                "height": 168,
+                "width": 252
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PlanetWare Logo",
+            "location": {
+                "x": 404,
+                "y": 2066
+            },
+            "size": {
+                "height": 44,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            51,
+            51,
+            51
+        ],
+        [
+            46,
+            153,
+            216
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "text": "Travel Guides by the Experts\nSee the world with PlanetWare and create extraordinary adventures.\nFEATURED ARTICLES\nBEST WATERFALLS NEAR PORTLAND, OREGON\nFrom Multnomah Falls to Shepperd's Dell Falls, these misty cascades are a short hop from the city.\nARIZONA'S BEST NATIONAL PARKS & MONUMENTS\nGo wild in the state's rocky canyons and rare desert ecosystems.\nTHE SUNSHINE COAST'S BEST BEACHES\nDiscover some of Australia's best beaches on the Sunshine Coast.\nPlan your travels with PlanetWare and our dedicated group of travel writers who offer their ideas on where to go, what to see, and tips for making the most of your trip. Our experienced writers are based all over the globe and provide their insight to help you create your own extraordinary adventures. Discover the top attractions in destinations around the world, along with maps, and beautiful photos to inspire great ideas.\nRecent Articles\n11 Top-Rated Things to Do in Frankenmuth, MI\n16 Top-Rated Things to Do in Upstate New York\n13 Top-Rated Things to Do in Bethlehem, PA\n12 Top-Rated Things to Do in Yorkshire\n25 Top-Rated Things to Do in Bali\n15 Top-Rated Things to Do in Ogunquit, ME\n11 Top-Rated Things to Do in Chichester, West Sussex\n11 Top-Rated Things to Do in La Paz\nAttractions in Popular Destinations\nEUROPE\nAustria\nBelgium\nDenmark\nEngland\nFrance\nGermany\nGreece\nIreland\nItaly\nNetherlands\nNorway\nPortugal\nScotland\nSpain\nSweden\nSwitzerland\nAmsterdam\nAthens\nBarcelona\nBerlin\nBrussels\nFlorence\nLisbon\nLondon\nMadrid\nParis\nPrague\nRome\nSeville\nVenice\nVienna\nZurich\nNORTH AMERICA\nBoston\nChicago\nDallas\nLos Angeles\nMiami\nMontreal\nNew York City\nOrlando\nPhiladelphia\nSan Diego\nSan Francisco\nSeattle\nToronto\nVancouver\nWashington\nCalifornia\nColorado\nCanada\nArizona\nFlorida\nTexas\nUSA\nASIA & PACIFIC\nAustralia\nChina\nIndia\nJapan\nNew Zealand\nThailand\nTurkey\nBangkok\nDelhi\nSydney\nTokyo\nMIDDLE EAST & AFRICA\nEgypt\nKenya\nMorocco\nSouth Africa\nCairo\nCape Town\nDubai\nCARIBBEAN\nBahamas\nCuba\nDominican Republic\nJamaica\nPuerto Rico\nCENTRAL & SOUTH AMERICA\nCosta Rica\nPeru\nAbout Us Contact Us Advertise Attraction POI Data Licensing Sitemap Legal & Privacy Magazine\n© Copyright 2022 PlanetWare Inc. All rights reserved.\nUnauthorized duplication in part or whole without prior written consent prohibited by international laws.",
+    "font": "sans-serif",
+    "buttons": []
+}

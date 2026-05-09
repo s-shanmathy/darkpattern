@@ -1,0 +1,81 @@
+{
+    "title": "KisselKar Klub",
+    "url": "kisselkar.net",
+    "full_url": "https://kisselkar.net/",
+    "images": [
+        {
+            "alt": "KisselKar Klub",
+            "location": {
+                "x": 480,
+                "y": 35
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            221,
+            229,
+            226
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "navbar": "KISSELKAR KLUB\nAbout\nArticles\nEvents\nForum\nGallery\nHome\nLinks\nMembers\nWhat’S New",
+    "text": "Skip to content\nKISSELKAR KLUB\nAbout\nArticles\nEvents\nForum\nGallery\nHome\nLinks\nMembers\nWhat’S New\nHome\nKisselKar Klub\nNews\nKissel Meet 2023 is planned for June 9-11, 2023, in Hartford, Wisconsin. Follow the link for more information. (2022-11-05)\nYou have found the internet home of the KisselKar Klub.\nWe are dedicated to the preservation of the vehicles and history of the Kissel Motor Car Company of Hartford, Wisconsin, USA.\nIf you have visited this site before, you may want to know What’s New.\nIf this is your first visit, you may wish to follow these links for…\nInformation About the KisselKar Klub and the Kissel Motor Car Company\nA Gallery of selected Kissel vehicles\nA brief history of the Kissel Motor Car Company\nKissel automobile offerings by year\nSelected Articles about Kissel\nLinks to other Kissel information on the web\nAll Rights Reserved 2022.\nProudly powered by WordPress | Theme: Fairy by Candid Themes.",
+    "font": "Montserrat",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(209, 0, 20, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 35,
+                "width": 45
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(209, 0, 20, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 37,
+                "width": 55
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

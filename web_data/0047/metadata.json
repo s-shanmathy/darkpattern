@@ -1,0 +1,818 @@
+{
+    "title": "DGS -Gymnastics Grips, Gymnastics Mats, Gymnastics Equipment, Gymnastics Apparel",
+    "url": "gymsupply.com",
+    "full_url": "https://www.gymsupply.com/",
+    "images": [
+        {
+            "alt": "logo",
+            "location": {
+                "x": 0,
+                "y": 22
+            },
+            "size": {
+                "height": 94,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cart",
+            "location": {
+                "x": 1212,
+                "y": 37
+            },
+            "size": {
+                "height": 21,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 0,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "About Us",
+            "location": {
+                "x": 76,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 78
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Contact Us",
+            "location": {
+                "x": 154,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 93
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "My Account",
+            "location": {
+                "x": 247,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 94
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "View Cart/Checkout",
+            "location": {
+                "x": 341,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Search",
+            "location": {
+                "x": 1164,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 55
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Browse Categories",
+            "location": {
+                "x": 0,
+                "y": 274
+            },
+            "size": {
+                "height": 25,
+                "width": 201
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Links",
+            "location": {
+                "x": 0,
+                "y": 540
+            },
+            "size": {
+                "height": 25,
+                "width": 201
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Browse by Manufacturer",
+            "location": {
+                "x": 0,
+                "y": 656
+            },
+            "size": {
+                "height": 25,
+                "width": 201
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rip Guards 50% OFF",
+            "location": {
+                "x": 238,
+                "y": 159
+            },
+            "size": {
+                "height": 250,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Links",
+            "location": {
+                "x": 1076,
+                "y": 448
+            },
+            "size": {
+                "height": 25,
+                "width": 230
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 1219,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email",
+            "type": "text",
+            "location": {
+                "x": 1091,
+                "y": 294
+            },
+            "size": {
+                "height": 40,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Name",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 1094,
+                "y": 354
+            },
+            "size": {
+                "height": 40,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 22,
+                "width": 147
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 22,
+                "width": 147
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            232,
+            25,
+            37
+        ],
+        [
+            55,
+            93,
+            163
+        ]
+    ],
+    "desc": "Deary's Gymnastics Supply,  and Gymsupply.com is a company built on gymnastics customer service first and everything else after. DGS handles each customer, a parent and their child athlete with their gymnastics needs or the owner of the largest gymnastics school all get the same attention to detail. As we Strive For perfection with our gymnastics  customer service.  We sell gymnastics equipment and supplies and we are your full service gymnastics specialists.   ",
+    "navbar": "",
+    "text": "Place your order in time for the holidays! Click Here to learn more.\nitems in my cart: 0\ncurrent subtotal: $0.00\nview cart | checkout\n(800)932-3339\n(860)779-0825 - International\ninfo@gymsupply.com \n\n17 Lucienne Ave \nDanielson, CT 06239\nGymnastics Equipment\nGymnastics Grips\nChalk\nHome Use\nTraining Aids\nSports Medicine\nApparel & Accessories\nNastia Liukin Line\nPreschool\nCheerleading\nNinja\nParkour\nHolidays\nClearance\nDemo Equipment\nUsed Equipment\n          Select ...\n111 Obstacles\n4 Arm Strong\nAAI\nActiveWrap\nAdvisor Tactical\nAir Track\nAsher Athletic\nBadger Balm\nBailie\nBarnBuilt\nBest Sanitizers\nBlack Diamond\nBleyer\nBling Bands\nBody Sport\nCafe Press\nCaptain Sports\nCarolina Gym Supply\nChampion Sports\nCharm It\nCho Pat\nCover All\nCramer Products Inc.\nCurly Girlz\nDesigns by Margarita\nDGS\nDGS Ninja\nDollamur\nDuonamic\nDynasol\nEnglish Bulldog\nEnvirolite\nEverlast Climbing Industries\nFastFluff\nFEAT\nFenner\nFlag House\nFlex Disc\nGibbon\nGibson Athletic\nGinnasta USA\nGK Elite\nGlobal Truss\nGrips Etc\nGym Smarts\nGym Trix\nGymnastX\nGymnova\nHalco USA\nHand-e Balm\nHedstrom Fitness\nHelios\nHonav USA, Inc\nJaegerssport\nJAMMAR\nJanssen Fritzen\nKee Safety\nKinesia\nKT Tape\nMagical Ninjas\nMakerCraft\nMancino\nMassage Tracker\nMidwest Gym Supply\nMoluk\nMonstro\nMotionwear\nMy Happy Dance\nNastia Liukin\nNorbert's Athletic Products, Inc.\nNRS\nOrnament Central\nOther\nPaper House Productions\nParamount Partners\nPegasus\nPenn Foam Corp.\nRage Fitness Supply\nReichelsport\nReisport\nResilite Sports Products\nRiley Foam\nRip Guardian\nRoss Athletic\nRounders Pit Foam LLC\nS/A Sport - Spieth Anderson\nSAM Spotting Systems\nStan Ray\nStealth Ninja Gear\nSteel Images\nStromgren Athletics\nStrongBoard\nSuper Grips\nTammy Biggs\nTeam Beach Body\nTen-o\nThe Original Block\nThera-Band\nThree Ball Climbing\nThree Cheers For Girls\nTrampmaster\nTrampolines Unlimited\nTriggerPoint\nTriggerPoint™\nTruce\nTruGrip\nTulis Orthopedic Supports\nTumbl Trak\nTumble Bear\nTumbleGlove LLC\nUS Glove\nUSOC\nWOD & DONE\nWOD Welder\nZip Line Gear\nZLP Manufacturing\n           Download Gym Catalog\n\nMail me a catalog!\n\n  Gymnastics Equipment\nBeams, Uneven Bars, Floors & More Grips and Accessories\nWomen, Men, Girls and Boys! Ninja Rigs and Obstacles\nWarped Walls, Wingnuts and more!\nNNL Worlds Obstacles\nAll the obstacles from NNL Worlds! Grip Tight Spray Chalk\nHigh Performance, Fast Drying, SUPER Grip! Gymnastics Mats\nCompetition, Practice and Home Use\n             \n\nJoin Our Newsletter\n\n\nEquipment\nUsed Equipment\nEquipment Financing\nGym Design\nGet a Quote\nDGS Partner Program\nEZ-Pay\nMeet Goodie Bags\nNortheast Invite\nHome | About Us | Contact Us | My Account | Shipping | Returns | Privacy Policy | Careers | Gym Design | Leasing | Size Chart | Break In Grips | Product Color Charts  | Pipe Size Chart | EZ Pay | My UPS | Warranty Information\n© 2022DGS -Gymnastics Grips, Gymnastics Mats, Gymnastics Equipment, Gymnastics Apparel  \n\nWARNING: These items are not toys. Activities involving motion and height create inherent risk of serious injury including paralysis or death. These products are intended for use by properly trained participants under qualified supervision, and the user of this product therefor assumes this risk. Always know your physical limitations and limits of your equipment. Avoid landing on head or neck as serious injuries may result. Always check for proper mat positioning, equipment stability, and inspect hardware for wear and damage before and after each use. Do not use if signs of damage or excessive wear are present. DGS shall not be liable for personal injury or property damage incurred through the use of purchased items.\n\n*Discount will reflect automatically at checkout with qualifying grips and rip guards in your cart. Promotion valid through 12/31/22.",
+    "font": "Arial, Helvetica, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

@@ -1,0 +1,462 @@
+{
+    "title": "CountySports.Zone | Scores, Schedules, Standings",
+    "url": "countysportszone.com",
+    "full_url": "https://www.countysports.zone/",
+    "images": [
+        {
+            "alt": "logo",
+            "location": {
+                "x": 31,
+                "y": 8
+            },
+            "size": {
+                "height": 48,
+                "width": 88
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "search",
+            "location": {
+                "x": 909,
+                "y": 21
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "scores",
+            "location": {
+                "x": 280,
+                "y": 76
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "schedules",
+            "location": {
+                "x": 653,
+                "y": 76
+            },
+            "size": {
+                "height": 20,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "scrollToContent",
+            "location": {
+                "x": 479,
+                "y": 578
+            },
+            "size": {
+                "height": 51,
+                "width": 51
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Effective_img",
+            "location": {
+                "x": 105,
+                "y": 1973
+            },
+            "size": {
+                "height": 102,
+                "width": 126
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Local_img",
+            "location": {
+                "x": 464,
+                "y": 1974
+            },
+            "size": {
+                "height": 100,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rewarding_img",
+            "location": {
+                "x": 792,
+                "y": 1975
+            },
+            "size": {
+                "height": 98,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CSZ Logo",
+            "location": {
+                "x": 183,
+                "y": 2590
+            },
+            "size": {
+                "height": 58,
+                "width": 106
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "twitter",
+            "location": {
+                "x": 688,
+                "y": 2584
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 718,
+                "y": 2584
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "instagram",
+            "location": {
+                "x": 748,
+                "y": 2584
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Email *",
+            "type": "email",
+            "location": {
+                "x": 521,
+                "y": 13
+            },
+            "size": {
+                "height": 38,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Password *",
+            "type": "password",
+            "location": {
+                "x": 654,
+                "y": 13
+            },
+            "size": {
+                "height": 38,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Start typing a school name...",
+            "type": "text",
+            "location": {
+                "x": 322,
+                "y": 293
+            },
+            "size": {
+                "height": 26,
+                "width": 366
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            18,
+            17,
+            15
+        ],
+        [
+            17,
+            16,
+            13
+        ]
+    ],
+    "navbar": "LOG INSIGN UP",
+    "text": "LOG INSIGN UP\nSCORES\nSCHEDULES\nGET SCHEDULES\nZJK\nCounty\nSports Zone\nCounty Sports Zone is the online home for your high school sports community. County Sports Zone is the best way to stay informed about what’s going on in high school sports – whether it’s last minute scheduling changes, finding a local trainer, or sharing highlights from last night’s game. There are so many ways our high school sports community can update us, we just need a better way to connect.\nGet in THE ZONE\nShare highlights, scores, reports, and much more of all high school sports.\nENTER THE ZONE\nEffective\nThe easiest way to find much-needed high school sports updates.\nLocal\nInformation that is meaningful to you provided by your community.\nRewarding\nA community celebrating the passion of high school sports.\nDon't miss out on all the action in your community\nJOIN NOW\nScores\nSchedules\nThe Zone\nPlayoffs\nContact Us\nLog In\nAbout CSZ\nAdvertise\nAdmin Login\nPrivacy Policy",
+    "font": "\"Barlow Condensed\", -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\"",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "LOG IN",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 788,
+                "y": 22
+            },
+            "size": {
+                "height": 24,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 946,
+                "y": 16
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SCORES",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 120,
+                "y": 62
+            },
+            "size": {
+                "height": 48,
+                "width": 384
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SCHEDULES",
+            "bg-color": "rgba(255, 214, 0, 1)",
+            "location": {
+                "x": 504,
+                "y": 62
+            },
+            "size": {
+                "height": 48,
+                "width": 384
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 296,
+                "y": 284
+            },
+            "size": {
+                "height": 44,
+                "width": 416
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "GET SCHEDULES",
+            "bg-color": "rgba(93, 93, 93, 1)",
+            "location": {
+                "x": 390,
+                "y": 376
+            },
+            "size": {
+                "height": 50,
+                "width": 229
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

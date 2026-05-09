@@ -1,0 +1,153 @@
+{
+    "title": "Ballet Cryptocurrency Wallet - Making Crypto EASY",
+    "url": "ballet.com",
+    "full_url": "https://www.ballet.com/",
+    "images": [
+        {
+            "alt": "bobbylee",
+            "location": {
+                "x": 68,
+                "y": 500
+            },
+            "size": {
+                "height": 136,
+                "width": 145
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "gold real bitcoin",
+            "location": {
+                "x": 557,
+                "y": 247
+            },
+            "size": {
+                "height": 234,
+                "width": 370
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter your email",
+            "type": "text",
+            "location": {
+                "x": 257,
+                "y": 8920
+            },
+            "size": {
+                "height": 44,
+                "width": 256
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "search",
+            "location": {
+                "x": 836,
+                "y": 8902
+            },
+            "size": {
+                "height": 30,
+                "width": 122
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            29,
+            29,
+            31
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            97,
+            97,
+            99
+        ]
+    ],
+    "desc": "The world’s first multi-currency non-electronic physical cryptocurrency wallet, designed for everyday people. Use Ballet to easily store Bitcoin and other 90+ cryptocurrencies. No hassle, no stress.",
+    "navbar": "Store\nQuick Start\nWhat is Ballet?\nProducts\nDownload App\nBusiness\nSupport",
+    "text": "Store\nQuick Start\nWhat is Ballet?\nProducts\nDownload App\nBusiness\nSupport\nWorld’s EASIEST\nCold Storage\nCrypto Wallet\nBuy Now\nCreated by\nBobby Lee\nBobby Lee has been an expert in the crypto industry since 2011 and he is the author of the Wall Street Journal bestseller “The Promise of Bitcoin”.\nFeatured on\nSupported Crypto Assets\nEach Ballet wallet can store 200+ of the top crypto assets and NFTs.\nSupported Coins\nSupported NFTs\nZero setup, your wallet is ready to use.\nInstall and open Ballet Crypto App.\nScan the QR code on your wallet.\nUnderstanding Your Ballet Wallet\n\nProducts & Services\nREAL Series\nPURE Series\nPRO Series\nInsured Vaulting\nSwap Crypto\nTechnology\nSupported Coins\nSupported NFTs\nPrivate Key Security\nAnti-counterfeiting\nResources\nAbout Company\nVerify Wallet\nOpen Source Tools\nPress Kit\nCompany Blog\nLegal\nTerms and Conditions\nPrivacy Policy\nPhysical Wallet Agreement\nRefund Policy\nOthers\nReseller Program\nAffiliate Program\nAmbassador Program\nJoin Us\nSubscribe to our newsletter\nSubmit\nEnglish\nCopyright © 2022 Ballet Global Inc. All rights reserved.",
+    "font": "\"Noto Sans\", \"sans-serif\"",
+    "iframes": [
+        {
+            "title": "No content",
+            "src": "about:blank",
+            "location": {
+                "x": 0,
+                "y": -9999
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Messaging window",
+            "src": "",
+            "location": {
+                "x": 613,
+                "y": 754
+            },
+            "size": {
+                "height": 0,
+                "width": 380
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Button to launch messaging window",
+            "src": "",
+            "location": {
+                "x": 929,
+                "y": 762
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

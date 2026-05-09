@@ -1,0 +1,453 @@
+{
+    "title": "Latest IPO Information | Stock Broker Reviews | Chittorgarh",
+    "url": "chittorgarh.com",
+    "full_url": "https://www.chittorgarh.com/",
+    "images": [
+        {
+            "alt": "Chittorgarh.com Logo",
+            "location": {
+                "x": 16,
+                "y": 52
+            },
+            "size": {
+                "height": 55,
+                "width": 291
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Loading...",
+            "location": {
+                "x": -180,
+                "y": 506
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Online Trading Terminal",
+            "location": {
+                "x": 191,
+                "y": 562
+            },
+            "size": {
+                "height": 100,
+                "width": 125
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IPO Dashboard",
+            "location": {
+                "x": 525,
+                "y": 596
+            },
+            "size": {
+                "height": 100,
+                "width": 125
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stock Market Information",
+            "location": {
+                "x": 858,
+                "y": 562
+            },
+            "size": {
+                "height": 100,
+                "width": 125
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "special_offers",
+            "location": {
+                "x": 408,
+                "y": 5775
+            },
+            "size": {
+                "height": 59,
+                "width": 182
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Zerodha Review",
+            "location": {
+                "x": 440,
+                "y": 5876
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Angel Broking Review",
+            "location": {
+                "x": 431,
+                "y": 6039
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Paytm Money Review",
+            "location": {
+                "x": 418,
+                "y": 6203
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ICICI Direct Logo",
+            "location": {
+                "x": 398,
+                "y": 6341
+            },
+            "size": {
+                "height": 42,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ProStocks Review",
+            "location": {
+                "x": 414,
+                "y": 6520
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Upstox Review",
+            "location": {
+                "x": 446,
+                "y": 6708
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Edelweiss Broking Review",
+            "location": {
+                "x": 433,
+                "y": 6871
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fyers Review",
+            "location": {
+                "x": 454,
+                "y": 7035
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kotak Securities Review",
+            "location": {
+                "x": 405,
+                "y": 7198
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IIFL Review",
+            "location": {
+                "x": 415,
+                "y": 7385
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sharekhan Review",
+            "location": {
+                "x": 431,
+                "y": 7549
+            },
+            "size": {
+                "height": 25,
+                "width": 25
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Open an Instant Account with Zerodha",
+            "location": {
+                "x": 372,
+                "y": 7816
+            },
+            "size": {
+                "height": 302,
+                "width": 252
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Download Chittorgarh.com Mobile App",
+            "location": {
+                "x": 346,
+                "y": 8759
+            },
+            "size": {
+                "height": 55,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Download Chittorgarh.com iOS Mobile App",
+            "location": {
+                "x": 516,
+                "y": 8759
+            },
+            "size": {
+                "height": 55,
+                "width": 165
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Google Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 598,
+                "y": 2922
+            },
+            "size": {
+                "height": 31,
+                "width": 123
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            247,
+            247,
+            247
+        ],
+        [
+            88,
+            88,
+            88
+        ]
+    ],
+    "desc": "Get the latest IPO information from India Stock Market. Read stock broker reviews, compare brokers and find the best trading platform. Learn to trade in stocks.",
+    "navbar": "",
+    "text": "IPO\nBROKER REVIEWS\nSTOCK MARKET\nOPTION TRADING\n\n\n\n\n\n\n  ► Zerodha (₹20/Trade) Open Instant Account\n  ► Angel One (₹20/trade) Open Account Now!\n  ► Upstox (₹20/trade) Open Instant Account\nIPO Details & Broker Reviews\nTop Share Broker Reviews\nZerodha (₹20/trade)\nAngel One (₹20/trade)\nUpstox (Flat ₹20/trade)\nSharekhan\nEspresso (Sharekhan) (₹20)\nProStocks (₹899/month Unlimited)\nIPO Watch (Initial Public Offer)\nCurrent IPO List\nIPO Subscription (Live)\nIPO Reviews\nIPO Performance\nIPO Calendar\nIPO Reports (Historic)\nShare Market Information\nMessage Board\nStock Market Guides\nNSE Bulk Deals\nNSE Circuit Filters\nNCD Public Issue\nMarket Holidays BSE, NSE | MCX\nIssue Open\nClose but not listed\nListing today\nIPO 2022 List (Mainboard)\nIssuer Company Open Close\nLandmark Cars\n13 Dec\n15 Dec\nSula Vineyards\n12 Dec\n14 Dec\nAbans Holdings\n12 Dec\n15 Dec\nUniparts India\n30 Nov\n2 Dec\nDharmaj Crop Guard\n28 Nov\n30 Nov\nKeystone Realtors\n14 Nov\n16 Nov\nInox Green Energy\n11 Nov\n15 Nov\nKaynes Technology\n10 Nov\n14 Nov\nArchean Chemical\n9 Nov\n11 Nov\nFive Star Business Finance\n9 Nov\n11 Nov\nMore Mainline IPO ...\nSME IPO 2022 List\nIssuer Company Open Close\nDroneacharya Aerial Innovations\n13 Dec\n15 Dec\nAll E Technologies\n9 Dec\n13 Dec\nPNGS Gargi Fashion Jewellery\n8 Dec\n13 Dec\nArham Technologies\n5 Dec\n7 Dec\nBaheti Recycling Industries\n28 Nov\n30 Nov\nPritika Engineering Components\n25 Nov\n30 Nov\nAMBO Agritec\n21 Nov\n24 Nov\nAmiable Logistics\n2 Nov\n7 Nov\nTechnopack Polymers\n2 Nov\n7 Nov\nDAPS Advertising\n31 Oct\n3 Nov\nMore SME IPO ...\nBuyback - Tender Offer 2022\nUpcoming\nLive\nIssuer Company Record Date Open\nTanla Platforms\n25 Oct\nDhanuka Agritech\n18 Nov\nTriveni Turbine\nJagran Prakashan\nOrbit Exports\n18 Nov\nTriveni Engineering\nTechnocraft Industries\neClerx Services\nTips Industries\nSoftsol India\nCosmo First\n14 Dec\nMore Buyback (Tender Offer) ...\nBuyback - Open Market 2022\nUpcoming\nLive\nIssuer Company Open Close\nInfosys\n7 Dec\n6 Jun\nWindlas Biotech\n21 Nov\n20 May\nBalrampur Chini\n16 Nov\n15 May\nKaveri Seed\n7 Nov\n6 May\nInternational Conveyors\n3 Nov\n3 May\nMindteck India\n24 Aug\n23 Feb\nTCI Express\n18 Aug\n13 Feb\nTechno Electric\n20 Jul\n19 Jan\nMarksans Pharma\n15 Jul\n14 Jan\nMore Buyback (Open Market) ...\nRights Issue 2022\nIssuer Company Open Renunciation date\nQuint Digital Media Ltd\n9 Jan\nHatsun Agro Product Ltd\n19 Dec\nSamor Reality Ltd\n12 Dec\n23 Dec\nSMC Credits Ltd\n12 Dec\n14 Dec\nAdcon Capital Services Limited\n9 Dec\n16 Dec\nRoni Households Limited\n9 Dec\n19 Dec\nRungta Irrigation Ltd.\n9 Dec\n12 Dec\nAjooni Biotech Limited\n7 Dec\n9 Dec\nIntegra Essentia Limited\n1 Dec\n8 Dec\nCompuage Infocom Limited\n23 Nov\n29 Nov\nMore Rights Issues ...\nNCD Issue 2022\nIssuer Company Open Close\nIndiabulls Housing Finance Limited\n1 Dec\n22 Dec\nMuthoot Finance Limited\n28 Nov\n19 Dec\nCreditAccess Grameen Limited\n14 Nov\n17 Nov\nNational Highways Infra Trust\n17 Oct\n18 Oct\nIndiabulls Housing Finance Limited\n7 Oct\n28 Oct\nMuthoot Finance Limited\n6 Oct\n28 Oct\nEdelweiss Financial Services Ltd\n3 Oct\n17 Oct\nKLM Axiva Finvest Limited\n15 Sep\n12 Oct\nIndiabulls Housing Finance Limited\n5 Sep\n22 Sep\nUgro Capital Limited\n5 Sep\n20 Sep\nMore NCD Public Issues ...\nStock Broker Reviews India\nBroker Brokerage Acct Opening\nZerodha ₹20 per trade (₹0 delivery) ₹200\nAngel One ₹20 per trade ₹240\nProStocks ₹899 unlimited eq trading ₹0\nUpstox ₹20 per trade ₹0\nEdelweiss ₹10 per trade ₹0\nTop 10 Discount Brokers ...\nFull-service Stock Brokers Review\nBroker Acct Opening Demat AMC\nAngel One ₹0 ₹450\nICICI Direct ₹0 ₹700\nSharekhan ₹0 ₹400\nHDFC Sec ₹999 ₹750\nKotak Sec ₹750 ₹600\nTop 10 Full-service Brokers ...\nCompare Stock Broker  \nChoose Broker 1\n5paisa\nAditya Birla Money\nAlice Blue\nAnand Rathi\nAngel One\nAxisDirect\nBajaj Financial\nEdelweiss\nEspresso Sharekhan\nFyers\nGeojit\nGroww\nHDFC Securities\nICICIdirect\nIDBI Capital\nIIFL Securities\nKotak Securities\nMotilal Oswal\nPaytm Money\nProstocks\nRMoney\nSAMCO\nSAS Online\nSBI Securities\nSharekhan\nStoxkart\nTradeplus\nTradeSmart\nTradingo\nUpstox\nYes Securities\nZerodha\nChoose Broker 2\n5paisa\nAditya Birla Money\nAlice Blue\nAnand Rathi\nAngel One\nAxisDirect\nBajaj Financial\nEdelweiss\nEspresso Sharekhan\nFyers\nGeojit\nGroww\nHDFC Securities\nICICIdirect\nIDBI Capital\nIIFL Securities\nKotak Securities\nMotilal Oswal\nPaytm Money\nProstocks\nRMoney\nSAMCO\nSAS Online\nSBI Securities\nSharekhan\nStoxkart\nTradeplus\nTradeSmart\nTradingo\nUpstox\nYes Securities\nZerodha\nIPO News Alerts\nThursday, December 8, 2022\nPNGS Gargi Fashion Jewellery IPO subscribed 3.95x on Day 1\nQuint Digital Media Rights Issue 2022 opens on Monday, January 9, 2023\nBaheti Recycling Industries IPO listing Info\nPritika Engineering Components IPO listing Info\nDharmaj Crop Guard IPO Basis of Allotment\nPNGS Gargi Fashion Jewellery IPO sme ipo opens today\nWednesday, December 7, 2022\nUniparts India IPO allotment status out.\nDharmaj Crop Guard IPO listing Info\nLandmark Cars IPO opens on Tuesday, December 13, 2022\nArham Technologies IPO subscribed 442.79x on Day 3\nSMC Credits Rights Issue 2022 opens on Monday, December 12, 2022\nInfosys Buyback 2022 opens on Wednesday, December 7, 2022\nPritika Engineering Components IPO Basis of Allotment\nBaheti Recycling Industries IPO Basis of Allotment\nAjooni Biotech Rights Issue 2022 opens today\nArham Technologies IPO sme ipo closes today\nTuesday, December 6, 2022\nArham Technologies IPO subscribed 43.64x on Day 2\nJenburkt-Pharmaceuticals-Buyback opens on Wednesday, December 14, 2022\nSula Vineyards IPO opens on Monday, December 12, 2022\nDharmaj Crop Guard IPO allotment status out.\nMonday, December 5, 2022\nBaheti Recycling Industries IPO allotment status out.\nPritika Engineering Components IPO allotment status out.\nAbans Holdings IPO opens on Monday, December 12, 2022\nArham Technologies IPO subscribed 2.97x on Day 1\nHatsun Agro Product Rights Issue 2022 opens on Monday, December 19, 2022\nGarware Technical Fibres Buyback opens today\nArham Technologies IPO sme ipo opens today\nSunday, December 4, 2022\nPNGS Gargi Fashion Jewellery IPO opens on Thursday, December 8, 2022\nFriday, December 2, 2022\nDroneacharya Aerial Innovations IPO opens on Tuesday, December 13, 2022\nUniparts India IPO subscribed 25.32x on Day 3\nGarware Technical Fibres Buyback opens on Monday, December 5, 2022\nSamor Reality Rights Issue 2022 opens on Monday, December 12, 2022\nAjooni Biotech Rights Issue 2022 opens on Wednesday, December 7, 2022\nUniparts India IPO closes today\nThursday, December 1, 2022\nAMBO Agritec IPO listing Info\nUniparts India IPO subscribed 2.02x on Day 2\nPopular Article & Tutorials\nStock Brokers Articles\nZerodha Account Closure Process, Charges, Deactivation - Explained\nTrading Account Transfer Explained (Change Brokerage Account)\nZerodha Minor Account Explained\nZerodha BTST Explained (Charges, Margin Penalty, Brokerage)\nZerodha LTP (Last Traded Price) Explained\nZerodha Contract Note Explained\nZerodha Commodity Trading Review\nZerodha Streak Review - Algo Trading for Retail Investors\nGTT in Zerodha Kite (Zerodha GTT guide)\nDirect Mutual Funds Explained (Meaning, Charges & Taxation)\nZerodha CDSL TPIN Explained (Pre-authorise sell from Demat)\nZerodha Support code (Telephone Code/ZPin) - Get, Change, Reset\nZerodha Coin Review - Features, Charges, Pros & Cons\nBTST Trading Explained (Buy Today, Sell Tomorrow)\nZerodha GTT Order (GTC Equivalent) Explained\nDemat Account Fees & Charges\nWhich is the best bank to open a demat account?\n3 Easy steps to trade in F&O (Equity Future Derivatives)\nZerodha Kite Review - Most simple yet powerful trading platform\nMinor Demat & Trading Account Explained - IPO, Tax, NCD FAQ\nThe Best 3-in-1 Trading Account in India Stock Market - ICICI, HDFC, SBI, Kotak\nMainboard IPO Articles\nLIC IPO Price Band: Rs 902 to Rs 949 and Other Pricing Details\nVedant Fashions TTM Profit Margins Higher than Peers\nIPO Application Cancellation Process, Charges, Rules - Explained\n3rd Party IPO Application: Multiple Applications from one Bank Account\nHNI IPO Application Guide (NII Allotment Rules, Benefits & Funding)\nSME IPO Articles\nSME Listing Procedure and Norms in India\nSME IPO - Cost of Fundraising (Fees & Expenses)\nMiscellaneous Articles\nBuyback Price Calculation & Maximum Shares for Retail Category\nBuyback of Shares Meaning, Procedure and Taxation Explained\nRights Issue of shares - Definition, Benefits, Eligibility and Prices\nOptions Trading Articles\nUpstox Pro Web - How to trade, buy and sell options?\nZerodha Kite - How to trade, buy and sell options?\nHow to Read Options Chain? - Explained with Example\nNRI Trading Articles\nNRI Trading Requirements (Accounts for trading in India)\nPopular Reports\nStock Broker Reports\nLifetime Free Demat Account (AMC Free)\nTop 10 Full-Service Brokers in India\nBest 3 in 1 Account in India\nTop 10 Discount Stock Brokers in India\nBest Online Brokers for Research (Discount Broker)\nTop 20 Share Brokers in India\nBest Broker for Stock Research (Full-service Broker)\nBest Stock Broker for Beginners in India\nBest NRI Trading Account in India\nIPO Reports\nIPO Performance Analysis - Listing Day Gain & Post-IPO Performance\nTop 10 SME IPO in India (IPO at BSE SME, NSE Emerge)\nTop 10 IPO in India (Mainboard IPO at BSE, NSE)\nIPO Timetable and IPO Shares Bid Lots Detail\nTop 10 IPO By Subscription (Main-board IPO)\n\nBy Popular Stock Brokers\n   Zerodha\nFree Eq Delivery & MF\nFlat ₹20 Per Trade in F&O\nOpen Instant Account\n   Angel One\nFree Equity Delivery\nFlat ₹20 Per Trade in F&O\nKnow more...\n  Paytm Money\nFlat ₹15 Per Trade\nOpen Instant Account Now!\nFree Equity Futures Trading\n₹20/Trade (Options & Intraday)\nOpen 3-in-1 Account\n  ProStocks\nUnlimited @ ₹899/month\nRs 0 Demat AMC\nOpen FREE Account\n   Upstox\nFREE Account Opening\nFlat ₹20 Per Trade\nEnquire Now\n   Edelweiss\nFull-service @ Flat Rate\nFlat ₹10 Per Trade\nGet FREE Account\n   Fyers\nFree Eq Delivery Trades\nFlat ₹20 Per Trade in F&O\nOpen Instant Account\n  Kotak Securities\n    (Trade Free Plan)\nFREE Account Opening (₹0)\nFREE Intraday Trading (Eq, F&O)\nGET FREE Demat Account\n  IIFL Securities\nFull-service broker at its best\n₹0 account opening fee (₹1150)\nRequest Call Back\n  Sharekhan\n30 days brokerage free trading\nFree - Relationship Manager\nFree - Classroom Training\nOpen Account in 15 Minutes\nCONTACT US\nSITEMAP\nGUEST BOOK\nABOUT US\nBest Discount Broker in India\nZerodha (₹20 per Trade)\nUpstox (₹20 per Trade)\nAngel One (₹20 per Trade)\nEdelweiss (₹10 per Trade)\n5Paisa (₹20 per Trade)\nProStocks (₹899 Unlimited)\nBest Full-Service Brokers in India\nAngel One\nEdelweiss\nIIFL Securities\nICICI Direct\nSharekhan\nKotak Securities\nUnlimited Monthly Trading Plans\nProstocks (₹899 Unlimited)\nSAS Online (₹999 Unlimited)\nTradeplus\nCompare Share Broker in India\nZerodha Vs Upstox\nEdelweiss Vs Zerodha\nSharekhan Vs Angel\nICICI Direct Vs HDFC Sec\nZerodha Vs 5Paisa\nZerodha Vs ProStocks\nDownload Mobile App\nOur Websites\nwww.TraderJi.com\nStock Market Discussion Forum\nwww.TopShareBrokers.com\nComapare Stock Brokers\nwww.ExchangeRateIQ.com\nGet Best Exchange Rates\nwww.CompareShareBrokers.com\nBest Stock Broker Reviews\nDisclaimer and Privacy Statement.\n\n© 2022 Chittorgarh Infotech Pvt Ltd. All Rights Reserved.\n\n\nAngel One > Trade @ ₹20 (Free Delivery)\nKNOW MORE\n×",
+    "font": "system-ui, -apple-system, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(13, 110, 253, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 162
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        }
+    ]
+}

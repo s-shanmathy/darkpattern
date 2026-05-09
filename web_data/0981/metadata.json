@@ -1,0 +1,63 @@
+{
+    "title": "Windy: Wind map & weather forecast",
+    "url": "windy.com",
+    "full_url": "https://www.windy.com/?37.751,-97.822,5",
+    "images": [
+        {
+            "alt": "Windy.com",
+            "location": {
+                "x": 482,
+                "y": 15
+            },
+            "size": {
+                "height": 27,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search location...",
+            "type": "text",
+            "location": {
+                "x": 60,
+                "y": 11
+            },
+            "size": {
+                "height": 33,
+                "width": 320
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            62,
+            121,
+            163
+        ],
+        [
+            75,
+            147,
+            155
+        ]
+    ],
+    "desc": "Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else. Worldwide animated weather map, with easy to use layers and precise spot forecast. METAR, TAF and NOTAMs for any airport in the World. SYNOP codes from weather stations and buoys. Forecast models ECMWF, GFS, NAM and NEMS",
+    "text": "Dallas\nOklahoma City\nARKANSAS\nJackson\nMemphis\nKANSAS\nOKLAHOMA\nMISSOURI\nKansas City\nSt Louis\nNess City\nUNITED STATES\nMitchell\nMINNESOTA\nFargo\nIOWA\nSaint Paul\nOmaha\nIowa City\nNorth Platte\nNEBRASKA\nSOUTH DAKOTA\nBismarck\nNORTH DAKOTA\nPhoenix\nLubbock\nAlbuquerque\nNEW MEXICO\nARIZONA\nSalt Lake City\nUTAH\nDenver\nCOLORADO\nAlamosa\nTENNESSEE\nAtlanta\nGEORGIA\nNORTH CAROLINA\nSOUTH CAROLINA\nCharleston\nCharlotte\nALABAMA\nMISSISSIPPI\nColumbus\nILLINOIS\nKENTUCKY\nWEST VIRGINIA\nINDIANA\nOHIO\nLexington\nPiedras Negras\nTEXAS\nSan Luis Potosi\nMonterrey\nHouston\nLOUISIANA\nNew Orleans\nGreat Falls\nMONTANA\nIdaho Falls\nBillings\nWYOMING\nGlasgow\nRapid City\nChicago\nMarquette\nDetroit\nTimmins\nSudbury\nThunder Bay\nGreen Bay\nWISCONSIN\nToronto\nMICHIGAN\nHermosillo\nMEXICO\nCiudad Juárez\nChihuahua\nCuliacán\nFLORIDA\nHavana\nTampa\nJacksonville\nCUBA\nWinnipeg\nLos Angeles\nLas Vegas\nNEVADA\nCALIFORNIA\nReno\nVIRGINIA\nPENNSYLVANIA\nWashington D.C.\nVirginia Beach\nRegina\nONTARIO\nOREGON\nSpokane\nBoise\nWASHINGTON\nIDAHO\nNEW YORK\nUtica\nOttawa\nEnsenada\nNassau\nTHE BAHAMAS\nVernon\nCalgary\nChibougamau\n© OpenStreetMap contributors\nWednesday 7 - 12 AM\nWed 7Thu 8Fri 9Sat 10Sun 11Mon 12Tue 13Wed 14Thu 15Fri 16\n+\n-\n3D\nO\nRadar & Satellite\n|\nWind\n\nWind gusts\n\nRain, thunder\n\nTemperature\n7\nClouds\n\nWaves\n\nAir quality\n<\nMore layers...\nSurface\nparticles animationpressure\n\nk\n&\n\n\nQ\nl\n\nMore layers...\nECMWF\nGFS\nHRRR\n2 more\nkt051020304060\nd\n35°\n\" 2 kt\nWED\n48°\nTHU\n55°\nFRI\n48°\nSAT\n50°\n\nLogin",
+    "font": "-apple-system, system-ui, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", sans-serif",
+    "buttons": []
+}

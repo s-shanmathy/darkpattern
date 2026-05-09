@@ -1,0 +1,1723 @@
+{
+    "title": "Bizcommunity | Daily business news, companies, jobs and events across 19 industries in South Africa",
+    "url": "bizcommunity.com",
+    "full_url": "https://www.bizcommunity.com/",
+    "images": [
+        {
+            "alt": "Bizcommunity.com - DailyMarketing & Media news",
+            "location": {
+                "x": 20,
+                "y": 22
+            },
+            "size": {
+                "height": 30,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bizcommunity.com - Daily Marketing & Media news",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "South Africa",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "MultiChoice",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Hot 102.7FM",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Grey Africa",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "iContact BPO",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Levergy",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Dentsu",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Rogerwilco",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Kantar",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Broad Media",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "AFDA",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "M&C Saatchi Abel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Media24 Lifestyle",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Advertising Media Forum",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Machine_",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TBWA",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "KZN farmer fined over R1.7m for illegal water use",
+            "location": {
+                "x": 683,
+                "y": 937
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Western Cape providing preferred semigration destinations in South Africa",
+            "location": {
+                "x": 683,
+                "y": 1032
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source © raw pixel  don't overthink B2B content creation says Kate Wolters from Flowmesh",
+            "location": {
+                "x": 683,
+                "y": 1127
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image supplied: Kristi Lowe",
+            "location": {
+                "x": 683,
+                "y": 1223
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "#OrchidsandOnions: Your best friend in a time of need",
+            "location": {
+                "x": 683,
+                "y": 1318
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "M&C Saatchi Group bags substantial accolades at the 2022 AdFocus Awards",
+            "location": {
+                "x": 683,
+                "y": 1413
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "overlayImage",
+            "location": {
+                "x": 725,
+                "y": 2573
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LISTEN: Short courses are changing the education landscape",
+            "location": {
+                "x": 683,
+                "y": 2548
+            },
+            "size": {
+                "height": 90,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "overlayImage",
+            "location": {
+                "x": 875,
+                "y": 2573
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LISTEN: Short courses are changing the education landscape",
+            "location": {
+                "x": 833,
+                "y": 2548
+            },
+            "size": {
+                "height": 90,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "overlayImage",
+            "location": {
+                "x": 725,
+                "y": 2776
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LetsTalkDigital: EP72: FutureTech Media Women series: Zumi Njongwe - Nestle",
+            "location": {
+                "x": 683,
+                "y": 2751
+            },
+            "size": {
+                "height": 62,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "overlayImage",
+            "location": {
+                "x": 875,
+                "y": 2776
+            },
+            "size": {
+                "height": 28,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LISTEN: Celebrate Deaf Awareness Month with Wits Plus",
+            "location": {
+                "x": 833,
+                "y": 2751
+            },
+            "size": {
+                "height": 90,
+                "width": 120
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eskom ramps up load shedding to Stage 6 as plants break down",
+            "location": {
+                "x": 683,
+                "y": 3031
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "#StartupStory: Meet Marko Stavrou, the 18-year-old co-founder of HustlersGlobal and Stavrou Consulting",
+            "location": {
+                "x": 683,
+                "y": 3126
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "New report: Local small businesses the lifeline of SA economy",
+            "location": {
+                "x": 683,
+                "y": 3229
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image sourced from the Cannes Lions",
+            "location": {
+                "x": 683,
+                "y": 3325
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 683,
+                "y": 3420
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "South African President Cyril Ramaphosa responds to National Assembly members' questions in parliament in Cape Town, South Africa, 3 November 2022. Reuters/Esa Alexander/File Photo",
+            "location": {
+                "x": 683,
+                "y": 3523
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source: © One Club",
+            "location": {
+                "x": 26,
+                "y": 298
+            },
+            "size": {
+                "height": 329,
+                "width": 632
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 666,
+                "y": 298
+            },
+            "size": {
+                "height": 329,
+                "width": 632
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Monique Nelson. Source: Supplied.",
+            "location": {
+                "x": 26,
+                "y": 748
+            },
+            "size": {
+                "height": 161,
+                "width": 310
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 348,
+                "y": 748
+            },
+            "size": {
+                "height": 161,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2023 Joburg Film Festival selection announced",
+            "location": {
+                "x": 27,
+                "y": 1275
+            },
+            "size": {
+                "height": 106,
+                "width": 203
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Are South African e-commerce stores keeping up with customers' payment appetite?",
+            "location": {
+                "x": 240,
+                "y": 1275
+            },
+            "size": {
+                "height": 106,
+                "width": 203
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HOT 102.7FM and Hot Cares changing lives this festive season",
+            "location": {
+                "x": 454,
+                "y": 1275
+            },
+            "size": {
+                "height": 106,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "M&C Saatchi Group bags substantial accolades at the 2022 AdFocus Awards",
+            "location": {
+                "x": 26,
+                "y": 1542
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Here are the SA TikTok trends for 2022",
+            "location": {
+                "x": 26,
+                "y": 1695
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Here's what South Africans searched for on Google in 2022",
+            "location": {
+                "x": 26,
+                "y": 1853
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image source: convisum –",
+            "location": {
+                "x": 26,
+                "y": 2011
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 26,
+                "y": 2169
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2023 Joburg Film Festival selection announced",
+            "location": {
+                "x": 26,
+                "y": 2327
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fran Luckin, Grey Advertising Africa CCO, awarded AdFocus Industry Leader of the Year",
+            "location": {
+                "x": 26,
+                "y": 2485
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MultiChoice and Irdeto welcome the second conviction of a perpetrator for selling internet streaming pirate boxes",
+            "location": {
+                "x": 26,
+                "y": 2643
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "HOT 102.7FM and Hot Cares changing lives this festive season",
+            "location": {
+                "x": 26,
+                "y": 2801
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Spotlight on the future of commerce at next ECOM Africa in April 2023",
+            "location": {
+                "x": 26,
+                "y": 2959
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Are South African e-commerce stores keeping up with customers' payment appetite?",
+            "location": {
+                "x": 26,
+                "y": 3117
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source: Supplied. Stephanie Aboujaoude, senior area director of marketing and communications Middle East & Africa at Radisson Hotel group.",
+            "location": {
+                "x": 26,
+                "y": 3275
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 26,
+                "y": 3433
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source: Reuters.",
+            "location": {
+                "x": 26,
+                "y": 3591
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Levergy closes out 2022 as double Agency of the Year",
+            "location": {
+                "x": 26,
+                "y": 3749
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "iContact BPO expands contact centre operations in Gauteng",
+            "location": {
+                "x": 26,
+                "y": 3907
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Balenciaga's controversial new campaign and the long history of 'shockvertising'",
+            "location": {
+                "x": 26,
+                "y": 5352
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 26,
+                "y": 5510
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source © Matthias Ziegler  The third annual Elevate Scholarship class of 50 media professionals includes 20 media professionals from Africa from a total of 31 countries and a record-breaking 432 applications",
+            "location": {
+                "x": 26,
+                "y": 5668
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "#StartupStory: Meet Marko Stavrou, the 18-year-old co-founder of HustlersGlobal and Stavrou Consulting",
+            "location": {
+                "x": 26,
+                "y": 5927
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FedEx solidifies presence in Nigeria, offers international trade solution to customers",
+            "location": {
+                "x": 26,
+                "y": 6085
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Road Safety Report on SA transport sector released",
+            "location": {
+                "x": 26,
+                "y": 6243
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Will 2023 take us closer to RCS replacing SMS as the world's default messenger?",
+            "location": {
+                "x": 26,
+                "y": 6401
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Customer convenience is now king. Here's how the travel and leisure sector can leverage this",
+            "location": {
+                "x": 26,
+                "y": 6559
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image source: rawpixel –",
+            "location": {
+                "x": 26,
+                "y": 6717
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Predictions for the 2023 housing market",
+            "location": {
+                "x": 26,
+                "y": 6875
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image source: zerbor –",
+            "location": {
+                "x": 26,
+                "y": 7033
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clover's acquisition of milk procurement business approved, with conditions",
+            "location": {
+                "x": 26,
+                "y": 7191
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 26,
+                "y": 7349
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source: Reuters.",
+            "location": {
+                "x": 26,
+                "y": 7507
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 26,
+                "y": 7665
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eskom ramps up load shedding to Stage 6 as plants break down",
+            "location": {
+                "x": 26,
+                "y": 7823
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kellogg's Noodles: A convenient and easy-to-make meal that can be enjoyed at anytime",
+            "location": {
+                "x": 26,
+                "y": 7981
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fieldbar team from left to right: Corban Warrington, Lee Hartman and Taimi Paulino. Source: Supplied",
+            "location": {
+                "x": 26,
+                "y": 8503
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Covid pandemic shifts consumer demand for dairy-based beverages",
+            "location": {
+                "x": 26,
+                "y": 8661
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source: Siphiwe Sibeko/File Photo",
+            "location": {
+                "x": 26,
+                "y": 8819
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source:",
+            "location": {
+                "x": 26,
+                "y": 8977
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Image supplied: Keanu Harker",
+            "location": {
+                "x": 26,
+                "y": 9135
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SMEs and credit scores: What to know about maintaining your business's creditworthiness",
+            "location": {
+                "x": 26,
+                "y": 9293
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Practical ways SMEs in hospitality can navigate ongoing water restrictions",
+            "location": {
+                "x": 26,
+                "y": 9451
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Top tips for a successful and secure (festive) summer road trip",
+            "location": {
+                "x": 26,
+                "y": 9609
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bluegrass continues to flourish in 2022",
+            "location": {
+                "x": 26,
+                "y": 9767
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tools built specifically to keep your laptop and files in it safe",
+            "location": {
+                "x": 26,
+                "y": 9925
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Telviva One: your business communications anywhere, anytime, on any device",
+            "location": {
+                "x": 26,
+                "y": 10083
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Eduvos celebrates annual Hack Jam event",
+            "location": {
+                "x": 26,
+                "y": 10241
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Compliance emerges as top business priority",
+            "location": {
+                "x": 26,
+                "y": 10399
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Source: Supplied",
+            "location": {
+                "x": 26,
+                "y": 10557
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "First-of-a-kind music launch held in real life and the metaverse",
+            "location": {
+                "x": 26,
+                "y": 10715
+            },
+            "size": {
+                "height": 117,
+                "width": 208
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "SEARCH",
+            "type": "text",
+            "location": {
+                "x": 669,
+                "y": 29
+            },
+            "size": {
+                "height": 24,
+                "width": 118
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 819,
+                "y": 25
+            },
+            "size": {
+                "height": 28,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 683,
+                "y": 614
+            },
+            "size": {
+                "height": 24,
+                "width": 276
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search keywords",
+            "type": "text",
+            "location": {
+                "x": 695,
+                "y": 1986
+            },
+            "size": {
+                "height": 22,
+                "width": 274
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Your email address",
+            "type": "email",
+            "location": {
+                "x": 325,
+                "y": 795
+            },
+            "size": {
+                "height": 33,
+                "width": 533
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            31,
+            31,
+            31
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "Africa’s premier B2B news site across 18 industries. Your sector's news, opinions, research, events, jobs and companies.",
+    "text": "  SOUTH AFRICA\nMARKETING & MEDIA\nSECTION\nMY ACCOUNT\nMARKETING & MEDIA NEWS SOUTH AFRICA\nNEWS PRESSOFFICES COMPANIES JOBS EVENTS OPINION PEOPLE MULTIMEDIA MY BIZ\n\n\nSubscribe to industry newsletters\nMOST READ\n7 DAYS 30 DAYS BY INDUSTRY\nKZN farmer fined over R1.7m for illegal water use\nWestern Cape providing preferred semigration destinations in South Africa\n5 highly underrated industry trends for B2B content you shouldn't overlook in 2023\nKATE WOLTERS\n#MusicExchange: Kristi Lowe's reignition after tragedy\nMARTIN MYERS\n#OrchidsandOnions: Your best friend in a time of need\nBRENDAN SEERY\nM&C Saatchi Group bags substantial accolades at the 2022 AdFocus Awards\nSHOW MORE\nMARKETING & MEDIA JOBS\nFinancial Assistant Cape Town\nData Manager Johannesburg\nPaid Media Specialist - Data and Media Cape Town, Johannesburg\nDirector of Strategic Advisory Johannesburg\nDigital Account Manager - Sales Johannesburg, Cape Town\nAdvertising & Event Sponsorship Sales All Areas\nMORESUBMIT A JOBOPEN ACCOUNT\nADVERTISE YOUR JOB AD ON BIZCOMMUNITY\nSingle job ad\nPrepaid discount package\nRecruiter package\nSUBMIT A JOB AD >>\nSEARCH JOBS\nAll Provinces\nGauteng\nWestern Cape\nKwazulu-Natal\nMpumalanga\nNorth West\nEastern Cape\nFree State\nNorthern Cape\nLimpopo\nAll Industries\nAgriculture\nAutomotive\nConstruction & Engineering\nEducation\nEnergy & Mining\nEntrepreneurship\nESG & Sustainability\nFinance\nHealthcare\nHR & Management\nICT\nLegal\nLifestyle\nLogistics & Transport\nManufacturing\nMarketing & Media\nProperty\nRetail\nTourism & Travel\nSEARCH JOBS NOW >>\nNEW APPOINTMENTS\nTiger Brands appoints 2 new employees\nDiego Cannizzaro joins New York Festivals Radio Awards Advisory Board\nPHD appoints its inaugural EMEA chief executive\nTribeca announces 2 new hires\nOmnicorn appoints its first chief marketing officer\nMORE...SUBMIT A PERSON\nNEW BUSINESS\nThe Beauty Bag South Africa names Red Marketing as its media agency\nMORE...SUBMIT AN ACCOUNT\nMULTIMEDIA\nALLGALLERIESAUDIOVIDEOIMAGES\nLISTEN: SHORT COURSES ARE CHANGING THE EDUCATION LANDSCAPE\nLISTEN: SHORT COURSES ARE CHANGING THE EDUCATION LANDSCAPE\nLETSTALKDIGITAL: EP72: FUTURETECH MEDIA WOMEN SERIES: ZUMI NJONGWE - NESTLE\nLISTEN: CELEBRATE DEAF AWARENESS MONTH WITH WITS PLUS\nSHOW MORE\nBUSINESS\nEskom ramps up load shedding to Stage 6 as plants break down\nBHARGAV ACHARYA\n#StartupStory: Meet Marko Stavrou, the 18-year-old co-founder of HustlersGlobal and Stavrou Consulting\nEVAN-LEE COURIE\nNew report: Local small businesses the lifeline of SA economy\nWhat's new for Cannes Lions 2023?\nThreat to Ramaphosa's efforts to rekindle investor confidence in Africa's most industrialised economy\nWENDELL ROELF\nRamaphosa's future as president in question after misconduct report\nWENDELL ROELF AND ALEXANDER WINNING\nMORE...SUBMIT NEWS\nSbu Sitole named a Dubai Lynx jury president\n1234\nUniWorld Group puts Africa in its expansion plans\nBY KARABO LEDWABA 14 HOURS AGO\nIndia's Narendra Modi is the most influential world leader on Twitter in 2022\n12 HOURS AGO\nCOMPANY NEWS\nMULTICHOICE\n2023 Joburg Film Festival selection announced\n6 HOURS AGO\nKINETIC EVENTS\nAre South African e-commerce stores keeping up with customers' payment appetite?\n7 HOURS AGO\nHOT 102.7FM\nHOT 102.7FM and Hot Cares changing lives this festive season\n9 HOURS AGO\nM&C Saatchi Group bags substantial accolades at the 2022 AdFocus Awards\nISSUED BY M&C SAATCHI ABEL 2 DAYS AGO\nHere are the SA TikTok trends for 2022\n11 HOURS AGO\nHere's what South Africans searched for on Google in 2022\n7 HOURS AGO\nNational Assembly approves candidates recommended for SABC Board\n13 HOURS AGO\nMusic streaming in South Africa - new survey reveals musicians get a raw deal\nBY GWEN ANSELL 13 HOURS AGO\n2023 Joburg Film Festival selection announced\nISSUED BY MULTICHOICE 6 HOURS AGO\nFran Luckin, Grey Advertising Africa CCO, awarded AdFocus Industry Leader of the Year\nISSUED BY GREY AFRICA 12 HOURS AGO\nMultiChoice and Irdeto welcome the second conviction of a perpetrator for selling internet streaming pirate boxes\nISSUED BY MULTICHOICE 11 HOURS AGO\nHOT 102.7FM and Hot Cares changing lives this festive season\nISSUED BY HOT 102.7FM 9 HOURS AGO\nSpotlight on the future of commerce at next ECOM Africa in April 2023\nISSUED BY KINETIC EVENTS 12 HOURS AGO\nAre South African e-commerce stores keeping up with customers' payment appetite?\nISSUED BY KINETIC EVENTS 7 HOURS AGO\nPeople, technology, content: The three tenets of hospitality marketing in 2023\n1 DAY AGO\nThe Cold War and AVE - Back to the 1940s\nBY TONYA KHOURY 1 DAY AGO\nPakistani court to oversee investigation into death of journalist in Kenya\nBY ASIF SHAHZAD 1 DAY AGO\nLevergy closes out 2022 as double Agency of the Year\nISSUED BY LEVERGY 1 DAY AGO\niContact BPO expands contact centre operations in Gauteng\nISSUED BY ICONTACT BPO 1 DAY AGO\nSHOW MORE\nLATEST JOBS\nFinancial Assistant\nCape Town Trace Studios 7 Dec\nData Manager\nJohannesburg Trace TV 7 Dec\nPaid Media Specialist - Data and Media\nCape Town King James 7 Dec\nDirector of Strategic Advisory\nJohannesburg Ad Talent Africa 7 Dec\nDigital Account Manager - Sales\nJohannesburg Bizcommunity.com 7 Dec\nAdvertising & Event Sponsorship Sales\nAll Areas Cold Press Media 7 Dec\nContent Producer - Bona Magazine\nCape Town Highbury Media 7 Dec\nPrint and Digital Editor\nCape Town Highbury Media 7 Dec\nJunior Designer - Rooi Rose\nCape Town Highbury Media 7 Dec\nEditorial Intern - Bona Magazine\nCape Town Highbury Media 7 Dec\nSales Executive\nCape Town Highbury Media 7 Dec\nMid-Weight Layout Designer\nCape Town 9PT Studio CC 7 Dec\nManaging Editor - Financial and ESG\nCape Town Multidimensions 7 Dec\nBrand/Marketing and PR Lead\nCape Town The Cape Town Toiletry Company 6 Dec\nJunior Buyer\nJohannesburg Worldwide Positions 6 Dec\nPrint and Digital Designer\nCenturion Ad Talent Africa 6 Dec\nMarketing Head\nLusaka Ad Talent Africa 6 Dec\nMid-Weight Digital Copywriter\nCape Town ninety9cents 6 Dec\nChief of Brand and Content\nPaarl Babylonstoren (Pty) Ltd 6 Dec\nDigital Designer\njohannesburg AfricaXP / PremiumFree 6 Dec\nSHOW MORE\n\n\nAFRICA NEWS\nBalenciaga's controversial new campaign and the long history of 'shockvertising'\nBY CARL W JONES 1 DAY AGO\nAFP joins five new hubs to fight disinformation in Europe\n2 DAYS AGO\n20 African media professionals receive Elevate Scholarship\n2 DAYS AGO\nMORE NEWS BY INDUSTRY\n#StartupStory: Meet Marko Stavrou, the 18-year-old co-founder of HustlersGlobal and Stavrou Consulting\nENTREPRENEURSHIPBY EVAN-LEE COURIE 13 HOURS AGO\nFedEx solidifies presence in Nigeria, offers international trade solution to customers\nLOGISTICS & TRANSPORT 9 HOURS AGO\nRoad Safety Report on SA transport sector released\nLOGISTICS & TRANSPORT 16 HOURS AGO\nWill 2023 take us closer to RCS replacing SMS as the world's default messenger?\nICTBY ONGOPOTSE MOTLHANKE 13 HOURS AGO\nCustomer convenience is now king. Here's how the travel and leisure sector can leverage this\nTOURISM & TRAVELBY JAMES BAYHACK 16 HOURS AGO\nGeneral BCom - opening doors to a host of career options\nEDUCATION 7 HOURS AGO\nPredictions for the 2023 housing market\nPROPERTYBY ADRIAN GOSLETT 12 HOURS AGO\nNCOP passes five money bills\nLEGAL 12 HOURS AGO\nClover's acquisition of milk procurement business approved, with conditions\nAGRICULTURE 13 HOURS AGO\nSouth African middle-class workers buckling under severe credit stress\nFINANCE 7 HOURS AGO\nAfrican Development Bank mobilises $8.9bn for low-income African countries\nFINANCEBY ANGE ABOA 10 HOURS AGO\nSouth African economy bigger than pre-Covid after Q3 surprise\nFINANCEBY KOPANO GUMBI 10 HOURS AGO\nEskom ramps up load shedding to Stage 6 as plants break down\nENERGY & MININGBY BHARGAV ACHARYA 10 HOURS AGO\nKellogg's Noodles: A convenient and easy-to-make meal that can be enjoyed at anytime\nRETAILISSUED BY KELLOGG'S 10 HOURS AGO\n\n\nFieldbar: The SA success story taking on Europe\nRETAIL 14 HOURS AGO\nCovid pandemic shifts consumer demand for dairy-based beverages\nRETAILBY KHATHU MUSINGADI, ISSUED BY BMI RESEARCH 11 HOURS AGO\nWoolies Dash delivery service expands to more areas in SA\nRETAIL 11 HOURS AGO\nChildhood vaccinations on the decline since Covid-19 pandemic outbreak\nHEALTHCARE 6 HOURS AGO\nMusician Keanu Harker hosts festive season show\nLIFESTYLE 14 HOURS AGO\nSMEs and credit scores: What to know about maintaining your business's creditworthiness\nENTREPRENEURSHIPBY BEN BIERMAN, ISSUED BY BUSINESS PARTNERS LIMITED 8 HOURS AGO\nPractical ways SMEs in hospitality can navigate ongoing water restrictions\nENTREPRENEURSHIPISSUED BY BUSINESS PARTNERS LIMITED 6 HOURS AGO\nTop tips for a successful and secure (festive) summer road trip\nAUTOMOTIVEBY YOULON NAIDOO, ISSUED BY MIWAY 14 HOURS AGO\nBluegrass continues to flourish in 2022\nICTISSUED BY BLUEGRASS DIGITAL 11 HOURS AGO\nTools built specifically to keep your laptop and files in it safe\nICTISSUED BY ASUS 8 HOURS AGO\nTelviva One: your business communications anywhere, anytime, on any device\nICTISSUED BY TELVIVA 11 HOURS AGO\nEduvos celebrates annual Hack Jam event\nEDUCATIONISSUED BY EDUVOS 12 HOURS AGO\nCompliance emerges as top business priority\nLEGALISSUED BY LEXISNEXIS 13 HOURS AGO\nHow tech can serve retailers facing pressure to innovate\nRETAILBY MARLENE NAIDOO 7 HOURS AGO\nFirst-of-a-kind music launch held in real life and the metaverse\nLIFESTYLEISSUED BY ONPOINT PR 9 HOURS AGO\n\n\nMORE NEWS BY INDUSTRY\n\nLET'S DO BIZ",
+    "font": "Arial, Helvetica, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 959,
+                "y": 614
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SEARCH JOBS NOW >>",
+            "bg-color": "rgba(47, 49, 54, 1)",
+            "location": {
+                "x": 695,
+                "y": 2079
+            },
+            "size": {
+                "height": 29,
+                "width": 157
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SUBSCRIBE",
+            "bg-color": "rgba(193, 27, 23, 1)",
+            "location": {
+                "x": 868,
+                "y": 795
+            },
+            "size": {
+                "height": 34,
+                "width": 101
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

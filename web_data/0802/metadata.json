@@ -1,0 +1,165 @@
+{
+    "title": "ISO - International Organization for Standardization",
+    "url": "iso.org",
+    "full_url": "https://www.iso.org/home.html",
+    "images": [
+        {
+            "alt": "ISO logo for print",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "https://www.iso.org/",
+            "location": {
+                "x": 681,
+                "y": 633
+            },
+            "size": {
+                "height": 143,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "France, Paris, Young smiling woman among doves flying in front of Triumph arch of Carousel.",
+            "location": {
+                "x": 40,
+                "y": 2123
+            },
+            "size": {
+                "height": 93,
+                "width": 186
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 607,
+                "y": 45
+            },
+            "size": {
+                "height": 44,
+                "width": 315
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            230,
+            233,
+            236
+        ],
+        [
+            30,
+            33,
+            36
+        ]
+    ],
+    "desc": "We're ISO, the International Organization for Standardization. We develop and publish International Standards.",
+    "navbar": "Skip to main content",
+    "text": "Skip to main content\n Applications\n OBP\nEnglish\nStandards\nAbout us\nNews\nTaking part\nStore\nSearch\nCircular economy\n  The economy of the future\n  We're ISO, the International Organization for Standardization. We develop and publish International Standards.\nPopular standards\nNet Zero Guidelines\nJust published: A tool for policy makers and all who work towards net zero greenhouse gas emissions for their business, group or country.\nClimate action kit\nThe London Declaration\nThe London Declaration, signed in September 2021, defines ISO’s commitment in supporting the climate agenda.\nCommon questions\nWhat is a standard?\nHow are standards developed?\nWhat are the benefits of standards?\nLooking to get certified?\nISO doesn’t provide certification or conformity assessment. You’ll need to contact an external certification body for that.\nRead more about certification and how to find a certification body.\nISO Store\nAre you looking to buy an ISO Standard?\nVisit our store \nSome of our most popular standards\nDiscover them all \nISO 9000 family — Quality management\nThe ISO 9000 family is the world’s best-known quality management standard for companies and organizations of any size.\nISO 14000 family — Environmental management\nImprove your environmental performance with this family of standards.\nISO/IEC 27001 and related standards — Information security management\nIT security, cybersecurity and privacy protection are vital for companies and organizations today. The ISO/IEC 27000 family of standards keeps them safe.\nLatest news\n6 December 2022\nNew partnership for ISO and ICC\nA new Memorandum of Understanding is set to accelerate opportunities for standards, business and trade.\n1 December 2022\nHow to build sustainable future economies\nLEIs were created following the 2008 economic crisis. Now, these unassuming financial codes are set to help us tackle the climate crisis. \n29 November 2022\nWays to incorporate cyber resilience in your business\nIn an increasingly digital age, and one marked by misinformation and fake news, the big challenge is establishing trust in technology itself.  \n24 November 2022\nDriving ambition for the new economy\nThe circular economy, a sustainable model of production and consumption, is a pillar of climate action. But we’re not taking it nearly seriously enough.\nAll news\nSitemap\nISO name and logo\nPrivacy and copyright\nCookie policy\nJobs\nFAQs\nContact ISO\nGreat things happen when the world agrees\nWe are committed to ensuring that our website is accessible to everyone. If you have any questions or suggestions regarding the accessibility of this site, please contact us.\n© All Rights Reserved\nPowered by\nAre you happy to accept cookies?\nWe use cookies on the ISO website to improve and personalise your browsing experience.\nBy clicking \"Yes, I am happy\" you agree to the use of cookies for analytics, insights and marketing, as described in our Cookies Policy. To reject cookies or manage your cookie preferences click \"Manage my cookies\".\nManage my cookies Yes, I am happy",
+    "font": "\"Inter var ISO\", Arial, Helvetica, system-ui, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(248, 249, 250, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 44,
+                "width": 103
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(227, 0, 15, 1)",
+            "location": {
+                "x": 921,
+                "y": 45
+            },
+            "size": {
+                "height": 44,
+                "width": 47
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Manage my cookies",
+            "bg-color": "rgba(248, 248, 248, 1)",
+            "location": {
+                "x": 636,
+                "y": 674
+            },
+            "size": {
+                "height": 35,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Yes, I am happy",
+            "bg-color": "rgba(227, 0, 15, 1)",
+            "location": {
+                "x": 636,
+                "y": 719
+            },
+            "size": {
+                "height": 35,
+                "width": 232
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        }
+    ]
+}

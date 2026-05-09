@@ -1,0 +1,98 @@
+{
+    "title": "Select Your Location | UPS - United States",
+    "url": "ups.com",
+    "full_url": "https://www.ups.com/us/en/global.page",
+    "images": [
+        {
+            "alt": "UPS Home Page",
+            "location": {
+                "x": 24,
+                "y": 22
+            },
+            "size": {
+                "height": 64,
+                "width": 54
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            129,
+            122,
+            122
+        ],
+        [
+            17,
+            119,
+            118
+        ]
+    ],
+    "desc": "Select a UPS service region to explore solutions for shipping, logistics, and more. ",
+    "navbar": "",
+    "text": "SELECT A REGION\nAfrica\nAsia & Indian Sub-continent\nCaribbean, Central & South America\nEurope\nNorth America\nCanada - English\nCanada - Français\nMexico - English\nMexico - Español\nUnited States - English\nEstados Unidos - Español\nMiddle East\nOceania & Pacific\nProtect Against Fraud Terms and Conditions Website Terms of Use Your California Privacy Rights Privacy Notice Cookie Settings Do Not Sell My Info\nCopyright ©1994- 2022  United Parcel Service of America, Inc. All rights reserved.\nFeedback",
+    "font": "UPSRoboto, Tahoma, helvetica, arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Feedback",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 973,
+                "y": 414
+            },
+            "size": {
+                "height": 72,
+                "width": 37
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1382,
+                "y": 237
+            },
+            "size": {
+                "height": 18,
+                "width": 17
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        }
+    ]
+}

@@ -1,0 +1,246 @@
+{
+    "title": "TinyPNG – Compress WebP, PNG and JPEG images intelligently",
+    "url": "tinypng.com",
+    "full_url": "https://tinypng.com/",
+    "images": [
+        {
+            "alt": "ads via Carbon",
+            "location": {
+                "x": 665,
+                "y": 825
+            },
+            "size": {
+                "height": 100,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ads via Carbon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Smart image resize API",
+            "location": {
+                "x": 674,
+                "y": 1344
+            },
+            "size": {
+                "height": 123,
+                "width": 278
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cut out image detection",
+            "location": {
+                "x": 674,
+                "y": 1539
+            },
+            "size": {
+                "height": 118,
+                "width": 278
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Original file",
+            "location": {
+                "x": 65,
+                "y": 987
+            },
+            "size": {
+                "height": 152,
+                "width": 202
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Compressed transparent PNG file",
+            "location": {
+                "x": 373,
+                "y": 987
+            },
+            "size": {
+                "height": 152,
+                "width": 202
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "file",
+            "location": {
+                "x": 314,
+                "y": -11
+            },
+            "size": {
+                "height": 24,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            55,
+            60,
+            70
+        ],
+        [
+            241,
+            246,
+            248
+        ]
+    ],
+    "desc": "Make your website faster and save bandwidth. TinyPNG optimizes your WebP, PNG and JPEG images by 50-80% while preserving full transparency!",
+    "text": "WEB\nCDN\nPHOTOSHOP\nDEVELOPER API\nTHIRD-PARTY\nANALYZER\nLOGIN\nNew API feature: Convert your images to other formats, like WebP, JPG or PNG. For more information read here.\nDrop your WebP, PNG or JPEG files here!\nUp to 20 images, max 5 MB each.\nLike to compress more?Go Pro!\nSmart WebP, PNG and JPEG compression\nMore than 1 billion WebP, PNG and JPEG images optimized and still counting!\nGet the Web Interface Pro!\nDrag & drop more than 20 files at once and have the 5 MB size limit removed!\nSquarespace is everything you need to sell anything: your brand, products, services, content, or reservations.\nADS VIA CARBON\nPhotoshop 2023 support\nThe plugin is fully compatible with the latest version of Photoshop CC.\nGet Photoshop plugin\nCreate perfect thumbnails\nThe API now resizes images intelligently! Whenever you change the aspect ratio, smart cropping removes the boring bits.\nAnd when cut out images are detected the API will add more background if needed.\nReady made add-ons\nCompress all your images automatically!\nWordPress plugin\nThe active community has also developed many third-party add-ons that you can use.\nCool! Your Animated PNG images will also be optimized\nWe are very happy that Chrome also supports APNG!\nWhat does TinyPNG do?\nTinyPNG uses smart lossy compression techniques to reduce the file size of your WEBP, JPEG and PNG files. By selectively decreasing the number of colors in the image, fewer bytes are required to store the data. The effect is nearly invisible but it makes a very large difference in file size!\nWhy should I use TinyPNG?\nPNG is useful because it’s the only widely supported format that can store partially transparent images. The format uses compression, but the files can still be large. Use TinyPNG to shrink images for your apps and sites. It will use less bandwidth and load faster.\nCan anyone tell the difference?\nExcellent question! Let me give you a side by side comparison. Below are two photos of my cousin. The left image is saved as 24-bit PNG directly from Adobe Photoshop. On the right is the same image processed by TinyPNG. Spot any difference?\nOriginal transparent PNG\nFile size 57 KB\nvs\nShrunk transparent PNG\nFile size 15 KB\nHow does it work?\nExcellent question! When you upload a PNG (Portable Network Graphics) file, similar colors in your image are combined. This technique is called “quantization”. By reducing the number of colors, 24-bit PNG files can be converted to much smaller 8-bit indexed color images. All unnecessary metadata is stripped too. The result better PNG files with 100% support for transparency. Have your cake and eat it too!\nIn the above image the file size is reduced by more than 70%. I have excellent eyesight but can’t spot the difference either! Use the optimized image to save bandwidth and loading time and your website visitors will thank you.\nIs it supported everywhere?\nExcellent question! The files produced by TinyPNG are displayed perfectly on all modern browsers including mobile devices. Still need to support Internet Explorer 6? It normally ignores PNG transparency and displays a solid background color. With TinyPNG the background becomes transparent again. Binary transparency without any workarounds!\nIs it safe to use animated PNG?\nExcellent question! Chrome, Firefox, Safari and now Microsoft Edge all support APNG. Only Interned Explorer does not support the format yet.\nApple added animated stickers to iMessage with the release of iOS 10. If you want to create and compress stickers under 500 KB take a look at the iMessage Panda sticker example on Github.\nWhat about Photoshop?\nExcellent question! Only Photoshop CC 2015 or newer can save images as indexed PNG files with alpha transparency. With other versions it is impossible and Photoshop CS5 cannot even display them properly.\nYou can use Save for Web to export your images as 24-bit transparent PNG files and upload them to TinyPNG. We’ll convert them to tiny indexed PNG files. You can also install the TinyPNG Photoshop plugin. It allows you to scale, preview and save compressed PNG and JPEG images straight from Photoshop.\nWhy did you create TinyPNG?\nExcellent question! We frequently use PNG images, but were frustrated with the load times. We created TinyPNG in our quest to make our own websites faster and more fun to use with the best compression. In 2014 we added intelligent compression for JPEG images and in 2016 we added support for animated PNG. Compressing images with the website is free for everyone and we like to keep it that way! If you like TinyPNG please contribute by making a donation.\nTrusted by thousands of companies around the world\nAskSamsungAmazonWalmartDrinksElectronic ArtsBank of AmericaPetaAirbnbNBC UniversalSonyPrinting.comFlokHertzGrabilityLegoSavings.comBurton\nPhotoshop\nSupport\nEULA\nDeveloper API\nAPI reference\nRuby gem\nPHP library\nNode.js package\nPython package\nJAVA component\n.NET client library\nOfficial add-ons\nWordPress plugin\nZapier (beta)\nThird-party solutions\n\nPage analyzer\n\nBlog\n\nJobs\n\nDonate\n\nEnglish\n/\n简体\nMade by VoormediaBy using this site you accept the terms of use.",
+    "font": "Arial, Helvetica, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(140, 201, 56, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Go Pro!",
+            "bg-color": "rgba(140, 201, 56, 1)",
+            "location": {
+                "x": 540,
+                "y": 330
+            },
+            "size": {
+                "height": 34,
+                "width": 78
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

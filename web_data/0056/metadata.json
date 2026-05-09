@@ -1,0 +1,850 @@
+{
+    "title": "News and Trending Stories Around the Internet | Digg",
+    "url": "digg.com",
+    "full_url": "https://digg.com/",
+    "images": [
+        {
+            "alt": "FIFA World Cup Day 17 Highlights",
+            "location": {
+                "x": 32,
+                "y": 144
+            },
+            "size": {
+                "height": 309,
+                "width": 617
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Essential Carry Kits That Will Actually Fit In Your Bag",
+            "location": {
+                "x": 32,
+                "y": 493
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Keanu Reeves Was Asked If He Considered Himself An Ambassador Of Action Cinema. Here's What He Said",
+            "location": {
+                "x": 360,
+                "y": 493
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tesla's Berlin Hub Can't Hire Enough People, Or Keep Them",
+            "location": {
+                "x": 689,
+                "y": 493
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Why Pneumatic Trash Tubes Aren't A Good Idea",
+            "location": {
+                "x": 32,
+                "y": 1008
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "JFK Assassination Investigator Has Jarring New Claim About Oswald's CIA Involvement",
+            "location": {
+                "x": 360,
+                "y": 1008
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tony Fadell Is Trying To Build The iPod Of Crypto",
+            "location": {
+                "x": 689,
+                "y": 1008
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Forensic Expert Lays Out The Basics Of Investigating A Crime Scene",
+            "location": {
+                "x": 32,
+                "y": 1568
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Preference Of Baths Vs Showers In The US, Mapped",
+            "location": {
+                "x": 360,
+                "y": 1568
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Keep Prying Eyes Away From Your Web Browsing",
+            "location": {
+                "x": 689,
+                "y": 1568
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How Power Grids Restart After Catastrophe",
+            "location": {
+                "x": 32,
+                "y": 2103
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Alex Horne Of 'Taskmaster' Is Always Thinking Up Tasks",
+            "location": {
+                "x": 360,
+                "y": 2103
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Uber's Facial Recognition Is Locking Indian Drivers Out Of Their Accounts",
+            "location": {
+                "x": 689,
+                "y": 2103
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Best Cheap Gifts",
+            "location": {
+                "x": 32,
+                "y": 2633
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Guzheng Artist Performs A Beautiful Cover Of Linkin Park's 'Numb'",
+            "location": {
+                "x": 360,
+                "y": 2633
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Countries With The Highest Inflation, Mapped",
+            "location": {
+                "x": 689,
+                "y": 2633
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Everything You Need To Know About The Most Notorious Type Of Ants",
+            "location": {
+                "x": 32,
+                "y": 3108
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Why Sam Bankman-Fried Isn't In Jail Yet",
+            "location": {
+                "x": 360,
+                "y": 3108
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Tender Portraits Of Pre-Gentrification Boston",
+            "location": {
+                "x": 689,
+                "y": 3108
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How A Woman Raised An Abandoned Squirrel And Nursed It Back Into The Wild",
+            "location": {
+                "x": 32,
+                "y": 3623
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Undergraduate Essay Is About To Die",
+            "location": {
+                "x": 360,
+                "y": 3623
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Cheapest NFL Stadiums To Propose At, Visualized",
+            "location": {
+                "x": 689,
+                "y": 3623
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fun And Useful 'Shark Tank' Products That You Should Have At Home",
+            "location": {
+                "x": 32,
+                "y": 4174
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Guys Who Scam Scammers Explain How To Protect Yourself From Scams",
+            "location": {
+                "x": 360,
+                "y": 4174
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Things People Are Probably Only Pretending To Enjoy, According To Reddit",
+            "location": {
+                "x": 689,
+                "y": 4174
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Best Lego Gifts For The Holidays",
+            "location": {
+                "x": 32,
+                "y": 4661
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Race To Build A Better Twitter",
+            "location": {
+                "x": 360,
+                "y": 4661
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTuber Builds A Working Electric Hovercraft Using Wood, Foam And Duct Tape",
+            "location": {
+                "x": 689,
+                "y": 4661
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sebastian Maniscalco's Worst Ever Stand-Up Gig Was In A Boxing Ring",
+            "location": {
+                "x": 32,
+                "y": 5164
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Way To Solve Family Dinner Is To Embrace Eating Like A Kid",
+            "location": {
+                "x": 360,
+                "y": 5164
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Best James Bond Gadgets Ranked",
+            "location": {
+                "x": 689,
+                "y": 5164
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How To Dutch Cocoa At Home",
+            "location": {
+                "x": 32,
+                "y": 5659
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Best Christmas Action Movies That Aren't 'Die Hard'",
+            "location": {
+                "x": 360,
+                "y": 5659
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Meet ChatGPT, The Viral AI Tool That May Be A Vision Of Our Weird Tech Future",
+            "location": {
+                "x": 689,
+                "y": 5659
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Stephen Colbert Tries Pilk (That's Pepsi And Milk) So You Don't Have To",
+            "location": {
+                "x": 32,
+                "y": 6170
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ordinary People Are Smuggling Millions For Drug Dealers",
+            "location": {
+                "x": 360,
+                "y": 6170
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Help! My In-Laws Ruined The Birth Of My First Child. They're About To Do It Again",
+            "location": {
+                "x": 689,
+                "y": 6170
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fred Armisen Pitches His Alternative To The Oscars Awards Show",
+            "location": {
+                "x": 32,
+                "y": 6685
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter Notifications Breaking In Wake Of Elon Musk's Mass Layoffs",
+            "location": {
+                "x": 360,
+                "y": 6685
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bird Feeders Might Not Be Very Good For Birds",
+            "location": {
+                "x": 689,
+                "y": 6685
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jimmy Kimmel Reacts To Herschel Walker's Consistently Ridiculous Senate Campaign",
+            "location": {
+                "x": 32,
+                "y": 7160
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kanye West Fans On Their Tattoos: 'I Don't Want To Defend Him'",
+            "location": {
+                "x": 360,
+                "y": 7160
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Musk's Neuralink Under Federal Investigation Over Potential Animal-Welfare Violations",
+            "location": {
+                "x": 689,
+                "y": 7160
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Video Captures A Piece Of The Grey Glacier Collapsing",
+            "location": {
+                "x": 32,
+                "y": 7680
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "'I Tried To Cut A Deal With Jeff Bezos To Save My Hometown's Paper Mill And Failed. Here's What I Learned From It'",
+            "location": {
+                "x": 360,
+                "y": 7680
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Why America's Unemployment System Never Gets Fixed",
+            "location": {
+                "x": 689,
+                "y": 7680
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How To Pick The Right Flour For Your Pizza",
+            "location": {
+                "x": 32,
+                "y": 8245
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How We Could Discover Alien Life",
+            "location": {
+                "x": 360,
+                "y": 8245
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Meta Threatens To Remove News From Facebook If US Congress Passes Media Bill",
+            "location": {
+                "x": 689,
+                "y": 8245
+            },
+            "size": {
+                "height": 224,
+                "width": 288
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Your email",
+            "type": "email",
+            "location": {
+                "x": 96,
+                "y": 9073
+            },
+            "size": {
+                "height": 32,
+                "width": 240
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            24,
+            24,
+            24
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "Digg is the homepage of the internet, featuring the best articles, videos, and original content that the web is talking about right now.",
+    "navbar": "Explore Merch\nSubmit Link\nPopular\nVideo Gaming Picks Sports Long Reads Tech Culture Science Relationships",
+    "text": "Explore Merch\nSubmit Link\nPopular\nVideo Gaming Picks Sports Long Reads Tech Culture Science Relationships\nALL EYES ON THE ATLAS LIONS\nFIFA World Cup Day 17 Highlights\nMorocco are on a special run and Portugal just went into top gear.\nDIGG PICKS\nEssential Carry Kits That Will Actually Fit In Your Bag\nPromotion\nDon't be like the Bama Rush TikTok women: here are mini kits that won't break any seams, the bank or your back.\nSTRAIGHT FROM THE HEART\nKeanu Reeves Was Asked If He Considered Himself An Ambassador Of Action Cinema. Here's What He Said\nVideo\nReeves was in Brazil recently to promote his new \"John Wick\" film.\n1\nHMMM\nTesla's Berlin Hub Can't Hire Enough People, Or Keep Them\nwired.co.uk\nThe company's staffing problems have been magnified in Germany, where it is unable to meet targets as more workers head for the exit.\n2\nELI5\nWhy Pneumatic Trash Tubes Aren't A Good Idea\nVideo\nFrom Disney World to New York City's Roosevelt Island, here's why pneumatic trash systems are a subpar option to have, but sometimes the only option that'll work.\n2\nSUCKERS FOR THE TRUTH\nJFK Assassination Investigator Has Jarring New Claim About Oswald's CIA Involvement\nthedailybeast.com\nA prominent Kennedy assassination investigator says the CIA has never disclosed documents proving that Lee Harvey Oswald was involved with the CIA in 1963.\nWHO ASKED FOR THIS\nTony Fadell Is Trying To Build The iPod Of Crypto\nwired.com\nThe product guru made Ledger's new hardware wallet — a tiny vault for digital cash — flashy and fun. Plus, with this gadget you'll never get FTX'd.\nTIL\nForensic Expert Lays Out The Basics Of Investigating A Crime Scene\nVideo\nCrime scene analyst Matthew Steiner answered questions about forensics and crime scenes, including what expert protocol is, how to analyze blood splatter and more.\nGO WITH THE FLOW\nThe Preference Of Baths Vs Showers In The US, Mapped\nThis one's a pretty one-sided affair.\n4\nDIGG PICKS | SPONSORED\nKeep Prying Eyes Away From Your Web Browsing\ngo.digg.com\nYour ISP, nosy roommates and even the government might be interested in what you're doing online. Thankfully, you can protect yourself without spending big with NordVPN.\n1\nA GRID OF CARDS\nHow Power Grids Restart After Catastrophe\nVideo\nSomething that seems like it would be as easy as flipping a switch is far more complex that we all think. Practical Engineering demonstrates the complicated process it takes to get a power grid back up and running after a disaster.\n3\nIT'S LITTLE ALEX HORNE!\nAlex Horne Of 'Taskmaster' Is Always Thinking Up Tasks\ngawker.com\nA chat with the mastermind behind Britain's funniest export.\n2\nPROGRAM FAILURE\nUber's Facial Recognition Is Locking Indian Drivers Out Of Their Accounts\ntechnologyreview.com\nSome people are finding their accounts permanently blocked\nDIGG PICKS\nThe Best Cheap Gifts\nPromotion\nLooking for something nice to give when you're not allowed to spend big? These are some of our favorite affordable picks.\nWOW\nGuzheng Artist Performs A Beautiful Cover Of Linkin Park's 'Numb'\nVideo\nMoyun's cover of the aughts classic is a unique rendition.\n3\nPRICE PRESSURES\nCountries With The Highest Inflation, Mapped\nNearly half of the world's nations are currently experiencing double-digit inflation rates (or higher).\n4\nTHE WORST KIND\nEverything You Need To Know About The Most Notorious Type Of Ants\nVideo\nPolyergus ants have some of the most brutal and hierarchical working systems among their ranks, which is why they're called \"slave-raiding ants.\"\n2\n'CRIMINAL CASES ARE VERY HARD TO MAKE'\nWhy Sam Bankman-Fried Isn't In Jail Yet\nslate.com\nAnd how officials in at least two countries may try to put him there.\n1\n'THE ORANGE LINE'\nTender Portraits Of Pre-Gentrification Boston\nhuckmag.com\nJack Lueders-Booth reflects on capturing the community that lived and worked along the city's busiest railway route during the 1980s.\n'MY MOM HAS TWO SONS: ME AND A SQUIRREL'\nHow A Woman Raised An Abandoned Squirrel And Nursed It Back Into The Wild\nVideo\nTom Krawczyk's mother found an abandoned squirrel in her yard, in Chicago, and raised it like it was her own son. Tom, a filmmaker, documented their heartwarming story.\n2\nSEASONS CHANGE\nThe Undergraduate Essay Is About To Die\ntheatlantic.com\nNobody is prepared for how AI will transform academia.\n3\nPRICEY PROPOSALS\nThe Cheapest NFL Stadiums To Propose At, Visualized\nConsider these costs before you pop the question at a game.\n1\nDIGG PICKS\nFun And Useful 'Shark Tank' Products That You Should Have At Home\nPromotion\nHere are some of the show's most interesting products that we think would make your life a little bit better.\nSCAM SUPPORT\nThe Guys Who Scam Scammers Explain How To Protect Yourself From Scams\nVideo\nAshton Bingham and Art Kulik are well versed in the dark art of scamming.\nI DON'T BUY IT\nThings People Are Probably Only Pretending To Enjoy, According To Reddit\nIn response to a question on r/AskReddit, comments flooded in about the things out there it seems like people only pretend to enjoy, for whatever baffling reasons.\n2\nDIGG PICKS\nBest Lego Gifts For The Holidays\nFrom the International Space Station to Batman to succulents, these are our favorite Lego kits to give as gifts.\n1\nTHINK OUTSIDE THE BIRDHOUSE\nThe Race To Build A Better Twitter\ntheverge.com\nThese platforms are vying to become the next Twitter.\n4\nHIS AIRNESS\nYouTuber Builds A Working Electric Hovercraft Using Wood, Foam And Duct Tape\nVideo\nProject Air's latest innovation is a fully functioning electric hovercraft that was built using minimal equipment.\n1\n'BOWLING AND BLOOD ON THE FLOOR'\nSebastian Maniscalco's Worst Ever Stand-Up Gig Was In A Boxing Ring\nVideo\nComedian Sebastian Maniscalco talks performing stand-up at a less-than-ideal venue.\n1\nYOUNG, WILD AND FREE\nThe Way To Solve Family Dinner Is To Embrace Eating Like A Kid\nromper.com\nInstead of training our kids to eat more like adults, let's train ourselves to eat more like kids.\nTHE REAL Q-ANON\nThe Best James Bond Gadgets Ranked\ndenofgeek.com\nJames Bond would be nothing without Q-Branch, and to prove the point we rank the 10 very best gadgets 007 has used.\n2\nBEAN THERE DONE THAT\nHow To Dutch Cocoa At Home\nVideo\nAdam Ragusea demonstrates how to dutch cocoa at home and what makes it different from natural cocoa.\n1\nIFKYK\nThe Best Christmas Action Movies That Aren't 'Die Hard'\ndenofgeek.com\n\"Die Hard\" might be the ultimate Christmas movie, but there are plenty of options for anyone wanting second helpings.\n3\n'IT IS EASIER TO PRODUCE THAN REFUTE BULLSH*T'\nMeet ChatGPT, The Viral AI Tool That May Be A Vision Of Our Weird Tech Future\ntheguardian.com\nOpenAI's new chatbot isn't a novelty. It's already powerful and useful — and could radically change the way we write online.\n1\n#PILKANDCOOKIES\nStephen Colbert Tries Pilk (That's Pepsi And Milk) So You Don't Have To\nVideo\nName a more cursed combo.\n2\nYIKES\nOrdinary People Are Smuggling Millions For Drug Dealers\nvice.com\nTara Hanlon flew regularly to Dubai and described it as a \"perfect life.\" Then she got caught at Heathrow with $2.32M in vacuum-packed bags.\n1\nWHAT'S IN A NAME?\nHelp! My In-Laws Ruined The Birth Of My First Child. They're About To Do It Again\nslate.com\n\"How do I stop this from happening?\"\n1\nAMBITIOUS\nFred Armisen Pitches His Alternative To The Oscars Awards Show\nVideo\nSomething tells me people won't be tuning in.\nSURPRISE SURPRISE\nTwitter Notifications Breaking In Wake Of Elon Musk's Mass Layoffs\ngizmodo.com\nTwitter co-founder Biz Stone joked about the glitches on Monday.\n1\nOH, OKAY\nBird Feeders Might Not Be Very Good For Birds\nslate.com\nThey will not starve without our help.\n2\nPLS DON'T VOTE FOR THIS MAN\nJimmy Kimmel Reacts To Herschel Walker's Consistently Ridiculous Senate Campaign\nVideo\nOn Tuesday, Georgians will vote in the runoff between Herschel Walker and Raphael Warnock.\n2\nREGRETTABLE\nKanye West Fans On Their Tattoos: 'I Don't Want To Defend Him'\nvice.com\nYe's recent behaviour and antisemitic remarks have got a lot of fans reconsidering their body art.\n1\nGROWING EMPLOYEE DISSENT\nMusk's Neuralink Under Federal Investigation Over Potential Animal-Welfare Violations\nreuters.com\nThe probe comes amid staff complaints that the company's animal testing is being rushed.\n2\nWHOA\nVideo Captures A Piece Of The Grey Glacier Collapsing\nVideo\nVideo footage captured from the Grey Glacier, in the Southern Patagonian Ice Field, shows a chunk of it collapsing.\n9\nA GOOD IDEA ON PAPER\n'I Tried To Cut A Deal With Jeff Bezos To Save My Hometown's Paper Mill And Failed. Here's What I Learned From It'\nbusinessinsider.com\nJustin Vandehey says the demand for high-end paper is on the decline, but pivoting to produce boxes for shipping could save it — with Amazon's help.\n2\nFALLEN BY THE WAYSIDE\nWhy America's Unemployment System Never Gets Fixed\nvox.com\nLayoffs are hitting tech and media. A recession may be looming. What happens to everyone who loses their job?\n3\nFLOUR POWER\nHow To Pick The Right Flour For Your Pizza\nVideo\nA comprehensive comparison of how different types of flours change the way your pizza at home will taste.\nIS THERE LIFE ON MARS?\nHow We Could Discover Alien Life\ntheatlantic.com\nSpace reporter Marina Koren on NASA's plans to travel to the moon, Mars, and Europa — and why it is now studying UAPs.\n2\nBIG TECH VS CONGRESS\nMeta Threatens To Remove News From Facebook If US Congress Passes Media Bill\nnbcnews.com\nThe proposal aims to make it easier for news organizations to negotiate collectively with companies like Facebook.\nx\nThe Best Stories Of The Day, In Your Inbox\nSign up for Digg's morning newsletter, and find out about the most interesting stories of the day before everyone else.\nSubscribe\nAbout FAQ Advertise Community Guidelines\nGet the Digg New Tab Extension\nTerms Privacy © 2022 Digg",
+    "font": "\"Graphik Web\", system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "buttons": [
+        {
+            "text": "Subscribe",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 96,
+                "y": 9113
+            },
+            "size": {
+                "height": 42,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

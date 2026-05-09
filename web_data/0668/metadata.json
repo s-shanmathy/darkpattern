@@ -1,0 +1,419 @@
+{
+    "title": "The Ocean Cleanup",
+    "url": "theoceancleanup.com",
+    "full_url": "https://theoceancleanup.com/",
+    "images": [
+        {
+            "alt": "System 002 deployed in the Great Pacific Garbage Patch",
+            "location": {
+                "x": 0,
+                "y": 3277
+            },
+            "size": {
+                "height": 486,
+                "width": 512
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Interceptor 002 in Klang river, Selangor, Malaysia",
+            "location": {
+                "x": 512,
+                "y": 3277
+            },
+            "size": {
+                "height": 486,
+                "width": 512
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Maersk logo",
+            "location": {
+                "x": 124,
+                "y": 6365
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Deloitte logo",
+            "location": {
+                "x": 124,
+                "y": 6562
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Government of the Netherlands logo",
+            "location": {
+                "x": 437,
+                "y": 6562
+            },
+            "size": {
+                "height": 150,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search for...",
+            "type": "search",
+            "location": {
+                "x": 964,
+                "y": 15
+            },
+            "size": {
+                "height": 44,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 624,
+                "y": 746
+            },
+            "size": {
+                "height": 16,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 624,
+                "y": 811
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 624,
+                "y": 867
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "E-mail address",
+            "type": "email",
+            "location": {
+                "x": 529,
+                "y": 6893
+            },
+            "size": {
+                "height": 40,
+                "width": 310
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 529,
+                "y": 6923
+            },
+            "size": {
+                "height": 40,
+                "width": 26
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            92,
+            200,
+            222
+        ],
+        [
+            13,
+            39,
+            58
+        ]
+    ],
+    "desc": "The Ocean Cleanup is developing and scaling technologies to rid the oceans of plastic. We aim to remove 90% with ocean cleanup systems and river interception technologies.",
+    "navbar": "",
+    "text": "The Ocean Cleanup\nOCEANS\nRIVERS\nDASHBOARD\nUPDATES\nCAREERS\nABOUT\nPRESS\nDONATE\nCOOKIES & PRIVACY\nThis site makes use of third-party cookies. Read more in our privacy policy.\nOptimal\nLimited\nStrictly necessary\nSAVE PREFERENCES\nTHE LARGEST CLEANUP IN HISTORY\nWE DEVELOP AND SCALE TECHNOLOGIES TO RID THE OCEANS OF PLASTIC\nEvery year, millions of tons of plastic enter the oceans, of which the majority spills out from rivers. A portion of this plastic travels to ocean garbage patches, where it gets caught in a vortex of circulating currents alongside plastic from other sources (e.g. offshore fishing activities). If no action is taken, plastic will increasingly impact our ecosystems, health, and economies.\nIllustration of The Ocean Cleanup cleanup process\nWE AIM TO CLEAN UP 90% OF FLOATING OCEAN PLASTIC POLLUTION\nThe Ocean Cleanup is a non-profit organization developing and scaling technologies to rid the oceans of plastic. To achieve this objective, we have to work on a combination of closing the sources of plastic pollution and cleaning up what has already accumulated in the ocean and doesn’t go away by itself. This goal means we plan to put ourselves out of business – once we have completed this project, our work is done.\nCLEANING\nTHE OCEAN\nThe Ocean Cleanup is cleaning up floating plastics caught swirling in the Great Pacific Garbage Patch, a plastic accumulation zone with over 100,000,000 kilograms of plastic.\nLEARN MORE\nINTERCEPTING\nIN RIVERS\nTo clean the oceans, we also need to stop new trash from flowing into them. By tackling 1000 rivers around the world, we can halt 80% of riverine pollution reaching our oceans.\nLEARN MORE\nTHE LATEST NEWS\n29 December\n2022 Recap\nSee on Youtube\n20 December\nOur first Interceptor Barrier in Jamaica is deployed\nSee on Linkedin\n15 December\nSystem 002 Signs Off for 2022 – Redeployment in Spring 2023\nRead the update\nJOIN OUR MISSION\nOur aim is to remove 90 % of floating ocean plastic, which requires global initiative. With the help and support of individuals, corporations and governments all over the world, we aim to realize the mission and work towards a future where plastic no longer pollutes our oceans.\nSUPPORT OUR WORK\nAs a non-profit, donations and in-kind support enable us to work towards our goal of ridding the world's oceans of plastic.\nMake a donation\nPartner with us\nMerchandise\nJOIN THE TEAM\nTo complete one of the most ambitious engineering projects of this generation, we seek dedicated, focused and inventive minds to join our international team.\nJoin our team\nSPREAD OUR MISSION\nThe power of the crowd is what lead to the start of The Ocean Cleanup back in 2013. Follow us on social media to be part of the movement.\nFollow us\n“The Ocean Cleanup is a bold idea to confront the significant challenge of restoring our ocean ecosystem. This is a unique opportunity to profoundly impact our environment, pursuing an ambitious solution to remove plastic waste from our oceans with significant benefits for wildlife, the food chain and community health. ”\nMary Reemst, Chair, Macquarie Group Foundation\nPARTNERS\nThanks to our partners we can clean the oceans.\nSEE ALL PARTNERS\nFOLLOW US\nNEWSLETTER\nTHE OCEAN CLEANUP\nOceans\nSystem 002\nRivers\nDashboard\nMilestones\nUpdates\nGreat Pacific Garbage Patch\nRiver Plastic Pollution Sources\nThe Price Tag of Plastic Pollution\nPlastic Tracker\nABOUT US\nCareers\nAbout\nWaste Management\nResearch\nPress\nMedia gallery\nEnvironment\nScientific Publications\nPodcasts\nPartners\nHELP\nDonate\nMerchandise\nCitizen Science\nFAQ\nContact\nLEGAL\nPrivacy and Cookie Notice\nDisclaimer\nDonation Terms & Conditions\nSupplier Code of Conduct\nFoundation Details\nAmerican Friends of The Ocean Cleanup\n© 2023 The Ocean Cleanup. All rights reserved. THE OCEAN CLEANUP trademarks are registered trademarks, pending registration, or protected under common law, and owned by The Ocean Cleanup Technologies B.V.",
+    "font": "\"Proxima Nova\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 50,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "ABOUT",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 711,
+                "y": 0
+            },
+            "size": {
+                "height": 75,
+                "width": 76
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "PRESS",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 787,
+                "y": 0
+            },
+            "size": {
+                "height": 75,
+                "width": 71
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 964,
+                "y": 59
+            },
+            "size": {
+                "height": 6,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SAVE PREFERENCES",
+            "bg-color": "rgba(1, 203, 225, 1)",
+            "location": {
+                "x": 619,
+                "y": 924
+            },
+            "size": {
+                "height": 55,
+                "width": 360
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 43,
+                "y": 4158
+            },
+            "size": {
+                "height": 54,
+                "width": 54
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 933,
+                "y": 4158
+            },
+            "size": {
+                "height": 54,
+                "width": 54
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 50,
+                "y": 5818
+            },
+            "size": {
+                "height": 44,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 930,
+                "y": 5818
+            },
+            "size": {
+                "height": 44,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 839,
+                "y": 6893
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,619 @@
+{
+    "title": "Motorcycles, Off-road Vehicles, Boats, Outboard Motors & More | Yamaha Motor Corporation, U.S.A.",
+    "url": "yamaha-motor.com",
+    "full_url": "https://yamaha-motor.com/",
+    "images": [
+        {
+            "alt": "Yamaha",
+            "location": {
+                "x": 20,
+                "y": 16
+            },
+            "size": {
+                "height": 24,
+                "width": 112
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Yamaha Hero image",
+            "location": {
+                "x": 0,
+                "y": 57
+            },
+            "size": {
+                "height": 752,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Explore Yamaha",
+            "location": {
+                "x": 0,
+                "y": 180
+            },
+            "size": {
+                "height": 224,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Explore Yamaha",
+            "location": {
+                "x": 484,
+                "y": 634
+            },
+            "size": {
+                "height": 52,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Motorcycles",
+            "location": {
+                "x": 72,
+                "y": 869
+            },
+            "size": {
+                "height": 290,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Side-by-Sides",
+            "location": {
+                "x": 512,
+                "y": 869
+            },
+            "size": {
+                "height": 290,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Yamaha Boats",
+            "location": {
+                "x": 72,
+                "y": 1175
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ATVs",
+            "location": {
+                "x": 512,
+                "y": 1175
+            },
+            "size": {
+                "height": 288,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WaveRunners",
+            "location": {
+                "x": 72,
+                "y": 1479
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Skeeter Boats",
+            "location": {
+                "x": 512,
+                "y": 1479
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Snowmobiles",
+            "location": {
+                "x": 72,
+                "y": 1784
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Outboard Motors",
+            "location": {
+                "x": 512,
+                "y": 1784
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "G3 Boats",
+            "location": {
+                "x": 72,
+                "y": 2090
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Scooters",
+            "location": {
+                "x": 512,
+                "y": 2089
+            },
+            "size": {
+                "height": 290,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Power Products",
+            "location": {
+                "x": 72,
+                "y": 2394
+            },
+            "size": {
+                "height": 290,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bennett Marine",
+            "location": {
+                "x": 512,
+                "y": 2395
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "E-Bikes",
+            "location": {
+                "x": 72,
+                "y": 2700
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Golf Cars",
+            "location": {
+                "x": 512,
+                "y": 2700
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Navi Mobility Systems",
+            "location": {
+                "x": 72,
+                "y": 3005
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SMT Innovations",
+            "location": {
+                "x": 512,
+                "y": 3005
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Yamaha Financial Services",
+            "location": {
+                "x": 72,
+                "y": 3309
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Music & Electronics",
+            "location": {
+                "x": 512,
+                "y": 3309
+            },
+            "size": {
+                "height": 289,
+                "width": 425
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gear & Apparel",
+            "location": {
+                "x": 0,
+                "y": 3967
+            },
+            "size": {
+                "height": 101,
+                "width": 375
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gear & Apparel",
+            "location": {
+                "x": 392,
+                "y": 3876
+            },
+            "size": {
+                "height": 188,
+                "width": 225
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Accessories",
+            "location": {
+                "x": 192,
+                "y": 4398
+            },
+            "size": {
+                "height": 216,
+                "width": 490
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coming soon",
+            "location": {
+                "x": 202,
+                "y": 6367
+            },
+            "size": {
+                "height": 439,
+                "width": 605
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Yamaha Motors US",
+            "location": {
+                "x": 25,
+                "y": 6937
+            },
+            "size": {
+                "height": 48,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Enter email address",
+            "type": "text",
+            "location": {
+                "x": 357,
+                "y": 6792
+            },
+            "size": {
+                "height": 50,
+                "width": 295
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            192,
+            4,
+            36
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "desc": "Your gateway to the industry leading powersports company. From Yamaha motorcycles and off-road vehicles to boats, outboard motors and much more, you'll find them all here.",
+    "navbar": "",
+    "text": "Browse Product Lines\nBrowse Gear & Apparel\nMotorcycles\nSide-by-Sides\nYamaha Boats\nATVs\nWaveRunners\nSkeeter Boats\nSnowmobiles\nOutboard Motors\nG3 Boats\nScooters\nPower Products\nBennett Marine\nE-Bikes\nGolf Cars\nNavi Mobility Systems\nSMT Innovations\nYamaha Financial Services\nMusic & Electronics\nGEAR & APPAREL\nHigh-quality, Yamaha-branded gear and apparel to complete your look.\nBrowse Gear & Apparel\nACCESSORIES\nMake your Yamaha your own.\nBrowse Accessories\nDEALER LOCATOR\nSearch by city, state, or zip code to find an authorized Yamaha dealer near you.\nFind a Dealer\nPARTS CATALOG\nNeed a replacement part? Click below to browse all OEM Yamaha parts.\nBrowse Parts\nCOMING SOON\nA GREATER ADVENTURE\nA new shopping experience with on-site purchasing awaits. Enter your email below to get notified when we're fully up and running.\nThis site uses cookies to ensure the best browsing experience on our website. By continuing to browse this site, you are agreeing to our use of cookies. Find out more\nGOT IT\nNeed help?\nShop now\nInside Yamaha\nOur brands\nPrivacy Policy\nTerms & Conditions\nDo Not Sell My Personal Information\n© 2022 Yamaha Motor Corporation, USA. All rights reserved.\nTop",
+    "font": "\"Noto Sans\", sans-serif",
+    "iframes": [
+        {
+            "title": "Api Service",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1034,
+                "y": 87
+            },
+            "size": {
+                "height": 27,
+                "width": 959
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1034,
+                "y": 204
+            },
+            "size": {
+                "height": 27,
+                "width": 959
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1034,
+                "y": 263
+            },
+            "size": {
+                "height": 27,
+                "width": 959
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Browse Accessories",
+            "bg-color": "rgba(200, 2, 38, 1)",
+            "location": {
+                "x": 407,
+                "y": 4646
+            },
+            "size": {
+                "height": 48,
+                "width": 170
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 616,
+                "y": 6804
+            },
+            "size": {
+                "height": 28,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "GOT IT",
+            "bg-color": "rgba(227, 18, 48, 1)",
+            "location": {
+                "x": 468,
+                "y": 851
+            },
+            "size": {
+                "height": 34,
+                "width": 73
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Top",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 941,
+                "y": 6932
+            },
+            "size": {
+                "height": 48,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

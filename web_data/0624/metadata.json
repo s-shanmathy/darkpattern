@@ -1,0 +1,464 @@
+{
+    "title": "Playbill: Broadway, Off-Broadway, London News, Listings and Tickets | Playbill",
+    "url": "playbill.com",
+    "full_url": "https://playbill.com/",
+    "images": [
+        {
+            "alt": "Playbill Logo",
+            "location": {
+                "x": 406,
+                "y": 19
+            },
+            "size": {
+                "height": 32,
+                "width": 206
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Funny Girl_Broadway_Opening Night_Arrivals_2022_Carolee Carmello_HR",
+            "location": {
+                "x": 149,
+                "y": 261
+            },
+            "size": {
+                "height": 334,
+                "width": 224
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Broadway_Grosses_Graphic_HR",
+            "location": {
+                "x": 393,
+                "y": 454
+            },
+            "size": {
+                "height": 78,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Beautiful Noise_Broadway_Opening Night_2022_Neil Diamond_HR",
+            "location": {
+                "x": 149,
+                "y": 2849
+            },
+            "size": {
+                "height": 224,
+                "width": 224
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jefferson Mays in ﻿A Christmas Carol",
+            "location": {
+                "x": 393,
+                "y": 1844
+            },
+            "size": {
+                "height": 3,
+                "width": 3
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Michael Crawford and Sarah Brightman in The Phantom of the Opera.",
+            "location": {
+                "x": 393,
+                "y": 2619
+            },
+            "size": {
+                "height": 3,
+                "width": 3
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Broadway_Grosses_Graphic_HR",
+            "location": {
+                "x": 393,
+                "y": 3485
+            },
+            "size": {
+                "height": 3,
+                "width": 3
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The_Metropolitan_Opera_Jonathan Tichler_HR.jpg",
+            "location": {
+                "x": 393,
+                "y": 3674
+            },
+            "size": {
+                "height": 3,
+                "width": 3
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "We Will Rock Your_North American Tour_Logo_HR",
+            "location": {
+                "x": 393,
+                "y": 4450
+            },
+            "size": {
+                "height": 3,
+                "width": 3
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "search",
+            "location": {
+                "x": 939,
+                "y": 16
+            },
+            "size": {
+                "height": 44,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email Address",
+            "type": "email",
+            "location": {
+                "x": 164,
+                "y": 2036
+            },
+            "size": {
+                "height": 30,
+                "width": 194
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Zip Code",
+            "type": "text",
+            "location": {
+                "x": 164,
+                "y": 2071
+            },
+            "size": {
+                "height": 30,
+                "width": 94
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 263,
+                "y": 2071
+            },
+            "size": {
+                "height": 30,
+                "width": 94
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Email Address",
+            "type": "email",
+            "location": {
+                "x": 635,
+                "y": 5509
+            },
+            "size": {
+                "height": 30,
+                "width": 240
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Zip Code",
+            "type": "text",
+            "location": {
+                "x": 635,
+                "y": 5544
+            },
+            "size": {
+                "height": 30,
+                "width": 118
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 757,
+                "y": 5544
+            },
+            "size": {
+                "height": 30,
+                "width": 118
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            255,
+            226,
+            59
+        ],
+        [
+            37,
+            37,
+            37
+        ]
+    ],
+    "navbar": "toggle search form",
+    "text": "toggle menu\ntoggle search form\nTODAY’S TOP STORY\nCarolee Carmello, Grace McLean, More Board Broadway's Bad Cinderella\nFEATURED VIDEO\n0 seconds of 15 seconds\nWatch an Exclusive Sneak Peek at The Sound of Music at Paper Mill Playhouse\nMORE VIDEOS\nTOP STORIES\nBROADWAY NEWS\nBroadway's KPOP Sets Abrupt Closing Date\nBy Leah Putnam | December 6, 2022\nThe musical's final performance will be dedicated to the Asian American and Pacific Islanders community.\nGROSSES\nBroadway Grosses Analysis: The Music Man Leads the Parade With a $3 Million Week\nBy Logan Culwell-Block | December 6, 2022\nReceipts fell overall following a Thanksgiving week-high, even as The Phantom of the Opera continues to play to sold-out houses.\nJesse Williams on How Broadway's Take Me Out Is a Critique of Toxic Masculinity\nBy Diep Tran | December 6, 2022\nThe Tony-nominated star steps up to the plate, again, in the encore engagement of Richard Greenberg's play.\nVIDEO\nLea Michele Has Heard From Barbra Streisand About Funny Girl\nBy Logan Culwell-Block | December 6, 2022\nThe Glee star stopped by Late Night With Seth Meyers to share what her idol had to say about taking on the role that made Streisand a worldwide star.\nNATIONAL TOUR NEWS\nBroadway's Into the Woods Revival Will Journey Across the U.S. On Tour\nBy Talaura Harms | December 6, 2022\nMontego Glover, Stephanie J. Block, Sebastian Arcelus, and Gavin Creel are among the cast who will take the show on tour.\nBROADWAY NEWS\nThe New York Times Responds to KPOP Review Controversy\nBy Logan Culwell-Block | December 6, 2022\nThe statement follows a request from the musical's producers for an apology following what they describe as \"casual racism\" in Jesse Green's review.\nBROADWAY NEWS\nSee Neil Diamond Lead the A Beautiful Noise Audience in a 'Sweet Caroline' Singalong on Opening Night\nBy Talaura Harms | December 5, 2022\nPlus, check out photos and a video from the musical's opening night red carpet, including Audra McDonald, Bernadette Peters, Alan Cumming, and more.\nDON'T THROW AWAY YOUR SHOT\nSign up for reopening news, announcements, and exclusive discounts on tickets to your favorite shows!\nPOPULAR LINKS\nBroadway Weekly Schedule\nChristmas Performance Schedule\nNew Year's Performance Schedule\nBroadway COVID-19 Audience Protocols\nBroadway Rush, Lotto & SRO\nOff‑Broadway Rush\nLast Chance: Closing Soon\nUpcoming Broadway Shows\nUpcoming National Tours\nUpcoming Film Adaptations\nUpcoming Live Broadcasts\nCast Recordings\nQuizzes\nMORE LINKS >\nPLAYBILL CLOSE-UP\nSee Neil Diamond Lead the A Beautiful Noise Audience in a 'Sweet Caroline' Singalong on Opening Night\nBy Talaura Harms\nLATEST NEWS\nSPECIAL FEATURES\nHow Jefferson Mays and Michael Arden Turned A Christmas Carol Into an Eerie Ghost Story\nBy Leah Putnam | December 7, 2022\nIn the new Broadway production, Mays plays over 50 characters. Here is how the show’s design team helps him tell the \"mind altering\" tale.\nBROADWAY NEWS\nCarolee Carmello, Grace McLean, More Board Broadway's Bad Cinderella\nBy Logan Culwell-Block | December 7, 2022\nTransferring from London's West End, the new Andrew Lloyd Webber musical will begin a Main Stem run in February.\nREGIONAL NEWS\nWorld Premiere Musical Adaptation of Christmas In Connecticut Opens December 7\nBy Margaret Hall | December 7, 2022\nAmy Corcoran directs the Goodspeed Opera House production, based on the 1945 Warner Bros. film.\nBROADWAY NEWS\nBroadway Real Estate: Current and Future Theatre Bookings\nBy James Miller | December 6, 2022\nKeep track of the shows booked into each Broadway theatre.\nINSIDER INFO\nLongest-Running Shows on Broadway\nBy James Miller | December 6, 2022\nSee where today’s shows stand among the classics.\nBROADWAY NEWS\nBroadway's KPOP Sets Abrupt Closing Date\nBy Leah Putnam | December 6, 2022\nThe musical's final performance will be dedicated to the Asian American and Pacific Islanders community.\nBROADWAY NEWS\nApollo Levine Takes on New Roles in Broadway's MJ the Musical Starting December 6\nBy Andrew Gans | December 6, 2022\nThe Michael Jackson bio-musical continues at the Neil Simon Theatre.\nPHOTO FEATURES\nGo Inside Opening Night of Julia May Jones' Your Own Personal Exegesis\nBy Leah Putnam | December 6, 2022\nTake a look at the opening night photos and video of the world premiere Off-Broadway.\nOBITUARIES\nActor Quentin Oliver Lee Passes Away at 34\nBy Margaret Hall | December 6, 2022\nMr. Lee was an accomplished stage performer, appearing most recently on Broadway in the 2021 revival of Caroline, Or Change.\nGROSSES\nBroadway Grosses Analysis: The Music Man Leads the Parade With a $3 Million Week\nBy Logan Culwell-Block | December 6, 2022\nReceipts fell overall following a Thanksgiving week-high, even as The Phantom of the Opera continues to play to sold-out houses.\nCLASSIC ARTS NEWS\nMichelle Bradley to Replace Latonia Moore in Aida at The Met\nBy Natan Zamansky | December 6, 2022\nMoore has withdrawn from the production due to illness.\nOFF-BROADWAY NEWS\nParker Posey, Aleyse Shannon, David Cale, More Will Star in The New Group's The Seagull/Woodstock, NY\nBy Andrew Gans | December 6, 2022\nScott Elliott will direct the Thomas Bradshaw play, based on the Chekhov classic.\nTHE VERDICT\nReviews: What Are Critics Saying About Orlando Starring Emma Corrin in London's West End?\nBy Leah Putnam | December 6, 2022\nThe Neil Bartlett play about the hero-heroine's journey over five centuries opened at the Garrick Theatre December 5.\nOFF-BROADWAY NEWS\nCast Set for Off-Broadway Return of The Appointment Musical, Addressing Abortion Debate\nBy Andrew Gans | December 6, 2022\nAlice Yorke, Eva Steinmetz, Scott R. Sheppard, and Alex Bechtel's musical will begin performances in January 2023.\nLONDON NEWS\nQueen Jukebox Musical We Will Rock You Will Return to London's West End in 2023\nBy Logan Culwell-Block | December 6, 2022\nThe show premiered in London in 2002 and has since played Las Vegas, Spain, Canada, Germany, and more.\nVIEW MORE NEWS\nVIEW MORE FEATURES\nPHOTOS\nLATEST GALLERIES\nCheck Out Photos of The Far Country at Atlantic Theater Company\nStep Inside Opening Night of Your Own Personal Exegesis at Lincoln Center Theater\nSee Toby Marlow, Lucy Moss, Emma Corrin, More at Opening Night of Orlando\nPrevious\nNext\nMORE PHOTOS\nPLAYBILL SITES\nPlaybill Store\nPlaybill Classic Arts\nPLAYBILLder\nPlaybill Travel\nCONTACT PLAYBILL\nPlaybill Emails\nAdvertise with Playbill\nMagazine Subscription\nRSS\nSite Map\nPrivacy Policy\nCareers at Playbill\nContact Us\nFOLLOW PLAYBILL NOW\nDON'T THROW AWAY YOUR SHOT\nSign up for reopening news, announcements, and exclusive discounts on tickets to your favorite shows!\nCOPYRIGHT 1991-2022 © PLAYBILL INC. ALL RIGHTS RESERVED.",
+    "font": "\"Roboto Condensed\", ui-sans-serif, system-ui, -apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(80, 80, 80, 0.8)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 114,
+                "y": 4954
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 855,
+                "y": 4954
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

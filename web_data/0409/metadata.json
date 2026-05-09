@@ -1,0 +1,119 @@
+{
+    "title": "McCallum Theatre | Music, Theater & Comedy Shows in Palm Desert",
+    "url": "mccallumtheatre.com",
+    "full_url": "https://www.mccallumtheatre.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "SEARCH",
+            "type": "text",
+            "location": {
+                "x": 819,
+                "y": 77
+            },
+            "size": {
+                "height": 19,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "image",
+            "location": {
+                "x": 960,
+                "y": 75
+            },
+            "size": {
+                "height": 23,
+                "width": 13
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            128,
+            128,
+            128
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            117,
+            25,
+            31
+        ]
+    ],
+    "desc": "Experience a full season of diverse performing arts at McCallum Theater in Palm Desert, California. Official Ticket Source. Explore the 2022-2023 Season. ",
+    "navbar": "PURCHASE TICKETS DONATE NOWCALENDARVISITSIGNUPEMPLOYMENT OPPORTUNITIESLOG INTO YOUR ACCOUNT\nSHOWS\nEDUCATION\nGIVING\nMUSES\nVOLUNTEER\nABOUT",
+    "text": "PURCHASE TICKETS DONATE NOWCALENDARVISITSIGNUPEMPLOYMENT OPPORTUNITIESLOG INTO YOUR ACCOUNT\nSHOWS\nEDUCATION\nGIVING\nMUSES\nVOLUNTEER\nABOUT\nPrevious\nNext\nFEATURED:\n\n\n\n\n\n\n\n\n\nGET MORE FROM McCallum Theatre\nClick here to sign up for email notifications on added shows, special events,\nand other news.",
+    "font": "Raleway, Tahoma, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://5221317.fls.doubleclick.net/activityi;src=5221317;type=;cat=;qty=1;cost=[Revenue];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=[OrderID]?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 52,
+                "width": 54
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 722,
+                "y": 31
+            },
+            "size": {
+                "height": 39,
+                "width": 37
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

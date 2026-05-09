@@ -1,0 +1,456 @@
+{
+    "title": "Home - Partnership on AI",
+    "url": "partnershiponai.org",
+    "full_url": "https://partnershiponai.org/",
+    "images": [
+        {
+            "alt": "logo",
+            "location": {
+                "x": 32,
+                "y": 22
+            },
+            "size": {
+                "height": 48,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 48,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 8,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            234,
+            234,
+            234
+        ],
+        [
+            233,
+            233,
+            233
+        ],
+        [
+            237,
+            139,
+            118
+        ]
+    ],
+    "navbar": "",
+    "text": "Partnership on AI is bringing together diverse voices from across the AI community\nTo create resources for advancing positive outcomes for people and society.\nImproving Conditions for Data Enrichment Workers\nPAI is sharing a set of resources AI organizations can use to formalize their data enrichment practices and have a positive impact on the lives of data enrichment workers.\nRead More\nDrawing From Worker Insights to Chart a Better Path for Workplace AI\nDrawing from an international study of on-the-job experiences with AI, PAI's new report identifies ways that AI is impacting job quality and what can be done so that everyone benefits.\nRead More\nImproving Documentation in Practice: Our First ABOUT ML Pilot\nFor our first ABOUT ML Pilot, PAI worked with a European startup to identify opportunities to make its documentation framework even more effective in practice.\nRead More\nThe Partnership on AI Response to the Federal Trade Commission’s Advance Notice of Proposed Rulemaking on Commercial Surveillance and Data Security\nRead More\nMaking It Easier to Compare the Tools for Explainable AI\nMany AI/ML practitioners use XAI tools to develop responsible AI systems. But picking the right tool can be a challenge. To address this problem, PAI is building an XAI Toolsheet to compare tools easily.\nRead More\nMaking AI Inclusive: 4 Guiding Principles for Ethical Engagement\nPAI’s latest white paper shares strategies for understanding and overcoming the challenges related to engaging stakeholders in inclusive AI/ML practices.\nRead More\nWe are a non-profit community of academic, civil society, industry, and media organizations addressing the most important and difficult questions concerning the future of AI.\nStories of Impact\nBy creating actionable resources for the AI community, PAI translates critical insights into positive impact on the world\nInvestigating Challenges to Diversity in AI\nWorking in partnership with DeepMind, PAI researchers launched a study to investigate high attrition rates among women and minoritized individuals in tech.\nEXPLORE\nRecommendations in Practice: Meta Researchers Apply PAI Guidance\nWhile developing the language model OPT-175B, Meta AI wanted to ensure transparency, responsibility, and reproducibility were at the forefront. To do so, they turned to PAI for guidance.\nEXPLORE\nTaking a Methodical Approach to Best Practices\nPAI worked with First Draft to support information integrity, investigating what works (and what does not) when addressing deceptive content online.\nEXPLORE\nLearn More About Our Impact   EXPLORE\nOur Work\nCurrently organized under Programs, our work contributes to the rigorous development of resources, recommendations, and best practices for AI.\nInclusive Research & Design\nInclusive Research & Design\nAt PAI, equity and inclusion are core values which we seek to promote among our Partner organizations, in our own work, and throughout the greater AI field, including in machine learning and other automated decision-making systems. This Program explores the many barriers to inclusion in the AI space — as experienced by those who work in technology and those who are consistently excluded from key decision-making processes.\nThe Inclusive Research and Design Program is currently creating resources to help AI practitioners and impacted communities more effectively engage one another to develop AI responsibly. Ultimately, this work seeks to achieve a more holistic reimagining of how AI is developed and deployed around the world, leading to an AI industry that recognizes end users and impacted communities as essential expert groups.\nLEARN MORE\nLearn More About Our Programs  EXPLORE\nOur Partners\nWith a diverse Partner community drawn from members across the globe, PAI spans sectors, disciplines, and borders.\nBy gathering the leading companies, organizations, and people differently affected by artificial intelligence, PAI establishes a common ground between entities that otherwise may not have cause to work together and—in so doing—serves as a uniting force for good in the AI ecosystem.\nVIEW ALL PARTNERS\n99\nPartners\n14\nCountries\n4\nMedia\n12\nIndustry\n27\nAcademic\n56\nNon-profit\nLatest Updates\nBlog\nGeneral PAI/Other\nPAI Response to the FTC’s Advance Notice of Proposed Rulemaking on Commercial Surveillance and Data Security\nPAI Staff\nNov 30, 2022\nResearch And Publications\nAI, Labor, and the Economy/Responsible Sourcing Across the Data Supply Line\nImproving Conditions for Data Enrichment Workers\nPAI Staff\nNov 16, 2022\nBlog\nAI, Labor, and the Economy/Responsible Sourcing Across the Data Supply Line\nPAI and DeepMind Collaborate to Develop Tools for Sourcing Enriched Data Responsibly\nSonam Jindal, Hudson Hongo\nNov 16, 2022\nOUR WORK\nRESOURCES\nEVENTS\nABOUT US\nPARTNERS\n© 2022 Partnership on AI | All Rights Reserved\nTransparency and Governance Privacy Policy",
+    "font": "Karla",
+    "iframes": [
+        {
+            "title": "reCAPTCHA",
+            "src": "https://www.google.com/recaptcha/api2/anchor?ar=1&k=6Ldq0mYcAAAAAL2K9UipmK2s26XW7XBZ7k7CMCy7&co=aHR0cHM6Ly9wYXJ0bmVyc2hpcG9uYWkub3JnOjQ0Mw..&hl=en&v=pn3ro1xnhf4yB8qmnrhh9iD2&size=invisible&cb=gtklz4i14d7t",
+            "location": {
+                "x": 939,
+                "y": 826
+            },
+            "size": {
+                "height": 60,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 49, 179, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Inclusive Research & Design",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 32,
+                "y": 2966
+            },
+            "size": {
+                "height": 40,
+                "width": 945
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(209, 116, 102, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(241, 241, 241, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(241, 241, 241, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(241, 241, 241, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(241, 241, 241, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 891,
+                "y": 4523
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 941,
+                "y": 4523
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

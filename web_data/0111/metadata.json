@@ -1,0 +1,130 @@
+{
+    "title": "Open WhatsApp",
+    "url": "api.whatsapp.com",
+    "full_url": "https://api.whatsapp.com/",
+    "images": [
+        {
+            "alt": "WhatsApp Main Page",
+            "location": {
+                "x": 32,
+                "y": 24
+            },
+            "size": {
+                "height": 39,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "WhatsApp Main Page",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            35,
+            46,
+            58
+        ],
+        [
+            23,
+            129,
+            115
+        ]
+    ],
+    "desc": "WhatsApp Messenger: More than 2 billion people\n          in over 180 countries use WhatsApp to stay in touch with friends and\n          family, anytime and anywhere. WhatsApp is free and offers simple, secure,\n          reliable messaging and calling, available on phones all over the world.",
+    "text": "WHATSAPP WEB\nFEATURES\nDOWNLOAD\nPRIVACY\nHELP CENTER\nEN\nOpen WhatsApp\nCHAT\nDon't have WhatsApp yet?\nDownload\nWHATSAPP\nFeatures\nDownload\nWhatsApp Web\nBusiness\nPrivacy\nCOMPANY\nAbout\nCareers\nBrand Center\nGet in touch\nBlog\nWhatsApp Stories\nDOWNLOAD\nMac/PC\nAndroid\niPhone\nHELP\nHelp Center\nTwitter\nFacebook\nCoronavirus\n2022 © WhatsApp LLC\nPrivacy & Terms",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Open Sans\", \"Helvetica Neue\", sans-serif",
+    "buttons": [
+        {
+            "text": "EN",
+            "bg-color": "rgba(18, 140, 126, 1)",
+            "location": {
+                "x": 920,
+                "y": 32
+            },
+            "size": {
+                "height": 26,
+                "width": 57
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

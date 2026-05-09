@@ -1,0 +1,48 @@
+{
+    "title": "Instergram.com",
+    "url": "instergram.com",
+    "full_url": "https://instergram.com/",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            38,
+            38,
+            38
+        ],
+        [
+            0,
+            28,
+            124
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "See relevant content for Instergram.com",
+    "text": "INSTERGRAM.COM\nCopyright © 2022|Privacy Policy",
+    "font": "sans-serif, Arial",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://www.google.com/afs/ads?adtest=off&psid=7049491253&pcsa=false&channel=pid-bodis-gcontrol85%2Cpid-bodis-gcontrol47%2Cpid-bodis-gcontrol317%2Cpid-bodis-gcontrol152%2Cpid-bodis-gcontrol469&client=dp-bodis31_3ph&r=m&hl=en&max_radlink_len=50&type=3&uiopt=false&swp=as-drid-2763825634466578&oe=UTF-8&ie=UTF-8&fexp=21404%2C17300002&format=r3&nocache=9211670606290659&num=0&output=afd_ads&domain_name=instergram.com&v=3&bsl=8&pac=2&u_his=50&u_tz=-480&dt=1670606290696&u_w=1920&u_h=1080&biw=1024&bih=900&psw=1008&psh=77&frm=0&cl=493016327&uio=-&cont=rs&jsid=caf&jsv=493016327&rurl=https%3A%2F%2Finstergram.com%2F&adbw=master-1%3A1008",
+            "location": {
+                "x": 137,
+                "y": 144
+            },
+            "size": {
+                "height": 477,
+                "width": 750
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

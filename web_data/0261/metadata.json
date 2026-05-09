@@ -1,0 +1,434 @@
+{
+    "title": "UMB Home - The University of Maryland, Baltimore",
+    "url": "umaryland.edu",
+    "full_url": "https://www.umaryland.edu/",
+    "images": [
+        {
+            "alt": "University of Maryland, Baltimore",
+            "location": {
+                "x": 50,
+                "y": 30
+            },
+            "size": {
+                "height": 96,
+                "width": 365
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Davidge Hall",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "University of Maryland, Baltimore",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 229,
+                "width": 868
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Previous slide",
+            "location": {
+                "x": 8,
+                "y": 380
+            },
+            "size": {
+                "height": 40,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Next slide",
+            "location": {
+                "x": 981,
+                "y": 380
+            },
+            "size": {
+                "height": 40,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brain Area Behaves Like An Internet Router",
+            "location": {
+                "x": 68,
+                "y": 683
+            },
+            "size": {
+                "height": 256,
+                "width": 409
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Use Of Cadmium May Improve Drug Effects",
+            "location": {
+                "x": 532,
+                "y": 683
+            },
+            "size": {
+                "height": 256,
+                "width": 409
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nearly 1,500 Families Served in Annual Thanksgiving Drive",
+            "location": {
+                "x": 68,
+                "y": 1052
+            },
+            "size": {
+                "height": 256,
+                "width": 409
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MD Poison Center Celebrates 50 Years of Service",
+            "location": {
+                "x": 532,
+                "y": 1052
+            },
+            "size": {
+                "height": 256,
+                "width": 409
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Catalyst Lockup",
+            "location": {
+                "x": 68,
+                "y": 1514
+            },
+            "size": {
+                "height": 55,
+                "width": 313
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Strategic Plan 2022-2026",
+            "location": {
+                "x": 514,
+                "y": 1499
+            },
+            "size": {
+                "height": 85,
+                "width": 400
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "People picking up food from the Thanksgiving Drive",
+            "location": {
+                "x": 746,
+                "y": 1777
+            },
+            "size": {
+                "height": 148,
+                "width": 213
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UMB Alerts Emergency Notification System",
+            "location": {
+                "x": 282,
+                "y": 2400
+            },
+            "size": {
+                "height": 45,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mobile UMB App",
+            "location": {
+                "x": 418,
+                "y": 2400
+            },
+            "size": {
+                "height": 45,
+                "width": 89
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UM Shuttle",
+            "location": {
+                "x": 532,
+                "y": 2400
+            },
+            "size": {
+                "height": 45,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Clery Report",
+            "location": {
+                "x": 655,
+                "y": 2405
+            },
+            "size": {
+                "height": 34,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UMB Whistleblower Hotline",
+            "location": {
+                "x": 760,
+                "y": 2400
+            },
+            "size": {
+                "height": 45,
+                "width": 107
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sustainability",
+            "location": {
+                "x": 282,
+                "y": 2466
+            },
+            "size": {
+                "height": 45,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UMB LinkedIn",
+            "location": {
+                "x": 929,
+                "y": 2496
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UMB Facebook",
+            "location": {
+                "x": 888,
+                "y": 2496
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UMB Instagram",
+            "location": {
+                "x": 848,
+                "y": 2496
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UMB Twitter",
+            "location": {
+                "x": 807,
+                "y": 2496
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "UMB Youtube",
+            "location": {
+                "x": 767,
+                "y": 2496
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 798,
+                "y": 33
+            },
+            "size": {
+                "height": 23,
+                "width": 133
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            51,
+            51,
+            51
+        ],
+        [
+            99,
+            99,
+            99
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "The University of Maryland, Baltimore (UMB) is the state’s public health, law, and human services university devoted to excellence in professional and graduate education, research, patient care, and public service.",
+    "navbar": "About UMB\nAcademics\nAdmissions\nResearch\nServices\nUniversity Life\nGive to UMB",
+    "text": "MYUMB DIRECTORY COVID-19 EMERGENCY THE ELM CALENDAR BLACKBOARD SURFS UMB SHUTTLE\nUniversity of Maryland, Baltimore\nIn the event of COVID-19 illness or exposure, report your case and check quarantine guidance here.\nAbout UMB\nAcademics\nAdmissions\nResearch\nServices\nUniversity Life\nGive to UMB\n\nFEATURED\nGetting Together for Founders Week\nStudents, faculty, and staff celebrated UMB Founders Week with a series of events, including the first in-person Student Cookout and Staff Luncheon since 2019.\nUMB\nNEWS\nFUTURE\nSTUDENTS\nCURRENT\nSTUDENTS\nRESEARCHERS &\nENTREPRENEURS\nALUMNI\nPARTNERS\nFACULTY\n& STAFF\nBRAIN AREA BEHAVES LIKE AN INTERNET ROUTER\nDecember 2, 2022\nSTUDYING EFFECT OF CADMIUM ON DRUG RESPONSES\nDecember 2, 2022\nNEARLY 1,500 FAMILIES SERVED IN ANNUAL THANKSGIVING DRIVE\nNovember 24, 2022\nMD POISON CENTER CELEBRATES 50 YEARS OF SERVICE\nNovember 23, 2022\nVISIT THE NEWSROOM\nUMB is a catalyst, promoting social justice, improving health, and serving the public good of Maryland and the region. Now, more than ever, we seek your support to continue this legacy. Visit the Catalyst Campaign website to learn more and consider donating to the cause.\nLearn more about UMB's 2022-2026 strategic plan.\nUPCOMING EVENTS\n< DECEMBER 2022 >\nM T W T F S S\n28 29 30 1 2 3 4\n5 6 7 8 9 10 11\n12 13 14 15 16 17 18\n19 20 21 22 23 24 25\n26 27 28 29 30 31 1\nALL EVENTS\n7\nDEC\nWinter Workshop: Cardmaking\n10 a.m. | Community Engagement Center 16 S. Poppleton St.\nCome learn the basics of linocut and create your own original set of hand-stamped greeting cards. No experience necessary.\n7\nDEC\nCommunity Lunch\nNoon | Community Engagement Center\nJoin us for a free grab 'n go lunch from a local restaurant.\n8\nDEC\nWinter Workshop: Cardmaking\n6 p.m. | Community Engagement Center 16 S. Poppleton St.\nCome learn the basics of linocut and create your own original set of hand-stamped greeting cards. No experience necessary.\n9\nDEC\nCommunity Chess Night\n6 p.m. | Community Engagement Center 16 S. Poppleton St. Baltimore, MD 21201\nJoin us for a family-friendly evening of chess. Coaches from The Board Room Chess will guide players at all levels of play, whether it's your first time or you've been playing for years.\n14\nDEC\nThe Table Dialogue: Spirituality in Graduate and Professional School\nNoon | Virtual - Zoom\nJoin us for an interfaith dialogue on spirituality and its significance while navigating graduate and professional school.\nNEW ON THE ELM\nNearly 1,500 Families Served in UMB Thanksgiving Drive\nThe University partners with the University of Maryland Medical Center and WJZ-TV on the annual drive, raising more than $54,000.\n\n\nFacilities Work Request\nIT Help Desk\nJobs\nParking & Transportation\nUMB Housing\nURecFit\nThe University of Maryland, Baltimore is the founding campus of the University System of Maryland.\n620 W. Lexington St., Baltimore, MD 21201 | 410-706-3100\n© 2021-2022 UNIVERSITY OF MARYLAND, BALTIMORE. ALL RIGHTS RESERVED.\nSITE MAP\nPRIVACY\nWEB ACCESSIBILITY\nWEB FEEDBACK\nNON-DISCRIMINATION\nCORE VALUES",
+    "font": "arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 931,
+                "y": 33
+            },
+            "size": {
+                "height": 23,
+                "width": 28
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ]
+}

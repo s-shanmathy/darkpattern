@@ -1,0 +1,100 @@
+{
+    "title": "BloombergNEF",
+    "url": "bnef.com",
+    "full_url": "https://about.bnef.com/",
+    "images": [
+        {
+            "alt": "BloombergNEF",
+            "location": {
+                "x": 22,
+                "y": 51
+            },
+            "size": {
+                "height": 21,
+                "width": 143
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Type your search keywords here...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 60,
+                "width": 905
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 939,
+                "y": 30
+            },
+            "size": {
+                "height": 60,
+                "width": 83
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            71,
+            71,
+            71
+        ]
+    ],
+    "desc": "BloombergNEF is a research organization that helps energy professionals generate opportunities.",
+    "navbar": "PRODUCT\nBLOG\nABOUT\nSUMMITS\nCONTACT\nLOGIN",
+    "text": "Skip to content\nBloomberg the Company & Its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote LoginBloomberg Customer Support\n\n\n\n\n\n\nPRODUCT\nBLOG\nABOUT\nSUMMITS\nCONTACT\nLOGIN\nOpportunities generated.\nBloombergNEF helps you gain a clear perspective on global commodity markets and the technologies driving the transition to a lower-carbon economy.\nCONTACT SALES\nLEARN MORE\nPRIMARY RESEARCH AND DATA\nSUMMITS\nPIONEERS\nThe world is rapidly moving towards a lower-carbon economy. In order to keep up — and even gain an advantage — you need a partner like BloombergNEF (BNEF) that combines insights from industry, finance, and policy. Tackle complex issues with our unbiased research, data and a network of innovators.\nPrimary Research and Data\nFrom quick commentary and short-term views to deep analysis and long-term forecasts, BloombergNEF research is powered by sophisticated datasets and models — and built by analysts and industry experts around the world.\nOur research covers commodities, power, transport, industry, buildings and agriculture sectors as well as cross-cutting technologies and sustainability issues to help business, finance, and government professionals navigate change and make informed decisions.\nBNEF’s research is integrated with the Bloomberg Terminal and complemented by a rich companion website and mobile app.\nSee here for more detail on our product offerings\nDiscover\nfuture scenarios\nfor the energy economy\nReport\nNew Energy Outlook\nExplore\ninnovations\ndriving the transport industry\nReport\nElectric Vehicle Outlook\nTrack\ninvestment\ntrends and deal flow\nReport\nEnergy Transition Investment Trends\nStay on top of emerging\nenergy transition opportunities\nClimatescope\nBNEF Summits\nBNEF Summits have convened leaders in energy, industry, transport, technology, finance and government since 2008. At these events, decision makers are able to generate ideas, deliver fresh insights, and make connections that help them formulate successful strategies, capitalize on technological change and shape a cleaner, more competitive future.\nExplore upcoming Summit events\nBNEF Pioneers\nFor more than a decade, the BNEF Pioneers program has annually identified groups of game-changing technologies or innovations – each with the potential to accelerate global decarbonization and help address climate change.\nPioneers can be innovators serving the energy, transport, materials, manufacturing, consumer and agriculture sectors, or providers of solutions and technologies that help increase understanding of the climate, scale up carbon capture, usage and storage, and promote climate adaptation.\n“We believe it is now more urgent than ever to highlight the technology gaps to reaching net-zero and the entrepreneurs addressing them.”\n– Claire Curry, Selection Committee Co-chair and Global Head of Technology, Industry & Innovation Research at BloombergNEF\nLearn more about the BNEF Pioneers program\nCOMPANY\nProduct\nBlog\nAbout\nContact\nPress\nLANGUAGE\nChinese\nJapanese\nKorean\nFOLLOW\nFacebook\nTwitter\nLinkedIn\nBloombergNEF (BNEF) is a strategic research provider covering global commodity markets and the disruptive technologies driving the transition to a low-carbon economy. Our expert coverage assesses pathways for the power, transport, industry, buildings and agriculture sectors to adapt to the energy transition. We help commodity trading, corporate strategy, finance and policy professionals navigate change and generate opportunities.\n© 2023 Bloomberg Finance L.P. All rights reserved. Privacy | Terms | Disclaimer | 沪ICP备17049401号-4\nWant to learn how we help our clients put it all together? Contact us",
+    "font": "\"BBG CJK\", AvenirNextPForBBG, Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 968,
+                "y": 40
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

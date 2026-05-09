@@ -1,0 +1,83 @@
+{
+    "title": "Cambodia Tribunal Monitor",
+    "url": "cambodiatribunal.org",
+    "full_url": "https://cambodiatribunal.org/",
+    "images": [
+        {
+            "alt": "Cambodia Tribunal Monitor",
+            "location": {
+                "x": 30,
+                "y": 96
+            },
+            "size": {
+                "height": 161,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 769,
+                "y": 106
+            },
+            "size": {
+                "height": 30,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            238,
+            238,
+            238
+        ],
+        [
+            70,
+            98,
+            43
+        ]
+    ],
+    "navbar": "ABOUT US\nFEATURED PROJECTS",
+    "text": "ABOUT US\nFEATURED PROJECTS\nTRIAL OBSERVER\nMULTIMEDIA\nCOMMENTARY\nNEWS\nCOURT FILINGS\nHISTORY\nSupreme Court Chamber Terminates the Case Against Ao An Before the ECCC\nIN HIGHLIGHTS · NEWS · PRESS RELEASES\nPre-Trial Chamber issues its considerations on the appeals against the Co-Investigating Judges’ Closing Orders in Case 004/2\nIN ARTICLES · HIGHLIGHTS · NEWS\nCase 004: Co-Investigating Judges Issue Two Separate Closing Orders in the Case Against Yim Tith\nIN HIGHLIGHTS\nCase 003: Co-Investigating Judges Issue Two Separate Closing Orders in the Case Against Meas Muth\nIN FEATURED · NEWS · PRESS RELEASES\n— 15 FEB, 2020\nCase 004/02: International Co-Prosecutor Moves to Forward Case File 004/02 (Ao An) to the Trial Chamber\nInternational Co-Prosecutor’s Request for All Required Administrative Actions to Be Taken to Forward Case File 004/02 (Ao An) to the[…]\nRead more\nIN FEATURED\n— 4 APR, 2019\nTrial Chamber Publishes the Full Written Judgment in Case 002/02\nPress Release Case 002/02 Judgment (summary) Case 002/02 Judgment (full)\nRead more\nIN FEATURED · MAIN SLIDER POST · PRESS RELEASES · RESOURCES\n— 16 NOV, 2018\nJudgment of Case 002/02 Released: Nuon Chea and Khieu Samphan Sentenced to Life Imprisonment\nPress Release Summary of Judgment  \nRead more\nKHMER ROUGE HISTORY EDUCATION - DOCUMENTATION CENTER OF CAMBODIA\nKHMER ROUGE HISTORY EDUCATION from Makara ouch on Vimeo.\nRECENT NEWS AND UPDATES\nKR Tribunal clears Ao An: SCC ‘terminates’ crimes against humanity charges – Khmer Times\nSupreme Court Chamber Terminates the Case Against Ao An Before the ECCC\nCambodia: Khmer Rouge Henchman Faces Death Behind Bars – Eurasia Review\nECCC dismisses Samphan’s application – Khmer Times\nKhmer Rouge Victims Push for Continuation of May 20 Commemorations – VOA Khmer\nCTM ARCHIVES\nCambodia Tribunal Monitor content created before 2013 can be found in our archives.\nCambodia Tribunal Monitor is a consortium of academic, philanthropic, and non-profit organizations committed to providing public access to the Extraordinary Chambers in the Courts of Cambodia and open discussion throughout the judicial process.\nPRIVACY POLICY\nCONTACT US\n© NORTHWESTERN UNIVERSITY SCHOOL OF LAW CENTER FOR INTERNATIONAL HUMAN RIGHTS AND DOCUMENTATION CENTER OF CAMBODIA",
+    "font": "Oxygen, arial, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://player.vimeo.com/video/157817247",
+            "location": {
+                "x": 689,
+                "y": 422
+            },
+            "size": {
+                "height": 169,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": true
+        }
+    ],
+    "buttons": []
+}

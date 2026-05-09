@@ -1,0 +1,392 @@
+{
+    "title": "International Conference Alerts - ICA | Upcoming Conferences in 2022",
+    "url": "conferencealert.com",
+    "full_url": "https://conferencealert.com/",
+    "images": [
+        {
+            "alt": "international conference alerts",
+            "location": {
+                "x": 55,
+                "y": 105
+            },
+            "size": {
+                "height": 48,
+                "width": 170
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "featured conference organizers",
+            "location": {
+                "x": 21,
+                "y": 528
+            },
+            "size": {
+                "height": 150,
+                "width": 126
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "featured conference organizers",
+            "location": {
+                "x": 189,
+                "y": 528
+            },
+            "size": {
+                "height": 150,
+                "width": 126
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "featured conference organizers",
+            "location": {
+                "x": 357,
+                "y": 528
+            },
+            "size": {
+                "height": 150,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "featured conference organizers",
+            "location": {
+                "x": 525,
+                "y": 528
+            },
+            "size": {
+                "height": 150,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 1215
+            },
+            "size": {
+                "height": 217,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 1452
+            },
+            "size": {
+                "height": 221,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 1692
+            },
+            "size": {
+                "height": 210,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 1923
+            },
+            "size": {
+                "height": 210,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 2153
+            },
+            "size": {
+                "height": 210,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 2383
+            },
+            "size": {
+                "height": 210,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 2613
+            },
+            "size": {
+                "height": 210,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 2844
+            },
+            "size": {
+                "height": 189,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 3053
+            },
+            "size": {
+                "height": 221,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sponsored conferences",
+            "location": {
+                "x": 862,
+                "y": 3294
+            },
+            "size": {
+                "height": 210,
+                "width": 126
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Email ID",
+            "type": "text",
+            "location": {
+                "x": 105,
+                "y": 10
+            },
+            "size": {
+                "height": 27,
+                "width": 273
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Password",
+            "type": "password",
+            "location": {
+                "x": 420,
+                "y": 10
+            },
+            "size": {
+                "height": 27,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 604,
+                "y": 8
+            },
+            "size": {
+                "height": 36,
+                "width": 73
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search here...",
+            "type": "search",
+            "location": {
+                "x": 679,
+                "y": 52
+            },
+            "size": {
+                "height": 30,
+                "width": 258
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search here...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            104,
+            183
+        ],
+        [
+            0,
+            87,
+            152
+        ]
+    ],
+    "desc": "International Conference Alerts (ICA): Find top 10,000 upcoming academic conferences in 2022 in USA, India, Canada, UAE, Ireland, United Arab Emirates, Germany, Nigeria, Thailand, Indonesia, Malaysia, France, Italy, Netherlands, New Zealand",
+    "navbar": "Home\nAbout Us\nConference Partner\nFaq\nContact Us",
+    "text": "Forgot Password\nRegister\nSign In\nAdd Event\nClick here to add your conference to ICA worldwide listing or to create an conference organiser account.\nSubscribe\nClick here to receive free email alerts for academic conferences of your interest.\nHome\nAbout Us\nConference Partner\nFaq\nContact Us\nInternational Conference Alerts - ICA\nThe global online conference alert platform to list, update & promote your upcoming conferences, events, seminars, webinars & international workshops. With over 100,000 registered subscribers, our users come from diverse academic as well as non-academic backgrounds, including industry experts, seasoned professors & research fellow from various universities. Our platform helps conference/event organizers to exclusively promote their event to the right audience; ensuring best ROI. With us, giving out information about your conference/event is just a few clicks away. Join ICA today & get free conference alerts for conferences of your choice!\nREAD MORE\n\n Find International Conferences by Cities \nKabul Paris Mumbai Delhi Hyderabad Pune Sydney Melbourne Brisbane Perth Vienna Dhaka Rio de Janeiro Phnom Penh Vancouver Montreal Toronto Ottawa Beijing Shanghai Chengdu Prague Surabaya Jakarta Kyoto Osaka Tokyo Nagoya Kobe Seoul Al Jahra Kuala Lumpur Malacca Putrajaya Kota Kinabalu Male Kathmandu Muscat Karachi Lahore Manila Doha Moscow Saint Petersburg Jeddah Mecca Riyadh Colombo Taipei Chiang Mai Phuket Bangkok Istanbul Antalya Dubai Abu Dhabi Sharjah Hanoi Bengaluru New York San Francisco Washington D.C. Chicago Los Angeles Denver San Diego Miami New Orleans Las Vegas Amsterdam Port Louis Barcelona Madrid Singapore Budapest Oslo Cape Town Johannesburg Cairo Nairobi Suva Auckland Lae London Edinburgh Glasgow Zurich Stockholm Warsaw Mexico City Dublin Helsinki Berlin Munich Hamburg Frankfurt Athens Rome Venice Milan Bali Tallinn Texas\nConferences By Country\nAsia\nEurope\nOceania\nAfrica\nNorth America\nSouth America\nAsia\nBahrain\nBangladesh\nBhutan\nBrunei Darussalam\nCambodia\nChina\nHong Kong\nIndia\nIndonesia\nIran\nIraq\nIsrael\nJapan\nJordan\nKorea (north)\nKorea (south)\nKuwait\nMalaysia\nMaldives\nMongolia\nMyanmar\nNepal\nOman\nPakistan\nPalestinian Territories\nPhilippines\nQatar\nRussian Federation\nSaudi Arabia\nSingapore\nSri Lanka\nSyria\nTaiwan\nThailand\nTurkey\nUnited Arab Emirates\nUzbekistan\nVietnam\nEurope\nAndorra\nArmenia\nAustria\nBelarus\nBelgium\nBulgaria\nCroatia (Hrvatska)\nCyprus\nCzech Republic\nDenmark\nEstonia\nFinland\nFrance\nGeorgia\nGermany\nGreece\nHungary\nIceland\nIreland\nItaly\nLithuania\nLuxembourg\nMalta\nMonaco\nNetherlands\nNorth Macedonia\nNorway\nPoland\nPortugal\nRomania\nSan Marino\nScotland\nSerbia and Montenegro\nSlovakia\nSlovenia\nSpain\nSweden\nSwitzerland\nUkraine\nUnited Kingdom\nVatican City\nOceania\nAustralia\nFiji\nNew Zealand\nPapua New Guinea\nAfrica\nAlgeria\nEgypt\nEthiopia\nGambia\nGhana\nKenya\nLesotho\nLiberia\nMalawi\nMali\nMauritius\nMorocco\nMozambique\nNamibia\nNiger\nSao Tome and Principe\nSeychelles\nSierra Leone\nSomalia\nSouth Africa\nSudan\nUganda\nZambia\nZimbabwe\nNorth America\nBahamas\nBarbados\nCanada\nCosta Rica\nCuba\nDominica\nDominican Republic\nEl Salvador\nGreenland\nHaiti\nHonduras\nJamaica\nMexico\nPanama\nPuerto Rico\nUnited States of America\nSouth America\nArgentina\nBolivia\nBrazil\nChile\nColombia\nEcuador\nGuyana\nParaguay\nPeru\nSuriname\nUruguay\nVenezuela\nConferences By Topic\nBusiness and Economics\nHealth and Medicine\nMathematics and statistics\nEngineering and Technology\nPhysical and life sciences\nSocial Sciences and Humanities\nEducation\nInterdisciplinary\nRegional Studies\nLaw\nBusiness and Economics\nBanking and finance\nBusiness\nBusiness Ethics\nE-commerce\nEconomics\nHuman Resources\nManagement\nMarketing\nHealth and Medicine\nAlternative Health\nAsthma\nBlood Pressure\nBrain & Nervous System\nCancer\nCardiology\nChildren's Health\nCholesterol\nCold & Flu\nDentistry\nDepression\nDermatology\nDiabetes\nDigestive Disorders\nDisability and Rehabilitation\nEar Nose and Throat Conditions\nEye Health\nFamily Medicine\nFirst Aid & Emergencies\nFood Safety\nGastroenterology\nGerontology\nHeadaches & Migraines\nHealth\nHealthy Living\nHeart Health\nHeartburn & GERD\nInfections\nInfectious diseases\nLung Disease & Respiratory Health\nMedical ethics\nMedicine and Medical Science\nMen's Health\nMental Health\nNeurology\nNursing\nNutrition and Dietetics\nOncology\nOral Health\nOsteoporosis\nPain Management\nPalliative Care\nPregnancy\nPsychiatry\nPublic Health\nRadiology\nSexual Health\nSkin Conditions & Beauty\nSleep Disorders\nSurgery\nThyroid & Metabolism Conditions\nWomen's Health\nMathematics and statistics\nAbstract Algebra\nAlgebraic Structures\nBoolean Algebra\nCategorical\nCommutative Algebra\nComplex Analysis\nCorrelation\nData Collection\nDescriptive Statistics\nGroup Theory\nHomological Algebra\nLinear Algebra\nMathematics\nMultivariate\nOutline Of Algebra\nReciprocity Laws\nRegression Analysis\nRepresentation Theory\nStatistical Inference\nStatistics\nSurvival Analysis\nTime Series\nVector Spaces\nEngineering and Technology\nArchitecture\nArtificial Intelligence\nAviation Technology\nBioinformatics\nBiomedical Engineering\nBiotechnology\nComputer software and applications\nComputing\nData Mining\nDesign\nElectronics and Electrical\nEnergy\nEngineering\nForestry\nImage Processing\nIndustrial Engineering\nInformation Technology\nInternet and World Wide Web\nManufacturing\nMechanical\nMilitary\nMining\nNanotechnology and Smart Materials\nNetworking\nPolymers and Plastics\nProduction Engineering\nRenewable Energy\nRobotics\nSmart Materials\nSpace Environment and Aviation Technology\nStructural Engineering\nSystems Engineering\nTransport\nPhysical and life sciences\nAgriculture\nAquaculture\nArchaeology\nAstronomy\nBiodiversity\nBiology\nChemistry\nEarth Sciences\nEcology\nEnvironment\nGenetics\nGIS\nMeteorology\nOceanography\nPhysics\nSoil\nWaste Management\nWater\nSocial Sciences and Humanities\nAnthropology\nArt History\nArts\nEnglish\nHistory\nInformation science\nInterdisciplinary studies\nIslamic Studies\nLanguage\nLinguistics\nLiterature\nLocal Government\nMultidisciplinary Studies\nMuseums and heritage\nMusic\nOccupational Science\nPhilosophy\nPoetry\nPolitics\nPsychology\nReligious studies\nSocial Sciences\nSociology\nEducation\nDistance Education\nE-learning\nHigher Education\nLifelong Learning\nTeaching and Learning\nInterdisciplinary\nChildren and Youth\nCommunications and Media\nComplex Systems\nConflict resolution\nCreativity\nCulture\nDisaster Management\nDiscourse\nFilm studies\nGender studies\nGLBT Studies\nGlobalization\nHIV/AIDS\nHuman Rights\nIdentity\nLeadership\nMemory\nPoverty\nPublic Policy\nSexuality and eroticism\nSpirituality\nSport science\nSustainable development\nTourism\nUrban studies\nViolence\nRegional Studies\nAfrican Language\nAfrican Literature\nAfrican Studies\nAmerican Studies\nAsian Studies\nBuilt Environment\nDevelopment Studies\nEuropean Studies\nHealth Disparity\nHuman Geography\nHuman Geography\nIncome Disparity\nInternational Relations\nLabour Economics\nLiberal Arts education\nLiteracy Perspectives\nMulticulturalism\nPsychology Of Violence\nRacial Equality\nRacial Issues\nLaw\nAccidents & Injuries\nArbitration & Mediation\nBankruptcy & Debt\nCar & Motor Vehicle Accidents\nCivil Rights\nConsumer Issues\nCriminal Law\nDangerous Products\nDivorce & Family Law\nEducation Law\nElder law & Aging\nEmployee's Right\nEstates & Probbate\nHealth Care Law\nImmigration Law\nIntellectual\nInternet Law For The Public\nJustice and legal studies\nLawsuits & Lawyers\nReal Estate\nSecurities Law\nSmall Business\nSocial Security And Retirement\nPage Tags:  Conference Alerts, Conference Alert, Conference Alerts 2022, Conference Alert 2022, Conference 2022, International Conferences, Academic Conferences, International Conference Alerts 2022, Conference Alerts World, Latest Conference Alerts, Upcoming Conferences\nHOME SUBSCRIBE F.A.Q. BLOG CONFERENCE PARTNER ABOUT US CONTACT US TERMS OF USE PRIVACY POLICY SITE MAP COOKIE POLICY\nCopyright © 2022 International Conference Alert - ICA. All Rights Reserved.",
+    "font": "Lato, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 936,
+                "y": 52
+            },
+            "size": {
+                "height": 34,
+                "width": 29
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

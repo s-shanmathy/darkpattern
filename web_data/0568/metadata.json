@@ -1,0 +1,625 @@
+{
+    "title": "American National Standards Institute - ANSI Home",
+    "url": "ansi.org",
+    "full_url": "https://ansi.org/",
+    "images": [
+        {
+            "alt": "Search Icon White",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Close Icon White",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "ANSI Logo on an abstract blue background.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A black businessman typing on a laptop with an American flag on a desk. ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "An illustration of the Earth as a list blue and white globe.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Search Icon",
+            "location": {
+                "x": 944,
+                "y": 82
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "American flag abstract background with white ANSI logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Workcred logo",
+            "location": {
+                "x": 839,
+                "y": 606
+            },
+            "size": {
+                "height": 23,
+                "width": 138
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ANAB logo",
+            "location": {
+                "x": 839,
+                "y": 649
+            },
+            "size": {
+                "height": 75,
+                "width": 138
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Reflections of 2022: Standards and People in Action",
+            "location": {
+                "x": 274,
+                "y": 952
+            },
+            "size": {
+                "height": 224,
+                "width": 290
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ISO, IEC, and ITU December 2022 Listings of Work Items Published",
+            "location": {
+                "x": 588,
+                "y": 952
+            },
+            "size": {
+                "height": 224,
+                "width": 290
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ANSI Releases December Edition of Government Relations and Public Policy Monthly Update",
+            "location": {
+                "x": 902,
+                "y": 952
+            },
+            "size": {
+                "height": 224,
+                "width": 290
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "U.S.-German Standards Panel 2023",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A digital screen showing Covid-19 information and icons.",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Back to top icon",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Twitter logo",
+            "location": {
+                "x": 718,
+                "y": 3727
+            },
+            "size": {
+                "height": 23,
+                "width": 103
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook logo",
+            "location": {
+                "x": 854,
+                "y": 3727
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "LinkedIn logo",
+            "location": {
+                "x": 911,
+                "y": 3727
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "White X icon.",
+            "location": {
+                "x": 963,
+                "y": 3722
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ANSI Logo ",
+            "location": {
+                "x": 36,
+                "y": 3803
+            },
+            "size": {
+                "height": 80,
+                "width": 92
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search ANSI...",
+            "type": "text",
+            "location": {
+                "x": 254,
+                "y": 136
+            },
+            "size": {
+                "height": 47,
+                "width": 559
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            21,
+            40,
+            92
+        ]
+    ],
+    "desc": "The American National Standards Institute - ANSI - facilitates and corrdinates the U.S. voluntary standards and conformity assessment system. ",
+    "navbar": "Home\nAMERICAN NATIONAL STANDARDS\nSTANDARDS COORDINATION\n\nISO\nUSNC / IEC\nINTERNATIONAL TRADE & DEVELOPMENT\nOUTREACH\n\nEDUCATION\nABOUT\nNEWS\nEVENTS\nACCESS STANDARDS\nMEMBERSHIP\nRESOURCE CENTER\nFAQ\nHELP",
+    "text": "Home\nAMERICAN NATIONAL STANDARDS\nSTANDARDS COORDINATION\n\nISO\nUSNC / IEC\nINTERNATIONAL TRADE & DEVELOPMENT\nOUTREACH\n\nEDUCATION\nABOUT\nNEWS\nEVENTS\nACCESS STANDARDS\nMEMBERSHIP\nRESOURCE CENTER\nFAQ\nHELP\nWE FACILITATE\nSTANDARDIZATION SOLUTIONS\nI want to...\nSelect an option\nGO\n\n\n\nTHE AMERICAN NATIONAL STANDARDS INSTITUTE OVERSEES STANDARDS AND CONFORMITY ASSESSMENT ACTIVITIES IN THE UNITED STATES.\nANSI MISSION\nANSI'S ROLES\n ANSI AFFILIATES: \nNEWS\nEVENTS\nLATEST HEADLINES\nScroll through our most recent news articles, opportunities for engagement, and other announcements, at right.\nSEE ALL ANSI NEWS\nPrevious\n1/03/2023\nReflections of 2022: Standards and People in Action\nA new year gives ANSI an opportunity to reflect on some of the ways in which our…\n1/03/2023\nISO, IEC, and ITU December 2022 Listings of Work Items…\nIn an effort to increase stakeholder engagement and collaboration and reduce…\n1/03/2023\nANSI Releases December Edition of Government Relations and…\nThe report is part of the Institute’s ongoing efforts to empower ANSI members with…\nNext\nTHIS WEEK IN\nSTANDARDS DEVELOPMENT\nReview the latest domestic and international standards proposals, documents for public comment, new initiatives, and other opportunities for U.S. stakeholders to get involved.\nSTANDARDS ACTION: ANSI'S WEEKLY COMPILATION OF STANDARDS ACTIVITIES FOR PUBLIC REVIEW\nAMERICAN NATIONAL STANDARD (ANS) PROPOSALS AND APPROVALS\nISO, IEC, & ITU NEW STANDARDS ACTIVITY PROPOSALS\nANSI SEEKS INPUT & PARTICIPATION...\nANSI MEMBER BENEFIT!\nGOVERNMENT RELATIONS & PUBLIC POLICY NEWSLETTER\nThe ANSI Government Relations & Public Policy Monthly Update tracks current legislative and regulatory initiatives of significant relevance to the standardization community, researched and compiled by Mary Saunders, ANSI vice president, government relations. The newsletter features highlights of federal and Congressional activities in priority areas for ANSI's constituents and standardization stakeholders.\nLEARN MORE\n\nANSI BY THE NUMBERS\nPrevious\n\n\n238\nANSI-Accredited Standards Developers\n14,035\nAmerican National Standards\n243\nISO - U.S. Technical Advisory Groups (TAGs)\n171\nIEC - U.S. Technical Advisory Groups (TAGs)\n\n\n\n\nNext\nANSI WELCOMES NEW MEMBERS\nANSI proudly welcomed 11 new members in December 2022.\nSEE WHO JOINED ANSI\nWe use cookies to offer you a better experience and analyze site traffic. By continuing to use this website, you consent to the use of cookies in accordance with our ANSI Privacy Policy.\nDON'T ACCEPT\nACCEPT\nResource Center\nNews\nANSI Webstore\nContact Us\nANSI MEMBERSHIP\nFOLLOW US:\nTerms of Use\nPrivacy Policy\nSitemap\nFeedback\n© 2023 American National Standards Institute (ANSI)",
+    "font": "Oxygen, sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 62,
+                "width": 53
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Select an option",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 239,
+                "y": 478
+            },
+            "size": {
+                "height": 36,
+                "width": 430
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 170,
+                "y": 1330
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 210,
+                "y": 1329
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 468,
+                "y": 3087
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 508,
+                "y": 3087
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.9)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(245, 245, 245, 0.2)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

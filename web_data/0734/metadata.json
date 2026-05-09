@@ -1,0 +1,82 @@
+{
+    "title": "Deal Monk – Just another WordPress site",
+    "url": "dealmonk.net",
+    "full_url": "https://dealmonk.net/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "search",
+            "location": {
+                "x": 94,
+                "y": 914
+            },
+            "size": {
+                "height": 57,
+                "width": 224
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            203,
+            224,
+            216
+        ],
+        [
+            35,
+            42,
+            53
+        ],
+        [
+            249,
+            249,
+            249
+        ]
+    ],
+    "navbar": "Contact us",
+    "text": "Skip to content\nDEAL MONK\nJust another WordPress site\nContact us\nHello world!\nWelcome to WordPress. This is your first post. Edit or delete it, then start writing!\nPublished February 7, 2022\nCategorized as Uncategorized\nSearch\nSearch\nRecent Posts\nHello world!\nRecent Comments\nA WordPress Commenter on Hello world!\nDEAL MONK\nProudly powered by WordPress.",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, Oxygen-Sans, Ubuntu, Cantarell, \"Helvetica Neue\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(40, 48, 61, 1)",
+            "location": {
+                "x": 316,
+                "y": 914
+            },
+            "size": {
+                "height": 57,
+                "width": 129
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "title": "WulfWear Clothing | Unisex Urban Streetwear",
+    "url": "wulfwearclothing.com",
+    "full_url": "https://wulfwearclothing.com/",
+    "images": [
+        {
+            "alt": "WulfWear Clothing",
+            "location": {
+                "x": 452,
+                "y": 23
+            },
+            "size": {
+                "height": 54,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search …",
+            "type": "search",
+            "location": {
+                "x": 152,
+                "y": -1
+            },
+            "size": {
+                "height": 2,
+                "width": 726
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            192,
+            192,
+            192
+        ]
+    ],
+    "navbar": "Home\nShop\nAbout Us",
+    "text": "Home\nShop\nAbout Us\nWULFWEAR CLOTHING\nSHOP NOW\nFeatured Collection\nUnisex Urban Streetwear\n  Here at Wulfwear, we have a vision.\nShop Now\nWear The Wulf\n  We don’t intend to dominate the game but to change it.\nShop Now\nWear The Wulf\nAbout Us\nCustomer Care\nEmail: Wulfwearclothing@outlook.com\nCustomer Service\nShipping Information\nReturns & Exchange\nPrivacy Policy\nTerms and Conditions\nMy Account\nLogin\nCreate Account\nStay Connected\nDesigned by Phased Designs",
+    "font": "Poppins, Helvetica, Arial, Lucida, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

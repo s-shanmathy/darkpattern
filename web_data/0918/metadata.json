@@ -1,0 +1,424 @@
+{
+    "title": "Jobs are our job | Totaljobs",
+    "url": "totaljobs.com",
+    "full_url": "https://www.totaljobs.com/",
+    "images": [
+        {
+            "alt": "Totaljobs Mobile Application",
+            "location": {
+                "x": 54,
+                "y": 1230
+            },
+            "size": {
+                "height": 533,
+                "width": 433
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Totaljobs recruiter site'",
+            "location": {
+                "x": 1000,
+                "y": 202
+            },
+            "size": {
+                "height": 90,
+                "width": 19
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Job title, skill or company",
+            "type": "search",
+            "location": {
+                "x": 42,
+                "y": 321
+            },
+            "size": {
+                "height": 62,
+                "width": 380
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Town, city or postcode",
+            "type": "search",
+            "location": {
+                "x": 444,
+                "y": 321
+            },
+            "size": {
+                "height": 62,
+                "width": 249
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 845,
+                "y": 321
+            },
+            "size": {
+                "height": 63,
+                "width": 134
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Store and / or access information on a device",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Personalised ads and content, ad and content measurement, audience insights and product development",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Display third-party content (social networks, videos)",
+            "type": "checkbox",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 13,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            121,
+            121,
+            121
+        ],
+        [
+            127,
+            127,
+            127
+        ]
+    ],
+    "desc": "At Totaljobs you’re free to find the right job. Search 110000 jobs in the UK. Why not find the right job, right now? It’s waiting for you.",
+    "navbar": "Are you recruiting? Advertise now",
+    "text": "  Are you recruiting? Advertise now\nRegister CV\n  Jobs Companies hiring Career advice Courses New\n\nFreedom is finding the right job. Find yours here.\nWhat\nWhere\n                                                0 miles\n                                                5 miles\n                                                10 miles\n                                                20 miles\n                                                30 miles\n                                             More options\nJobs by location\nJobs in London (38,304)\nCity of London Central London East London South East London Westminster\nSee more…\nJobs in North East (3,930)\nNewcastle-upon-Tyne Hull Middlesbrough Sunderland Grimsby\nSee more…\nJobs in Scotland (7,763)\nGlasgow Edinburgh Aberdeen Glasgow Area Dundee\nSee more…\nJobs in West Midlands (9,620)\nBirmingham Coventry Stoke-On-Trent Wolverhampton Telford\nSee more…\nJobs in Northern Ireland (1,498)\nBelfast Newcastle, County Down Ballymena Newry Omagh\nSee more…\nJobs in Wales (3,671)\nCardiff Swansea Newport Lon Wrexham\nSee more…\nJobs in North West (12,479)\nManchester Liverpool Bolton Preston, Lancashire Warrington, Cheshire\nSee more…\nJobs in Yorkshire (6,944)\nLeeds Sheffield Bradford Doncaster York\nSee more…\nJobs in South East (42,036)\nMilton Keynes Kent Southampton Luton, Bedfordshire Reading\nSee more…\nJobs by sector\nJobs by company\nPopular searches\nEntry level jobs\nPart time jobs\nMore searches\n101,674 job ads | 7,865 companies\nSee all hiring companies\nFind\nSearch for and be recommended\na job you love.\nGet searching\nFirst\nSet up a targeted alert\nand be first to the jobs\nthat matter.\nCreate alert\nFast\nApply in a minute and\naccess saved settings\non any device.\nRegister now\nFound\nDon't just find. Be found.\nPut your CV in front of\ngreat employers.\nUpload CV\nInformed\nDon't go it alone. We've\ngot tips and tools to help\nyou land that job.\nSee what's new\n‘Power app’ your search\nGet instant job notifications\nApply direct from the job app\nSave jobs and searches\n'A great job searching app at last!'\n          Download the job app now\n    Totaljobs\nAbout us\nPrivacy policy\nTerms and Conditions\nCookies\nWork for us\nPress centre\nPartners\nJobseeker\nJobseeker login\nContact us - jobseekers\nSalary Checker\nSalary Planner\nSubmit a company review\nSubmit an agency review\nHelp\nRecruiter\nAdvertise a job\nExisting customer login\nContact us - recruiters\nJobs confidential blog\nRecruiter advice\nRecruit internationally\nMobile app\n        © Copyright and database rights Totaljobs Group Ltd 2023\nWe use cookies\nWe transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the EEA.\nFor this and to be able to use certain services for the purposes listed below, we require your consent. By clicking \"Accept all\", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA\n*, in accordance with Art. 49 (1) (a) UK GDPR. You can change your settings or refuse data processing under \"Settings or reject\". You can change your selection at any time under \"Privacy policy\" at the bottom of the page. For more information, please read our Cookie Policy.\nStore and / or access information on a device\nPersonalised ads and content, ad and content measurement, audience insights and product development\nDisplay third-party content (social networks, videos)\nSettings or reject\nAccept All\nYou can also exercise your right to object to data processing based on legitimate interests under “Privacy policy”.\nPrivacy policy",
+    "font": "TotalSans, Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "about:blank",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 52,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "More options",
+            "bg-color": "rgba(0, 0, 0, 0.7)",
+            "location": {
+                "x": 42,
+                "y": 394
+            },
+            "size": {
+                "height": 36,
+                "width": 120
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

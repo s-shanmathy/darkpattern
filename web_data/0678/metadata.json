@@ -1,0 +1,651 @@
+{
+    "title": "寺岡精工 | POSレジスタ、自動包装機、はかり、ラベルプリンタ",
+    "url": "teraokaseiko.com",
+    "full_url": "https://www.teraokaseiko.com/jp/",
+    "images": [
+        {
+            "alt": "TERAOKA",
+            "location": {
+                "x": 15,
+                "y": 0
+            },
+            "size": {
+                "height": 140,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Select Language",
+            "location": {
+                "x": 533,
+                "y": 11
+            },
+            "size": {
+                "height": 30,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "サービス & クラウド",
+            "location": {
+                "x": -3027,
+                "y": 55
+            },
+            "size": {
+                "height": 337,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "サービス & クラウド",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 620,
+                "width": 640
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "流通小売",
+            "location": {
+                "x": -2241,
+                "y": 55
+            },
+            "size": {
+                "height": 337,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "流通小売",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 620,
+                "width": 640
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "食品製造・加工",
+            "location": {
+                "x": -1721,
+                "y": 55
+            },
+            "size": {
+                "height": 337,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "食品製造・加工",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 620,
+                "width": 640
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "製造・物流",
+            "location": {
+                "x": -918,
+                "y": 55
+            },
+            "size": {
+                "height": 337,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "製造・物流",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 620,
+                "width": 640
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "飲食・専門店",
+            "location": {
+                "x": 4,
+                "y": 55
+            },
+            "size": {
+                "height": 337,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "飲食・専門店",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 620,
+                "width": 640
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "サービス & クラウド",
+            "location": {
+                "x": 1009,
+                "y": 55
+            },
+            "size": {
+                "height": 337,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "サービス & クラウド",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 620,
+                "width": 640
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "流通小売",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 620,
+                "width": 640
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "地球にやさしい量り売り",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "地球にやさしい量り売り",
+            "location": {
+                "x": 40,
+                "y": 3623
+            },
+            "size": {
+                "height": 91,
+                "width": 450
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "DeliousLioタッチパネル券売機",
+            "location": {
+                "x": 520,
+                "y": 3623
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "医院・歯科向け セルフ精算レジ",
+            "location": {
+                "x": 759,
+                "y": 3623
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "キャッシュレス決済サービス「Payoss」",
+            "location": {
+                "x": 40,
+                "y": 3744
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IT導入補助金2022",
+            "location": {
+                "x": 280,
+                "y": 3744
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "お客様専用ヘルプデスク",
+            "location": {
+                "x": 520,
+                "y": 3744
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TERAOKA IoT パッケージ",
+            "location": {
+                "x": 759,
+                "y": 3744
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "寺岡精工のロジスティクスソリューションサイト",
+            "location": {
+                "x": 40,
+                "y": 3864
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TERAOKAのエンジニアリング",
+            "location": {
+                "x": 280,
+                "y": 3864
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TERAOKAグローバル拠点",
+            "location": {
+                "x": 520,
+                "y": 3864
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "寺岡精工の採用情報",
+            "location": {
+                "x": 759,
+                "y": 3864
+            },
+            "size": {
+                "height": 90,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 378,
+                "y": 4865
+            },
+            "size": {
+                "height": 43,
+                "width": 43
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 441,
+                "y": 4865
+            },
+            "size": {
+                "height": 43,
+                "width": 43
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Youtube",
+            "location": {
+                "x": 504,
+                "y": 4865
+            },
+            "size": {
+                "height": 43,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Linkedin",
+            "location": {
+                "x": 569,
+                "y": 4865
+            },
+            "size": {
+                "height": 43,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "日本 - 日本語",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            247,
+            247,
+            247
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "寺岡精工グループの日本サイトです。製品、サービス情報、サポート情報、会社情報、採用情報などをご覧いただけます。",
+    "navbar": "事業分野\n製品情報\nソリューション\nお客様事例\nサステナビリティ\n会社情報\n採用",
+    "text": "お問い合わせ\n日本 - 日本語\n事業分野\n製品情報\nソリューション\nお客様事例\nサステナビリティ\n会社情報\n採用\nPrevious\n生産工場、物流拠点や資材倉庫など様々な現場で、TERAOKAは生産性向上を支援する高精度な機器・システムで総合的なソリューションを提供しています。\nNext\n流通小売 食品製造・加工 製造・物流 飲食・専門店 サービス&クラウド\n製品情報\nSM-6000SSR/SSP\nお客様が迷わない、快適なお買い物\nSDGsにも貢献する次世代のセルフサービススケール\nW-5600SRX\n「TERAOKAの包装技術」が生んだ高速ストレッチ包装機\nボトルスカッシュ (DRV-200)\n収納容量アップ・店舗の作業性・高品質な資源回収をすべて実現\n誰にでも使いやすい大容量型ペットボトル回収機\nShop&Go\n商品をスキャンしながら楽しくショッピング\nお会計はスイスイ快適、30秒でGO！\n電子棚札 ESL\n「サブスクリプション」の電子棚札 (ESL) で\n正確な売価表示と店内の作業効率化を実現\nHC-800FL LL\n新しいラベリングで一歩先へ、ラベルの常識を創る次世代型自動ラベラー\n従来の上下貼りを一新し、C-WrapとTop＆Sideの新しい貼り付け方式\n製品情報一覧\nソリューション\n電子棚札 (ESL) ソリューション\n電子棚札 (ESL) の「サブスクリプション」で、価格表示をさらに正確・効率的に\nクラウド型マルチ決済ソリューション -Payoss-\n簡単・正確・スピーディ！ 進化の続くキャッシュレス決済を1台の端末で。\nライナーレスソリューション\n台紙ごみゼロ。効率アップとコスト削減も実現。\nノントレーパッケージソリューション\n高い鮮度。環境にもやさしい。生鮮食品パッケージの新提案。\nセルフ量り売りソリューション\n楽しく、地球にやさしいセルフサービス量り売り。\nIoTソリューション\n作業員の訪問は不要。「Connected」でマシンは常に最新。\nソリューション一覧\nお客様事例\n農事組合法人サンエスファーム\n【高速ストレッチ包装機『W-5600SRX』】限られた労働力で効率よく商品を生産するために包装機を導入し、生産量の大幅アップを実現\n株式会社斗々屋\n【ゼロ・ウェイスト量り売りソリューション】多品目の量り売りで包装ごみ・フードロスをなくす、日本初のゼロ・ウェイストスーパーを実現\nビオセボン・ジャポン株式会社\n【ペットボトル回収機 ボトルスカッシュ】「ドネーション参加機能」をいち早く実現し、リサイクルループを構築。お客さまと共に取り組むサステナブルの入口として回収機を活用\nお客様事例一覧\nニュース\n2022/12/02 プレスリリース\n大容量モデルのペットボトル回収機「ボトルスカッシュ (DRV-200)」を関東初設置！ ヤオコー川越藤間店で12月1日より稼働開始\n2022/12/01 プレスリリース\n寺岡精工とコネクテッドロボティクスが資本業務提携を締結\n2022/11/30 プレスリリース\n東芝テック株式会社との特許権侵害訴訟における和解成立について\n2022/11/25 ニュースリリース\nお客さま窓口 年末年始休業のご案内\n2022/11/16 ニュースリリース\n[製品情報] ピッキングと重量検品を同時に処理する、計量器内蔵「AIピッキングカート」のページを掲載しました\nニュース一覧\n国内イベント情報\n2022/10/12 - 2022/10/14 東京都\nTOKYO PACK 2022\n2022/09/13 - 2022/09/16 東京都\n国際物流総合展 2022\n2022/09/07 - 2022/09/08 大阪府\nフードストアソリューションズフェア 2022\n2022/07/27 - 2022/07/29 東京都\n第3回 ジャパンベーカリー&スイーツショー\n2022/07/20 - 2022/07/21 愛知県\n東海スーパーマーケットビジネスフェア2022\nイベント一覧（開催中0件）\n事業分野\n流通小売 食品製造・加工 製造・物流 飲食・専門店 サービス & クラウド\n製品情報\n製品分野から探す 製品名から探す キーワード検索\nソリューション\n流通小売（POS、チェックアウト、包装、環境ソリューション など）\n食品製造・加工（ノントレーパッケージ、ラベリングソリューション など）\n製造・物流（ピッキング・仕分け、通販向ソリューション など）\n飲食・専門店（飲食店管理、セルフオーダーソリューション など）\nお客様事例\n流通小売 食品製造・加工 製造・物流 飲食・専門店\nトピックス\nIT導入補助金2022 医院・歯科向けセルフ精算レジ\nサステナビリティ\n製品・サービスづくり 仕組みづくり 企業づくり\n会社情報\n会社概要 アクセス ショールームのご案内 TERAOKAグループ\nサポート\nサプライ商品 自動捕捉式はかりの検定\n採用情報\nお問い合わせ\nプライバシーポリシー サイト利用条件 MSDS(化学物質安全性データシート)の提供について 商標表示について サイトマップ\n国 - 言語の変更\n日本 - 日本語\n© Teraoka Seiko Co., Ltd. All Rights Reserved.\nCookie Settings",
+    "font": "\"Hiragino Kaku Gothic Pro\", メイリオ, Meiryo, \"ＭＳ Ｐゴシック\", \"MS PGothic\", sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://be11f18c8e.cmp-origin.datasign.co/index.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "chat widget",
+            "src": "https://app.hubspot.com/conversations-visitor/21579638/threads/utk/ff579b48378645299ea669131f7d3541?uuid=0b12f0823f134305b14e3a8a17ad0bd4&mobile=false&mobileSafari=false&hideWelcomeMessage=false&hstc=null&domain=teraokaseiko.com&inApp53=false&messagesUtk=ff579b48378645299ea669131f7d3541&url=https%3A%2F%2Fwww.teraokaseiko.com%2Fjp%2F&inline=false&isFullscreen=false&globalCookieOptOut=null&isFirstVisitorSession=true&isAttachmentDisabled=false&enableWidgetCookieBanner=false&isInCMS=false",
+            "location": {
+                "x": 733,
+                "y": 533
+            },
+            "size": {
+                "height": 294,
+                "width": 276
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 156, 132, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 184
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 949,
+                "y": 184
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

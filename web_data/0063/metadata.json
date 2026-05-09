@@ -1,0 +1,782 @@
+{
+    "title": "WFLA – WFLA News Channel 8 On Your Side in Tampa Bay Florida",
+    "url": "wfla.com",
+    "full_url": "https://www.wfla.com/",
+    "images": [
+        {
+            "alt": "VIDEO: Jane Castor interview",
+            "location": {
+                "x": 410,
+                "y": 603
+            },
+            "size": {
+                "height": 55,
+                "width": 55
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "teco3_450633",
+            "location": {
+                "x": 410,
+                "y": 795
+            },
+            "size": {
+                "height": 55,
+                "width": 55
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gas Price Tracker",
+            "location": {
+                "x": 10,
+                "y": 5057
+            },
+            "size": {
+                "height": 83,
+                "width": 649
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Raphael Warnock",
+            "location": {
+                "x": 10,
+                "y": 6945
+            },
+            "size": {
+                "height": 55,
+                "width": 55
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "President Biden",
+            "location": {
+                "x": 10,
+                "y": 7011
+            },
+            "size": {
+                "height": 55,
+                "width": 55
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A $2 banknote",
+            "location": {
+                "x": 10,
+                "y": 7077
+            },
+            "size": {
+                "height": 55,
+                "width": 55
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Next Five",
+            "location": {
+                "x": 699,
+                "y": 1402
+            },
+            "size": {
+                "height": 169,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "get the app",
+            "location": {
+                "x": 709,
+                "y": 3472
+            },
+            "size": {
+                "height": 136,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Get the iOS app",
+            "location": {
+                "x": 715,
+                "y": 3658
+            },
+            "size": {
+                "height": 43,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Get the Android app from Google Play",
+            "location": {
+                "x": 853,
+                "y": 3650
+            },
+            "size": {
+                "height": 58,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Get the iOS Weather app",
+            "location": {
+                "x": 715,
+                "y": 3779
+            },
+            "size": {
+                "height": 43,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Get the Android Weather app from Google Play",
+            "location": {
+                "x": 853,
+                "y": 3771
+            },
+            "size": {
+                "height": 58,
+                "width": 150
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img",
+            "location": {
+                "x": 712,
+                "y": 4786
+            },
+            "size": {
+                "height": 76,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img",
+            "location": {
+                "x": 712,
+                "y": 4983
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "img",
+            "location": {
+                "x": 712,
+                "y": 5185
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 789,
+                "y": 347
+            },
+            "size": {
+                "height": 20,
+                "width": 33
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search",
+            "type": "search",
+            "location": {
+                "x": 822,
+                "y": 337
+            },
+            "size": {
+                "height": 40,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Your email",
+            "type": "text",
+            "location": {
+                "x": 722,
+                "y": 1723
+            },
+            "size": {
+                "height": 44,
+                "width": 254
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            28,
+            28,
+            28
+        ],
+        [
+            11,
+            119,
+            187
+        ],
+        [
+            44,
+            207,
+            244
+        ]
+    ],
+    "desc": "Get your local news from News Channel 8, On Your Side for Tampa Bay, St. Petersburg and central Florida",
+    "navbar": "",
+    "text": "Skip to content\nWFLA\nTAMPA\n73°\nSponsored By\nPrimary Menu\nNews\nTampa Hoy\nVideo\nWeather\n8 On Your Side\nMore\nSearch\nHEADLINES\nFamily pleads for hit-and-run driver to come forward\nPolk County / 36 mins ago\nCoach hurt shielding players from gunfire: lawyer\nFlorida\n4 mins ago\nTampa mayor: Community will meet chief finalists in forums\nHillsborough County\n5 hours ago\nDemocratic Sen. Warnock wins Georgia runoff\nNational\n5 hours ago\nTECO bills rising 11% in January\nHillsborough County\n36 mins ago\nEmail mistakenly approves student loan debt relief\nNational\n5 hours ago\nMORE TOP STORIES\nSt. Pete man attacks child while saying racial slur\nPinellas County\n3 hours ago\nDebris on FL beach believed to be old wooden ship\nFlorida\n36 mins ago\nPlane only reached 135 feet before crash, data shows\nSarasota County\n5 hours ago\nGabby Petito’s parents seek new defendant in lawsuit\nTop Stories\n5 hours ago\nOff-duty first responder saves child on parade float\nPolk County\n5 hours ago\nQUICK LINKS\nMax Defender 8 Radar\nHome for the Holidays\nKindness Day\nRemarkable Women\nMORE TOP STORIES\nVenice plane crash victims are St. Pete family\nSarasota County\n5 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nDriver sought after pedestrian killed in hit-and-run\nPinellas County\n4 hours ago\nPurple Alert issued for woman missing in Tampa\nHillsborough County\n4 hours ago\nWinter Wonder Ride returns to Tampa this weekend\nHillsborough County\n5 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\n911 call released after 2 killed over ‘HOA issues’\nFlorida\n5 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nRare endangered tortoises stolen from Florida zoo\nFlorida\n5 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nZelenskyy is Time magazine’s Person of the Year\nWorld\n22 mins ago\nJudge accepts guilty plea for Steven Lorenzo\nLocal News\n2 hours ago\nNORAD Santa Tracker is live before Christmas\nHome for the Holidays\n1 hour ago\nToday in History: Japan attacks Pearl Harbor\nNational\n4 hours ago\nRead All Top Stories\nLOCAL NEWS\nJudge accepts guilty plea for Steven Lorenzo\nLocal News\n2 hours ago\nPurple Alert issued for woman missing in Tampa\nHillsborough County\n4 hours ago\nWarm, sunny and dry through the weekend\nForecast\n3 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nPlane only reached 135 feet before crash, data shows\nSarasota County\n5 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nDriver sought after pedestrian killed in hit-and-run\nPinellas County\n4 hours ago\nView All Local News\nHOLIDAYS\nNORAD Santa Tracker is live before Christmas\nHome for the Holidays\n1 hour ago\nDavis Islands Toy Drive gets thousands of toys\nHolidays\n1 day ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nRising power costs may jolt Christmas electric bills\nHome for the Holidays\n2 days ago\nKindness Day is December 16\nHome for the Holidays\n2 days ago\nHere’s how holiday lights impact your electric bill\nHolidays\n2 days ago\nView All Holidays\n8 ON YOUR SIDE\nManatee woman back on road after car title controversy\nBetter Call Behnken\n5 hours ago\nO’Connor’s nomination was controversial from the …\n8 On Your Side\n1 day ago\nProtestors gather outside trial of retired Green …\nInvestigations\n1 day ago\nKindness Day is December 16\nHome for the Holidays\n2 days ago\nDriving school workers say they quit over lack of …\nBetter Call Behnken\n4 days ago\nTampa Bay Jan. 6 defendant eager for day in court\nInvestigations\n6 days ago\nTampa Bay mom without SNAP benefits for weeks\n8 On Your Side\n7 days ago\nShow More\nFLORIDA\nCoach hurt shielding players from gunfire: lawyer\nFlorida\n4 mins ago\nRare endangered tortoises stolen from Florida zoo\nFlorida\n5 hours ago\nDebris on FL beach believed to be old wooden ship\nFlorida\n36 mins ago\nMysterious rabbit signs pop up around Florida city\nFlorida\n17 hours ago\nView All Florida\nTop Videos\nPrevious\nWarm, sunny and dry through the weekend\n3 hours ago\n‘Don’t be a coward, come forward’: Family of woman …\n11 hours ago\nWinter Wonder Ride returns to Tampa this weekend\n15 hours ago\nNext\nMore Videos\nWFLA PLUS\nTECO bills rising 11% in January\nHillsborough County\n36 mins ago\n.cls-4{fill:#000;}\nWho is Lee Bercaw, Tampa’s acting police chief\nHillsborough County\n17 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nTampa rents 3rd highest increase in US since COVID\nHillsborough County\n2 days ago\n.cls-4{fill:#000;}\nVideo shows Tampa police chief admitting violations\nLocal News\n1 day ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nDeSantis says no ‘U-turns’ for FL & Disney World\nPolitics\n5 days ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nView All WFLA plus\nTAMPA HOY\nEl delantero belga Hazard se retira del fútbol internacional\nDeportes\n1 min ago\n.cls-5{fill:#fff;fill-rule:evenodd}\nHombre encuentra el cuerpo de su hermano que los …\nNacional\n21 mins ago\n.cls-4{fill:#000;}\nHoy en la Historia: 7 de diciembre, Japón ataca Pearl …\nNacional\n37 mins ago\n.cls-4{fill:#000;}\nEl sitio web de NORAD Santa Tracker está disponible …\nTampa Hoy\n39 mins ago\n.cls-4{fill:#000;}\nJuez acepta declaración de culpabilidad de Steven …\nNoticias Locales\n40 mins ago\n.cls-4{fill:#000;}\nView All Tampa Hoy\nBESTREVIEWS\nPrevious\n12 best gifts for grandparents\nHoliday\n4 hours ago\nBest gifts for young adults\nHoliday\n5 hours ago\n12 best gifts for couples\nHoliday\nNext\nMore reviews\n  IDAHO COLLEGE KILLINGS\nIdaho killings: Sigma Chi house under investigation\nU.S.\nFederal law enforcement warned of attacks on power …\nMORNING IN AMERICA\nUS faces dog flu outbreak\nBANFIELD\nCould cellphone tower info lead to Idaho killer?\nGEORGIA SENATE RUNOFF\nWarnock wins Georgia Senate runoff election\nIDAHO COLLEGE KILLINGS\nIdaho stabbing victim’s injuries ‘significantly more …\nFIND OUT HOW YOU CAN WATCH\nLATEST STORIES FROM THE HILL\nThe Hill’s Morning Report — Georgia Senate victory …\nMorning Report\n3 hours ago\nFive races to watch in 2023\nCampaign\n4 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nBiden’s South Carolina move reignites tensions with …\nState Watch\n4 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nGOP smells blood with wounded Trump  \nSenate\n4 hours ago\n.cls-3{fill:#fff;fill-rule:evenodd}\nAmazon offers $2 a month to see what ads you see\nNews\n15 hours ago\nStay at Hobbiton: ‘Lord of the Rings’ set goes up …\nNews\n17 hours ago\n.cls-5{fill:#fff;fill-rule:evenodd}\nMore from The Hill\nSUBSCRIBE NOW\nBreaking News\nSIGN UP NOW\nno iframe support!\nTRENDING STORIES\nCoach hurt shielding players from gunfire: lawyer\n911 call released after 2 killed over ‘HOA issues’\nMan dies in apparent suicide on I-75, troopers say\nBrother finds body firefighters missed in building\nArchaeologists return to mysterious debris on FL …\nDebris on FL beach believed to be old wooden ship\nFamily pleads for hit-and-run driver to come forward\nEmail mistakenly approves student loan debt relief\nNEWS APP\nWEATHER APP\nDON'T MISS\nRun for Fun: Why running slower is beneficial\nDon't Miss\n20 hours ago\nKindness Day is December 16\nHome for the Holidays\n2 days ago\nTampa Convention Center to host holiday cosplay event\nHillsborough County\n7 days ago\nClearwater couple bring ‘Saucy Rebellion’ to tables\nPinellas County\n1 week ago\nYour state quarter could be worth $55\nNews\n1 week ago\nView All Don't Miss\nHOLIDAY DEALS FROM\nGoPro HERO9\n$349.99\n$293.99\n16% OFF at Amazon\nSEE DEAL\nRead the review\nBLACK+DECKER Mill and Brew Coffee Maker\n$99.99\n$69.98\n30% OFF at Amazon\nSEE DEAL\nRead the review\nNeutrogena Hydro Boost Gel Eye Cream\n$18.59\n$14.97\n19% OFF at Amazon\nSEE DEAL\nRead the review\nBestReviews is reader-supported and may earn an\naffiliate commission. Details\nWFLA News Channel 8 On Your Side in Tampa Bay Florida\nFollow Us\nNews App\nGet the iOS app\nGet the Android app from Google Play\nWeather App\nGet the iOS Weather app\nGet the Android Weather app from Google Play\nWFLA FCC Public File\nWFLA EEO Report\nWTTA FCC Public File\nWTTA EEO Report\nWFLA Children's TV Report\nClosed Captioning\nAdvertise With Us\nWFLA Public File Assistance Contact\nWTTA Children's TV Report\nPrivacy Policy\nTerms Of Use\nCovers\nDo Not Sell My Personal Information\nFCC Applications\nPublic File Assistance Contact\nSubscribe To Push Notifications\nThe Hill\nNewsNation\nBestReviews\nContent Licensing\nNexstar Digital\nJournalistic Integrity\n© 1998 - 2022 Nexstar Media Inc. | All Rights Reserved.\n× Close Ad",
+    "font": "\"Source Sans Pro\", arial, helvetica, verdana, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 23,
+                "width": 29
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Show More",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 10,
+                "y": 3418
+            },
+            "size": {
+                "height": 47,
+                "width": 121
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 16,
+                "y": 4830
+            },
+            "size": {
+                "height": 30,
+                "width": 13
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 640,
+                "y": 4830
+            },
+            "size": {
+                "height": 30,
+                "width": 13
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Previous",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 18,
+                "y": 6096
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Next",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 620,
+                "y": 6096
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "SIGN UP NOW",
+            "bg-color": "rgba(28, 28, 28, 1)",
+            "location": {
+                "x": 722,
+                "y": 1777
+            },
+            "size": {
+                "height": 44,
+                "width": 254
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Subscribe To Push Notifications",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 737,
+                "y": 7661
+            },
+            "size": {
+                "height": 60,
+                "width": 93
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

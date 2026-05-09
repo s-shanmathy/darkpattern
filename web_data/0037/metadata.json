@@ -1,0 +1,610 @@
+{
+    "title": "NFPA",
+    "url": "nfpa.org",
+    "full_url": "https://www.nfpa.org/",
+    "images": [
+        {
+            "alt": "National Fire Prevention Association",
+            "location": {
+                "x": 16,
+                "y": 89
+            },
+            "size": {
+                "height": 87,
+                "width": 600
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2022 Fire Prevention Week",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Knowledge on demand - NFPA LiNK",
+            "location": {
+                "x": 36,
+                "y": 240
+            },
+            "size": {
+                "height": 252,
+                "width": 449
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "E-bikes",
+            "location": {
+                "x": 524,
+                "y": 240
+            },
+            "size": {
+                "height": 252,
+                "width": 449
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lights twinkling in pines",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 533,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Lights twinkling in pines",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 533,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CodeFinder",
+            "location": {
+                "x": 36,
+                "y": 1677
+            },
+            "size": {
+                "height": 252,
+                "width": 449
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ecosystem Assessment",
+            "location": {
+                "x": 524,
+                "y": 1677
+            },
+            "size": {
+                "height": 252,
+                "width": 449
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Family dragging Christmas tree out of a field",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 533,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Family dragging Christmas tree out of a field",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 533,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Order by December 12 to get year-end delivery",
+            "location": {
+                "x": 36,
+                "y": 3428
+            },
+            "size": {
+                "height": 161,
+                "width": 286
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Registration is Open",
+            "location": {
+                "x": 362,
+                "y": 3428
+            },
+            "size": {
+                "height": 161,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CRAIG 1300",
+            "location": {
+                "x": 687,
+                "y": 3428
+            },
+            "size": {
+                "height": 161,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NFPA Online Training",
+            "location": {
+                "x": 687,
+                "y": 5656
+            },
+            "size": {
+                "height": 161,
+                "width": 286
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Xchange",
+            "location": {
+                "x": 871,
+                "y": 6696
+            },
+            "size": {
+                "height": 31,
+                "width": 31
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "National Fire Protection Association",
+            "location": {
+                "x": 24,
+                "y": 6902
+            },
+            "size": {
+                "height": 44,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Code # or Title",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            172,
+            198
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "navbar": "NFPA.orgCatalogNFPA LiNK®Xchange™NFCSS™NFPA Journal®Sparky®\nMore ",
+    "text": "Open navigation\nSkip to main content\nNFPA.orgCatalogNFPA LiNK®Xchange™NFCSS™NFPA Journal®Sparky®\nMore \nTry NFPA LiNK® for Two Weeks\nAccess, share, and collaborate with NFPA LiNK® and put digital codes and standards at your fingertips.\nTRY FREE\nSafety with E-bikes and E-scooters\nE-bikes and e-scooters give riders a lower-cost and eco-friendly way of getting around. But the batteries that power these devices have also been known to catch fire. Learn more about the risks and how to stay safer.\nLEARN MORE\nELECTRICAL\n‘Tis the Season for Electrical Safety\nGive the gift of electrical safety this holiday season and help ensure everyone goes home unharmed at the end of each workday.\nLEARN MORE\nHome Electrical Safety in Winter \nChanges to the exterior and the inside of our homes present both electrical and fire safety risks that can be properly managed through awareness and by following the proper code requirements.\nRead more\nHoliday Outdoor Decorative Lighting \nProtect your family and home by having holiday decorative lights, string lights, and associated wiring inspected by a qualified electrical professional.\nLearn more\nDeck the Halls with Fire Safety \nRisks of fire can be higher during the winter season because of candles, heating, and electrical hazards. Keep your family and loved ones safer with these six tips.\nWatch the video\nCodeFinder®\nGet the insight you need on NFPA codes and standards, right at your fingertips, with NFPA CodeFinder®.\nVISIT CODEFINDER® NOW\nIntroducing the NFPA Fire & Life Safety Ecosystem™ Assessment Tool\nThis free tool not only exposes gaps in hazard protection but also identifies requirements, resources, and practices to help reduce risks to citizens and promote safety.\nLEARN MORE\nPUBLIC EDUCATION\nHoliday Safety\nFestive celebrations, flickering lights and winter greens are hallmarks of the holiday season, but they also present fire risks that can quickly turn this festive time of year into a devastating one.\nLEARN HOW TO KEEP YOUR HOLIDAYS FIRE SAFE\nGift tags \nVideo \nFree tip sheet \nHappy Holidays!\nOur offices will be closed from December 24 - January 2. If you’d like to ensure domestic delivery by December 31, please place your orders with us no later than December 12. We wish you all a happy and safe holiday season and look forward to assisting you in the new year.\nORDER NOW\nRegistration is Open\nWe are looking forward to providing you with unique networking opportunities, 300+ exhibitors, and 100+ education sessions with CEUs available.\nREGISTER NOW\nCommunity Risk Reduction Starts with CRAIG 1300™\nCRAIG 1300 helps keep communities safe by aggregating, assessing, and visually showcasing data in just a few clicks. Get CRAIG 1300 for your state today and enjoy a special Trailblazer discount!\nLEARN MORE\nFROM NFPA JOURNAL\nThe New Foam\nFor decades, aqueous film forming foam, or AFFF, has been the gold standard for extinguishing dangerous liquid fuel fires. Now, with AFFF being rapidly phased out and new firefighting foams being developed, the fire protection world braces for what’s next.\nREAD THE ARTICLE\nRelated article \nResearch \nRelated standard \nFEATURED ONLINE TRAINING SOLUTIONS AND CERTIFICATIONS\nNFPA 101 (2021)\nLive Virtual Training\nLIFE SAFETY CODE® ESSENTIALS\nNFPA 72 (2022)\nLive Virtual Training\nNATIONAL FIRE ALARM AND SIGNALING CODE\nNFPA 13 (2022)\nLive Virtual Training\nDESIGNING AND INSTALLATION OF SPRINKLER SYSTEMS\nNFPA 70 (2023)\nLive Virtual Training\nJOIN LIVE ONLINE- LEARN THE ESSENTIALS OF NFPA 70®\nIntroductory Offer: Electrical Inspection Membership\nFor just $99 a year, qualified electrical inspection professionals can apply for this membership, which includes the 2023 softbound National Electrical Code® (NEC®), and access to the NEC Changes Online Training Series.\nLEARN MORE\nThe Ultimate Companion for Understanding the Changes to the 2023 NEC\nIn partnership with NFPA, the 2023 edition of Mike Holt’s Illustrated Guide to Changes to the National Electrical Code® provides the expert insights and features electrical professionals need to get updated with the latest edition of the code.\nBUY NOW\nOnline Training from NFPA\nAdvance your career and be prepared for what comes next with online learning from NFPA. Learn from expert instructors through interactive courses, and stay ahead of the curve.\nLEARN MORE\nAbout NFPA\nOverview\nLeadership\nCareers\nInternational\nOffices\nDirections\nGrants & Awards\nQuick Links\nCodes & Standards\nNews & Research\nTraining & Events\nPublic Education\nMembership\nCatalog\nNewsletter\nPress Room\nXchange™ (online community)\nNFPA Fire & Life Safety Ecosystem\nNFPA LiNK®\nAlternative Fuel Vehicle Safety\nFree Access\nFire Sprinkler Initiative\nFirewise USA®\nNFCSS\nHelp\nCustomer Support\nAccessibility\nContact Us\nFacebook\nTwitter\nLinkedIn\nYouTube\nXchange\nPinterest\nRSSFeeds\nInstagram\nTerms of Use Privacy Policy © National Fire Protection Association (NFPA) 2022\nWe have updated our privacy policy, which includes information about how we collect, use and share information about you. By using this site, you consent to this policy and use of cookies.\nI Agree\nHow satisfied were you with the National Fire Protection Association website today?\nVery dissatisfied\n5\n4\n3\n2\n1\nVery satisfied\nSubmit\nPowered by Delighted\n×",
+    "font": "Roboto, sans-serif",
+    "buttons": [
+        {
+            "text": "More ",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 923,
+                "y": 10
+            },
+            "size": {
+                "height": 18,
+                "width": 47
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(59, 122, 165, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(59, 122, 165, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "5",
+            "bg-color": "rgba(213, 0, 50, 1)",
+            "location": {
+                "x": 574,
+                "y": 783
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "4",
+            "bg-color": "rgba(213, 0, 50, 1)",
+            "location": {
+                "x": 530,
+                "y": 783
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "3",
+            "bg-color": "rgba(213, 0, 50, 1)",
+            "location": {
+                "x": 484,
+                "y": 783
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "2",
+            "bg-color": "rgba(213, 0, 50, 1)",
+            "location": {
+                "x": 440,
+                "y": 783
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "1",
+            "bg-color": "rgba(213, 0, 50, 1)",
+            "location": {
+                "x": 394,
+                "y": 783
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Submit",
+            "bg-color": "rgba(213, 0, 50, 1)",
+            "location": {
+                "x": 394,
+                "y": 947
+            },
+            "size": {
+                "height": 40,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "×",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 950,
+                "y": 736
+            },
+            "size": {
+                "height": 44,
+                "width": 59
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 800,
+                "y": 388
+            },
+            "size": {
+                "height": 44,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        }
+    ]
+}

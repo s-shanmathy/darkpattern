@@ -1,0 +1,443 @@
+{
+    "title": "THE Journal: Technological Horizons in Education -- THE Journal",
+    "url": "thejournal.com",
+    "full_url": "https://thejournal.com/Home.aspx",
+    "images": [
+        {
+            "alt": "THE Journal",
+            "location": {
+                "x": 80,
+                "y": 24
+            },
+            "size": {
+                "height": 107,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Open Menu",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Close Menu",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 21,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "7 Questions Ed Tech Explainer featuring Edthena CEO Adam Geller about AI Coach",
+            "location": {
+                "x": 34,
+                "y": 721
+            },
+            "size": {
+                "height": 161,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Follow THEjournal.com for news about data breaches impacting K-12 schools and students across the United States",
+            "location": {
+                "x": 34,
+                "y": 994
+            },
+            "size": {
+                "height": 172,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google Future of Education Report Part 1 ",
+            "location": {
+                "x": 34,
+                "y": 1277
+            },
+            "size": {
+                "height": 161,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "STEM Fuse released GAME:IT Advanced coding curriculum",
+            "location": {
+                "x": 34,
+                "y": 1845
+            },
+            "size": {
+                "height": 161,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo for Extra Credit Wins from K12 Schools article series",
+            "location": {
+                "x": 34,
+                "y": 2219
+            },
+            "size": {
+                "height": 161,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo for Expert Viewpoint about maximizing school 1:1 devices",
+            "location": {
+                "x": 34,
+                "y": 2492
+            },
+            "size": {
+                "height": 161,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Logo for 7 Questions Ed Tech Explainer series featuring Branching Minds CEO Maya Gat",
+            "location": {
+                "x": 34,
+                "y": 2765
+            },
+            "size": {
+                "height": 161,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple Learning Coach professional learning program for K-12 educators is accepting applications till Nov 16, 2022",
+            "location": {
+                "x": 34,
+                "y": 3456
+            },
+            "size": {
+                "height": 161,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Teaser image with podcast logo and title Apple Learning Coach episode",
+            "location": {
+                "x": 34,
+                "y": 3750
+            },
+            "size": {
+                "height": 173,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "People on the Move newsmakers in K-12 ed tech",
+            "location": {
+                "x": 34,
+                "y": 4078
+            },
+            "size": {
+                "height": 172,
+                "width": 289
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Infrastructure Solutions Group",
+            "location": {
+                "x": 40,
+                "y": 5624
+            },
+            "size": {
+                "height": 63,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 729,
+                "y": 66
+            },
+            "size": {
+                "height": 36,
+                "width": 193
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 892,
+                "y": 74
+            },
+            "size": {
+                "height": 36,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Email Address*",
+            "type": "text",
+            "location": {
+                "x": 710,
+                "y": 1125
+            },
+            "size": {
+                "height": 32,
+                "width": 260
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 710,
+                "y": 1508
+            },
+            "size": {
+                "height": 32,
+                "width": 260
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 799,
+                "y": 1580
+            },
+            "size": {
+                "height": 29,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            227,
+            245,
+            249
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            35,
+            99,
+            133
+        ]
+    ],
+    "desc": "The education technology news magazine for K-12 district leaders, IT personnel, and administrators",
+    "navbar": "K-12 NEWS\nFEATURES\nOPINION\nRESOURCES\nRESEARCH\nPODCAST\nGRANTS\nNEWSLETTERS",
+    "text": "TRANSFORMING EDUCATION THROUGH TECHNOLOGY\nCONTACT SUBSCRIBE ADVERTISE\nK-12 NEWS\nFEATURES\nOPINION\nRESOURCES\nRESEARCH\nPODCAST\nGRANTS\nNEWSLETTERS\n\nENTER New Product AwardsTutorialsK-12 GrantsResearchSTEMRemote LearningEquityIT\n\nNearly Half of Public Schools Have Open Teaching Positions\nForty-five percent of public schools in the United States had at least one teaching vacancy as of October 2022, with 27% reporting multiple vacancies, according to information released today by the National Center for Education Statistics (NCES). The shortages disproportionately affect schools in areas of high poverty (57% versus 41% in more affluent areas) and in schools with a student body composed of 75% or more minority students (60% versus 32% of schools with 25% or less minority population). Read Full Article\nEd Tech Spotlight\n5 Common Ed Tech RFP Mistakes That Make It Less Effective\n7 Questions with Edthena CEO Adam Geller: How AI Coach Helps Teachers While Providing Autonomy and Privacy\nTexas CIO Report Calls for New Law Requiring K–12 Schools to Report All Cyber Incidents\nNew Report from Global Google Research Project Considers the 'Future of Education'\nThese 5 Proven Methods for Teaching Foundational Literacy are Vital to Overcoming Pandemic Losses\nSTEM Fuse Releases Advanced Game-Design Coding Curriculum for Construct 3 Platform\nHow One School District Accelerated IT Modernization and Reduced IT Project Time by 75%\nThe Teacher Support Program That Kept Growing Even Through the Pandemic\nWhat's Next for 1:1 Devices: Strategies for Maximizing Purchases and Learning Outcomes\n7 Questions About Branching Minds MTSS Platform with CEO Maya Gat\nSXSW EDU Unveils First Half of Lineup for 2023; Emphases Include Diversity, Equity, Student Agency, Teacher Retention\nNew Guide Offers Tips, Case Studies on How to Choose High-Quality Online Teaching, Learning Solutions\nApple Rolls Out iPad Learning App Updates, More Resources for Educators\nHow Apple Learning Coach is Sparking a New Enthusiasm Among Both Educators and Students\nNew Leaders Named at Tools 4 Reading, Newsela, ParentSquare, Age of Learning, DreamBox Learning, GoGuardian, PLTW, City Fund\nRead Our Feature Articles\nNews & Briefs\nEarlyBird Dyslexia Screener and SoapBox Speech Recognition Technology Paired to Help Predict Reading Problems in Young Pre-Readers\nReadSpeaker Adds Text-to-Speech Offerings to Total 245 Languages and 68 Dialects\nReading Horizons Launches Free Online Community for Educators\nFollett Acquires Library Management Provider Access-It\nNearly Half of Public Schools Have Open Teaching Positions\nNational Survey Finds High School Graduates Not Prepared for College or Career Decisions\nTakeda and Discovery Education Partner to Provide Health Equity Education to Grades 6 to 8\nK–12 Grants & Upcoming Events\nInventionland Course and Contest Leads to Product License for Middle School Students\nTexas CIO Report Calls for New Law Requiring K–12 Schools to Report All Cyber Incidents\nSmart Technologies Rolls Out Android 11 Update as Part of iQ 3.12 Release for Smart Boards\nVirtual Lab Environment Cyber.org Range Launched to Make K–12 Cybersecurity Skills Training Available Nationally\nNew Report from Global Google Research Project Considers the 'Future of Education'\nPromethean Adds Digital Whiteboard App Explain Everything to its Portfolio\nNavigate360 Adds PBIS Rewards to Its Student Wellness, Safety Solutions Portfolio\nCentegix Partners with Ident-A-Kid to Extend Security Capabilities with iVisitor Management Software\nSTEM Fuse Releases Advanced Game-Design Coding Curriculum for Construct 3 Platform\nPBLWorks Opens Registration for 2023 Project-Based Learning Conference, Awards\nDARPA AI Adult Learning Tools Competition Open for $750,000 in Awards\nNCES Data Show More Than Half K–12 Schools Offer After-School Help, but A Large Percentage Require Minimal COVID-19 Prevention\nFirst Substitute Teacher Management Symposium Coming in January\nTexas Tech to Pilot Statewide Online Diploma Completion Program\nNSTA Teacher Awards, with $60K in Prizes, Accepting Nominations till Dec. 21, 2022\nSXSW EDU Unveils First Half of Lineup for 2023; Emphases Include Diversity, Equity, Student Agency, Teacher Retention\nD2L Brightspace Creator+ Aims to Simplify Content Creation for Educators\nNew Guide Offers Tips, Case Studies on How to Choose High-Quality Online Teaching, Learning Solutions\nReport Examines School Safety and Threat Response Tech Solutions\nStudy Shows Millions of Student Privacy Breaches on Social Media\nReading Horizons Announces Tech-Enabled Edition of Reading Horizons Discovery\nTwo Nonprofits Merge in Push for More Evidence of Impact in Ed Tech Decisions\nApple Rolls Out iPad Learning App Updates, More Resources for Educators\nNew Leaders Named at Tools 4 Reading, Newsela, ParentSquare, Age of Learning, DreamBox Learning, GoGuardian, PLTW, City Fund\nReports: Rash of Fake Active Shooter Calls Have Impacted Nearly 200 Schools This Semester\nDigital Promise Launches New Prioritizing Racial Equity in AI Design Product Certification\nIBM, Hispanic Heritage Foundation Providing Free SkillsBuild Tech Courses to Latino Students\nNAEP: Remote Learning Not Solely to Blame for Decline in Reading and Math Achievement\nCISA Holding Virtual National Summit on School Safety, Cybersecurity for Local, State K-12 Leaders, Educators\nSchoolStatus Buys SI&A, Expanding Product Line with The Achievement Initiative, Good Governance Solutions\nMcGraw Hill Launches Social Media-Style Study App SHARPEN\nKIRKBI Acquires BrainPOP Edtech Platform\nRead More News\nMOST POPULAR ARTICLES\nNew Report from Global Google Research Project Considers the 'Future of Education'\nK–12 Grants & Upcoming Events\nDoes your district have a Cyber Incident Response Plan or playbook for an emergency that blocks access to all school IT infrastructure?\nTexas CIO Report Calls for New Law Requiring K–12 Schools to Report All Cyber Incidents\nVirtual Lab Environment Cyber.org Range Launched to Make K–12 Cybersecurity Skills Training Available Nationally\nTRENDING\nGrants & Funding\nData Security\nEquity\nAR/VR/Metaverse\n\nTHE NEWS UPDATE\nSign up for our newsletter.\nEmail Address*Country*\n  \n  United States of America\n  Afghanistan\n  Åland Islands\n  Albania\n  Algeria\n  American Samoa\n  Andorra\n  Angola\n  Anguilla\n  Antarctica\n  Antigua and Barbuda\n  Argentina\n  Armenia\n  Aruba\n  Australia\n  Azerbaijan\n  Austria\n  Bahamas\n  Bahrain\n  Bangladesh\n  Barbados\n  Belarus\n  Belgium\n  Belize\n  Benin\n  Bermuda\n  Bhutan\n  Bolivia, Plurinational State of\n  Bonaire, Sint Eustatius and Saba\n  Bosnia and Herzegovina\n  Botswana\n  Bouvet Island\n  Brazil\n  British Indian Ocean Territory\n  Brunei Darussalam\n  Bulgaria\n  Burkina Faso\n  Burundi\n  Cambodia\n  Cameroon\n  Canada\n  Cape Verde (Cabo Verde)\n  Cayman Islands\n  Curaçao\n  Central African Republic\n  Chad\n  Chile\n  China\n  Christmas Island\n  Cocos (Keeling) Islands\n  Colombia\n  Comoros\n  Congo\n  Congo, the Democratic Republic of the\n  Cook Islands\n  Costa Rica\n  Côte d'Ivoire\n  Croatia\n  Cuba\n  Cyprus\n  Czech Republic\n  Denmark\n  Djibouti\n  Dominica\n  Dominican Republic\n  Ecuador\n  Egypt\n  El Salvador\n  Equatorial Guinea\n  Eritrea\n  Estonia\n  Ethiopia\n  Falkland Islands (Malvinas)\n  Faroe Islands\n  Fiji\n  Finland\n  France\n  French Guiana\n  French Polynesia\n  French Southern Territories\n  Gabon\n  Gambia\n  Georgia\n  Germany\n  Ghana\n  Gibraltar\n  Greece\n  Greenland\n  Grenada\n  Guadeloupe\n  Guam\n  Guatemala\n  Guernsey\n  Guinea\n  Guinea-Bissau\n  Guyana\n  Haiti\n  Heard Island and McDonald Islands\n  Holy See (Vatican City State)\n  Honduras\n  Hong Kong\n  Hungary\n  Iceland\n  India\n  Indonesia\n  Iran, Islamic Republic of\n  Iraq\n  Ireland\n  Isle of Man\n  Israel\n  Italy\n  Jamaica\n  Japan\n  Jersey\n  Jordan\n  Kazakhstan\n  Kenya\n  Kiribati\n  Korea, Democratic People's Republic of\n  Korea, Republic of\n  Kuwait\n  Kyrgyzstan\n  Lao People's Democratic Republic\n  Latvia\n  Lebanon\n  Lesotho\n  Liberia\n  Libya\n  Liechtenstein\n  Lithuania\n  Luxembourg\n  Macao\n  Macedonia, the former Yugoslav Republic of\n  Madagascar\n  Malawi\n  Malaysia\n  Maldives\n  Mali\n  Malta\n  Marshall Islands\n  Martinique\n  Mauritania\n  Mauritius\n  Mayotte\n  Mexico\n  Micronesia, Federated States of\n  Moldova, Republic of\n  Monaco\n  Mongolia\n  Montenegro\n  Montserrat\n  Morocco\n  Mozambique\n  Myanmar\n  Namibia\n  Nauru\n  Nepal\n  Netherlands\n  New Caledonia\n  New Zealand\n  Nicaragua\n  Niger\n  Nigeria\n  Niue\n  Norfolk Island\n  Northern Mariana Islands\n  Norway\n  Pakistan\n  Oman\n  Palau\n  Palestinian Territory, Occupied\n  Panama\n  Paraguay\n  Papua New Guinea\n  Peru\n  Philippines\n  Pitcairn\n  Poland\n  Portugal\n  Puerto Rico\n  Qatar\n  Réunion\n  Romania\n  Russian Federation\n  Rwanda\n  Saint Barthélemy\n  Saint Helena, Ascension and Tristan da Cunha\n  Saint Kitts and Nevis\n  Saint Lucia\n  Saint Martin (French part)\n  Saint Pierre and Miquelon\n  Saint Vincent and the Grenadines\n  Samoa\n  San Marino\n  Sao Tome and Principe\n  Saudi Arabia\n  Senegal\n  Serbia\n  Seychelles\n  Sierra Leone\n  Singapore\n  Sint Maarten (Dutch part)\n  Slovakia\n  Slovenia\n  Solomon Islands\n  Somalia\n  South Africa\n  South Georgia and the South Sandwich Islands\n  South Sudan\n  Spain\n  Sri Lanka\n  Sudan\n  Suriname\n  Svalbard and Jan Mayen\n  Eswatini (Swaziland)\n  Sweden\n  Switzerland\n  Syrian Arab Republic\n  Taiwan, Province of China\n  Tajikistan\n  Tanzania, United Republic of\n  Thailand\n  Timor-Leste\n  Togo\n  Tokelau\n  Tonga\n  Trinidad and Tobago\n  Tunisia\n  Turkey\n  Turkmenistan\n  Turks and Caicos Islands\n  Tuvalu\n  Uganda\n  Ukraine\n  United Arab Emirates\n  United Kingdom\n  United States Minor Outlying Islands\n  Uruguay\n  Uzbekistan\n  Vanuatu\n  Viet Nam\n  Venezuela, Bolivarian Republic of\n  Virgin Islands, British\n  Virgin Islands, U.S.\n  Wallis and Futuna\n  Western Sahara\n  Yemen\n  Zambia\n  Zimbabwe\n Select primary job title/function*\n  \n  Superintendent/Assistant Superintendent\n  Information Technology\n  Principal/Assistant Principal\n  Librarian/Media Specialist\n  Technology-Using Educator\n  Consultant\n  Program/Curriculum Director/Manager\n  Other\n Select place of work*\n  \n  District Office\n  Elementary School\n  Jr High/Middle School\n  High School\n  Government Organization (Regional/State/National Agencies)\n  Other\n  I agree to this site's Privacy Policy\nPlease type the letters/numbers you see above.\nWEBCASTS\nHow Schools Work & The Role of Technology to Help\nEffective Management of Information Security and Data Privacy in K–12\n2022 THE Journal IT Leadership Summit\nAll Webcasts\nWHITEPAPERS\nHow Video Security Solutions Support Campus Safety\nParental concern for kids’ physical safety at school is at its highest point in more than 20 years. Many districts are taking a fresh look at security. But fragmented and partial solutions are proving problematic.\nRead more...\nAll Whitepapers\nSite\nK12 News\nOpinion\nMagazine\nNewsletters\nSubscribe\nResources\nRSS Feeds\nEvents\nWebinars\nHelp\nAbout Us\nContact Us\nAdvertise\nPress Releases\nPress Release Guidelines\nMedia Kit\nEditorial Board\nSitemap\nLicensing/Reprints\nList Rental\nContent - editorial@thejournal.com | Website - dnagel@1105media.com\nSubscriptions - THEJournal@1105service.com | Contact the webmaster: [+] Site Feedback [+]\n© 1994-2022 1105 Media Inc, Ed-Tech Group. See our Privacy Policy, Cookie Policy Terms of Use | CA: Do Not Sell My Personal Info\n6300 Canoga Ave., Suite 1150, Woodland Hills, CA 91367 Phone: (818) 814-5277 Fax: (818) 734-1522\n ",
+    "font": "\"Open Sans\", sans-serif",
+    "iframes": [],
+    "buttons": []
+}

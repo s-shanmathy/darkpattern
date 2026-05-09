@@ -1,0 +1,193 @@
+{
+    "title": "Aven Colony » A sci-fi city-building game that tells the story of humanity’s first colonies on a new world outside our solar system.",
+    "url": "avencolony.com",
+    "full_url": "https://avencolony.com/",
+    "images": [
+        {
+            "alt": "AVEN Colony Logo",
+            "location": {
+                "x": 230,
+                "y": 350
+            },
+            "size": {
+                "height": 200,
+                "width": 550
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Promo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 568,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Creepers",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 568,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Release date July 25 - Preorders now available!",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Colonize an Alien World",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Meet the Locals",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Supervise Your Colonists",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Discover the Past",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Build the Future",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            192,
+            192,
+            192
+        ]
+    ],
+    "navbar": "HOME\nUPDATES\nMEDIA\nSTEAM",
+    "text": "HOME\nUPDATES\nMEDIA\nSTEAM\nCOLONIZE AN ALIEN WORLD\nThe epic story of humanity's first colonization and settlement of a new world outside the solar system\n\n\n\n\nFOLLOW US\nSubscribe to our newsletter for regular updates or contact us.\nSIGN UP\nHome\nUpdates\nMedia\nForums\nContact Us\nCopyright © 2016 Mothership Entertainment\nDeveloped by Radevic Team",
+    "font": "Lato",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://www.youtube.com/embed/fk0YPALG2vQ?autoplay=1&loop=1&controls=0&showinfo=0&playlist=fk0YPALG2vQ&wmode=transparent",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 270,
+                "width": 480
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": true
+        }
+    ],
+    "buttons": []
+}

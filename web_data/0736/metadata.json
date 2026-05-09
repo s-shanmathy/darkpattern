@@ -1,0 +1,101 @@
+{
+    "title": "Home - | TOP500",
+    "url": "top500.org",
+    "full_url": "https://top500.org/",
+    "images": [
+        {
+            "alt": "None",
+            "location": {
+                "x": 52,
+                "y": 2577
+            },
+            "size": {
+                "height": 109,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            242,
+            243,
+            244
+        ],
+        [
+            242,
+            242,
+            242
+        ]
+    ],
+    "navbar": "HOME\nLISTS\nSTATISTICS\nRESOURCES\nABOUT\nMEDIA KIT",
+    "text": "HOME\nLISTS\nSTATISTICS\nRESOURCES\nABOUT\nMEDIA KIT\nORNL’s Exaflop machine Frontier keeps top spot, new competitor Leonardo breaks the Top10\nNov. 14, 2022\nFRANKFURT, Germany; BERKELEY, Calif.; and KNOXVILLE, Tenn.—  The 60th edition of the TOP500 reveals that the Frontier system is still the only true exascale machine on the list. \nread more »\nNEWS FEED\nAn AI-Flavored Set of HPC Predictions for 2023\nMany predictions for HPC-AI in 2023 came over our transom in recent weeks, here are excerpts from the ones we found most interesting, fresh, insightful — even contrarian. Altair Chief Scientist Rosemary Francis: Go Big or Go Home – HPC’s Bigger Workloads.As HPC workloads are taking on big data applications, such as in life sciences […]\nThe post An AI-Flavored Set of HPC Predictions for 2023 appeared first on High-Performance Computing News Analysis | insideHPC.\nGigabyte Spins Off Server Division To Chase Datacenter Business\nGigabyte Technology’s enterprise server division has been spun off under a new logo: Giga Computing. …\nGigabyte Spins Off Server Division To Chase Datacenter Business was written by Tobias Mann at The Next Platform.\nThe Interesting Years Ahead For Servers\nBy every measure we can get our hands on, 2022 was a bumper year for server shipments and server spending, which is good indicator for the appetite for new kinds of applications and the expansion of existing applications in the world at large. …\nThe Interesting Years Ahead For Servers was written by Timothy Prickett Morgan at The Next Platform.\nArgonne: ATPESC 2023 Applications Due March 1\nJan. 4, 2023 — Applications are due Wednesday, March 1 for the annual Argonne Training Program on Extreme-Scale Computing (ATPESC), which will take place July 30-August 11, 2023 in the Chicago area. Apply here. There are no fees to participate in ATPESC. Domestic airfare, meals and lodging are also provided. The program offers the opportunity […]\nThe post Argonne: ATPESC 2023 Applications Due March 1 appeared first on High-Performance Computing News Analysis | insideHPC.\nTOP500 NEWS\nORNL’s Exaflop machine Frontier keeps top spot, new competitor Leonardo breaks the Top10\nNov. 14, 2022\nFRANKFURT, Germany; BERKELEY, Calif.; and KNOXVILLE, Tenn.—  The 60th edition of the TOP500 reveals that the Frontier system is still the only true exascale machine on the list. \nread more »\nORNL’s Frontier First to Break the Exaflop Ceiling\nMay 30, 2022\nThe 59th edition of the TOP500 revealed the Frontier system to be the first true exascale machine with an HPL score of 1.102 Exaflop/s.\nThe No. 1 spot is now held by the Frontier system at Oak Ridge National Laboratory (ORNL) in the US. Based on the latest HPE Cray EX235a architecture and equipped with AMD EPYC 64C 2GHz processors, the system has 8,730,112 total cores, a power efficiency rating of 52.23 gigaflops/watt, and relies on gigabit ethernet for data transfer.\nread more »\nStill waiting for Exascale: Japan's Fugaku outperforms all competition once again\nNov. 15, 2021\nFRANKFURT, Germany; BERKELEY, Calif.; and KNOXVILLE, Tenn.— The 58th annual edition of the TOP500 saw little change in the Top10. The Microsoft Azure system called Voyager-EUS2 was the only machine to shake up the top spots, claiming No. 10. Based on an AMD EPYC processor with 48 cores and 2.45GHz working together with an NVIDIA A100 GPU and 80 GB of memory, Voyager-EUS2 also utilizes a Mellanox HDR Infiniband for data transfer. \nread more »\nTHE LIST\n11/2022 Highlights\nThe Frontier system at the Oak Ridge National Laboratory, Tennessee, USA remains the No. 1 system on the TOP500 and is still the only system reported with an HPL performance exceeding one Exaflop/s. Frontier brought the pole position back to the USA on the June listing with an HPL score of 1.102 Exaflop/s.\nThe LUMI system at EuroHPC/CSC in Finland entered the list last June at No. 3. It is again listed as No. 3 but only thanks to an upgrade of the system, which doubled its size. With its increased HPL score of 309 Pflop/s it remains the largest system in Europe.\nThe only new machine to grace the top of the list was the No. 4 Leonardo system at EuroHPC/CINECA in Bologna, Italy. The machine achieved an HPL score of .174 EFlop/s with 1,463,616 cores.\n  read more »\nList Statistics\nVendors System Share\nLenovo\nHPE\nInspur\nAtos\nSugon\nDELL\nEMC\nNvidia\nNEC\nFujitsu\nMEGW…\nOthers\n32%\n20.2%\nVendors Performance Share\nLenovo\nHPE\nInspur\nAtos\nSugon\nDELL\nEMC\nNvidia\nNEC\nFujitsu\nMEGW…\nOthers\n15.2%\n44.5%\nCountries System Share\nChina\nUnited\nStates\nGermany\nJapan\nFrance\nUnited\nKingdom\nCanada\nSouth\nKorea\nNetherl…\nBrazil\nOthers\n32.4%\n25.4%\nCountries Performance Share\nChina\nUnited\nStates\nGermany\nJapan\nFrance\nUnited\nKingdom\nCanada\nSouth\nKorea\nNetherl…\nBrazil\nOthers\n19.2%\n43.6%\nTOP500\nCurrent List\n25 Year Anniversary\nNewsletter Signup\n1 Frontier - HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11, HPE\n2 Supercomputer Fugaku - Supercomputer Fugaku, A64FX 48C 2.2GHz, Tofu interconnect D, Fujitsu\n3 LUMI - HPE Cray EX235a, AMD Optimized 3rd Generation EPYC 64C 2GHz, AMD Instinct MI250X, Slingshot-11, HPE\n4 Leonardo - BullSequana XH2000, Xeon Platinum 8358 32C 2.6GHz, NVIDIA A100 SXM4 64 GB, Quad-rail NVIDIA HDR100 Infiniband, Atos\n5 Summit - IBM Power System AC922, IBM POWER9 22C 3.07GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband, IBM\n6 Sierra - IBM Power System AC922, IBM POWER9 22C 3.1GHz, NVIDIA Volta GV100, Dual-rail Mellanox EDR Infiniband, IBM / NVIDIA / Mellanox\n7 Sunway TaihuLight - Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway, NRCPC\n8 Perlmutter - HPE Cray EX235n, AMD EPYC 7763 64C 2.45GHz, NVIDIA A100 SXM4 40 GB, Slingshot-10, HPE\n9 Selene - NVIDIA DGX A100, AMD EPYC 7742 64C 2.25GHz, NVIDIA A100, Mellanox HDR Infiniband, Nvidia\n10 Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Matrix-2000, NUDT\nIMPRINT CONTACT LOG IN  or  Sign up\nCopyright 1993-2022 TOP500.org (c)",
+    "font": "DIN, Arial",
+    "iframes": [
+        {
+            "title": "",
+            "src": "https://692af58e7e2ff236a6564c287624ccef.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://www.google.com/recaptcha/api2/aframe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 1024
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

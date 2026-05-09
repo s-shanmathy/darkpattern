@@ -1,0 +1,500 @@
+{
+    "title": "PTPWallet for Cryptocurrency - Manage and send crypto securely, privately and instantly",
+    "url": "ptpwallet.com",
+    "full_url": "https://ptpwallet.com/",
+    "images": [
+        {
+            "alt": "PTPWallt_logo",
+            "location": {
+                "x": 24,
+                "y": 19
+            },
+            "size": {
+                "height": 76,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Español",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 484,
+                "y": 84
+            },
+            "size": {
+                "height": 11,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Español",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TKO",
+            "location": {
+                "x": 104,
+                "y": 241
+            },
+            "size": {
+                "height": 451,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "synapse",
+            "location": {
+                "x": 104,
+                "y": 863
+            },
+            "size": {
+                "height": 436,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IDEA crypto token",
+            "location": {
+                "x": 104,
+                "y": 1494
+            },
+            "size": {
+                "height": 419,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SFP crypto token",
+            "location": {
+                "x": 104,
+                "y": 2084
+            },
+            "size": {
+                "height": 419,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GVR crypto token",
+            "location": {
+                "x": 104,
+                "y": 2674
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "BSW crypto token",
+            "location": {
+                "x": 104,
+                "y": 3265
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "APC crypto token",
+            "location": {
+                "x": 104,
+                "y": 3856
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ApeSwap crypto token",
+            "location": {
+                "x": 104,
+                "y": 5084
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "JUST crypto token",
+            "location": {
+                "x": 104,
+                "y": 5675
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Casper crypto token",
+            "location": {
+                "x": 104,
+                "y": 6266
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "USDD crypto token",
+            "location": {
+                "x": 104,
+                "y": 6857
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Flow crypto token",
+            "location": {
+                "x": 104,
+                "y": 8109
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mina crypto token",
+            "location": {
+                "x": 104,
+                "y": 8700
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "eCash crypto token",
+            "location": {
+                "x": 104,
+                "y": 9967
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gemini Dollar crypto token",
+            "location": {
+                "x": 104,
+                "y": 10534
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chain crypto token",
+            "location": {
+                "x": 104,
+                "y": 11762
+            },
+            "size": {
+                "height": 420,
+                "width": 800
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "PTPWallt_logo",
+            "location": {
+                "x": 20,
+                "y": 12358
+            },
+            "size": {
+                "height": 76,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Español",
+            "location": {
+                "x": 510,
+                "y": 12988
+            },
+            "size": {
+                "height": 11,
+                "width": 16
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search here...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search here...",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            150,
+            197,
+            83
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "navbar": "",
+    "text": "Archives\nWhat is the Toko Token (TKO)?\nLaunched through Binance Launchpad to a record-breaking reception on April 7, 2021, Toko Token (TKO) first started as the native utility token of Tokocrypto. Tokocrypto is Indonesia’s most trusted No. 1 crypto asset digital exchange and also the first entity in Indonesia to be registered under the country’s Trade and Futures Exchange Ministry (BAPPEBTI).  TKO […]\nWhat is Synapse (SYN)?\nSynapse is a universal interoperability protocol that enables secure cross-chain communication. It connects blockchains by offering an extensible cross-chain messaging protocol that supports assets, smart contract calls, and more. By leveraging Synapse, blockchains can easily and securely interoperate with each other, and developers can build truly cross-chain applications, including cross-chain DEX, lending platforms, margining systems, […]\nWhat is Impossible Finance Launchpad Price (IDEA)?\nImpossible Finance (IF) is a DeFi-native ecosystem of multi-chain products. The core vision of IF is to nurture and accelerate top-tier blockchain projects as a product-first incubator. Central to this vision is a set of products that form an essential base for our incubator, the Impossible Launchpad, and Impossible Swap. Individual users are often prioritized […]\nWhat is SafePal (SFP)?\nSafePal is a cryptocurrency wallet that helps people/users safely keep and grow their digital assets. It is a powerful asset management platform that allows users to trade crypto, buy, swap, and access dApps smoothly. SafePal provides hardware and software wallets, both matched and managed through the SafePal App, and was the first hardware wallet invested […]\nWhat is Grove (GVR)?\nGrove is a decentralized, safe, and secure green token created for the future of the earth. Grove Token describes itself as a decentralized green token created with a focus on the environment. Grove is one of the cryptocurrencies that has embraced an environmentally friendly approach to blockchain technology. GroveToken’s vision is to become the number […]\nWhat is Biswap (BSW)?\nBiswap is the first DEX platform on the market with a Multi-type Referral Program and the lowest platform transaction fees. They are a decentralized exchange platform for swapping BEP-20 tokens on the BNB Chain network and also guarantee superior speed and much lower network transaction costs. Biswap DEX is one of the leading projects in […]\nWhat is Arena Play (APC)?\nIn 2021, the total value of the global game market reached US$214.7 billion, up 110.7% year-on-year, of which the consumption of virtual goods grew to US$80.1 billion, with more than 2.5 billion players worldwide. With the rapid development of the metaverse, the scale of blockchain game users will rapidly grow. ArenaPlay is a decentralized betting […]\nExpand the reach of your business with cryptocurrencies\nUnderstanding how cryptocurrencies, in particular, and the crypto world in general work can become very complicated for the vast majority of people. And if they are responsible for a business, it is a pity that they do not manage to take advantage of all the potential of the crypto world. Every day new developments and […]\nWhat is ApeSwap (BANANA)?\nApeSwap is a decentralized Financial (DeFi) exchange platform on the Binance Smart Chain (BSC), Ethereum, and Polygon. It is a DeFi platform that provides a comprehensive toolkit that allows users to take advantage of decentralized financing possibilities such as token swaps, providing liquidity, lending, borrowing, staking, and even buying tokens that trade against BANANA.  Trading […]\nWhat is Just (JST)?\nJUST means “fair and just.” JUST is a popular new decentralized finance (DeFi) ecosystem built for the TRON blockchain. It is an entire suite of products mostly centered around a decentralized stablecoin lending platform known as JustStable. The platform launched in August 2020 following an initial exchange offering (IEO) on the Poloniex LaunchBase platform earlier […]\nWhat is Casper (CSPR)?\nCasper is a decentralized, layer-one proof-of-stake (PoS) blockchain geared towards enterprise and developer adoption.  The Casper Network makes it as easy as possible for enterprises to build blockchain-enabled products and services. It is the first live blockchain built off the Correct-by-Construction (CBC) Casper specification. The project was developed to solve the problems that existing enterprise […]\nWhat is USDD (USDD)?\nUSDD is a cryptocurrency issued by the TRON DAO Reserve with a stable price and diverse use cases. It guarantees over-collateralization using various mainstream cryptocurrencies, helps ensure the stability and security of USDD, and consolidates its value as a true settlement currency. In addition, it is a decentralized currency protocol with a stable price that […]\nHow to Integrate Cryptocurrency into Your Business\nBlockchain and cryptocurrencies have come to show us a new world that developed a new concept of what money means. Of course, when we think of crypto, the first name that comes to mind is Bitcoin, but we have seen many different cryptocurrencies developed through the last years, as well as other options. Our financial […]\n What is Flow (FLOW)?\nFlow is a fast, developer-friendly, and decentralized blockchain designed to ease the use of blockchain-based decentralized applications (dApps), games, and non-fungible tokens (NFTs). Flow is one of the new and prominent additions to the cryptocurrency market with a network that focuses on providing an environment for easy and quick transactions. The Flow project is based […]\nWhat is Mina (MINA)?\nMina is an L1 blockchain based on zero-knowledge proofs (“ZKP”) with smart contracts written in TypeScript. It is the first cryptocurrency protocol with a succinct blockchain (22KB) and a replicated state machine in which each state transition (block) can be efficiently verified in constant time regardless of the number of prior transitions in the system. […]\nWhy Choose a White Label Payment Gateway for Your Business\nThe impact of new technologies in our everyday life The development of the Internet and technology made it easier to improve our personal and professional life in all aspects. One of those advantages is the impact it has on our everyday activities. From shopping to studying, traveling, and paying, the way we do things has […]\nWhat is eCash (XEC)?\neCash is a digital currency formerly known as Bitcoin Cash ABC (BCHA). It is a cryptocurrency created to be a method of exchange that enables people to buy and sell online without the need to have a bank account. It is designed to be used as electronic cash, eCash makes it possible to send money […]\nWhat is Gemini Dollar (GUSD)?\nThe Gemini dollar was designed to provide a transparent and regulatory-compliant connection between traditional financial systems, which are based on fiat currencies, and the ever-growing blockchain industry. Released on September 10, 2018, GUSD is an ERC-20 token that can be stored in any digital wallet that accepts Ethereum tokens. Gemini dollar is a stablecoin that […]\nHow to Create Your Own Crypto Currency\nBy now, you’ve probably heard about the cryptocurrency craze.  Bitcoin is one of them; it is the one that stands out the most and the one that marks a before and after in the digital finance industry. It was created in 2009, and since then, it has given rise to the creation of different currencies, […]\nWhat is Chain (XCN)?\nChain is a cloud blockchain infrastructure solution that enables organizations to build better financial services from the ground up. Chain has identified two core problems in the financial and blockchain industry that it aims to tackle through its ecosystem of products: Legacy Financial Systems & Public Blockchain Infrastructure. These problems could be addressed if asset […]\n← older\nPTPWallet is a blockchain wallet developed by Core State Holdings, Corp. for the global crypto industry. Send 400+ crypto and digital assets instantly, privately, and anonymously.\nCrypto Products\nWhite Label Crypto Wallet\nWhite Label Payment Gateway\nCrypto Wallet for ICO\nWhite Label Crypto Exchange\nWhite Label Public Offering\nCoin Development\nToken Creator\nHost Your Coin/Token\nCrypto Token Development\nStablecoin Development\nFan Tokens\nReal Estate Tokenization\nSecurity Token Development\nNFT Development\nCrypto Website Development\nSupport\nList of Supported\nCryptocurrencies\nFAQ\nNews\nMerchant API\nSubmit Support Ticket\nHow to Use PTPWallet\nEspañol",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

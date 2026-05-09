@@ -1,0 +1,858 @@
+{
+    "title": "L’assistant d'aide à la conduite et application GPS Coyote - Coyote",
+    "url": "moncoyote.com",
+    "full_url": "https://www.moncoyote.com/",
+    "images": [
+        {
+            "alt": "Publisher Logo",
+            "location": {
+                "x": 427,
+                "y": 159
+            },
+            "size": {
+                "height": 94,
+                "width": 170
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "image application coyote",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "coyote mini",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "coyote up",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "coyote nav plus",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "accessoires coyote",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "coyote auto",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "secure auto",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "coyote secure rider",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "blog coyote",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "revue presse",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Qui sommes-nous",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Rejoignez-nous",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Coyote APP",
+            "location": {
+                "x": 375,
+                "y": 817
+            },
+            "size": {
+                "height": 477,
+                "width": 260
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "mini",
+            "location": {
+                "x": 62,
+                "y": 1246
+            },
+            "size": {
+                "height": 24,
+                "width": 71
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "up",
+            "location": {
+                "x": 377,
+                "y": 1246
+            },
+            "size": {
+                "height": 24,
+                "width": 35
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "nav+",
+            "location": {
+                "x": 692,
+                "y": 1246
+            },
+            "size": {
+                "height": 24,
+                "width": 54
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "alertes en temps réel",
+            "location": {
+                "x": 237,
+                "y": 1754
+            },
+            "size": {
+                "height": 112,
+                "width": 64
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "limitations de vitesses",
+            "location": {
+                "x": 394,
+                "y": 1754
+            },
+            "size": {
+                "height": 88,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "trafics et itinéraires",
+            "location": {
+                "x": 551,
+                "y": 1754
+            },
+            "size": {
+                "height": 72,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "perturbations",
+            "location": {
+                "x": 708,
+                "y": 1754
+            },
+            "size": {
+                "height": 40,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "récupéré",
+            "location": {
+                "x": 40,
+                "y": 2549
+            },
+            "size": {
+                "height": 32,
+                "width": 35
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "remboursé",
+            "location": {
+                "x": 40,
+                "y": 2589
+            },
+            "size": {
+                "height": 32,
+                "width": 34
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Secure auto",
+            "location": {
+                "x": 103,
+                "y": 2782
+            },
+            "size": {
+                "height": 225,
+                "width": 331
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Secure auto",
+            "location": {
+                "x": 575,
+                "y": 2782
+            },
+            "size": {
+                "height": 225,
+                "width": 331
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "geolocalisation",
+            "location": {
+                "x": 118,
+                "y": 4063
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "aide a la conduite",
+            "location": {
+                "x": 354,
+                "y": 4063
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "recuperation apres vol",
+            "location": {
+                "x": 590,
+                "y": 4063
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "coyote data",
+            "location": {
+                "x": 826,
+                "y": 4063
+            },
+            "size": {
+                "height": 64,
+                "width": 64
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "sevice de l'année",
+            "location": {
+                "x": 605,
+                "y": 5685
+            },
+            "size": {
+                "height": 104,
+                "width": 97
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            89,
+            95,
+            103
+        ],
+        [
+            86,
+            92,
+            101
+        ]
+    ],
+    "desc": "Inventeur de l’avertisseur de radar en 2006, Coyote propose maintenant une gamme complète d’assistants à la conduite. Rejoignez la communauté de 5 millions de membres et partagez en temps réel les alertes et le trafic",
+    "navbar": ".cls-1{fill:#46C815;}\nAide à la conduite\n\nRécupération après-vol\nNos magasins\nBusiness\nÀ propos\nEnregistrer\nun boîtier\nAssistance\nPanier\nSe connecter",
+    "text": "Le respect de votre vie privée est notre priorité\nNos\npartenaires\net nous-mêmes stockons et/ou accédons à des informations stockées sur un terminal, telles que les cookies, et traitons les données personnelles, telles que les identifiants uniques et les informations standards envoyées par chaque terminal pour diffuser des publicités et du contenu personnalisés, mesurer les performances des publicités et du contenu, obtenir des données d'audience, et développer et améliorer les produits. Avec votre permission, nos partenaires et nous-mêmes pouvons utiliser des données de géolocalisation précises et d’identification par analyse du terminal. En cliquant, vous pouvez consentir aux traitements décrits précédemment. Vous pouvez également refuser de donner votre consentement ou accéder à des informations plus détaillées et modifier vos préférences avant de consentir. Veuillez noter que certains traitements de vos données personnelles peuvent ne pas nécessiter votre consentement, mais vous avez le droit de vous y opposer. Vos préférences ne s'appliqueront qu’à ce site Web. Vous pouvez modifier vos préférences à tout moment en revenant sur ce site web ou en consultant notre Politique de confidentialité.\nPLUS D'OPTIONS\nJE REFUSE\nJ'ACCEPTE\n.cls-1{fill:#46C815;}\nAide à la conduite\n\nRécupération après-vol\nNos magasins\nBusiness\nÀ propos\nEnregistrer\nun boîtier\nAssistance\nPanier\nSe connecter\nApp Coyote\n30 jours d'essai gratuits\nCoyote Secure\nRécupération de votre véhicule en cas de vol\n91% des véhicules volés récupérés en 48h\n(1)\nRécupéré ou remboursé\nDécouvrir l’offre\nBoîtiers Coyote\nRoulez en sécurité et gardez vos points\navec Coyote\nAvec Coyote\nconduisez à la bonne vitesse\nrejoignez la meilleure communauté\nCoyote propose une solution d’aide à la conduite adaptée à tous\n30 JOURS D'ESSAI GRATUIT\nApp Coyote\nExclu web -20%\nDécouvrir l’offre\nCoyote Auto\nProfitez de la technologie Coyote sur l’écran de votre véhicule\nCoyote mini\nL'essentiel du service COYOTE au format mini\nCoyote UP\nL'expérience COYOTE avec assistant vocal\nCoyote NAV+\nGPS connecté avec alertes en temps réel\nComparer nos solutions\nUn service ultra fiable\nAlertes en temps réel\nLimitations de vitesse\nTrafic et itinéraires\nPerturbations\nLa communauté la plus engagée\n5 millions\nde membres en Europe\n90%\nde clients actifs (2)\n92%\nde clients satisfaits (3)\nCoyote Secure\nLa référence de la récupération après-vol\n91% des véhicules volés récupérés en 48h\n(1)\nRécupéré ou remboursé\nCoyote Secure Auto\nCoyote Secure Rider\nExiste aussi avec l’appli Coyote\nTout le trafic en temps réel\nConsultez en direct l’état du trafic de votre région pour anticiper vos déplacements.\nVoir la carte\nCoyote Business\nPour les entreprises, bien plus qu’un copilote\nGéolocalisation de flotte\nAide à la conduite\nRécupération après-vol\nCoyote Data\nDécouvrir\nLa revue de presse\nIls parlent de nous\nEn savoir plus\nNotre histoire\nEntreprise française pionnière de l’avertisseur de radar en 2006, Coyote vous accompagne désormais sur la route avec son service « d'aide à la conduite » sans publicité, sur nos boitiers et notre application mobile compatible Apple CarPlay et Android Auto. Roulez en sécurité et gardez vos points avec les alertes signalées en temps réel sur votre trajet par les 5 millions de membres de la Communauté Coyote : dangers permanents (zone comprenant, ou non, un radar fixe), dangers temporaires avec contrôle de vitesse éventuel, trafic et perturbations routières. Les limitations de vitesse sont constamment mises à jour et la navigation GPS toujours plus précise.\nEt depuis 2018, Coyote et Traqueur, référence de la récupération après-vol depuis 1997, ne font plus qu’un. Plus qu’une solution antivol Coyote Secure vous protège contre le vol de votre véhicule et ses conséquences. Grâce à un traceur à la technologie brevetée fonctionnant même en sous-sol et à une équipe de détectives dédiés en partenariat avec les forces de l’ordre, 91% des véhicules volés sont retrouvés en moins de 48h. La pose du tracker sur votre véhicule (auto, moto, utilitaire…) par un professionnel agréé garantit l’efficacité de la balise dans la localisation de votre véhicule.\nRetrouvez également les solutions Coyote disponibles pour les entreprises avec Coyote Business.\n\nCoyote, pensé pour ceux qui conduisent.\n(1) Données Coyote du 1er août au 15 décembre 2020\n(2) Données Coyote entre le 1er et le 31 juillet 2021\n(3) Données Coyote enquête de satisfaction 3e trimestre 2021\nPaiement\nsécurisé\nLivraison 1h\nen magasin\nGarantie\n2 ans\nService client\n2023\nAvis soumis\nà un contrôle\n.cls-3{fill:#64e61e;} .cls-2{fill:#ddd;}\nL’UNIVERS COYOTE\nTarifs abonnements\nAlerte sécurite prédictive\nDossier radars\nDossier permis de conduire\nDossier amendes\nDossier antivol voiture\nDossier antivol moto\nDossier détecteur de radar\nContester une amende\nLimitation à 80km/h\nLa route Napoléon\nLe col du Stelvio\nLa route des Grandes Alpes\nObservatoire des vols Coyote\nINFO TRAFIC\nInfo trafic en temps réel à Bordeaux\nInfo trafic en temps réel à Lille\nInfo trafic en temps réel à Lyon\nInfo trafic en temps réel à Marseille\nInfo trafic en temps réel à Montpellier\nInfo trafic en temps réel à Nantes\nInfo trafic en temps réel à Nice\nInfo trafic en temps réel à Paris\nInfo trafic en temps réel à Strasbourg\nInfo trafic en temps réel à Toulouse\nESPACE CLIENT\nMon accueil\nMes produits\nMes stats\nMes infos\nASSISTANCE\nQuestions réponses\nContact\nDocuments légaux\nÀ PROPOS\nLe blog Coyote\nQui sommes-nous ?\nNos engagements\nEspace presse\nRejoignez-nous\nFrance\nMentions légales - CGV - CGU - Politique des données personnelles - © 2022-Coyote System",
+    "font": "Inter, sans-serif",
+    "iframes": [
+        {
+            "title": "",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Avis vérifiés",
+            "src": "https://cl.avis-verifies.com/fr/cache/c/8/6/c869b946-e864-0fd4-c17c-117196e05ef0/widget4/c869b946-e864-0fd4-c17c-117196e05ef0index.html",
+            "location": {
+                "x": 737,
+                "y": 5671
+            },
+            "size": {
+                "height": 128,
+                "width": 133
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://creativecdn.com/tags?type=iframe&id=pr_3vN0jYD3fzHf8siVrKRq_home&id=pr_3vN0jYD3fzHf8siVrKRq_uid_unknown&id=pr_3vN0jYD3fzHf8siVrKRq_lid_BRh9cAmKwOlPEI7csL4k&su=https%3A%2F%2Fwww.moncoyote.com%2F&sr=&ts=1670541864861",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://analytics.sync.tv/csync",
+            "location": {
+                "x": 0,
+                "y": 6637
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Box without content",
+            "src": "https://halc.iadvize.com/storage.php?type=local&o=https://www.moncoyote.com",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "partenaires",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 217,
+                "y": 301
+            },
+            "size": {
+                "height": 14,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "PLUS D'OPTIONS",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 162,
+                "y": 670
+            },
+            "size": {
+                "height": 40,
+                "width": 217
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "JE REFUSE",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 400,
+                "y": 670
+            },
+            "size": {
+                "height": 40,
+                "width": 217
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "J'ACCEPTE",
+            "bg-color": "rgba(100, 230, 30, 1)",
+            "location": {
+                "x": 637,
+                "y": 670
+            },
+            "size": {
+                "height": 40,
+                "width": 215
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 10,
+                "width": 26
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Se connecter",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 884,
+                "y": 15
+            },
+            "size": {
+                "height": 30,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(7, 5, 44, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

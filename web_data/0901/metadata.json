@@ -1,0 +1,1175 @@
+{
+    "title": "Businessweek - Bloomberg",
+    "url": "businessweek.com",
+    "full_url": "https://www.bloomberg.com/businessweek",
+    "images": [
+        {
+            "alt": "Bloomberg",
+            "location": {
+                "x": 20,
+                "y": 304
+            },
+            "size": {
+                "height": 36,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Bloomberg UK",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 36,
+                "width": 178
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Bloomberg Daybreak Europe",
+            "location": {
+                "x": 20,
+                "y": 447
+            },
+            "size": {
+                "height": 90,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Bloomberg Daybreak Europe",
+            "location": {
+                "x": 504,
+                "y": 447
+            },
+            "size": {
+                "height": 97,
+                "width": 97
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The Mystery Of The Disappearing Bees-",
+            "location": {
+                "x": 20,
+                "y": 664
+            },
+            "size": {
+                "height": 90,
+                "width": 160
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Inside The Paris Euronext NV Exchange as European Stocks Face Inflation Shock",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Excavations at Mechel PJSC's Krasnogorsky Coal Mine",
+            "location": {
+                "x": 230,
+                "y": 604
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "European Central Bank as Lagarde's Colleagues Divided Over Strategy ",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "UK Prime Minister Rishi Sunak Addresses The Lord Mayor's Banquet ",
+            "location": {
+                "x": 230,
+                "y": 560
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Inflation Stokes Polish Fears of a Sharp Economic Slowdown",
+            "location": {
+                "x": 614,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Vaping Furor Intensifies As Trump Vows Tougher U.S. Scrutiny",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "How Smarter, Warmer Freezers Are Boosting Ice Cream Sales for Unilever",
+            "location": {
+                "x": 230,
+                "y": 568
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Aerial Views Of Silicon Valley Housing And Tech Campuses",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Tesla Showroom in Shanghai Ahead of Earnings Results",
+            "location": {
+                "x": 230,
+                "y": 560
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Nintendo Unveils New Game Console Nintendo Switch",
+            "location": {
+                "x": 614,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Senator Raphael Warnock Holds Election Day Campaign Rally",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Closing Session of the China's Communist Party Congress",
+            "location": {
+                "x": 230,
+                "y": 568
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Michael Rubin's Fanatics Super Bowl Party - Arrivals",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Goldman Sachs Expands in Birmingham With Office for Up to 800 Staff",
+            "location": {
+                "x": 230,
+                "y": 568
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The 10 Best Shows to Go See in London This Winter",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "2021 Kenyon Review Award For Literary Achievement Gala",
+            "location": {
+                "x": 230,
+                "y": 568
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "President Biden Attends Lighting Of National Christmas Tree Ceremony",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TSMC Arizona Hosts \"First Tool-In\" Ceremony",
+            "location": {
+                "x": 230,
+                "y": 560
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Saudi Arabia Deputy Crown Prince Mohammed bin Salman Visits China",
+            "location": {
+                "x": 614,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Airbus Is Coming for Boeing’s 737",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "How Smarter, Warmer Freezers Are Boosting Ice Cream Sales for Unilever",
+            "location": {
+                "x": 230,
+                "y": 560
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Twitter Under Elon Musk Still Has to Live in Apple’s World",
+            "location": {
+                "x": 614,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Disabled Parking Signs And Bays",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "General Electric And Vivendi Come To Tentative Agreement On NBC's Value",
+            "location": {
+                "x": 230,
+                "y": 568
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Key Speakers at the Day Two of the Bloomberg New Economy Forum",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "CANADA-CHINA-UN-DIPLOMACY-ENVIRONMENT-CLIMATE-NATURE-CONSERVATIO",
+            "location": {
+                "x": 230,
+                "y": 568
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "New York City As Covid Restrictions Are Lifted After Reaching Vaccine Goal",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The annual Urban Mobility Report is being released Monday 5/9/2005 and measures the levels and effe",
+            "location": {
+                "x": 230,
+                "y": 560
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "COVID-19 booster and influenza vaccines given at Los Angeles Comic Con",
+            "location": {
+                "x": 614,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "grayscale",
+            "location": {
+                "x": 230,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Bitcoin Mining Comes to the Arctic Circle",
+            "location": {
+                "x": 230,
+                "y": 560
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "FTX 'Horror Stories' Abound in Crypto Exchange's Bahamas Home",
+            "location": {
+                "x": 614,
+                "y": 447
+            },
+            "size": {
+                "height": 98,
+                "width": 131
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Can Duolingo Actually Teach You Spanish?",
+            "location": {
+                "x": 18,
+                "y": 514
+            },
+            "size": {
+                "height": 649,
+                "width": 973
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Airbus Is Coming for Boeing’s 737",
+            "location": {
+                "x": 18,
+                "y": 1397
+            },
+            "size": {
+                "height": 235,
+                "width": 313
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "11 Hours With Sam Bankman-Fried: Inside the Bahamian Penthouse After FTX’s Fall",
+            "location": {
+                "x": 18,
+                "y": 1684
+            },
+            "size": {
+                "height": 470,
+                "width": 625
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Exxon’s Exodus: Employees Have Finally Had Enough of Its Toxic Culture",
+            "location": {
+                "x": 18,
+                "y": 2559
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No One Likes Annual Performance Reviews—Here’s How to Get Rid of Them",
+            "location": {
+                "x": 235,
+                "y": 2559
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "What Nonmonogamy Can Teach Moonlighters and Job Jugglers",
+            "location": {
+                "x": 451,
+                "y": 2559
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Helping the Planet With Juice, Snacks, and Booze",
+            "location": {
+                "x": 18,
+                "y": 2935
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Circus Finds a New Animal Trick: Holographic Lions, Elephants, and Whales",
+            "location": {
+                "x": 235,
+                "y": 2935
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Miami Startup Sells Watersports Apparel With a Side of Advocacy",
+            "location": {
+                "x": 451,
+                "y": 2935
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How Smarter, Warmer Freezers Are Boosting Ice Cream Sales for Unilever",
+            "location": {
+                "x": 18,
+                "y": 3280
+            },
+            "size": {
+                "height": 235,
+                "width": 313
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Soccer-Inspired Sport Drawing Beckham, Messi and Neymar",
+            "location": {
+                "x": 18,
+                "y": 3697
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Small Businesses Find a Loophole in the New Tax Law: Zelle",
+            "location": {
+                "x": 235,
+                "y": 3697
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Serving a Global Clientele With a Local Business in the Rockies",
+            "location": {
+                "x": 451,
+                "y": 3697
+            },
+            "size": {
+                "height": 144,
+                "width": 192
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "How a Ruling Family Tipped Sri Lanka Into Economic Free Fall",
+            "location": {
+                "x": 18,
+                "y": 4060
+            },
+            "size": {
+                "height": 470,
+                "width": 625
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter Under Elon Musk Still Has to Live in Apple’s World",
+            "location": {
+                "x": 354,
+                "y": 4808
+            },
+            "size": {
+                "height": 199,
+                "width": 265
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Viral List That Turned a Yale Professor Into an Enemy of the Russian State",
+            "location": {
+                "x": 18,
+                "y": 5064
+            },
+            "size": {
+                "height": 235,
+                "width": 313
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "JPMorgan Is Still Trying to Fix Health Care",
+            "location": {
+                "x": 18,
+                "y": 5450
+            },
+            "size": {
+                "height": 235,
+                "width": 313
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TikTok’s Viral Challenges Keep Luring Young Kids to Their Deaths",
+            "location": {
+                "x": 18,
+                "y": 5757
+            },
+            "size": {
+                "height": 470,
+                "width": 625
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fake Chocolate Sidesteps Cocoa’s Biggest Problems",
+            "location": {
+                "x": 18,
+                "y": 6551
+            },
+            "size": {
+                "height": 235,
+                "width": 313
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "relates to TikTok’s Viral Challenges Keep Luring Young Kids to Their Deaths",
+            "location": {
+                "x": 693,
+                "y": 1421
+            },
+            "size": {
+                "height": 400,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "relates to FTX Was an Empty Black Box All Along",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "relates to A Narrow GOP Majority Is Kevin McCarthy’s Dream/Nightmare Come True",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "relates to A Practical Way to Make Sense of All the Shocks Hammering the Global Economy",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "relates to The Crypto Story",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Goldman CEO Sounds Warning on Pay, Job Cuts (Podcast)",
+            "location": {
+                "x": 693,
+                "y": 2296
+            },
+            "size": {
+                "height": 214,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Supreme Court Draft Ruling Rejects Abortion Rights",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Trump Lost, But Falsehoods About the Capitol Riot Won",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your email",
+            "type": "email",
+            "location": {
+                "x": 693,
+                "y": 2020
+            },
+            "size": {
+                "height": 32,
+                "width": 140
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            26,
+            26,
+            26
+        ],
+        [
+            255,
+            253,
+            255
+        ]
+    ],
+    "desc": "Bloomberg Businessweek helps global leaders stay ahead with insights and in-depth analysis on the people, companies, events, and trends shaping today's complex, global economy",
+    "navbar": "US Edition\nSign In\nSubscribe\nLive Now\nMarkets\nEconomics\nIndustries\nTechnology\nPolitics\nWealth\nPursuits\nOpinion\nBusinessweek\nEquality\nMore",
+    "text": "Skip to content\nBloomberg the Company & Its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote LoginBloomberg Customer Support\n\n\n\n\n\n\nUS Edition\nSign In\nSubscribe\nLive Now\nMarkets\nEconomics\nIndustries\nTechnology\nPolitics\nWealth\nPursuits\nOpinion\nBusinessweek\nEquality\nMore\nCan Duolingo Actually Teach You Spanish?\nBy Bill Gifford\nBUSINESS\nBusinessweek\nAirbus Is Coming for Boeing’s 737\nThe proposed A220-500 narrowbody jet and the larger A321 could put the US aircraft giant—which won’t have a new plane this decade—in a bind.\nTHE BIG TAKE\n11 Hours With Sam Bankman-Fried: Inside the Bahamian Penthouse After FTX’s Fall\nBy Zeke Faux\nNew Rules of Work\nFeature\nExxon’s Exodus: Employees Have Finally Had Enough of Its Toxic Culture\nWork Shift\nNo One Likes Annual Performance Reviews—Here’s How to Get Rid of Them\nStrategies\nWhat Nonmonogamy Can Teach Moonlighters and Job Jugglers\nSolutions / Small Business\nSmall Business\nHelping the Planet With Juice, Snacks, and Booze\nSmall Business\nA Circus Finds a New Animal Trick: Holographic Lions, Elephants, and Whales\nSolutions\nA Miami Startup Sells Watersports Apparel With a Side of Advocacy\nBUSINESS\nBusinessweek\nHow Smarter, Warmer Freezers Are Boosting Ice Cream Sales for Unilever\nIt’s developing AI-enabled chill cases that help restock themselves, along with treats that stay frozen at higher temperatures.\nSmall Business Survival Guide\nSmall Business\nThe Soccer-Inspired Sport Drawing Beckham, Messi and Neymar\nSmall Business\nSmall Businesses Find a Loophole in the New Tax Law: Zelle\nSmall Business\nServing a Global Clientele With a Local Business in the Rockies\nREAD MORE\nFEATURE\nHow a Ruling Family Tipped Sri Lanka Into Economic Free Fall\nBy Matthew Campbell\nREMARKS\nTwitter Under Elon Musk Still Has to Live in Apple’s World\nA short-lived “war” against the smartphone maker revealed who really holds power in the modern tech industry.\nGOOD BUSINESS\nBusinessweek\nThe Viral List That Turned a Yale Professor Into an Enemy of the Russian State\nJeffrey Sonnenfeld has assigned grades to 1,400 companies and, in the process, highlighted the economic costs of sanctions.\nGOOD BUSINESS\nBusinessweek\nJPMorgan Is Still Trying to Fix Health Care\nAn ambitious partnership with Amazon and Berkshire Hathaway fizzled, but the biggest US bank is giving it another shot—this time on its own.\nTHE BIG TAKE\nTikTok’s Viral Challenges Keep Luring Young Kids to Their Deaths\nBy Olivia Carville\nGOOD BUSINESS\nBusinessweek\nFake Chocolate Sidesteps Cocoa’s Biggest Problems\nUpstarts that make surprisingly tasty imitation treats are touting supply chains free from ethical and environmental issues.\nIn Case You Missed It\nGOOD BUSINESS\nThe Club With a 60,000-Woman Waitlist\nGOOD BUSINESS\nThe Biggest Black-Owned Vintner Wants to Help More Women Break the (Wine) Glass Ceiling\nGOOD BUSINESS\nHow to Cash Out of a Small Business Without Selling Out\nBUSINESS\nRyanair, EasyJet Scale Back in Germany Over Airport Fees\nWORK\nForget Zoom Calls, Remote Work Startups Want to Build a Virtual Office\nINNOVATION\nA Cloud Startup Wants to Be a Crystal Ball for Farmers Everywhere\nLatest Issues\nDecember 5, 2022\nGet the Bw Daily newsletter\nSign up for unique perspectives and original reporting from the magazine’s renowned journalists, every weekday.\nSign Up\nBy submitting my information, I agree to the Privacy Policy and Terms of Service and to receive offers and promotions from Bloomberg.\nFollow Us\nFacebookTwitter\nPodcast\nGoldman CEO Sounds Warning on Pay, Job Cuts (Podcast)\nFrom Our Columnists\nA Reversal of Roe v. Wade  Might Not Save Democrats in November\nTrump Lost, But Falsehoods About the Capitol Riot Won\nTerms of Service Trademarks Privacy Policy ©2022 Bloomberg L.P. All Rights Reserved\nCareers Made in NYC Advertise Ad Choices Help",
+    "font": "BWHaasDingbat, BWHaasGroteskWeb, BWHaasText, Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 960,
+                "y": 296
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Live Now",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 32,
+                "y": 369
+            },
+            "size": {
+                "height": 14,
+                "width": 59
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "More",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 947,
+                "y": 369
+            },
+            "size": {
+                "height": 14,
+                "width": 34
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Sign Up",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 858,
+                "y": 2020
+            },
+            "size": {
+                "height": 50,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 126,
+                "y": 7944
+            },
+            "size": {
+                "height": 0,
+                "width": 12
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": false
+        }
+    ]
+}

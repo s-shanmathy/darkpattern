@@ -1,0 +1,767 @@
+{
+    "title": "Market share for mobile, browsers, operating systems and search engines | NetMarketShare",
+    "url": "netmarketshare.com",
+    "full_url": "https://netmarketshare.com/?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22browser%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22browsersDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222021-10%22%2C%22dateEnd%22%3A%222022-09%22%2C%22segments%22%3A%22-1000%22%7D",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "AND",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 452,
+                "y": 729
+            },
+            "size": {
+                "height": 34,
+                "width": 23
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 230,
+                "y": 768
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 266,
+                "y": 768
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 649,
+                "y": 812
+            },
+            "size": {
+                "height": 20,
+                "width": 4
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "search",
+            "location": {
+                "x": 831,
+                "y": 865
+            },
+            "size": {
+                "height": 23,
+                "width": 163
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Choose segments...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter segment name...",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "radio",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            221,
+            237,
+            246
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            238,
+            238,
+            238
+        ]
+    ],
+    "desc": "Market share for mobile, browsers, operating systems, search engines and social media.  Mobile market share and desktop market share data.",
+    "navbar": "",
+    "text": "Market Share Statistics for Internet Technologies\nLogin\nWhat's New\nBrowsers\nOperating Systems\nSearch Engines\nDevices\nMost Popular\nMethodology\nAbout Us\nDevelopers\nTour Page\n×\nIMPORTANT NOTICE:\nAfter 14 years of service and being used as a primary source in tens of thousands of articles and publications, we are retiring NetMarketShare in its current form. October, 2020 is the last month of data. All billing for existing accounts has been stopped. All outstanding balances are being refunded.\n\nWhy? An upcoming change in browsers (https://github.com/WICG/ua-client-hints) will break our device detection technology and will cause inaccuracies for a long period of time.\n\nIn addition, we have focused on bot detection and removal as a key part of the quality control process. It is the most complex part of our codebase. As time has gone on, it has become increasingly difficult to manage this process. So, instead of accepting increasing levels of inaccuracy, we thought it would be a good time to call it a day.\n\nThe Future\nNetMarketShare will re-emerge at some point with a focus on ecommerce trends and verifiable user data.\n\nWe want to thank everyone who used NetMarketShare over the years. This journey began with reporting on the browser wars, and was one of the most fascinating and fun products anyone could hope to work on.\n\nAll the best,\nThe NetMarketshare Team\n\nBrowser Market Share\n        \n        Monthly\n        \n\n        \n        Weekly\n        \n\n        \n        Daily\n        \n     \n        2022-12\n2022-11\n2022-10\n2022-09\n2022-08\n2022-07\n2022-06\n2022-05\n2022-04\n2022-03\n2022-02\n2022-01\n2021-12\n2021-11\n2021-10\n2021-09\n2021-08\n2021-07\n2021-06\n2021-05\n2021-04\n2021-03\n2021-02\n2021-01\n2020-12\n2020-11\n2020-10\n2020-09\n2020-08\n2020-07\n2020-06\n2020-05\n2020-04\n2020-03\n2020-02\n2020-01\n2019-12\n2019-11\n2019-10\n2019-09\n2019-08\n2019-07\n2019-06\n2019-05\n2019-04\n2019-03\n2019-02\n2019-01\n2018-12\n2018-11\n2018-10\n2018-09\n2018-08\n2018-07\n2018-06\n2018-05\n2018-04\n2018-03\n2018-02\n2018-01\n2017-12\n2017-11\n2017-10\n2017-09\n2017-08\n2017-07\n2017-06\n2017-05\n2017-04\n2017-03\n2017-02\n2017-01\n2016-12\n2016-11\n2016-10\n2016-09\n2016-08\n2016-07\n2016-06\n2016-05\n        2022-12\n2022-11\n2022-10\n2022-09\n2022-08\n2022-07\n2022-06\n2022-05\n2022-04\n2022-03\n2022-02\n2022-01\n2021-12\n2021-11\n2021-10\n2021-09\n2021-08\n2021-07\n2021-06\n2021-05\n2021-04\n2021-03\n2021-02\n2021-01\n2020-12\n2020-11\n2020-10\n2020-09\n2020-08\n2020-07\n2020-06\n2020-05\n2020-04\n2020-03\n2020-02\n2020-01\n2019-12\n2019-11\n2019-10\n2019-09\n2019-08\n2019-07\n2019-06\n2019-05\n2019-04\n2019-03\n2019-02\n2019-01\n2018-12\n2018-11\n2018-10\n2018-09\n2018-08\n2018-07\n2018-06\n2018-05\n2018-04\n2018-03\n2018-02\n2018-01\n2017-12\n2017-11\n2017-10\n2017-09\n2017-08\n2017-07\n2017-06\n2017-05\n2017-04\n2017-03\n2017-02\n2017-01\n2016-12\n2016-11\n2016-10\n2016-09\n2016-08\n2016-07\n2016-06\n2016-05\nAdd filter\nAdd group\nAND\nOR\nDelete\n        ------\n                Browser\n             Browser Version\n             Country\n             Country Code\n             Device\n             Device Type\n             Device Vendor\n             Platform\n             Platform Version\n             Search Engine\n                     in\n             not in\n        Desktop/laptop\n×\nShow\n10\n25\n50\n100\n1000\nentries\nSearch:\nBrowser Share\nNo data available in table\nShowing 0 to 0 of 0 entries\nPreviousNext\n\n\n\nTerms Privacy\nCopyright NetApplications.com © 2017",
+    "font": "\"open sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "Twitter Follow Button",
+            "src": "https://platform.twitter.com/widgets/follow_button.644279d1635fd969e87af94a98bd232b.en.html#dnt=false&id=twitter-widget-0&lang=en&screen_name=NetMarketShare&show_count=false&show_screen_name=true&size=m&time=1672957770235",
+            "location": {
+                "x": 241,
+                "y": 591
+            },
+            "size": {
+                "height": 20,
+                "width": 181
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Twitter settings iframe",
+            "src": "https://platform.twitter.com/widgets/widget_iframe.644279d1635fd969e87af94a98bd232b.html?origin=https%3A%2F%2Fnetmarketshare.com",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 150,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Twitter analytics iframe",
+            "src": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "×",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 967,
+                "y": 106
+            },
+            "size": {
+                "height": 21,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 600,
+                "y": 729
+            },
+            "size": {
+                "height": 34,
+                "width": 38
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 642,
+                "y": 729
+            },
+            "size": {
+                "height": 34,
+                "width": 37
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Add filter",
+            "bg-color": "rgba(56, 133, 211, 1)",
+            "location": {
+                "x": 828,
+                "y": 767
+            },
+            "size": {
+                "height": 22,
+                "width": 79
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Add group",
+            "bg-color": "rgba(56, 133, 211, 1)",
+            "location": {
+                "x": 908,
+                "y": 767
+            },
+            "size": {
+                "height": 22,
+                "width": 86
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(248, 172, 89, 1)",
+            "location": {
+                "x": 902,
+                "y": 805
+            },
+            "size": {
+                "height": 22,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Delete",
+            "bg-color": "rgba(248, 172, 89, 1)",
+            "location": {
+                "x": 925,
+                "y": 805
+            },
+            "size": {
+                "height": 22,
+                "width": 63
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(56, 133, 211, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(194, 194, 194, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(56, 133, 211, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(56, 133, 211, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(56, 133, 211, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(248, 172, 89, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(194, 194, 194, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(56, 133, 211, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(194, 194, 194, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

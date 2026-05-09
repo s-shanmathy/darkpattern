@@ -1,0 +1,110 @@
+{
+    "title": "Qualys SSL Labs",
+    "url": "ssllabs.com",
+    "full_url": "https://www.ssllabs.com/",
+    "images": [
+        {
+            "alt": "SSL Labs logo",
+            "location": {
+                "x": 31,
+                "y": 36
+            },
+            "size": {
+                "height": 55,
+                "width": 341
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Test your server",
+            "location": {
+                "x": 728,
+                "y": 145
+            },
+            "size": {
+                "height": 41,
+                "width": 41
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Test your browser",
+            "location": {
+                "x": 728,
+                "y": 216
+            },
+            "size": {
+                "height": 41,
+                "width": 41
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SSL Pulse",
+            "location": {
+                "x": 728,
+                "y": 287
+            },
+            "size": {
+                "height": 41,
+                "width": 41
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Documentation",
+            "location": {
+                "x": 728,
+                "y": 358
+            },
+            "size": {
+                "height": 41,
+                "width": 41
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            222,
+            28,
+            23
+        ],
+        [
+            193,
+            193,
+            193
+        ]
+    ],
+    "desc": "Bringing you the best SSL/TLS and PKI testing tools and documentation.",
+    "navbar": "Home Projects Qualys Free Trial Contact",
+    "text": "Home Projects Qualys Free Trial Contact\n\nHOW WELL DO YOU KNOW SSL?\nIf you want to learn more about the technology that protects the Internet, you’ve come to the right place.\nTest your server »\nTest your site’s certificate and configuration\nTest your browser »\nTest your browser’s SSL implementation\nSSL Pulse »\nSee how other web sites are doing\nDocumentation »\nLearn how to deploy SSL/TLS correctly\nBooks\nBulletproof SSL and TLS is a complete guide to deploying secure servers and web applications. This book, which provides comprehensive coverage of the ever-changing field of SSL/TLS and Web PKI, is intended for IT security professionals, system administrators, and developers, with the main focus on getting things done.   MORE »\nNews\nAbout SSL Labs\nSSL Labs is a collection of documents, tools and thoughts related to SSL. It's an attempt to better understand how SSL is deployed, and an attempt to make it better. I hope that, in time, SSL Labs will grow into a forum where SSL will be discussed and improved.\nSSL Labs is a non-commercial research effort, and we welcome participation from any individual and organization interested in SSL.\n-- Ivan Ristić, Qualys\nCopyright © 2009-2022 Qualys, Inc. All Rights Reserved. Terms and Conditions\nTry Qualys for free! Experience the award-winning Qualys Cloud Platform and the entire collection of Qualys Cloud Apps, including certificate security solutions.",
+    "font": "Arial, Helvetica, sans-serif",
+    "buttons": []
+}

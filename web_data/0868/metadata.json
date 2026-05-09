@@ -1,0 +1,166 @@
+{
+    "title": "Haskell Language",
+    "url": "haskell.org",
+    "full_url": "https://www.haskell.org/",
+    "images": [
+        {
+            "alt": "Equinix Metal",
+            "location": {
+                "x": 805,
+                "y": 2911
+            },
+            "size": {
+                "height": 20,
+                "width": 185
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            249,
+            249,
+            249
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "The Haskell purely functional programming language home page.",
+    "navbar": "Downloads\nCommunity\nDocumentation\nDonate",
+    "text": "Downloads\nCommunity\nDocumentation\nDonate\n\n\nAn advanced, purely functional programming language\n\nDeclarative, statically typed code.\nprimes = filterPrime [2..]\n  where filterPrime (p:xs) =\n          p : filterPrime [x | x <- xs, x `mod` p /= 0]\n\nGet Haskell\n\n\n\nTry it!\nType Haskell expressions in here.\nλ \n  Got 5 minutes?\nType help to start the tutorial.\nOr try typing these out and see what happens (click to insert):\n23 * 36 or reverse \"hello\" or foldr (:) [] [1,2,3]\n\nVideos\n\nEscape from the ivory tower: The Haskell journey, by Simon Peyton-Jones\nHaskell taketh away: limiting side effects for parallel programming, by Ryan Newton\nProduction Haskell, by Reid Draper\nHaskell Amuse-Bouche, by Mark Lentczner\nHaskell is Not For Production and Other Tales, by Katie Miller\nYour First Web Application with Spock, by Oskar Wickström\nTestimonials\nImagine AI\nImagineAI is a smart code generator written in Haskell that instantly turns your app spec into clean Django and Node source code.\nIOHK\nSmart contract systems are largely about programming languages, and when it comes to programming languages work there is no competitor to Haskell.\ne-bot7\nHaskell allows us to create powerful, reliable software with confidence. It allows us to detect unwanted behavior before it shows up in our production environment.\nfinn.no\nFINN.no is an online classified ad site, and we use Haskell in production. It allows us to express business logic with focus on correctness and we benefit greatly from the safe and joyful refactoring Haskell brings.\nStack Builders\nHaskell makes it possible to maintain an EdTech platform in 23 languages for more than 70K users from one of the largest multinational financial services corporations.\nBitnomial\nHaskell gives us huge leverage over our complex business domain while allowing us to stay nimble and innovate. The type system allows us to integrate new knowledge quickly and refactor our sizeable code base with relative ease.\nSerokell\nHaskell enables us to build reliable, performant, and maintainable applications for our clients in biotech, fintech, and blockchain.\nCalabrio\nAt Calabrio we use Haskell to build our Customer Intelligence and Analytics Platform (Calabrio Advanced Reporting). Haskell's robust typing and semantics offer us important guarantees for our data operations and processes.\nHasura\nHaskell is an ideal prototyping tool, when we want to build an MVP and get a prototype out as quickly as possible...Haskell lets us be precise when we need to be, and fast when we want to be.\nNoRedInk\nThe highest-traffic features of noredink.com are now served via Haskell. We've seen a huge performance improvement compared to what was previously doing that work as well as a massive reduction in production error rates.\nBellroy\nWe've found the stability, maintainability and performance of Haskell to be exceptional and we look forward to more of that in the years to come.\nMercury\nMercury offers banking for startups — at any size or stage. We use Haskell to meet our customers' high standards for correctness and security.\nScarf\nHaskell powers Scarf's backend, helping us move fast and not break things. It offers unparalleled maintainability, so we can quickly and safely adapt our system to the moving target of customer demands.\nFission\nHaskell enables Fission to build rock solid, maintainable, and performant services and tools.\nCentralApp\nWe use Haskell... Because solving complex problems well requires the best tools in the business.\nFoxhound Systems\nAt Foxhound Systems, we build custom software for a variety of clients. Haskell is our first choice for building production systems because it is unrivaled in the combination of developer productivity, maintainability, reliability, and performance that it offers.\n«\n»\nFeatures\nStatically typed\nEvery expression in Haskell has a type which is determined at compile time. All the types composed together by function application have to match up. If they don't, the program will be rejected by the compiler. Types become not only a form of guarantee, but a language for expressing the construction of programs.\nClick to expand\nPurely functional\nEvery function in Haskell is a function in the mathematical sense (i.e., \"pure\"). Even side-effecting IO operations are but a description of what to do, produced by pure code. There are no statements or instructions, only expressions which cannot mutate variables (local or global) nor access state like time or random numbers.\nClick to expand\nType inference\nYou don't have to explicitly write out every type in a Haskell program. Types will be inferred by unifying every type bidirectionally. However, you can write out types if you choose, or ask the compiler to write them for you for handy documentation.\nClick to expand\nConcurrent\nHaskell lends itself well to concurrent programming due to its explicit handling of effects. Its flagship compiler, GHC, comes with a high-performance parallel garbage collector and light-weight concurrency library containing a number of useful concurrency primitives and abstractions.\nClick to expand\nLazy\nFunctions don't evaluate their arguments. This means that programs can compose together very well, with the ability to write control constructs (such as if/else) just by writing normal functions. The purity of Haskell code makes it easy to fuse chains of functions together, allowing for performance benefits.\nClick to expand\nPackages\nOpen source contribution to Haskell is very active with a wide range of packages available on the public package servers.\nClick to expand\n\nSponsors\nDataDog provides powerful, customizable 24/7 metrics and monitoring integration for all of Haskell.org, and complains loudly for us when things go wrong.\nFastly's Next Generation CDN provides low latency access for all of Haskell.org's downloads and highest traffic services, including the primary Hackage server, Haskell Platform downloads, and more.\nEquinix Metal provides compute, storage, and networking resources, powering almost all of Haskell.org in several regions around the world.\nStatus.io powers https://status.haskell.org, and lets us easily tell you when we broke something.\nGalois provides infrastructure, funds, administrative resources and has historically hosted critical Haskell.org infrastructure, as well as helping the Haskell community at large with their work.\nDreamHost has teamed up to provide Haskell.org with redundant, scalable object-storage through their Dream Objects service.\nHaskell.org\nHosted and managed by Haskell.org, a 501(c)(3) non-profit.\nPsst! Looking for the wiki?\nThis is the new Haskell home page! The wiki has moved to wiki.haskell.org.\n© 2014–2022 haskell.org\n\n\nGot changes to contribute to the site?\nFork or comment on GitHub\n\nHosted on",
+    "font": "\"Source Sans Pro\", Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 34,
+                "width": 44
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "«",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": -4,
+                "y": 1219
+            },
+            "size": {
+                "height": 40,
+                "width": 17
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "»",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 995,
+                "y": 1219
+            },
+            "size": {
+                "height": 40,
+                "width": 17
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(168, 156, 200, 1)",
+            "location": {
+                "x": 460,
+                "y": 1521
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(204, 204, 204, 1)",
+            "location": {
+                "x": 486,
+                "y": 1521
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(204, 204, 204, 1)",
+            "location": {
+                "x": 512,
+                "y": 1521
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(204, 204, 204, 1)",
+            "location": {
+                "x": 538,
+                "y": 1521
+            },
+            "size": {
+                "height": 12,
+                "width": 12
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

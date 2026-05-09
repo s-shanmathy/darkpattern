@@ -1,0 +1,821 @@
+{
+    "title": "SeedLegals | UK's #1 for Funding Rounds & EMI Option Schemes",
+    "url": "seedlegals.com",
+    "full_url": "https://seedlegals.com/",
+    "images": [
+        {
+            "alt": "SeedLegals Logo",
+            "location": {
+                "x": 33,
+                "y": -994
+            },
+            "size": {
+                "height": 16,
+                "width": 140
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Angel Investors",
+            "location": {
+                "x": 33,
+                "y": -528
+            },
+            "size": {
+                "height": 43,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Vc Fund",
+            "location": {
+                "x": 33,
+                "y": -450
+            },
+            "size": {
+                "height": 40,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cohort Manager 2 New",
+            "location": {
+                "x": 33,
+                "y": -374
+            },
+            "size": {
+                "height": 50,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "SeedLegals Logo",
+            "location": {
+                "x": 25,
+                "y": 94
+            },
+            "size": {
+                "height": 17,
+                "width": 148
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Angel Investors",
+            "location": {
+                "x": 362,
+                "y": 144
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Vc Fund",
+            "location": {
+                "x": 362,
+                "y": 268
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cohort Manager 2 New",
+            "location": {
+                "x": 362,
+                "y": 394
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "en",
+            "location": {
+                "x": 647,
+                "y": 95
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Team Agreement",
+            "location": {
+                "x": 110,
+                "y": 696
+            },
+            "size": {
+                "height": 51,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Icon Rocket",
+            "location": {
+                "x": 356,
+                "y": 696
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Icon - signature",
+            "location": {
+                "x": 603,
+                "y": 696
+            },
+            "size": {
+                "height": 51,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Raise Before",
+            "location": {
+                "x": 849,
+                "y": 696
+            },
+            "size": {
+                "height": 51,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Icon - coin and hand",
+            "location": {
+                "x": 110,
+                "y": 896
+            },
+            "size": {
+                "height": 51,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Company Policies",
+            "location": {
+                "x": 356,
+                "y": 896
+            },
+            "size": {
+                "height": 51,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Seis Compliance",
+            "location": {
+                "x": 603,
+                "y": 896
+            },
+            "size": {
+                "height": 51,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cap Table",
+            "location": {
+                "x": 849,
+                "y": 896
+            },
+            "size": {
+                "height": 51,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Companies Use",
+            "location": {
+                "x": 142,
+                "y": 1275
+            },
+            "size": {
+                "height": 65,
+                "width": 65
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "No1",
+            "location": {
+                "x": 472,
+                "y": 1275
+            },
+            "size": {
+                "height": 65,
+                "width": 65
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Investment Closed",
+            "location": {
+                "x": 802,
+                "y": 1275
+            },
+            "size": {
+                "height": 65,
+                "width": 65
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shape",
+            "location": {
+                "x": 924,
+                "y": 1863
+            },
+            "size": {
+                "height": 500,
+                "width": 500
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shape",
+            "location": {
+                "x": -500,
+                "y": 2155
+            },
+            "size": {
+                "height": 500,
+                "width": 500
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shape",
+            "location": {
+                "x": 823,
+                "y": 2563
+            },
+            "size": {
+                "height": 500,
+                "width": 500
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Our customer service team",
+            "location": {
+                "x": 29,
+                "y": 3598
+            },
+            "size": {
+                "height": 76,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Our customer service team",
+            "location": {
+                "x": 92,
+                "y": 3598
+            },
+            "size": {
+                "height": 76,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Our customer service team",
+            "location": {
+                "x": 224,
+                "y": 3598
+            },
+            "size": {
+                "height": 76,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Our customer service team",
+            "location": {
+                "x": 290,
+                "y": 3598
+            },
+            "size": {
+                "height": 76,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AJ Alao",
+            "location": {
+                "x": 356,
+                "y": 3598
+            },
+            "size": {
+                "height": 76,
+                "width": 76
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Payaca",
+            "location": {
+                "x": 324,
+                "y": 4171
+            },
+            "size": {
+                "height": 38,
+                "width": 104
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Payaca",
+            "location": {
+                "x": 321,
+                "y": 4316
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Betterspace",
+            "location": {
+                "x": 755,
+                "y": 4171
+            },
+            "size": {
+                "height": 38,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Alfredo Belifiori",
+            "location": {
+                "x": 753,
+                "y": 4316
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oddbox Logo",
+            "location": {
+                "x": 54,
+                "y": 4468
+            },
+            "size": {
+                "height": 38,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Emilie Vanpoperinghe Oddbox",
+            "location": {
+                "x": 56,
+                "y": 4694
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Thalamos Logo",
+            "location": {
+                "x": 495,
+                "y": 4468
+            },
+            "size": {
+                "height": 38,
+                "width": 104
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Arden Tomison Thalamos",
+            "location": {
+                "x": 497,
+                "y": 4694
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Grapevine",
+            "location": {
+                "x": 936,
+                "y": 4468
+            },
+            "size": {
+                "height": 38,
+                "width": 51
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Jack Dow Grapevine",
+            "location": {
+                "x": 938,
+                "y": 4694
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Beulah",
+            "location": {
+                "x": 46,
+                "y": 5234
+            },
+            "size": {
+                "height": 28,
+                "width": 98
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Brolly",
+            "location": {
+                "x": 210,
+                "y": 5238
+            },
+            "size": {
+                "height": 20,
+                "width": 98
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Oddbox Transparent",
+            "location": {
+                "x": 374,
+                "y": 5232
+            },
+            "size": {
+                "height": 35,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Index Ventures",
+            "location": {
+                "x": 537,
+                "y": 5232
+            },
+            "size": {
+                "height": 33,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Seedcamp",
+            "location": {
+                "x": 701,
+                "y": 5232
+            },
+            "size": {
+                "height": 33,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Qured",
+            "location": {
+                "x": 865,
+                "y": 5233
+            },
+            "size": {
+                "height": 31,
+                "width": 98
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SeedLegal's Logo",
+            "location": {
+                "x": 25,
+                "y": 5397
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            233,
+            233,
+            254
+        ],
+        [
+            254,
+            254,
+            254
+        ]
+    ],
+    "desc": "SeedLegals is the one-stop platform for all the legals you need to start, raise and grow your company. Trusted by 35,000+ UK startups and investors.",
+    "navbar": "",
+    "text": "SeedLegals Plus: Get the best of SeedLegals for startups for £999 + VAT a year. View plans\nFounders\nInvestors\nPricing\nResources\nCompany\n020 7947 9213\nLogin\nStart Free\nSay hello to\ntransparent low fees\naward-winning service\nSeedLegals automates the legals you need to grow your business, with unlimited support along the way.\nStart free\nTalk to an expert\nI want to...\nCreate contracts\nPitch to investors\nGet SEIS/EIS assurance\nRaise before a round\nDo a funding round\nCreate EMI Scheme\nClaim R&D Tax Credits\nManage Cap Table\n50,000+\ncompanies on SeedLegals\nUK's #1\nfor funding rounds, cap tables & share option schemes\n£1.3b\nraised on SeedLegals\nThe fastest way to raise your next investment\nThe fastest way to raise before a round, close your next round, and top up after. With all the help and support you need from our team of legal and funding experts every step of the way.\nLearn more\nTerm Sheet\n£100K\n£200K\n£50K\n350K\nTotal Raising\n500K\nSign Agreement\nPatrick Ryan\nGet investment ready\nStart your company the right way with Founder and Employee agreements. Get your SEIS/EIS Advance Assurance. Protect your IP, and more.\nLearn more\nFunding Round\n5 Jun 2020\nNorman Perez Investment\n19 Aug 2019\nRosie Bryan Investment\n18 June 2019\nSeed Round\n2 May 2020\nLeila Keller Investment\n27 Apr 2019\nFilter by\nSend to HMRC\nAdvance Assurance Application\nGrow and incentivise your team\nSet up your EMI share option scheme and reward your team with share options. Manage your stakeholders with Share Transfers and more.\nLearn more\nOption Holder\nRole\nVested\n100%\n30%\n40%\n10%\nCMO\nCTO\nJerry Carson\nKyle Johnson\nSophia Bowers\nAlice Barton\nAdvisor\nDeveloper\nShare Certificate\nManage your cap table and shareholders\nTime to ditch Excel. Our full-featured cap table lets you manage unlimited shareholders, model exit scenarios, issue share certificates, transfer shares and more.\nLearn more\nEstella Black\nShares\nVotes\nShareholding\nVoting\nFully Diluted\nInvestment\n£10,000.06\nIndex Ventures\n32,560\n33.36%\nTalk to our experts\nUnlimited free support\nOur UK-based legal and accounting experts are here to support you at every stage. You can live chat, call or email us or book a call to suit you. Whether you’re getting SEIS assurance, fundraising, setting up an option scheme or something else, we’ll help you from start to finish – for SeedLegals members, unlimited support is free.\nTalk to an expert\nLoved by 35,000+ startups and investors\nFrom food to FinTech, thousands of companies use SeedLegals to start, raise and grow faster.\nI could not be a bigger supporter of the platform and simplifying an antiquated process. Love it!\nThe SeedLegals platform allows you to tell the right story, at the right time.\nLouise Doherty\nCo-founder & CEO\nWe’ve been using all of their legal docs, all the way!\nMatthew Franklin\nCo-founder & CEO\n\n\n\n\n\n\n\n\nSeedLegals actually educates founders on what everything means and what’s market standard.\nSeedLegals gets the job done in a fraction of the time, with full transparency on the process.\nArden Tomison\nFounder\nSeedLegals is designed to get you through the journey as efficiently as possible.\nJack Dow\nFounder\n\nStart your journey with us\nStart free\nTalk to an expert\nStartups made easy. Sorted.\nAbout\nContact\nCareers\nSupport\nEnglish\nFrançais (French)\nHong Kong\nSingapore\nGaeilge (Irish)\nStart\nLegal Documents\nFounder Agreements\nTeam Agreements\nStaff Handbook\nCap Table\nSEIS/EIS Advance Assurance\nRaise\nPitch to Investors\nRaise Before a Round\nDo a Funding Round\nDo a Series A Round\nInstant Investment\nRaise with Tokens\nSEIS/EIS Compliance\nGrow\nShare Option Scheme\nR&D Tax Credits\nR&D Tax Credit Calculator\nShare Transfers\nCompany Policies\nManage your board\nResources\nStartup Guides\nOption Schemes\nFunding Guides\nFind Investors\nSEIS EIS\nR&D Guides\nDeal Data\nInvestor Hub\nAbout\nPartners Community\nBecome a partner\nOur authors and experts\nCase studies\nFounder Stories\nFor Accountants\nEvents\nMedia\n© SeedLegals 2022. All Rights Reserved.\nPrivacy Policy Terms Of Service Cookie Policy Editorial Policy",
+    "font": "\"Founders Grotesk\", -apple-system, \"system-ui\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "iframes": [
+        {
+            "title": "AddThis utility frame",
+            "location": {
+                "x": 0,
+                "y": -9999
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Intercom",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 27,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 27,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

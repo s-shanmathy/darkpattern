@@ -1,0 +1,132 @@
+{
+    "title": "Arrest Records.com - Arrest Records.com",
+    "url": "arrestrecords.com",
+    "full_url": "https://www.arrestrecords.com/",
+    "images": [
+        {
+            "alt": "Guide to Consumer Complaints, Fraud, and Online Shopping Scams",
+            "location": {
+                "x": 41,
+                "y": 1266
+            },
+            "size": {
+                "height": 289,
+                "width": 433
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "These Are The Most Drugged Out Cities in America",
+            "location": {
+                "x": 536,
+                "y": 1266
+            },
+            "size": {
+                "height": 290,
+                "width": 433
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search...",
+            "type": "search",
+            "location": {
+                "x": 504,
+                "y": 421
+            },
+            "size": {
+                "height": 76,
+                "width": 706
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 0
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "First Name",
+            "type": "text",
+            "location": {
+                "x": 15,
+                "y": 145
+            },
+            "size": {
+                "height": 41,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Last Name",
+            "type": "text",
+            "location": {
+                "x": 260,
+                "y": 145
+            },
+            "size": {
+                "height": 41,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            60,
+            107
+        ],
+        [
+            245,
+            245,
+            245
+        ]
+    ],
+    "navbar": "",
+    "text": "Search over 1 billion\npublic records\nSelect State\nAlabama\n Alaska\n Arizona\n Arkansas\n California\n Colorado\n Connecticut\n Delaware\n District Of Columbia\n Florida\n Georgia\n Hawaii\n Idaho\n Illinois\n Indiana\n Iowa\n Kansas\n Kentucky\n Louisiana\n Maine\n Maryland\n Massachusetts\n Michigan\n Minnesota\n Mississippi\n Missouri\n Montana\n Nebraska\n Nevada\n New Hampshire\n New Jersey\n New Mexico\n New York\n North Carolina\n North Dakota\n Ohio\n Oklahoma\n Oregon\n Pennsylvania\n Rhode Island\n South Carolina\n South Dakota\n Tennessee\n Texas\n Utah\n Vermont\n Virginia\n Washington\n West Virginia\n Wisconsin\n Wyoming\n                             START SEARCH\nArrest Records\nBackground Checks\nPublic Records\nCriminal Records\nArrest Records Information\nLearn more about arrest records by state:\nSELECT STATE\nEvery day, thousands of crimes take place across the country. Behind every crime that is committed, lies the criminal who is capable of striking again anytime, anywhere.\nA public criminal records search is a great way to uncover a person’s past arrest records. They are a valuable resource, which allow citizens to better protect themselves and their families. Criminal background checks are informative, affordable, and easy to obtain.\nWith every background report we provide, we help you ensure the safety of loved ones, provide peace of mind or validate existing concerns, and often reveal vital information on your neighbors, friends, and potential partners.\nIf you’re ready to check someone’s background, start now. Otherwise, feel free to navigate through our database by city, state, or zip code to see crime stats in your area.\nMost Popular\nGuide to Consumer Complaints, Fraud, and Online Shopping Scams\nConsumer fraud is very common, from unscrupulous business owners to scammers and fraudsters who are trying to get access to…\nThese Are The Most Drugged Out Cities in America\nAmerica is being hit by a wave of drug deaths like never before. From Heroin to pain meds, overdoses are…\nMore Guides and Information\nYour Rights\nGuide to Consumer Complaints, Fraud, and Online Shopping Scams\nInfographic: Civil Forfeiture - The Lack of Due Process\nINFOGRAPHIC: The Militarization of our Police Forces\nVIEW MORE\nHistory\nThe 15 Most Infamous Heists of All Time\nHistory's 10 Most Brazen Prison Breaks\nThe 10 Most Famous Spies of All Time\nVIEW MORE\nSociety\nTop 15 Worst Tourist Scams You Must Be Aware of This Summer\nThe 28 Most Dangerous Prisons in America\nThe Death Penalty in the USA\nVIEW MORE\nCelebrities\n11 of the Most Famous Female Convicts\n15 Surprising Ex-Convicts (Who Made it Big)\nThe 20 Most Infamous Celebrity Mug Shots of All Time\nVIEW MORE\nArrestRecords.com © 2020 All rights reserved.",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif",
+    "iframes": [],
+    "buttons": [
+        {
+            "text": "START SEARCH",
+            "bg-color": "rgba(83, 201, 153, 1)",
+            "location": {
+                "x": 750,
+                "y": 144
+            },
+            "size": {
+                "height": 43,
+                "width": 235
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ]
+}

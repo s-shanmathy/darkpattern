@@ -1,0 +1,576 @@
+{
+    "title": "Shacknews | Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More",
+    "url": "shacknews.com",
+    "full_url": "https://www.shacknews.com/",
+    "images": [
+        {
+            "alt": "Shackpets | Available on iOS and Google Play Store",
+            "location": {
+                "x": -456,
+                "y": 0
+            },
+            "size": {
+                "height": 1920,
+                "width": 1920
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shacknews Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Shacknews Logo",
+            "location": {
+                "x": 48,
+                "y": 11
+            },
+            "size": {
+                "height": 32,
+                "width": 173
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Warhammer 40K: Darktide Review - Thou Shalt Kill",
+            "location": {
+                "x": 48,
+                "y": 88
+            },
+            "size": {
+                "height": 514,
+                "width": 914
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Crisis Core: Final Fantasy 7 Reunion review: Fair play",
+            "location": {
+                "x": 48,
+                "y": 517
+            },
+            "size": {
+                "height": 254,
+                "width": 453
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shacknews Holiday 2022 Gift Guide for Gamers",
+            "location": {
+                "x": 509,
+                "y": 517
+            },
+            "size": {
+                "height": 254,
+                "width": 453
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shackpets beats Twitter to the punch with 5 checkmarks for $8 in latest update",
+            "location": {
+                "x": 48,
+                "y": 780
+            },
+            "size": {
+                "height": 254,
+                "width": 453
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shacknews livestream schedule - Week of December 5, 2022",
+            "location": {
+                "x": 509,
+                "y": 780
+            },
+            "size": {
+                "height": 254,
+                "width": 453
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Elden Ring Version 1.08 patch notes open the Colosseums for expanded PVP",
+            "location": {
+                "x": 48,
+                "y": 1167
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TJ Denzer",
+            "location": {
+                "x": 166,
+                "y": 1277
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "GameStop (GME) Q3 2022 earnings and revenue expectations",
+            "location": {
+                "x": 48,
+                "y": 1341
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Asif Khan",
+            "location": {
+                "x": 166,
+                "y": 1451
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Listen to the GameStop (GME) Q3 2022 earnings call here",
+            "location": {
+                "x": 48,
+                "y": 1515
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Donovan Erskine",
+            "location": {
+                "x": 166,
+                "y": 1605
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Panda Global former CEO releases extended statement refuting allegations",
+            "location": {
+                "x": 48,
+                "y": 1669
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TJ Denzer",
+            "location": {
+                "x": 166,
+                "y": 1800
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mario Kart 8 Deluxe got an item selection menu alongside Booster Course Wave 3",
+            "location": {
+                "x": 48,
+                "y": 1863
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TJ Denzer",
+            "location": {
+                "x": 166,
+                "y": 1974
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Microsoft announces 10-year commitment to bring Call of Duty to Nintendo platforms",
+            "location": {
+                "x": 48,
+                "y": 2037
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Donovan Erskine",
+            "location": {
+                "x": 166,
+                "y": 2148
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Season of the Seraph Triumphs for Seraph Title - Destiny 2",
+            "location": {
+                "x": 48,
+                "y": 2211
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sam Chandler",
+            "location": {
+                "x": 166,
+                "y": 2322
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Evening Reading - December 6, 2022",
+            "location": {
+                "x": 48,
+                "y": 2386
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TJ Denzer",
+            "location": {
+                "x": 166,
+                "y": 2471
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Destiny 2: Season of the Seraph campaign walkthrough",
+            "location": {
+                "x": 48,
+                "y": 2534
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sam Chandler",
+            "location": {
+                "x": 166,
+                "y": 2625
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "ShackStream: The Stevetendo show! Episode 270",
+            "location": {
+                "x": 48,
+                "y": 2688
+            },
+            "size": {
+                "height": 57,
+                "width": 100
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Steve Tyminski",
+            "location": {
+                "x": 166,
+                "y": 2799
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chatty Emblem",
+            "location": {
+                "x": 920,
+                "y": 1088
+            },
+            "size": {
+                "height": 36,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hello, Meet Lola",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Shacknews Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Shacknews Logo",
+            "location": {
+                "x": 48,
+                "y": 3346
+            },
+            "size": {
+                "height": 32,
+                "width": 173
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Shacknews Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            17,
+            17,
+            17
+        ],
+        [
+            34,
+            34,
+            34
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "Video Game Video Reviews, Celebrity Interviews, Strategy Videos, Original Content and More",
+    "navbar": "Read by Topic",
+    "text": "\nREVIEW\nWarhammer 40K: Darktide Review - Thou Shalt Kill\nREVIEW\nFEATURE\nCrisis Core: Final Fantasy 7 Reunion review: Fair play\nFEATURE\nShacknews Holiday 2022 Gift Guide for Gamers\nNEWS\nMODOJO @ SHACKNEWS\nShackpets beats Twitter to the punch with 5 checkmarks for $8 in latest update\nVIDEO\nShacknews livestream schedule - Week of December 5, 2022\nLatest Stories\nRead by Topic\nElden Ring Version 1.08 patch notes open the Colosseums for expanded PVP\nElden Ring Version 1.08 has opened the Colosseums throughout the land for single, team, and free-for-all duels. Read up on other changes here.\nPublished \n1 hour ago\n, by \nTJ Denzer\nNEWS\n1\nGameStop (GME) Q3 2022 earnings and revenue expectations\nGameStop will release Q3 2022 financial results this afternoon, and we have compiled EPS and sales expectations.\nPublished \n1 hour ago\n, by \nAsif Khan\nGUIDE\n1\nListen to the GameStop (GME) Q3 2022 earnings call here\nHere's where you can listen to the GameStop Q3 2022 earnings call.\nPublished \n2 hours ago\n, by \nDonovan Erskine\nGUIDE\n1\nPanda Global former CEO releases extended statement refuting allegations\nFormer Panda Global CEO Dr. Alan Bunney's statement aims to dissect and address various claims and disputes about his handling of Panda Cup affairs.\nPublished \n3 hours ago\n, by \nTJ Denzer\nNEWS\n2\nMario Kart 8 Deluxe got an item selection menu alongside Booster Course Wave 3\nWhy not embrace insanity and make an all-Blue Shell race? You can as of the latest Mario Kart 8 Deluxe update.\nPublished \n4 hours ago\n, by \nTJ Denzer\nNEWS\n5\nMicrosoft announces 10-year commitment to bring Call of Duty to Nintendo platforms\nAmidst concerns about Call of Duty becoming exclusive, Microsoft says it will bring the series to Nintendo.\nPublished \n5 hours ago\n, by \nDonovan Erskine\nNEWS\n4\nSeason of the Seraph Triumphs for Seraph Title - Destiny 2\nUnlock the Seraph Title and Seal by completing all the Triumphs for Season of the Seraph in Destiny 2.\nPublished \n13 hours ago\n, by \nSam Chandler\nGUIDE\n1\nEvening Reading - December 6, 2022\nIt's nighttime in America, which means it's time for another round of Evening Reading.\nPublished \n16 hours ago\n, by \nTJ Denzer\nFEATURE\n1\nDestiny 2: Season of the Seraph campaign walkthrough\nA complete walkthrough of the Season of the Seraph campaign in Destiny 2.\nPublished \n20 hours ago\n, by \nSam Chandler\nGUIDE\n1\nShackStream: The Stevetendo show! Episode 270\nWhat better way to celebrate the holiday season than with a Super Mario RPG playthrough?\nPublished \n20 hours ago\n, by \nSteve Tyminski\nVIDEO\n1\nChatty Post of the Moment\nFortnite. Still wacky and fun. No muss signing in on a years old account. UI has changed a lot but it’s familiar if you know season pass stuff from other games. Looks pretty slick too.\nFOCUSDAILY\nTrending Articles\nMatt Taibbi's Twitter Files pull the curtain on moderation bias at social media platform [UPDATE]\nCoinbase says Apple is blocking the ability to send NFTs on iOS\nSaying goodbye to my two-year-old save file in The Long Dark\nMusk says he will be an early adopter of Neuralink brain chips\nNeed for Speed Unbound review: Shifting into reverse\nFeatured Videos\nAll\nThe Shacknews Awards 2019 - Intro\nE3 2019: Justin Roiland on dogs, mental health, and buttholes\nExclusive interview with Counter-Strike Co-creator Minh Le\nWelcome to Shacknews!\nShaq Wants You to Do it for Shacknews!\nShacknews World Championship 2018: Final - Quake\nRecent Walkthroughs\nAll\nDestiny 2 Strategy Guide\nWall of Wishes\nLegend & Master Lost Sector schedule\nAll seasons and release dates\nNew max level and Power level cap\nSeason of the Lost campaign walkthrough\nCrucible Valor ranks\nNightfall weapon rotation\nElden Ring Guides & News\nElden Ring controls & PC keybindings\nGolden Seed locations\nSacred Tear locations\nMap locations\nTurn off PVP invasions\nSmithing Stone locations\nHow to use the pouch\nFind the Wondrous Flask of Physick\nLoad More Stories\n© 1996 - 2022 Shacknews LTD.\nCompany\nAbout Shacknews\nShackpets\nContact Us\nPrivacy Policy\nTerms of Service\nDo It For Shacknews\nFacebook\nTwitter\nTwitch\nYoutube\nSubscribe",
+    "font": "\"Shack Sans\", sans-serif",
+    "buttons": []
+}

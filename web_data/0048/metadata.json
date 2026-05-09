@@ -1,0 +1,839 @@
+{
+    "title": "Diocese de Santo Ângelo",
+    "url": "diocesedesantoangelo.org",
+    "full_url": "https://www.diocesedesantoangelo.org/",
+    "images": [
+        {
+            "alt": "CAPA SITE 2023.jpg",
+            "location": {
+                "x": 14,
+                "y": 3
+            },
+            "size": {
+                "height": 220,
+                "width": 979
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 874,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "YouTube",
+            "location": {
+                "x": 910,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram",
+            "location": {
+                "x": 944,
+                "y": 116
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pastoral Carcerária realiza 20ª Jornada do Preso no Presídio de Santo Cristo",
+            "location": {
+                "x": 14,
+                "y": 1266
+            },
+            "size": {
+                "height": 414,
+                "width": 488
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SAV realiza Despertar Vocacional",
+            "location": {
+                "x": 506,
+                "y": 1266
+            },
+            "size": {
+                "height": 409,
+                "width": 488
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Paróquia de Santa Rosa celebra festa paroquial",
+            "location": {
+                "x": 14,
+                "y": 1862
+            },
+            "size": {
+                "height": 353,
+                "width": 488
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dom Liro anuncia as Nomeações e Transferências do Clero para 2023",
+            "location": {
+                "x": 506,
+                "y": 1857
+            },
+            "size": {
+                "height": 443,
+                "width": 488
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Circuit Distrct Hillsborough, NJ Tickets",
+            "location": {
+                "x": 554,
+                "y": 3299
+            },
+            "size": {
+                "height": 230,
+                "width": 439
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "KairÃ³s_logo_marca_azul_letra_branca.png",
+            "location": {
+                "x": 664,
+                "y": 3310
+            },
+            "size": {
+                "height": 140,
+                "width": 204
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CLERO DIOCESANO.png",
+            "location": {
+                "x": 60,
+                "y": 3587
+            },
+            "size": {
+                "height": 80,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "SOLIDARIEDADE.png",
+            "location": {
+                "x": 366,
+                "y": 3591
+            },
+            "size": {
+                "height": 90,
+                "width": 89
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "1526732.png",
+            "location": {
+                "x": 530,
+                "y": 3582
+            },
+            "size": {
+                "height": 90,
+                "width": 90
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "reflexÃµes_k.png",
+            "location": {
+                "x": 848,
+                "y": 3593
+            },
+            "size": {
+                "height": 70,
+                "width": 130
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Diocese logo negativo.png",
+            "location": {
+                "x": 194,
+                "y": 3598
+            },
+            "size": {
+                "height": 60,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "caaaaaro.png",
+            "location": {
+                "x": 644,
+                "y": 3577
+            },
+            "size": {
+                "height": 100,
+                "width": 169
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Fé e devoção popular - Entrevista temática com o Pe. Afonso Werle",
+            "location": {
+                "x": 28,
+                "y": 3974
+            },
+            "size": {
+                "height": 66,
+                "width": 118
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Uma Diocese Viva, uma Igreja em Ação",
+            "location": {
+                "x": 28,
+                "y": 4066
+            },
+            "size": {
+                "height": 177,
+                "width": 118
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "60 anos de evangelização nas Terras Missioneiras",
+            "location": {
+                "x": 28,
+                "y": 4268
+            },
+            "size": {
+                "height": 104,
+                "width": 118
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Como surgiu a devoção a Nossa Senhora dos Navegantes?",
+            "location": {
+                "x": 28,
+                "y": 4398
+            },
+            "size": {
+                "height": 79,
+                "width": 118
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Diocese realiza 89ª Romaria ao Santuário de Caaró",
+            "location": {
+                "x": 554,
+                "y": 3986
+            },
+            "size": {
+                "height": 246,
+                "width": 439
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pe. Lauro Büttembender celebra Jubileu Sacerdotal de Diamante",
+            "location": {
+                "x": 994,
+                "y": 3986
+            },
+            "size": {
+                "height": 246,
+                "width": 439
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Voz do Pastor: com Dom Liro Vendelino Meurer - Novembro/2022",
+            "location": {
+                "x": 14,
+                "y": 4744
+            },
+            "size": {
+                "height": 155,
+                "width": 275
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Voz do Pastor: com Dom Liro Vendelino Meurer - Outubro/2022",
+            "location": {
+                "x": 290,
+                "y": 4744
+            },
+            "size": {
+                "height": 155,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Voz do Pastor: com Dom Liro Vendelino Meurer - Setembro/2022",
+            "location": {
+                "x": 564,
+                "y": 4744
+            },
+            "size": {
+                "height": 155,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A Voz do Pastor: com Dom Liro Vendelino Meurer - Agosto/2022",
+            "location": {
+                "x": 840,
+                "y": 4744
+            },
+            "size": {
+                "height": 155,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "logo.png",
+            "location": {
+                "x": 84,
+                "y": 5476
+            },
+            "size": {
+                "height": 80,
+                "width": 84
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "CNBB-logo.png",
+            "location": {
+                "x": 234,
+                "y": 5476
+            },
+            "size": {
+                "height": 90,
+                "width": 110
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "1200px-Emblem_of_Vatican_City.svg.png",
+            "location": {
+                "x": 384,
+                "y": 5480
+            },
+            "size": {
+                "height": 90,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "logo vatican news png.png",
+            "location": {
+                "x": 534,
+                "y": 5476
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Diocese logo original.png",
+            "location": {
+                "x": 14,
+                "y": 6082
+            },
+            "size": {
+                "height": 131,
+                "width": 203
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            250,
+            250,
+            250
+        ],
+        [
+            232,
+            232,
+            232
+        ],
+        [
+            255,
+            255,
+            255
+        ]
+    ],
+    "desc": "A Diocese de Santo Ângelo nasceu no contexto da realização do Concílio Vaticano II. diocese de santo angelo",
+    "navbar": "BEM-VINDOS\nNOTÍCIAS\nDIOCESE\nPASTORAL\nPUBLICAÇÕES\nCONTATO",
+    "text": "BEM-VINDOS\nNOTÍCIAS\nDIOCESE\nPASTORAL\nPUBLICAÇÕES\nCONTATO\nAno Vocacional Nacional\n   Últimas Notícias\nDiocese de Santo Ângelo\nPastoral Carcerária realiza 20ª Jornada do Preso no Presídio de Santo Cristo\nNa quinta-feira, 01 de dezembro, foi realizado no Presídio Estadual de Santo Cristo a 20ª Jornada do Preso. De organização da Pastoral...\nDiocese de Santo Ângelo\nSAV realiza Despertar Vocacional\nNeste final de semana, dias 03 e 04 de novembro, o Serviço de Animação Vocacional - SAV realizou no Seminário Mártires das Missões, em...\nDiocese de Santo Ângelo\nParóquia de Santa Rosa celebra festa paroquial\nA Paróquia Sagrado Coração de Jesus, de Santa Rosa, celebrou no último domingo, dia 27 de novembro, a tradicional festa paroquial de...\nDiocese de Santo Ângelo\nDom Liro anuncia as Nomeações e Transferências do Clero para 2023\nNa manhã dessa quinta-feira, dia 01 de dezembro, nosso Bispo Diocesano, Dom Liro Vendelino Meurer anunciou as nomeações e transferências...\nDiocese de Santo Ângelo\nConvite para Despertar Vocacional\nEstá chegando mais um momento importante para o discernimento vocacional: O Despertar Vocacional para Meninos. O Serviço de Animação...\n1\n2\n3\n4\n5\nA Voz do Pastor\nWeb Rádio Kairós Missões\nBispos\ne Clero\nComissão Diocesana de Promoção e Tutela \nFundo \nDiocesano de Solidariedade\nPastorais\nReflexões\nDominicais\nSantuário\nDiocesano\ndo Caaró\nArtigos\nDestaques\nFé e devoção popular - Entrevista temática com o Pe. Afonso Werle\nDiocese de Santo Ângelo\nUma Diocese Viva, uma Igreja em Ação\nDiocese de Santo Ângelo\n60 anos de evangelização nas Terras Missioneiras\nDiocese de Santo Ângelo\nComo surgiu a devoção a Nossa Senhora dos Navegantes?\nDiocese de Santo Ângelo\nDiocese realiza 89ª Romaria ao Santuário de Caaró\nPe. Lauro Büttembender celebra Jubileu Sacerdotal de Diamante\nParóquias da Diocese celebram Solenidade de Corpus Christi\nDom Liro em visita ao Papa Francisco\nParóquia Sagrado Coração, de Santa Rosa, realiza Encenação da Paixão de Cristo\nVídeos\nDiocese de Santo Ângelo - PASCOM\n03:47\nA Voz do Pastor: com Dom Liro Vendelino Meurer - Novembro/2022\nO Mês de Novembro/2022 será marcado por intensas atividades em nossa Igreja e Diocese. Nosso Bispo Angelopolitano, Dom Liro V. Meurer, lembra as celebrações de Todos os Santos, no dia 01, e dos fiéis defuntos, no dia 02, celebrado com muito carinho por todo o Povo Diocesano. Também, nossa diocese é marcada com a 89ª Romaria Diocesana ao Santuário do Caaró, no dia 20, celebrando o encerramento do Ano Jubilar (60 anos da criação da Diocese) e realizando a Abertura do Ano Nacional e Diocesano das Vocações e Juventudes (2022 - 2023). Celebremos este mês com alegria, e vivendo intensamente nossa fé na vida de comunidade! #RomariaCaaró #avozdopastor #dioceseangelopolitana #AnoVocacionalNacional #AnodaJuventude\n03:55\nA Voz do Pastor: com Dom Liro Vendelino Meurer - Outubro/2022\nNeste mês de Outubro, nosso Bispo Angelopolitano lembra a caminhada do mês dedicado às Missões. Como batizados, todos somos chamados a sermos missionário! A Missão está na essência de todo o cristão, por isso, neste mês, voltemos nossa caminhada cristã para o avivamento do sentido missionário de nossa fé, e rezemos por todos aqueles que dedicam suas vidas à Missão ad gentes! #mesmissionario #avozdopastor #dioceseangelopolitana\n04:03\nA Voz do Pastor: com Dom Liro Vendelino Meurer - Setembro/2022\nNeste Mês de Setembro, nosso Bispo Angelopolitano fala sobre o mês dedicado à Bíblia. Inspirados pela sabedoria e pela Revelação das Sagradas Escrituras, estejamos sempre atentos à Vontade do Senhor, pela Justiça e fraternidade. #avozdopastor #biblia #mêsdabíblia #dioceseangelopolitana\nA Voz do Pastor: com Dom Liro Vendelino Meurer - Agosto/2022\nNeste Mês de Agosto, nosso Bispo Angelopolitano fala sobre o mês dedicado às Vocações, lembrando todo o povo que as vocações vês da oração e permanecem na oração! Rezemos por nossos Jovens no seu discernimento vocacional! #avozdopastor #vocações #mêsvocacional #dioceseangelopolitana\nParóquias\nArquivo\ndezembro de 2022 (4)\nnovembro de 2022 (14)\noutubro de 2022 (12)\nsetembro de 2022 (11)\nagosto de 2022 (16)\njulho de 2022 (10)\njunho de 2022 (14)\nmaio de 2022 (10)\nabril de 2022 (21)\nmarço de 2022 (16)\nfevereiro de 2022 (5)\njaneiro de 2022 (11)\nCÚRIA  DIOCESANA\nRua Marquês do Herval, 1113\nCEP 98801-640\nCaixa Postal 1090 - CEP 98801-610\nSanto Ângelo - RS – Brasil\nTel.: 55 3313-5263; 55 3313-5308",
+    "font": "Arial, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "Embedded Content",
+            "src": "https://www-diocesedesantoangelo-org.filesusr.com/html/4e8479_f8e47cf1558e49c83ccbc9f6efe6180d.html",
+            "location": {
+                "x": 714,
+                "y": 160
+            },
+            "size": {
+                "height": 71,
+                "width": 299
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -1
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Embedded Content",
+            "src": "https://www-diocesedesantoangelo-org.filesusr.com/html/4e8479_f8e47cf1558e49c83ccbc9f6efe6180d.html",
+            "location": {
+                "x": 624,
+                "y": 3458
+            },
+            "size": {
+                "height": 70,
+                "width": 280
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "Google Maps",
+            "src": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/912de467b7889d37daa1a8353a75842d.html?defaultLocation=0&showZoom=true&showStreetView=true&showMapType=true&language=pt&id=dataItem-kb898b8k&googleMapsScriptPath=%2Fservices%2Feditor-elements-library%2Fdist%2Fthunderbolt%2F54ffcf7fc7c8b914acf6d60cfcec4580.js&origin=https%3A%2F%2Fwww.diocesedesantoangelo.org",
+            "location": {
+                "x": 74,
+                "y": 5692
+            },
+            "size": {
+                "height": 280,
+                "width": 605
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/338083a64c975dfc0fca264ca8d9d175.html?channel=UC394p0kJ7X15XQlmNeOns4g&layout=full&theme=default",
+            "location": {
+                "x": 774,
+                "y": 6016
+            },
+            "size": {
+                "height": 55,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 410,
+                "y": 60
+            },
+            "size": {
+                "height": 0,
+                "width": 48
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 30,
+                "y": 651
+            },
+            "size": {
+                "height": 68,
+                "width": 33
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 946,
+                "y": 651
+            },
+            "size": {
+                "height": 68,
+                "width": 33
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 952,
+                "y": 4093
+            },
+            "size": {
+                "height": 31,
+                "width": 18
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 132,
+                "y": 4802
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 407,
+                "y": 4802
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 682,
+                "y": 4802
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 957,
+                "y": 4802
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1232,
+                "y": 4802
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1507,
+                "y": 4802
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 1782,
+                "y": 4802
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 948,
+                "y": 4742
+            },
+            "size": {
+                "height": 155,
+                "width": 46
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 10,
+                "y": 5272
+            },
+            "size": {
+                "height": 89,
+                "width": 45
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 954,
+                "y": 5272
+            },
+            "size": {
+                "height": 89,
+                "width": 45
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

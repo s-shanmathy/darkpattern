@@ -1,0 +1,968 @@
+{
+    "title": "Coinfirm - Blockchain Analytics",
+    "url": "coinfirm.com",
+    "full_url": "https://www.coinfirm.com/",
+    "images": [
+        {
+            "alt": "Coinfirm logo",
+            "location": {
+                "x": 20,
+                "y": 59
+            },
+            "size": {
+                "height": 51,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coinfirm logo",
+            "location": {
+                "x": 20,
+                "y": 59
+            },
+            "size": {
+                "height": 51,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Blockchain analytics",
+            "location": {
+                "x": 20,
+                "y": 510
+            },
+            "size": {
+                "height": 473,
+                "width": 485
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coinfirm friends",
+            "location": {
+                "x": 141,
+                "y": 1369
+            },
+            "size": {
+                "height": 49,
+                "width": 727
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AML Blockchain Analytics",
+            "location": {
+                "x": 215,
+                "y": 1849
+            },
+            "size": {
+                "height": 80,
+                "width": 85
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Asset Tracking",
+            "location": {
+                "x": 709,
+                "y": 1827
+            },
+            "size": {
+                "height": 80,
+                "width": 85
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Homepage charts",
+            "location": {
+                "x": 215,
+                "y": 2219
+            },
+            "size": {
+                "height": 80,
+                "width": 85
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coinfirm Analytics Header",
+            "location": {
+                "x": 4,
+                "y": 4291
+            },
+            "size": {
+                "height": 187,
+                "width": 484
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Grant Thorton and Coinfirm Partnership",
+            "location": {
+                "x": 515,
+                "y": 4223
+            },
+            "size": {
+                "height": 320,
+                "width": 481
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Compliance Insight Update Header",
+            "location": {
+                "x": 4,
+                "y": 4696
+            },
+            "size": {
+                "height": 187,
+                "width": 484
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Forbes",
+            "location": {
+                "x": 404,
+                "y": 5438
+            },
+            "size": {
+                "height": 54,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coin telegraph",
+            "location": {
+                "x": 404,
+                "y": 5538
+            },
+            "size": {
+                "height": 47,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The Washington Post",
+            "location": {
+                "x": 404,
+                "y": 5637
+            },
+            "size": {
+                "height": 38,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Coindesk",
+            "location": {
+                "x": 404,
+                "y": 5726
+            },
+            "size": {
+                "height": 38,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Business Insider",
+            "location": {
+                "x": 404,
+                "y": 5816
+            },
+            "size": {
+                "height": 62,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Aljazeera",
+            "location": {
+                "x": 404,
+                "y": 5930
+            },
+            "size": {
+                "height": 72,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Newsletter logos",
+            "location": {
+                "x": 204,
+                "y": 6451
+            },
+            "size": {
+                "height": 140,
+                "width": 600
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your e-mail address",
+            "type": "email",
+            "location": {
+                "x": 10,
+                "y": 6261
+            },
+            "size": {
+                "height": 44,
+                "width": 989
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 431,
+                "y": 6354
+            },
+            "size": {
+                "height": 40,
+                "width": 147
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            34,
+            40,
+            87
+        ],
+        [
+            248,
+            249,
+            250
+        ]
+    ],
+    "desc": "Coinfirm is the global leader in blockchain analytics and regtech for digital currencies and the blockchain-based financial ecosystem",
+    "navbar": "",
+    "text": "Sign Up\n|\nLogin\nCreating a Safer\nBlockchain Economy\nCoinfirm is the leader in blockchain analytics\nand investigations solutions.\nEXPERIENCE THE COINFIRM ANALYTICS FOR CRYPTO\nCreating a safer blockchain economy since 2016 for the new financial ecosystem\nCoinfirm leads the industry in blockchain analytics and compliance for cryptocurrency, using powerful analytics across the most comprehensive blockchain database.\nTrusted by Leading Brands Worldwide\nSEE OUR LATEST CLIENTS\nBlockchain Analytics Solutions\nOur industry-leading blockchain analytics, investigations and AML solutions are trusted to best analyse and manage risk.\nBlockchain\nAnalytics\nTransaction, wallet and clustering risk monitoring for crypto-assets.\nCoinfirm Analytics\nBlockchain Investigations\nForensic investigations and asset tracking for crypto-assets.\nC-Live\nEntity\nDue Diligence\nDetailed information about entities on the blockchain.\nEntity DD\n0\n+\nVirtual assets coverage - an industry leading 98% of the market\n0\n+\nBlockchain entities actively monitored\n0\n+\nClients across the globe trusted Coinfirm solutions\nFor Industries\nTrusted by major protocols and exchanges to banks and governments, our blockchain analytics and RegTech offerings are tailored to your organisation's needs.\nCrypto Businesses\nPlayers in the crypto ecosystem looking to streamline business with blockchain analytics and to be compliant with AML/CFT laws or trace misappropriated funds.\nRead more >\nGovernment Entities\nLaw enforcement and regulatory bodies seeking to investigate crypto crime or analyse efficacy of compliance laws.\nRead more >\nFinancial Institutions\nFIs with stringent risk management procedures needing to ensure they avoid regulatory fines and penalties.\nRead more >\nLatest Insights\nNEWS\nAML Platform To Become Coinfirm Analytics\nREAD MORE »\nDecember 6, 2022\nCOINFIRM PARTNERS\nGrant Thornton Blockchain (Cyprus) and Coinfirm Partner to Create a Safer Blockchain Economy\nREAD MORE »\nDecember 6, 2022\nCOMPLIANCE INSIGHTS\nCompliance Insight Weekly Update\nREAD MORE »\nDecember 2, 2022\nStreamline your business with Blockchain Analytics\nSolve your crypto compliance issues, speak to the leading\nBlockchain Analytics and crypto AML/CTF Experts.\nFREE CONSULTATION\nNever miss an update\nYou accept our Direct Marketing & Privacy Policies by submitting your info. Opt-out anytime.\nWe use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.OK\nPRODUCT\nCoinfirm Analytics\nAsset Tracking\nAML Oracle\nEntity Due Diligence\nCrypto Sanctions Screening\nSource of Funds\nSOLUTIONS\nAML for Crypto\nExchanges\nPayment and Wallet Providers\nBanks and Financial Institutions\nGovernment FIUs\nProtocols\nDeFi Pools\nCustodians\nGaming\nRESOURCES\nCoinfirm Academy\nCrypto Regulations\nTravel Rule\nMiCA\nFATF Guidance\nCrypto Anonymity Enhancers\nBlog\nCOMPANY\nAbout Coinfirm\nCareers\nClients\nPartner Program\nContact Us\nPrivacy Policy\nPrivacy Notice\nTerms of Use\nCoinfirm Limited\n16 Great Chapel St, London, W1F 8FL, United Kingdom\nRegistered in England: 10027965\nVAT No. GB 247 8461 74\ncontact@coinfirm.com\nThis site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.\ndesign: Hajduk Studio",
+    "font": "Times",
+    "iframes": [
+        {
+            "title": "reCAPTCHA",
+            "location": {
+                "x": 939,
+                "y": 768
+            },
+            "size": {
+                "height": 60,
+                "width": 256
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": []
+}

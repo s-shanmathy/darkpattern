@@ -1,0 +1,367 @@
+{
+    "title": "This Mama Cooks! On a Diet",
+    "url": "thismamacooks.com",
+    "full_url": "https://www.thismamacooks.com/",
+    "images": [
+        {
+            "alt": "This Mama Cooks",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 102,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "This Mama Cooks",
+            "location": {
+                "x": 611,
+                "y": 103
+            },
+            "size": {
+                "height": 35,
+                "width": 220
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "On a Diet",
+            "location": {
+                "x": 831,
+                "y": 19
+            },
+            "size": {
+                "height": 138,
+                "width": 154
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 672,
+                "y": 255
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "facebook",
+            "location": {
+                "x": 708,
+                "y": 255
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram",
+            "location": {
+                "x": 744,
+                "y": 255
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "pinterest",
+            "location": {
+                "x": 780,
+                "y": 255
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Closeup of crockpot spiral ham on a plate with slices of oranges and pineapple.",
+            "location": {
+                "x": 49,
+                "y": 271
+            },
+            "size": {
+                "height": 158,
+                "width": 275
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Dipping strawberries into a small pot of chocolate fondue on a candle warmer with bowls of strawberries in the background.",
+            "location": {
+                "x": 355,
+                "y": 271
+            },
+            "size": {
+                "height": 158,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A bowl of mashed sweet potatoes with parsnips with a wooden spoon and sprig of sage.",
+            "location": {
+                "x": 49,
+                "y": 653
+            },
+            "size": {
+                "height": 158,
+                "width": 275
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sliced smoked tri-tip on a wooden cutting board with BBQ sauce, utensils, a bowl of roast potatoes, and a checkered napkin.",
+            "location": {
+                "x": 355,
+                "y": 653
+            },
+            "size": {
+                "height": 158,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Air fryer grilled cheese sandwiches on a white plate with a red napkin and tomatoes in front of an air fryer.",
+            "location": {
+                "x": 49,
+                "y": 1035
+            },
+            "size": {
+                "height": 158,
+                "width": 275
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sliced Traeger smoked brisket on a wooden cutting board with knife, BBQ sauce, garnish, and napkin.",
+            "location": {
+                "x": 355,
+                "y": 1035
+            },
+            "size": {
+                "height": 158,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Traeger smoked ham on a wooden cutting board with serving utensils, napkins, and garnish.",
+            "location": {
+                "x": 49,
+                "y": 1417
+            },
+            "size": {
+                "height": 150,
+                "width": 275
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Place the browned pieces of pork back in the Instant Pot.",
+            "location": {
+                "x": 355,
+                "y": 1417
+            },
+            "size": {
+                "height": 150,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sweet potatoes sitting on a trivet in a Instant Pot pressure cooker.",
+            "location": {
+                "x": 49,
+                "y": 1799
+            },
+            "size": {
+                "height": 150,
+                "width": 275
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Traeger smoked pork chops on a plate with fork, lettuce, and sliced tomato.",
+            "location": {
+                "x": 355,
+                "y": 1799
+            },
+            "size": {
+                "height": 150,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Crock pot crack chicken served on hamburger buns with cherry tomatoes and veggie sticks on a gray plate.",
+            "location": {
+                "x": 49,
+                "y": 2181
+            },
+            "size": {
+                "height": 150,
+                "width": 275
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Slow Cooker Creamy Verde Chicken Chili Recipe",
+            "location": {
+                "x": 355,
+                "y": 2181
+            },
+            "size": {
+                "height": 150,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Sliced Traeger smoked brisket on a wooden cutting board with knife, BBQ sauce, garnish, and napkin.",
+            "location": {
+                "x": 49,
+                "y": 2562
+            },
+            "size": {
+                "height": 150,
+                "width": 275
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Smoked chicken drumsticks on a wooden board with small bowls of BBQ sauce.",
+            "location": {
+                "x": 355,
+                "y": 2562
+            },
+            "size": {
+                "height": 150,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            168,
+            212,
+            72
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "Recipes for whatever diet you're on. We got you covered!",
+    "navbar": "Skip to content\nHome\nAbout\nTopic Index",
+    "text": "Easy recipes for whatever diet you're on. We got you covered!\nSkip to content\nHome\nAbout\nTopic Index\nHam Dinner Menu Ideas: The 35+ Best Side Dishes\nPlanning a Southern ham dinner menu for the holidays? Here are 35+ of the best side dishes that are a perfect match for your holiday meal. Read the full article →\nWhat to Serve with Chocolate Fondue? 15 BEST Dippers & Sides\nWondering what to serve with chocolate fondue? Here are 15 of the best chocolate fondue dippers and sides. Read the full article →\nWhat to Serve with Smoked Turkey Breast – 15+ Best Sides\nWondering what to serve with smoked turkey breast? Here are 15+ of the best sides for your Thanksgiving dinner. Read the full article →\nEasy Smoked Tri-Tip Recipe\nThis smoked tri-tip recipe uses just a few simple seasonings for maximum results. This recipe uses a reverse sear to lock in the flavor. Read the full article →\nEasy Air Fryer Grilled Cheese Sandwich Recipe\nYou'll love how easy it is to make this air fryer grilled cheese sandwich recipe. You get a perfect crispy, gooey grilled cheese every time. Read the full article →\n30+ Best Side Dishes to Serve with Smoked Brisket\nLooking for sides for brisket? These 30+ side dishes make your smoked brisket main course into an amazing meal. Read the full article →\nTraeger Smoked Ham Recipe\nThis easy Traeger smoked ham recipe shows you how to cook a ham on your pellet-smoker grill. This method produces an amazing glazed ham. Read the full article →\nInstant Pot Not Heating or Working?\nIs your Instant Pot not heating or working? This guide will help you figure out the possible reasons why your pressure cooker isn't heating. Read the full article →\nWhen Is It Safe to Open My Instant Pot?\nWondering when can I open my instant pot? Tips on how to safely do a quick pressure release, natural pressure release, and water test. Read the full article →\nTraeger Smoked Pork Chops Recipe\nThis Traeger pork chops recipe gives you the perfect way to cook a delicious pork chop with a unique smoky flavor. Read the full article →\nCrock Pot Crack Chicken Recipe\nThis crock pot crack chicken recipe is a dish your family will flip over. You'll love how easy it is to make slow cooker crack chicken for dinner. Read the full article →\nWhat to Serve with Chicken Chili: 25 Best Side Dishes\nWondering what to serve with chicken chili? Here are 25 of the best side dishes that go great with your favorite white chicken chili recipe. Read the full article →\nTraeger Smoked Brisket Recipe\nThis smoked Traeger brisket recipe results in tender BBQ meat. This Traeger brisket recipe is simple and takes only 30 minutes to prep. Read the full article →\nEasy Smoked Chicken Drumsticks Recipe\nThis easy smoked chicken drumsticks recipe is made with a sweet BBQ chicken rub. Enjoy this chicken legs recipe with your favorite BBQ sauce. Read the full article →\nPost navigation\n← Older posts\nPrivacy Policy\nTypepad to Wordpress by Foliovision\nCopyright© 2004-2021. All rights reserved. This Mama Cooks! On a Diet® is a registered trademark.\nParticipant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by linking to Amazon.com.",
+    "font": "Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

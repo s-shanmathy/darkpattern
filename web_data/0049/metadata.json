@@ -1,0 +1,45 @@
+{
+    "title": "Home - Test Anything Protocol",
+    "url": "testanything.org",
+    "full_url": "https://testanything.org/",
+    "images": [
+        {
+            "alt": "Test Anything Protocol",
+            "location": {
+                "x": 191,
+                "y": 60
+            },
+            "size": {
+                "height": 135,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            248,
+            248,
+            248
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "text": "Home\nTesting with TAP\nProducers\nConsumers\nSpecification\n\nTest Anything Protocol\nTAP, the Test Anything Protocol, is a simple text-based interface between testing modules in a test harness. It decouples the reporting of errors from the presentation of the reports.\nOne of its major uses is for noise reduction; when you have a suite of many tests, making them TAP producers and using a TAP consumer to view them helps ensures that you will see everything you need to notice and diagnose breakage without being distracted by a flood of irrelevant success messages. It can assist other forms of analysis and statistics-gathering as well.\nTAP started life as part of the test harness for Perl but now has implementations in C, C++, Python, PHP, Perl, Java, JavaScript, Go, Rust, and others. Consumers and producers do not have to be written in the same language to interoperate.\nHere’s what a TAP test stream looks like:\n1..4\nok 1 - Input file opened\nnot ok 2 - First line of the input valid\nok 3 - Read the rest of the file\nnot ok 4 - Summarized correctly # TODO Not written yet\nTesting with TAP\nTesting with TAP - How to run TAP based tests in your language of choice\nTAP Development\nTAP Producers - Testing tools that generate TAP output\nTAP Consumers - Test harnesses that read TAP\nTAP Philosophy - The Tao of TAP\nTAP History - The story of TAP\nSpecifications\nTAP version 14 specification (Current)\nTAP version 13 specification\nTAP specification\nExternal Resources\nWikipedia article on TAP\nThe TAP subreddit\ngithub.com/testanything",
+    "font": "Helvetica, Arial, sans-serif",
+    "iframes": [],
+    "buttons": []
+}

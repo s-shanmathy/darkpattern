@@ -1,0 +1,1410 @@
+{
+    "title": "Post Bulletin",
+    "url": "postbulletin.com",
+    "full_url": "https://www.postbulletin.com/",
+    "images": [
+        {
+            "alt": "Post Bulletin Logo",
+            "location": {
+                "x": 448,
+                "y": 10
+            },
+            "size": {
+                "height": 40,
+                "width": 113
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Post Bulletin Logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "IMG_3664.jpg",
+            "location": {
+                "x": 324,
+                "y": 321
+            },
+            "size": {
+                "height": 183,
+                "width": 275
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mayo High School Cello (2).png",
+            "location": {
+                "x": 50,
+                "y": 589
+            },
+            "size": {
+                "height": 162,
+                "width": 244
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Century, John Marshall boys soccer",
+            "location": {
+                "x": 467,
+                "y": 589
+            },
+            "size": {
+                "height": 88,
+                "width": 132
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Christmas Classic Wrestling Tournament",
+            "location": {
+                "x": 467,
+                "y": 851
+            },
+            "size": {
+                "height": 88,
+                "width": 132
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gavel court crime stock",
+            "location": {
+                "x": 50,
+                "y": 1132
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "RPD - Death Investigation",
+            "location": {
+                "x": 282,
+                "y": 1132
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Juggling at Bear Cave Intermediate School",
+            "location": {
+                "x": 514,
+                "y": 1132
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IMG_5991.JPG",
+            "location": {
+                "x": 747,
+                "y": 1132
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3946302+wx talk (1).jpg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "StormTRACKER team",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "COVID-19 VACCINE",
+            "location": {
+                "x": 50,
+                "y": 2192
+            },
+            "size": {
+                "height": 243,
+                "width": 365
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FILE PHOTO: Demonstrators protest the killing of Patrick Lyoya in Michigan",
+            "location": {
+                "x": 456,
+                "y": 2192
+            },
+            "size": {
+                "height": 95,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Social Security statements should be reviewed for accuracy and be used to plan for retirement. (Special to The Forum)",
+            "location": {
+                "x": 456,
+                "y": 2456
+            },
+            "size": {
+                "height": 95,
+                "width": 143
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rochester Police Department RPD patch logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Post Bulletin Minute podcast logo - Silver Lake Liquor sponsor",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "092121-FLU-VACCINATION-1399.jpg",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "638feb094dd82d64de0c835d.jpg",
+            "location": {
+                "x": 101,
+                "y": 3821
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "638fb7f94dd82d64de0c26cf.jpg",
+            "location": {
+                "x": 468,
+                "y": 3821
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Red and silver glass balls with true and false written on them",
+            "location": {
+                "x": 50,
+                "y": 4092
+            },
+            "size": {
+                "height": 219,
+                "width": 328
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A baby smiles directly at a camera while being held by a smiling woman. A man smiles up at them from a couch in the background.",
+            "location": {
+                "x": 419,
+                "y": 4092
+            },
+            "size": {
+                "height": 120,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Ask SCORE column sig",
+            "location": {
+                "x": 639,
+                "y": 4092
+            },
+            "size": {
+                "height": 213,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Spring Grove coach Kody Moore.jpg",
+            "location": {
+                "x": 50,
+                "y": 4655
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hockey graphic",
+            "location": {
+                "x": 282,
+                "y": 4655
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Wrestling results graphic",
+            "location": {
+                "x": 514,
+                "y": 4655
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Hockey graphic",
+            "location": {
+                "x": 747,
+                "y": 4655
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "US-NEWS-WARNOCK-DEFEATS-WALKER-GIVING-DEMOCRATS-1-AT.jpg",
+            "location": {
+                "x": 410,
+                "y": 4970
+            },
+            "size": {
+                "height": 219,
+                "width": 328
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rochester city logo",
+            "location": {
+                "x": 779,
+                "y": 4970
+            },
+            "size": {
+                "height": 120,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mohamed Bakari Shei",
+            "location": {
+                "x": 50,
+                "y": 5513
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "3229630+trump tower.jpg",
+            "location": {
+                "x": 282,
+                "y": 5513
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Daquairus Nathaniel Black",
+            "location": {
+                "x": 514,
+                "y": 5513
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Nicholas Daniel Larson",
+            "location": {
+                "x": 747,
+                "y": 5513
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "IMG_5988.JPG",
+            "location": {
+                "x": 50,
+                "y": 6173
+            },
+            "size": {
+                "height": 219,
+                "width": 328
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Austin Dance Team",
+            "location": {
+                "x": 419,
+                "y": 6173
+            },
+            "size": {
+                "height": 120,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Day in History graphic",
+            "location": {
+                "x": 639,
+                "y": 6173
+            },
+            "size": {
+                "height": 213,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Butter Sweets 1.jpg",
+            "location": {
+                "x": 410,
+                "y": 6756
+            },
+            "size": {
+                "height": 219,
+                "width": 328
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Thanksgiving.table.5.jpg",
+            "location": {
+                "x": 779,
+                "y": 6756
+            },
+            "size": {
+                "height": 120,
+                "width": 180
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "OPED-MINDFULNESS-COMMENTARY-DMT",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "thomas-birthday-20221201",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "OPED-DEATH-ACCEPTANCE-COMMENTARY-MCT",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "OPED-SCIENCE-EDUCATION-COMMENTARY-GET",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Poetry",
+            "location": {
+                "x": 50,
+                "y": 8066
+            },
+            "size": {
+                "height": 132,
+                "width": 197
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lawrence Weru",
+            "location": {
+                "x": 287,
+                "y": 8046
+            },
+            "size": {
+                "height": 132,
+                "width": 197
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "RochesterMinute_Podcast22-LIBSYN-SP-SilverLake.jpg",
+            "location": {
+                "x": 524,
+                "y": 8046
+            },
+            "size": {
+                "height": 132,
+                "width": 197
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "JosephZak4",
+            "location": {
+                "x": 762,
+                "y": 8046
+            },
+            "size": {
+                "height": 132,
+                "width": 197
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rochester Magazine logo",
+            "location": {
+                "x": 50,
+                "y": 8663
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pulse Magazine logo",
+            "location": {
+                "x": 282,
+                "y": 8663
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "TV Listings.png",
+            "location": {
+                "x": 514,
+                "y": 8663
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Best of the Best Cover 2022.jpg",
+            "location": {
+                "x": 747,
+                "y": 8663
+            },
+            "size": {
+                "height": 141,
+                "width": 212
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Apple AppStore",
+            "location": {
+                "x": 473,
+                "y": 9136
+            },
+            "size": {
+                "height": 56,
+                "width": 238
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Google Play Badge",
+            "location": {
+                "x": 721,
+                "y": 9136
+            },
+            "size": {
+                "height": 56,
+                "width": 238
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            247,
+            247,
+            247
+        ],
+        [
+            149,
+            172,
+            207
+        ]
+    ],
+    "desc": "The Rochester Post Bulletin is your #1 source for news, weather, and sports around Rochester, Austin and throughout Minnesota.",
+    "navbar": "",
+    "text": "Sections\nShow Search\n\nREAD TODAY'S PAPER\nWednesday, December 7\n18°\nADVERTISEMENT\nBUSINESS\nUnder new ownership, Clem's Cups & Cones in Kasson aims to reopen soon\nMacario Guzman and Stephanie Ramgren are keeping the ice cream shop's name and retaining many of the same vendors.\nLOCAL\nInstruments to artwork: Mayo High School students repurpose broken cellos for fundraiser\nPREP\nJM boys soccer to hold fundraising effort at World Cup quarterfinal watch party at Peace Plaza\nPREP\nChanges coming to this year's Minnesota Christmas Wrestling Tournament\nLATEST HEADLINES\nNews, sports, opinion, and more\n1h\nCOLLEGE\nGophers football coach P.J. Fleck signs new 7-year contract\n4h\nNATIONAL\nTrump asks U.S. appeals court to block civil Jan. 6 lawsuits\n4h\nARTS AND ENTERTAINMENT\nTuba, baritone players will lead weekend holiday concert\n4h\nLOCAL\nSheila Kiscaden honored for work in state and county\n4h\nLOCAL\nThink Bank plans match — $20 at a time — for Salvation Army kettles on Thursday\nMUST READS\nLOCAL\nIowa woman charged after depositing over $37k worth of stolen checks in Fillmore County\nLOCAL\nRochester man dies from suspected overdose, police say\nLOCAL\nStewartville students are juggling a lot right now — literally\nLOCAL\nRochester Public Schools discusses reporting discrepancies with police department\nADVERTISEMENT\nSTORMTRACKER WEATHER\nWED\nDec 7\nClear\n-\n14°\nTHU\nDec 8\nMostly Cloudy\n35°\n28°\nFRI\nDec 9\nAM Snow\n34°\n30°\n0 seconds of 1 minute, 13 seconds\nMostly clear skies this afternoon\nDecember 07, 2022 11:37 AM\nWEATHER\nJohn Wheeler: The winter of 1886-87 was one of the most severe in our region\nTemperatures at weather stations all across the Dakotas and Minnesota, even as far south as Rochester, recorded temperatures well into the -40s.\nWEATHER\nSnow possible later this week\nSome accumulations possible\nMORE TOP NEWS\nNATIONAL\nWhite House calls Congress' move to rescind military's vaccine mandate 'a mistake'\nAccording to Defense Department data, 3,717 Marines, 1,816 soldiers and 2,064 sailors have been discharged for refusing to get vaccinated.\nNATIONAL\nMichigan police sued by family of slain African refugee Patrick Lyoya\nMINNESOTA\nSocial Security tax cut splits Minnesota DFLers\nLOCAL\nRochester Police Department daily incident reports: December 4-10, 2022\nWondering what the commotion was in your neighborhood? Here's a collection of daily incident reports from the week.\nLOCAL\nToday's Headlines: Survey shows 55% of voters would approve levy increase for Rochester Public Schools\nSubscribe and listen to the Post Bulletin Minute at postbulletin.com, Apple Podcasts, Spotify or Google Podcasts.\nNEWSMD\nEarly influenza season putting 'pretty significant strain' on Southeast Minnesota health care systems\nLike much of the United States, Minnesota is seeing an early wave of influenza infections this winter. Regional health providers are encouraging flu vaccinations and other measures to help prevent\nADVERTISEMENT\nOBITUARIES\nPansy Nelson\nDecember 07, 2022 05:33 PM\nMark DeNeve\nDecember 07, 2022 04:43 PM\nJeaneen Kolokythas\nDecember 07, 2022 02:13 PM\nAnne Hagler\nDecember 07, 2022 10:33 AM\nDuane Reding\nDecember 07, 2022 08:48 AM\nDeVries, Mary Ann (nee Agnew)\nDecember 06, 2022 04:33 PM\nTODAY'S POLL\nLearn about these polls here.\nHEALTH\nTest your holiday health smarts with this seasonal quiz\nTrue or false? Christmas cards can kill. Or, how about this one — during the height of the holidays, more people die from heart attacks than any other time of the year. True or false? In this\nWest Fargo girl's bout with RSV offers cautionary tale for parents\nMinnesota blood center rejoices as FDA examines easing rules on gay, bisexual male donors\nMayo Clinic Q&A: Shingles is not just blisters\nBUSINESS\nStart planning now for Small Business Saturday for next year\nWith new turf field, Rush World scores as the foundation of Rochester's soccer scene\nNew owners paid $3.72 million for a hotel on Rochester's South Broadway\nSPORTS\nSpring Grove coach looks back on state title just eluding Lions' grasp\nGirls hockey results for Tuesday, Dec. 6, 2022\nWrestling results for Tuesday, Dec. 6, 2022\nBoys hockey results for Tuesday, Dec. 6, 2022\nGET LOCAL\nGOVERNMENT AND POLITICS\nWarnock defeats Walker in Georgia runoff, giving Dems 51-49 majority\n$401 million race was nation’s most expensive\nApplications sought for Rochester Charter Commission openings\nProjected Minnesota budget surplus swells to $17.6 billion\nSupreme Court considers limiting judicial scrutiny in U.S. elections\nPUBLIC SAFETY\nNo prison time in plea deal for Rochester man facing rape charges against juveniles under 10\nTrump's company convicted of scheme to defraud tax authorities\nMinneapolis man charged in Goodhue County not competent to stand trial in kidnapping case\nNorth Mankato man charged in juvenile rape case in Dodge County\nADVERTISEMENT\nEDUCATION\nSurvey shows 55% of voters would approve levy increase for Rochester Public Schools\nThe earliest the school district could host an election on the matter would be next fall.\nSalman Masood is the first boy on the Austin Dance Team\nWashington Elementary kindergarten teacher helps students learn through study and play\nU.S. Supreme Court to hear Biden's bid to reinstate student debt plan\nHISTORY\n1972: Rochester is the state’s “Icebox” with 28 below zero\nChristmas cheer survives the start of the war\nThat's using your imagination\nCOMMUNITY\nMemories of my crumbling house on the hill\nThe Last Alarm\n1922: No additional federal income taxes are needed\nLIFESTYLE\nItalian Butter Sweets are festive, easy-to-make and delicious\nFood columnist Sarah Nasello will give away a dozen Italian Butter Sweets next week as part of her weekly SarahBakes Holiday Giveaway.\nA full house for a happy Thanksgiving\nA 'Surprise' winner in the Post Bulletin's Holiday Cookie Contest\nFor security, debit has all the convenience of credit\nOPINION\nSeth Gillihan: How to find freedom from ‘worst-case scenario’ thinking\nBy  Seth Gillihan\nCal Thomas: On turning 80\nBy  Cal Thomas\nGautam Dhingra: I have months to live. Here’s how I’ve embraced acceptance\nBy  Gautam Dhingra\nFranklin/Weinstein: American children need a higher-quality science education\nBy  Cory Franklin and Robert Weinstein\nADVERTISEMENT\nARTS & ENTERTAINMENT\nPoem: Like Bright Rainbows\nIf you're nosey about history, this book contains a body of details\nThe Walking Beat new record takes it 'Easy'\nROCHESTER IN COLOR\nBuilding a Legacy: Lawrence Weru, Student-Athlete at RCTC and Legacy Scholar\nJoin the Black Business Spotlight\nHow to 'beat back busyness'\nPODCASTS\nLISTEN: Post Bulletin Minute\nLISTEN: The Other Side of the Table\nLISTEN: The Health Variant\nLISTEN: Health Fusion\nTHE VAULT\nThis Minnesota man went missing without a trace. 7 years later, there are still no answers\nBefore there were American Legions or VFWs, Civil War veterans built this place in Minnesota\nThis tiny Minnesota town's wild legacy: 2 bank robberies, a train derailment, unsolved wildfires\nSPECIAL SECTIONS\nRochester Magazine\nPulse Magazine\nTV Listings\nBest of the Best 2022\nACCOUNT\nManage My Account\nPrivacy Policy\nTerms and Conditions\nPolicies and Standards\nNEWS\nSubscription Options\nEmail Newsletters\nE-Paper\nOur News Network\nCONTACT\nGet Help\nNews\nAdvertising\nWork with Us\nMORE\nJobsHQ\nMotors\nHomeHQ\nTwitter\nInstagram\nFacebook\n© 2022 Post Bulletin and Forum Communications Company | 1700 Greenview Dr SW, Rochester, MN 55902 | (507) 285-7600",
+    "font": "system-ui, -apple-system, \"Segoe UI\", Roboto, Ubuntu, Cantarell, Oxygen, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "iframes": [
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 154,
+                "width": 304
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "Promotion Embed",
+            "location": {
+                "x": 639,
+                "y": 3630
+            },
+            "size": {
+                "height": 269,
+                "width": 320
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 60,
+                "y": 4970
+            },
+            "size": {
+                "height": 250,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 50,
+                "y": 6707
+            },
+            "size": {
+                "height": 300,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Sections",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 20,
+                "y": 10
+            },
+            "size": {
+                "height": 40,
+                "width": 96
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Show Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 116,
+                "y": 10
+            },
+            "size": {
+                "height": 40,
+                "width": 56
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(80, 80, 80, 0.8)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 24,
+                "width": 24
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 26,
+                "width": 20
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 969,
+                "y": 8721
+            },
+            "size": {
+                "height": 26,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

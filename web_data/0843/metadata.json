@@ -1,0 +1,1227 @@
+{
+    "title": "Inter Miami CF",
+    "url": "intermiamicf.com",
+    "full_url": "https://www.intermiamicf.com/",
+    "images": [
+        {
+            "alt": "slim-alert",
+            "location": {
+                "x": 349,
+                "y": 16
+            },
+            "size": {
+                "height": 20,
+                "width": 61
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Inter Miami CF",
+            "location": {
+                "x": 16,
+                "y": 62
+            },
+            "size": {
+                "height": 38,
+                "width": 38
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "River Plate vs Millonarios",
+            "location": {
+                "x": 16,
+                "y": 1593
+            },
+            "size": {
+                "height": 261,
+                "width": 261
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2023 Season Tickets Available Now",
+            "location": {
+                "x": 16,
+                "y": 2109
+            },
+            "size": {
+                "height": 261,
+                "width": 261
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Lucky Fans to Win Prizes Thanks to Days of Giveaways Presented by Socios.com",
+            "location": {
+                "x": 0,
+                "y": 184
+            },
+            "size": {
+                "height": 568,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Inter Miami CF Holiday Gift Guide",
+            "location": {
+                "x": 0,
+                "y": 876
+            },
+            "size": {
+                "height": 279,
+                "width": 497
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Join Inter Miami CF for a FIFA World Cup QATAR 2022 Final Watch Party Presented by Florida Blue at DRV PNK Stadium on December 18",
+            "location": {
+                "x": 512,
+                "y": 876
+            },
+            "size": {
+                "height": 279,
+                "width": 497
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Inter Miami CF Launches Annual Holiday Toy Drive Presented by XBTO",
+            "location": {
+                "x": 0,
+                "y": 1215
+            },
+            "size": {
+                "height": 279,
+                "width": 279
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "fallback_logo",
+            "location": {
+                "x": 737,
+                "y": 1687
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "fallback_logo",
+            "location": {
+                "x": 641,
+                "y": 1687
+            },
+            "size": {
+                "height": 80,
+                "width": 80
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Specialty License Plates",
+            "location": {
+                "x": 16,
+                "y": 3086
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "MATCH RECAP: Inter Miami CF II Falls 1-0 on the Road in Final 2022 MLS NEXT Pro Regular Season Match ",
+            "location": {
+                "x": 16,
+                "y": 3887
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Called Up: Tyler Hall Called Up to U.S. U-17 Men’s Youth National Team",
+            "location": {
+                "x": 512,
+                "y": 3887
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Called Up: Noah Allen and Benjamin Cremaschi Called Up to the U.S. U-19 Men’s Youth National Team",
+            "location": {
+                "x": 16,
+                "y": 4217
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Called Up: Benjamin Cremaschi Called Up to Argentina U-20 National Team",
+            "location": {
+                "x": 16,
+                "y": 4611
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Inter Miami CF Academy Set to Participate in 2023 MLS NEXT Fest",
+            "location": {
+                "x": 512,
+                "y": 4611
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cremaschi Signing Marks Latest Development Pathway Success",
+            "location": {
+                "x": 16,
+                "y": 4923
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "FOLLOW US",
+            "location": {
+                "x": 16,
+                "y": 5268
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "NEWSLETTER",
+            "location": {
+                "x": 16,
+                "y": 5678
+            },
+            "size": {
+                "height": 270,
+                "width": 270
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Atlanta site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Austin site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Charlotte site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Chicago site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cincinnati site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Colorado site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Columbus site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Dallas site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "D.C. United site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Houston site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "LAFC site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "LA Galaxy site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Miami site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Minnesota site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Montreal site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Nashville site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "New England Revolution site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "NYCFC site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "NY Red Bulls site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Orlando site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Philadelphia site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Portland site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Real Salt Lake site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "San Jose site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Seattle site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Sporting KC site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "St. Louis site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Toronto site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Vancouver site address",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "major",
+            "location": {
+                "x": 16,
+                "y": 6771
+            },
+            "size": {
+                "height": 32,
+                "width": 32
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 32,
+                "y": 29
+            },
+            "size": {
+                "height": 19,
+                "width": 884
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            32,
+            29,
+            29
+        ]
+    ],
+    "desc": "Official Website of Inter Miami CF. Bringing world-class fútbol to Miami, currently playing in Major League Soccer.",
+    "navbar": "",
+    "text": "SKIP TO MAIN CONTENT\nOnly on the Apple TV app. Learn more\nShop\nClub\nRoster\nTickets\nRiver Plate vs Millonarios\nDuelo de Millonarios - Club to host Argentinian and Colombian international fútbol powerhouses for their 2023 preseason on January 14 at DRV PNK Stadium.\nSecure Your Tickets\n2023 Season Tickets Available Now\n2023 Season Tickets Available Now\nLearn More\nLucky Fans to Win Prizes Thanks to Days of Giveaways Presented by Socios.com\nInter Miami CF Holiday Gift Guide\nJoin Inter Miami CF for a FIFA World Cup QATAR 2022 Final Watch Party Presented by Florida Blue at DRV PNK Stadium on December 18\nInter Miami CF Launches Annual Holiday Toy Drive Presented by XBTO\nGet Shopping In App\nDownload Our App\nSpecialty License Plates\nReserve your Specialty License Plates Now! Pre-sale vouchers are on sale now and you can be one of the first to reserve your Inter Miami plate! Proceeds will go to the our Inter Miami CF Foundation to help fund programs geared towards youth enrichment for underserved kids in South Florida.\nMore Details\nInter Miami CF II\nMATCH RECAP: Inter Miami CF II Falls 1-0 on the Road in Final 2022 MLS NEXT Pro Regular Season Match \nCalled Up: Tyler Hall Called Up to U.S. U-17 Men’s Youth National Team\nCalled Up: Noah Allen and Benjamin Cremaschi Called Up to the U.S. U-19 Men’s Youth National Team\nAcademy\nCalled Up: Benjamin Cremaschi Called Up to Argentina U-20 National Team\nInter Miami CF Academy Set to Participate in 2023 MLS NEXT Fest\nCremaschi Signing Marks Latest Development Pathway Success\nFOLLOW US\nSocial Media\nNEWSLETTER\nSign Up\nClub Sites\nClub\nTickets\nNews\nMLSSOCCER.COM\nTerms of Service Privacy Policy Do Not Sell My Personal Information\n©2022 MLS. The Major League Soccer and MLS name and shield are registered trademarks of Major League Soccer, L.L.C. (“MLS”). The names and logos of MLS teams are registered and/or common law trademarks of MLS or are used with the permission of their owners. Any unauthorized use is forbidden.",
+    "font": "MLSTifo, Helvetica, sans-serif",
+    "iframes": [
+        {
+            "title": "Api Service",
+            "src": "https://cdns.us1.gigya.com/gs/webSdk/Api.aspx?apiKey=3_AxXNJ31jS2daRiWmfaqR9esMN64RYInXdzY0na4L9xVCoNLvGfF6GCoK31YDt4uQ&version=latest&build=13498#origin=https://www.intermiamicf.com/&gig_loggerConfig=%7B%22logLevel%22%3A0%2C%22clientMuteLevel%22%3A0%2C%22logTheme%22%3A1%7D",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 32,
+                "y": 26
+            },
+            "size": {
+                "height": 53,
+                "width": 48
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 953,
+                "y": 20
+            },
+            "size": {
+                "height": 25,
+                "width": 20
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 284,
+                "y": 52
+            },
+            "size": {
+                "height": 58,
+                "width": 36
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 961,
+                "y": 67
+            },
+            "size": {
+                "height": 29,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Club Sites",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 16,
+                "y": 6437
+            },
+            "size": {
+                "height": 48,
+                "width": 977
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Club",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 16,
+                "y": 6486
+            },
+            "size": {
+                "height": 48,
+                "width": 977
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Tickets",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 16,
+                "y": 6535
+            },
+            "size": {
+                "height": 48,
+                "width": 977
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "News",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 16,
+                "y": 6584
+            },
+            "size": {
+                "height": 48,
+                "width": 977
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "MLSSOCCER.COM",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 16,
+                "y": 6633
+            },
+            "size": {
+                "height": 48,
+                "width": 977
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

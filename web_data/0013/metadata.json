@@ -1,0 +1,594 @@
+{
+    "title": "Museum of Fine Arts Boston | Boston's Art Museum",
+    "url": "mfa.org",
+    "full_url": "https://mfa.org/",
+    "images": [
+        {
+            "alt": "Home",
+            "location": {
+                "x": 38,
+                "y": 20
+            },
+            "size": {
+                "height": 36,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Home",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A black and white photograph of a women wearing goggles and welding; repeated three times",
+            "location": {
+                "x": 0,
+                "y": 76
+            },
+            "size": {
+                "height": 568,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A red, orange, yellow, and green collage with images of women, children, men, and South America.",
+            "location": {
+                "x": 0,
+                "y": 76
+            },
+            "size": {
+                "height": 568,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Two visitors sitting on bench in front of large abstract painting featuring many geometric shapes",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Visitors standing and looking at various impressionist paintings in gallery",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A black and white photograph of a women wearing goggles and welding; repeated twice",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A red, orange, yellow, and green collage with images of women, children, men, and South America",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Two visitors sitting on bench in front of large abstract painting featuring many geometric shapes",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Visitors standing and looking at various impressionist paintings in gallery",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "band members performing in front of large crowd in Shapiro Family Courtyard",
+            "location": {
+                "x": 116,
+                "y": 827
+            },
+            "size": {
+                "height": 375,
+                "width": 375
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Singer at microphone in bright red jacket looking back towards choir with arm reaching out.",
+            "location": {
+                "x": 518,
+                "y": 827
+            },
+            "size": {
+                "height": 375,
+                "width": 375
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "A painting of a haloed Virgin Mary clothed in red and green with a haloed baby in her lap.",
+            "location": {
+                "x": 116,
+                "y": 1516
+            },
+            "size": {
+                "height": 375,
+                "width": 375
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "\"Here All Belong\" overlaid on top of grid of four artwork details: a drawing of a Black man with short hair and a mustache; a painting of a red-haired white woman with a flower in her hair; a painting of a white woman in a hat and fur coat reclining; a sculpture of an Egyptian king",
+            "location": {
+                "x": 518,
+                "y": 1516
+            },
+            "size": {
+                "height": 375,
+                "width": 375
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "view of Nubian sculpture and stele in Ancient Nubia Now exhibition",
+            "location": {
+                "x": 116,
+                "y": 2108
+            },
+            "size": {
+                "height": 375,
+                "width": 375
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "impressionist painting depicting sloped dirt road leading to town in the distance; men and cart on road",
+            "location": {
+                "x": 518,
+                "y": 2108
+            },
+            "size": {
+                "height": 375,
+                "width": 375
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "submit",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            215,
+            64,
+            20
+        ]
+    ],
+    "desc": "More than 100 galleries of art make the Museum of Fine Arts one of the top things to do in Boston and one of the best art museums in the world.",
+    "navbar": "",
+    "text": "Skip to main content\nLIFE Magazine and the Power of Photography\nTimed ticket required\nThrough 1/16/23Timed ticket required\nThrough 1/16/23Timed ticket required\npage\nHanukkah\nDecember 15\nMillennium Gospel Choir\nDecember 16 and 17\nSee Program Calendar\nArt for This Moment\nPersonal responses to the collection\nOur MFA Promise\nCreating a community where all belong\nExplore MFA Videos\nBrowse exhibition tours, artist interviews, and more\nMFA at Google Arts & Culture\nSee online exhibitions and tour collections\nSearch the Collection\nVisit Us\n465 Huntington Avenue\nBoston, Massachusetts 02115\n617-267-9300\nPlan Your Visit\nConnect with Us\nFacebook\nTwitter\nInstagram\nYoutube\nSign up for MFA Mail\nGet updates on what’s happening at the MFA, from exhibitions and programs to special events and more.\nSign Up\nFooter\nAbout\nWorking at the MFA\nPress\nAnnual Report\nContact\nPrivacy Policy\nTerms of Use\nAccessibility\nTranslate\n© 2022 Museum of Fine Arts Boston",
+    "font": "MFAGarnett-Regular, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 935,
+                "y": 0
+            },
+            "size": {
+                "height": 76,
+                "width": 36
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 80,
+                "y": 771
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 109,
+                "y": 771
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 138,
+                "y": 771
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 167,
+                "y": 771
+            },
+            "size": {
+                "height": 14,
+                "width": 14
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 196,
+                "y": 759
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 1
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

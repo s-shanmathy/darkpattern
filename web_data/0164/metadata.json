@@ -1,0 +1,857 @@
+{
+    "title": "Texas Christian University",
+    "url": "tcu.edu",
+    "full_url": "https://www.tcu.edu/",
+    "images": [
+        {
+            "alt": "Texas Christian University logo",
+            "location": {
+                "x": 57,
+                "y": 32
+            },
+            "size": {
+                "height": 51,
+                "width": 105
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Texas Christian University logo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TCU Commons overhead photo",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "A professor teaching students in an outdoor space",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TCU graduates in caps and gowns set off handheld confetti cannons",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Yellow leaves in front of Pete Wright/Tom Brown residence hall",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "TCU yell leader holding megaphone",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Fiesta Bowl",
+            "location": {
+                "x": 56,
+                "y": 127
+            },
+            "size": {
+                "height": 729,
+                "width": 911
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Zoranna Jones",
+            "location": {
+                "x": 363,
+                "y": 3248
+            },
+            "size": {
+                "height": 475,
+                "width": 299
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Horned Frogs Are Ready to Cheer for National Championship",
+            "location": {
+                "x": 159,
+                "y": 4050
+            },
+            "size": {
+                "height": 250,
+                "width": 250
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @TCU on Twitter on TCU at 1/5/23 at 9:00AM",
+            "location": {
+                "x": 106,
+                "y": 5043
+            },
+            "size": {
+                "height": 628,
+                "width": 203
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile image for TCU",
+            "location": {
+                "x": 136,
+                "y": 5073
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @TCU on Twitter on TCU at 1/1/23 at 12:25PM",
+            "location": {
+                "x": 106,
+                "y": 5671
+            },
+            "size": {
+                "height": 403,
+                "width": 203
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile image for TCU",
+            "location": {
+                "x": 136,
+                "y": 5701
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @texaschristianuniversity on Instagram on texaschristianuniversity at 12/31/22 at 5:30PM",
+            "location": {
+                "x": 106,
+                "y": 6075
+            },
+            "size": {
+                "height": 112,
+                "width": 203
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @TCU on Twitter on TCU at 1/4/23 at 3:50PM",
+            "location": {
+                "x": 309,
+                "y": 5043
+            },
+            "size": {
+                "height": 478,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile image for TCU",
+            "location": {
+                "x": 339,
+                "y": 5073
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @TCU on Twitter on TCU at 1/1/23 at 8:41AM",
+            "location": {
+                "x": 309,
+                "y": 5521
+            },
+            "size": {
+                "height": 628,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile image for TCU",
+            "location": {
+                "x": 339,
+                "y": 5551
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @TCU on Twitter on TCU at 12/31/22 at 11:28AM",
+            "location": {
+                "x": 309,
+                "y": 6150
+            },
+            "size": {
+                "height": 303,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile image for TCU",
+            "location": {
+                "x": 339,
+                "y": 6180
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @texaschristianuniversity on Instagram on texaschristianuniversity at 1/2/23 at 5:15PM",
+            "location": {
+                "x": 512,
+                "y": 5043
+            },
+            "size": {
+                "height": 112,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @TCU on Twitter on TCU at 12/31/22 at 10:16PM",
+            "location": {
+                "x": 512,
+                "y": 5155
+            },
+            "size": {
+                "height": 528,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile image for TCU",
+            "location": {
+                "x": 542,
+                "y": 5185
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @TCU on Twitter on TCU at 1/1/23 at 5:56PM",
+            "location": {
+                "x": 715,
+                "y": 5043
+            },
+            "size": {
+                "height": 353,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Profile image for TCU",
+            "location": {
+                "x": 745,
+                "y": 5073
+            },
+            "size": {
+                "height": 30,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Photo from @texaschristianuniversity on Instagram on texaschristianuniversity at 12/31/22 at 6:49PM",
+            "location": {
+                "x": 715,
+                "y": 5396
+            },
+            "size": {
+                "height": 112,
+                "width": 203
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Texas Christian University logo",
+            "location": {
+                "x": 57,
+                "y": 6692
+            },
+            "size": {
+                "height": 81,
+                "width": 171
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "dot image pixel",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 1,
+                "width": 1
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search for:",
+            "type": "search",
+            "location": {
+                "x": 113,
+                "y": 1247
+            },
+            "size": {
+                "height": 48,
+                "width": 283
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search for:",
+            "type": "submit",
+            "location": {
+                "x": 396,
+                "y": 1247
+            },
+            "size": {
+                "height": 48,
+                "width": 91
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "search this site",
+            "type": "search",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            71,
+            28,
+            117
+        ],
+        [
+            247,
+            212,
+            132
+        ]
+    ],
+    "navbar": "Skip to main content",
+    "text": "Skip to main content\nTexas Christian University\nOpen Main Menu\n\nMain Content\nTCU FOOTBALL\nWe're In\nHorned Frogs Head to CFP National Championship\nGO FROGS\nMajors & Programs\nExplore your personal path to success. Our academic program finder will guide you through your choice of 114 undergraduate areas of study and 98 graduate degrees.\nSearch for:\nBachelor's\nMaster's\nDoctorate\nNon-Degree\nCOLLEGES & SCHOOLS\nCENTERS & INSTITUTES\nSTUDY ABROAD\nThis Is TCU\n91%\nFirst-Year Student Retention\n50%\n10,523\nUndergraduate Students\nSee All Quick Facts\nLead On: Celebrating 150 Years of TCU\nRead More\nRace & Reconciliation Initiative\nRead More\n❚❚ Pause\nLead the Charge. Lead the Change.  \nOur most ambitious philanthropic goal yet\nLead On: A Campaign for TCU\nACADEMIC COMMUNITY\nThe jobs of the future are in STEM. How do we meet the needs of this growing workforce? When you have a more diverse team—diversity of thought and ideas—you actually have a more innovative team. It’s a benefit for companies to hire more diverse talent because it increases productivity overall.\n—Zoranna Jones, Ph.D., assistant dean of the College of Science & Engineering and director of the STEM Scholars Program\nMeet Future STEM Leaders\n    Latest News\nHorned Frogs Are Ready to Cheer for National Championship\nHorned Frogs Travel Miles to Celebrate College Football Playoff Win\nDaniel Pullin Named TCU President\nRead More\nUPCOMING EVENTS\nACADEMIC CALENDAR\nJAN\n9\nCFP National Championship Watch Party\n5:30pm\nEd and Rae Schollmaier Arena\nJAN\n18\nCELEBRATING DR. MARTIN LUTHER KING, JR. AT TEXAS CHRISTIAN UNIVERSITY\n12 pm\nBrown-Lupton University Union - BLUU\nJAN\n23\nA Sesquicentennial Fine Arts Spectrum\n7 pm\nVan Cliburn Concert Hall at TCU\nView All Upcoming Events\nConnect With Us\nTCU\n@TCU\nTCU\nTwitter Logo\nIn honor of the upcoming CFP National Championship, we're throwing it back to 1935 and 1938 when TCU last won a National Championship title. We're looking to make more history on Monday.😉 #TCU150 #ThrowbackThursday #NattyFrogs #GoFrogs\nReply\nRetweet\nLike\n5 Jan 2023\nTCU\n@TCU\nTCU\nTwitter Logo\nOur heartfelt thanks to Horned Frogs everywhere who believed in us all season long! Roll call, who’s joining us in L.A.?! #GoFrogs #LeadOnTCU\nReply\nRetweet\nLike\n1 Jan 2023\nTCU\n@TCU\nTCU\nTwitter Logo\nWe're not done yet 😤\nTake a look back at the @Fiesta_Bowl win and get pumped for the @CFBPlayoff! #NattyFrogs #GoFrogs stories.tcu.edu/fiesta-frogs\nReply\nRetweet\nLike\n4 Jan 2023\nTCU\n@TCU\nTCU\nTwitter Logo\nHorned Frogs thrive in the desert!🏜️ Tens of thousands of them traveled to the Fiesta Bowl to watch TCU football clinch a spot in the CFP National Championship game. We truly have the best fans! TCU thanks each and everyone of you.💜 #GoFrogs\n🔗 bit.ly/3VE02NN\nReply\nRetweet\nLike\n1 Jan 2023\nTCU\n@TCU\nTCU\nTwitter Logo\nOur Frog fam is READY TO FIESTA!🏜️ LET’S GO FROGS! #FiestaFrogs\nReply\nRetweet\nLike\n31 Dec 2022\nTCU\n@TCU\nTCU\nTwitter Logo\nHappy New Year, Horned Frogs! We couldn't have asked for a better way to kick off our 150th year than with a College Football Playoff win and a trip to the National Championship game! #GoFrogs #TCU150 #CFBPlayoff\nReply\nRetweet\nLike\n31 Dec 2022\nTCU\n@TCU\nTCU\nTwitter Logo\nWelcoming the team back home in the Fort.💜 A huge thank you to everyone who came out to support! #GoFrogs\nReply\nRetweet\nLike\n1 Jan 2023\n\n\nLOAD MORE\nTexas Christian University Homepage\n2800 South University Drive\nFort Worth, Texas 76109\n817-257-7000\nFacebook\nInstagram\nTikTok\nTwitter\nYouTube\nCampus Map\nA-Z Directory\nNews\nCalendar\nMake a Payment\nFeedback\nSitemap\nWork at TCU\nAccessibility\nNotice of Nondiscrimination\nTitle IX\nLegal Disclosures\nPrivacy\nAccreditation\nAll content © 2023 Texas Christian University. All rights reserved.",
+    "font": "\"Source Sans Pro\", sans-serif",
+    "iframes": [
+        {
+            "title": "campaign-looping-v2",
+            "src": "https://player.vimeo.com/video/565675183?h=757c378161&loop=1&transparent=0&background=1&app_id=122963",
+            "location": {
+                "x": -3,
+                "y": 2133
+            },
+            "size": {
+                "height": 386,
+                "width": 1030
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true,
+            "is_video": true
+        },
+        {
+            "title": "",
+            "src": "https://9953811.fls.doubleclick.net/activityi;src=9953811;type=allvi0;cat=texas0;ord=4975176992360;gtm=2wg120;auiddc=452298220.1672953525;u1=https%3A%2F%2Fwww.tcu.edu%2F;~oref=https%3A%2F%2Fwww.tcu.edu%2F?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        },
+        {
+            "title": "",
+            "src": "https://10357417.fls.doubleclick.net/activityi;src=10357417;type=allvi0;cat=texas0;ord=4343634046003;gtm=2wg120;auiddc=452298220.1672953525;u2=https%3A%2F%2Fwww.tcu.edu%2F;~oref=https%3A%2F%2Fwww.tcu.edu%2F?",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 4,
+                "width": 4
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false,
+            "is_video": false
+        }
+    ],
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 834,
+                "y": 48
+            },
+            "size": {
+                "height": 38,
+                "width": 50
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Open Main Menu",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 886,
+                "y": 32
+            },
+            "size": {
+                "height": 70,
+                "width": 82
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(204, 204, 204, 1)",
+            "location": {
+                "x": -195,
+                "y": 1512
+            },
+            "size": {
+                "height": 160,
+                "width": 300
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(204, 204, 204, 1)",
+            "location": {
+                "x": 775,
+                "y": 1512
+            },
+            "size": {
+                "height": 160,
+                "width": 300
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "❚❚ Pause",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 819,
+                "y": 2454
+            },
+            "size": {
+                "height": 46,
+                "width": 105
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(254, 210, 119, 1)",
+            "location": {
+                "x": 934,
+                "y": 934
+            },
+            "size": {
+                "height": 60,
+                "width": 60
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(239, 239, 239, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

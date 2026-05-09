@@ -1,0 +1,28 @@
+{
+    "title": "Xdebug - Debugger and Profiler Tool for PHP",
+    "url": "xdebug.org",
+    "full_url": "https://xdebug.org/",
+    "images": [],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            175,
+            211,
+            125
+        ],
+        [
+            232,
+            245,
+            216
+        ]
+    ],
+    "text": "Xdebug Install Documentation Report Issues GitHub\nIf you find Xdebug useful, please consider supporting the project.\nXdebug is an extension for PHP, and provides a range of features to improve the PHP development experience.\nStep Debugging\nA way to step through your code in your IDE or editor while the script is executing.\nImprovements to PHP's error reporting\nAn improved var_dump() function, stack traces for Notices, Warnings, Errors and Exceptions to highlight the code path to the error\nTracing\nWrites every function call, with arguments and invocation location to disk. Optionally also includes every variable assignment and return value for each function.\nProfiling\nAllows you, with the help of visualisation tools, to analyse the performance of your PHP application and find bottlenecks.\nCode Coverage Analysis\nTo show which parts of your code base are executed when running unit tests with PHPUnit.\nAnnouncements\n2022-12-08 - Xdebug 3.2.0 is out!\n2022-11-10 - Xdebug 3.2.0RC2 is out!\n2022-11-08 - Xdebug 3.1.6 is out!\n2022-10-10 - Xdebug 3.2.0RC1 is out!\n2022-08-24 - Xdebug 3.2.0alpha3 is out!\nSee all announcements\nXdebug is made possible through the generous support of Xdebug's business-tier sponsors:\nFind My Electric Xdebug Cloud Seiden Group Offers.com Private Packagist VEMA eG iO Supermetrics TYPO3 GmbH Tideways\nYou can also be listed as a supporter by signing up for a Business package.\nThis site and all of its contents are Copyright © 2002-2023 by Derick Rethans.\nAll rights reserved.",
+    "font": "-apple-system, \"system-ui\", \"Segoe UI\", \"IBM Plex Sans\", sans-serif",
+    "iframes": [],
+    "buttons": []
+}

@@ -1,0 +1,46 @@
+{
+    "title": "",
+    "url": "twitter.com",
+    "full_url": "https://twitter.com/",
+    "images": [],
+    "inputs": [
+        {
+            "desc": "Search Twitter",
+            "type": "text",
+            "location": {
+                "x": 144,
+                "y": 6
+            },
+            "size": {
+                "height": 42,
+                "width": 456
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            74,
+            153,
+            233
+        ],
+        [
+            250,
+            250,
+            250
+        ]
+    ],
+    "desc": "",
+    "text": "Don’t miss what’s happening\nPeople on Twitter are the first to know.\nLog in\nSign up\nFor you\nTrending\nWorld Cup\nNews\nSports\nEntertainment\nExplore\nNew to Twitter?\nSign up now to get your own personalized timeline!\nSign up with Google\nSign up with Apple\nSign up with phone or email\nBy signing up, you agree to the Terms of Service and Privacy Policy, including Cookie Use.\nTerms of Service\nPrivacy Policy\nCookie Policy\nAccessibility\nAds info\nMore\n© 2022 Twitter, Inc.",
+    "font": "Times",
+    "buttons": []
+}

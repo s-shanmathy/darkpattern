@@ -1,0 +1,886 @@
+{
+    "title": "Welcome to AGU | Advancing Earth and space science",
+    "url": "agu.org",
+    "full_url": "https://www.agu.org/",
+    "images": [
+        {
+            "alt": "AGU Trademark logo",
+            "location": {
+                "x": 21,
+                "y": 26
+            },
+            "size": {
+                "height": 44,
+                "width": 219
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Side view of Earth with stars and galaxy",
+            "location": {
+                "x": -154,
+                "y": 140
+            },
+            "size": {
+                "height": 500,
+                "width": 1316
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Iceberg with calm water and mountains",
+            "location": {
+                "x": 71,
+                "y": 455
+            },
+            "size": {
+                "height": 900,
+                "width": 1200
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Valley with steep rocky cliffs",
+            "location": {
+                "x": -96,
+                "y": 775
+            },
+            "size": {
+                "height": 800,
+                "width": 1200
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Underneath ocean with colorful corals and fish",
+            "location": {
+                "x": 628,
+                "y": 1036
+            },
+            "size": {
+                "height": 278,
+                "width": 418
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Gradient texture of canyon rocks",
+            "location": {
+                "x": -204,
+                "y": 266
+            },
+            "size": {
+                "height": 1549,
+                "width": 750
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Mountains at night with stars and galaxy",
+            "location": {
+                "x": 71,
+                "y": 1316
+            },
+            "size": {
+                "height": 800,
+                "width": 1200
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Group of attendees taking a portrait photo with honors backdrop",
+            "location": {
+                "x": -112,
+                "y": 2128
+            },
+            "size": {
+                "height": 600,
+                "width": 900
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Scale on table in the empty courtroom",
+            "location": {
+                "x": -95,
+                "y": 2804
+            },
+            "size": {
+                "height": 827,
+                "width": 700
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Two men in a field with laptop",
+            "location": {
+                "x": 204,
+                "y": 2850
+            },
+            "size": {
+                "height": 733,
+                "width": 1100
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Capitol building dome with clouds",
+            "location": {
+                "x": -345,
+                "y": 3297
+            },
+            "size": {
+                "height": 800,
+                "width": 1200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Illustration of data and global information connecting",
+            "location": {
+                "x": 254,
+                "y": 3289
+            },
+            "size": {
+                "height": 816,
+                "width": 1000
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "AGU footer",
+            "location": {
+                "x": 0,
+                "y": 4012
+            },
+            "size": {
+                "height": 350,
+                "width": 1009
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "hidden",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search our site, science across AGU, people, and more",
+            "type": "text",
+            "location": {
+                "x": 953,
+                "y": 26
+            },
+            "size": {
+                "height": 42,
+                "width": 54
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 938,
+                "y": 26
+            },
+            "size": {
+                "height": 49,
+                "width": 35
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Search our site, science across AGU, people, and more",
+            "type": "text",
+            "location": {
+                "x": 34,
+                "y": 464
+            },
+            "size": {
+                "height": 47,
+                "width": 533
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 518,
+                "y": 464
+            },
+            "size": {
+                "height": 49,
+                "width": 30
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "Search journals and abstracts",
+            "type": "text",
+            "location": {
+                "x": 31,
+                "y": 1239
+            },
+            "size": {
+                "height": 40,
+                "width": 283
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "desc": "",
+            "type": "button",
+            "location": {
+                "x": 268,
+                "y": 1239
+            },
+            "size": {
+                "height": 42,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            250,
+            250
+        ],
+        [
+            0,
+            0,
+            0
+        ]
+    ],
+    "desc": "AGU is an international, nonprofit scientific association whose mission is to promote discovery in Earth and space science for the benefit of humanity.",
+    "navbar": "MEMBERSHIP\nLOGIN\nGIVE\nToggle navigation\n",
+    "text": "MEMBERSHIP\nLOGIN\nGIVE\nToggle navigation\n\n\n\n\n\n\n\nConnect, Explore and Engage Across AGU\nJoin/Renew AGU Membership\nPublish with AGU\nAGU22 Fall Meeting\nSign up for Mentoring365\nDeveloping an Ethical Framework for Climate Intervention\nLearn about this global partnership working toward a more resilient world.\nThank You, Science!\nSubmit to the Community Science Exchange\nAGU Journals\nAGU publishes ground-breaking journals in open-access and subscription models.\nLatest Science\nKeep up with the latest information in Earth and space science.\nAGU Channels\nFollow a topic of scientific interest.\nSearch AGU Publications & Meetings\nShare Your Work\nContribute to the global conversation\nESSOAr\nAGU Books\nEos.org\nPUBLISH WITH AGU\nPublish your research in one of our highly-regarded journals and reach the global Earth and space science community and beyond.\nSCIENTIFIC MEETINGS\nOur meetings foster learning and collaboration, and promote topics that enhance perspectives across Earth and space science.\nSCIENTIFIC COMMUNICATIONS\nWe support our community through efforts to connect and engage with society to enhance the well-being of our communities and preserve the health of our planet.\nExplore Your Community\nCollege of Fellows\nSection Updates\nView Your Profile\nSEARCH FOR PEOPLE\nFind colleagues and make new connections. \nCAREERS IN ESS\nExplore positions in Earth and space science.\nAGU LEADERSHIP\nMeet the members and staff who help contribute to the advancement of AGU's goals and mission.\nDrive Change\nFind ethics and leadership best practices, engage in citizen science, and add your voice to advocacy and community-building efforts.\nDiversity, Ethics & Inclusion\nLearn how we educate, promote, and ensure responsible scientific conduct.\nThriving Earth Exchange\nAGU's Thriving Earth Exchange advances community solutions that help scientists, community leaders, and sponsors work together to solve local challenges.\nPublic Affairs\nJoin us as we help policy advocates, science communicators, and scientists raise awareness, understanding, and appreciation of Earth and space science.\nData Leadership\nDiscover how we help researchers obtain and improve skills around data and software management, preservation, and sharing.\n              Donate\nNewsroom\nAdvertise\nEos\nJobs at AGU\nCareers in Earth & Space Science\nCONTACT US\n2000 Florida Ave. NW, Washington, DC 20009\nPhone: +1 202 462 6900\nToll Free: 800 966 2481 (North America only)\nMonday-Friday from 8:30 am – 6 pm ET\n© 2022. American Geophysical Union | All rights reserved | Privacy Policy",
+    "font": "Roboto, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 31,
+                "width": 43
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "Toggle navigation",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 944,
+                "y": 35
+            },
+            "size": {
+                "height": 36,
+                "width": 44
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 893,
+                "y": 34
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 914,
+                "y": 34
+            },
+            "size": {
+                "height": 56,
+                "width": 24
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

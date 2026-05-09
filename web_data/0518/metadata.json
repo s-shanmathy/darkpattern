@@ -1,0 +1,688 @@
+{
+    "title": "Managed Cloud Hosting Platform Simplified - Cloudways",
+    "url": "cloudways.com",
+    "full_url": "https://www.cloudways.com/en/",
+    "images": [
+        {
+            "alt": "About us",
+            "location": {
+                "x": 100,
+                "y": 169
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Our Customers",
+            "location": {
+                "x": 350,
+                "y": 169
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cloudways Careers",
+            "location": {
+                "x": 100,
+                "y": 360
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cloudflare",
+            "location": {
+                "x": 350,
+                "y": 360
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Pricing",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "About us",
+            "location": {
+                "x": 100,
+                "y": 169
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cloudways Affiliate",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Our Customers",
+            "location": {
+                "x": 350,
+                "y": 169
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cloudways Careers",
+            "location": {
+                "x": 100,
+                "y": 360
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Contact Us",
+            "location": {
+                "x": 350,
+                "y": 360
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Knowledge Base",
+            "location": {
+                "x": 100,
+                "y": 169
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Blog",
+            "location": {
+                "x": 350,
+                "y": 169
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cloudways Users Group",
+            "location": {
+                "x": 100,
+                "y": 360
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Case Studies",
+            "location": {
+                "x": 350,
+                "y": 360
+            },
+            "size": {
+                "height": 50,
+                "width": 50
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cloudways Support",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cloudways Support",
+            "location": {
+                "x": 30,
+                "y": 154
+            },
+            "size": {
+                "height": 29,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Case System Status",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Case System Status",
+            "location": {
+                "x": 30,
+                "y": 209
+            },
+            "size": {
+                "height": 29,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Sales Inquiries",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Sales Inquiries",
+            "location": {
+                "x": 30,
+                "y": 264
+            },
+            "size": {
+                "height": 29,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Live Chat",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Live Chat",
+            "location": {
+                "x": 30,
+                "y": 319
+            },
+            "size": {
+                "height": 33,
+                "width": 30
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Cloudways Support",
+            "location": {
+                "x": 34,
+                "y": 3108
+            },
+            "size": {
+                "height": 381,
+                "width": 455
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "google-cloud",
+            "location": {
+                "x": 76,
+                "y": 5923
+            },
+            "size": {
+                "height": 24,
+                "width": 153
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "digital-ocean",
+            "location": {
+                "x": 311,
+                "y": 5922
+            },
+            "size": {
+                "height": 26,
+                "width": 153
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "aws",
+            "location": {
+                "x": 593,
+                "y": 5918
+            },
+            "size": {
+                "height": 35,
+                "width": 58
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "vultr",
+            "location": {
+                "x": 784,
+                "y": 5918
+            },
+            "size": {
+                "height": 35,
+                "width": 146
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "linode",
+            "location": {
+                "x": 108,
+                "y": 6045
+            },
+            "size": {
+                "height": 35,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "malcare",
+            "location": {
+                "x": 330,
+                "y": 6047
+            },
+            "size": {
+                "height": 30,
+                "width": 115
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "cloudflare",
+            "location": {
+                "x": 546,
+                "y": 6051
+            },
+            "size": {
+                "height": 22,
+                "width": 153
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "object-cache-pro",
+            "location": {
+                "x": 780,
+                "y": 6045
+            },
+            "size": {
+                "height": 34,
+                "width": 159
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Trust Pilot 5 star",
+            "location": {
+                "x": 20,
+                "y": 6949
+            },
+            "size": {
+                "height": 83,
+                "width": 161
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cloudways is a leader in WebOps Platforms on G2",
+            "location": {
+                "x": 24,
+                "y": 7054
+            },
+            "size": {
+                "height": 87,
+                "width": 67
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cloudways is a leader in WebOps Platforms on G2",
+            "location": {
+                "x": 102,
+                "y": 7054
+            },
+            "size": {
+                "height": 87,
+                "width": 67
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Cloudways is a leader in Europe WebOps Platforms on G2",
+            "location": {
+                "x": 179,
+                "y": 7059
+            },
+            "size": {
+                "height": 76,
+                "width": 67
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " US (English) ",
+            "location": {
+                "x": 36,
+                "y": 7267
+            },
+            "size": {
+                "height": 12,
+                "width": 18
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": " Spain (Español) ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": " US (English) ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": " Germany (Deutsch) ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": " Brazil (Português) ",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            8,
+            16,
+            62
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            8,
+            26,
+            91
+        ]
+    ],
+    "desc": "#1 SMB Hosting Provider on G2. Supercharge your websites with managed hosting trusted by 80,000+ businesses that demand high performance and reliability.",
+    "navbar": "Save Time and Automate WordPress Updates with SafeUpdates.LEARN MORE\nCloudways\nFeatures Pricing Affiliate Company Learn\nContact Sales Support Login START FREE",
+    "text": "Save Time and Automate WordPress Updates with SafeUpdates.LEARN MORE\nCloudways\nFeatures Pricing Affiliate Company Learn\nContact Sales Support Login START FREE\nCYBER WEEK • 40% Off on All Plans!\nUnleash the Power of Managed Cloud Hosting\nSave time & money with simple and reliable cloud hosting trusted by 80,000+ agencies, developers, and businesses that demand high performance from their websites!\nSTART FREE\nVIEW PLANS\n*3-day trial without credit card\n#1\nSMB Hosting\nProvider on G2\n73\nIndustry-leading\nNPS\n570k+\nSupercharged\nWebsites\n24/7\nReal-time\nExpert Support\nDiscover Possibilities, Not Hosting Worries\nCloudways removes the complexity of cloud hosting and lets you focus on what\nmatters most: your business!\nSimplicity That\nSaves Time\nStaging environment, managing backups, vertical scaling, or installing free SSL; every operation is a few clicks away, allowing you to get more work done in less time.\nPerformance\nWithout Bounds\nA fully optimized stack with built-in advanced cache and Cloudflare (CDN), ensures peak website performance, resulting in faster growth and less frustration.\nFlexibility\nThat Adapts\nChoice of 5 cloud providers (DigitalOcean, Linode, AWS, etc.) to unlimited websites (WordPress, PHP, etc.) on any plan gives you freedom and control over your vision.\nInnovative Platform Built to Empower Teams\nManaged hosting that help businesses unleash full potential of their websites.\nGo Live in Minutes\nA simple platform gives you the power to create and launch your websites in a matter of a few minutes, not days.\nManaged Like A Pro\nManaging your agency’s websites or the team you collaborate with is simple and efficient with Cloudways.\nScale to Success\nFaster website performance, ironclad security & 1-click scaling lets you grow your business without bounds.\nGet Higher ROI From Your Websites\nWith Cloudways, your websites are faster, more secure, and backed by 24/7\nreal-time expert support.\nOFFER ENDS SOON!\nSave Time With 24/7 Expert Support\nYou get 24/7/365 expert support for solving problems on the spot. And if you need a closer partnership, you can choose the Advanced Support add-on for enhanced support or the Premium Support add-on, which gives you access to our Senior Support Engineers, who act as an extension of your in-house team.\nEXPLORE NOW\nYour Favorite Apps, Optimized to The Max\nA highly efficient & powerful stack lies at the core of every app you launch, which means your websites are super fast and run without restraints.\nWordPress\nMagento\nLaravel\nPHP\nBest Managed Cloud Hosting for WordPress That Guarantees Success\nRemoving the complexity around cloud hosting allows you to scale your websites how you want with our managed hosting for WordPress and WooCommerce. The simple-to-use Managed Web Hosting features include advanced caches coupled with Breeze, a simplified Cloudways cache, and Cloudflare Enterprise for faster performance & added security. They all come together to provide a seamless web hosting experience.\nLEARN MORE\nHere’s Why Our Customers Love Us\nFrom 24/7 support that acts as your extended team to incredibly fast website performance, there are plenty of reasons why our users keep recommending us!\nWe encourage all startups to switch to Cloudways managed hosting platform for a hassle-free hosting experience.\nTried many plugins but real speed never really improved. Moved to Cloudways and I’m amazed at REAL speed improvements, and so the transfers begin!\nJamie Knop\n@JamieKnop\nI am using DigitalOcean Plan in Cloudways and I can confirm it is very good. Also, additional the backup with my hosting is awesome too.\nSuraj Katwal\nThe site’s loading time was greatly improved… I have a total of 14 clients on the platform and am in the process of migrating more.\nJyll S\nPresident and Founder\n\nGamechanger… completely elevated my ability to service my clients. Their support staff are extremely knowledgeable and the platform offers all the flexibility and scalability.\nWalter\nKreetiv Studio\nI wish I had discovered @Cloudways earlier. Their services and support are just amazing!\nJan Tegze\n@jantegze\nA simple management dashboard, combined with amazing chat support, reduces costs for outsourced server ops services.\nREAD THEIR STORY\nBet Hannon\nCEO BH Business Websites\nCloudways is strangely fast, literally. I mean, I don’t know why but it’s just fast.\nNathan\n@zartre\nOur Partners\nQuit Worrying About Hosting Hassles\nHost phenomenal websites on a managed platform built for digital agencies, developers, and ecommerce businesses, all backed by 24/7/365 support.\nSTART FREE TRIAL NOW\nNo credit card required\nSEE ALL PLANS\n\n\n\n\n\nProduct & Solution\nWordPress Hosting\nWooCommerce Hosting\nMagento Hosting\nPHP Hosting\nLaravel Hosting\nEcommerce Hosting\nReseller Hosting\nAffiliate Program\nAgency Partnership Program\nSupport\nOur Support\nSystem Status\nKnowledge Base\nBlog\nCase Studies & Ebooks\nCloudways Users Group\nCustomer Voice\nContact Us\nWrite For Us\n\nCompany\nAbout Us\nCareers\nCustomer Reviews\nAgency Partners\nMedia Kit\nSitemap\nTerms\nPartners\nMavericks\nPromo Code\n\nQuick Links\nBreeze – Cache\nFree SSL\nStaging Environment\nAdd-ons\nCloudflare Enterprise\nFree Website Migration\nCompare Cloudways\nCloudways vs WPEngine\nCloudways vs Kinsta\nCloudways vs Flywheel\nCloudways vs SiteGround\nCompare more\n\nJunction Business Centre, 1st Floor Sqaq Lourdes, St Julians STJ3334, Malta\nUS (English)\n© 2022 Cloudways Ltd. All rights reserved",
+    "font": "proxima_nova, Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "US (English)",
+            "bg-color": "rgba(5, 8, 38, 1)",
+            "location": {
+                "x": 20,
+                "y": 7256
+            },
+            "size": {
+                "height": 36,
+                "width": 170
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}

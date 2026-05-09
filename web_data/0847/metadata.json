@@ -1,0 +1,93 @@
+{
+    "title": "Welcome to the USInfo.org America Information Website",
+    "url": "usinfo.org",
+    "full_url": "https://usinfo.org/",
+    "images": [
+        {
+            "alt": "American Information Web",
+            "location": {
+                "x": 454,
+                "y": 75
+            },
+            "size": {
+                "height": 95,
+                "width": 347
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chinese BIG-5",
+            "location": {
+                "x": 454,
+                "y": 170
+            },
+            "size": {
+                "height": 46,
+                "width": 109
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Chinese GB",
+            "location": {
+                "x": 563,
+                "y": 170
+            },
+            "size": {
+                "height": 46,
+                "width": 102
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "English",
+            "location": {
+                "x": 665,
+                "y": 170
+            },
+            "size": {
+                "height": 46,
+                "width": 137
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            0,
+            0,
+            0
+        ],
+        [
+            247,
+            246,
+            224
+        ]
+    ],
+    "text": "Welcome to the USInfo.org American Information Website\nThis site is produced and maintained by the Information Resource Center.\nFor the American Cultural Center informational website, click here.\nOther Links: HistoryBanter.com | Face The Facts USA | Patriots History USA | Betting Sites USA\nAny questions, please email Web Master",
+    "font": "Times",
+    "iframes": [],
+    "buttons": []
+}

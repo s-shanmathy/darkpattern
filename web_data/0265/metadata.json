@@ -1,0 +1,715 @@
+{
+    "title": "Verywell Fit - Know More. Be Healthier.",
+    "url": "verywellfit.com",
+    "full_url": "https://www.verywellfit.com/",
+    "images": [
+        {
+            "alt": "Leg lift with band",
+            "location": {
+                "x": 177,
+                "y": 245
+            },
+            "size": {
+                "height": 90,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Best joggers for women",
+            "location": {
+                "x": 177,
+                "y": 526
+            },
+            "size": {
+                "height": 90,
+                "width": 90
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 0
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Holiday dinner with family",
+            "location": {
+                "x": 308,
+                "y": 204
+            },
+            "size": {
+                "height": 254,
+                "width": 381
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -1
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Marisa Moore",
+            "location": {
+                "x": 49,
+                "y": 852
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Erin",
+            "location": {
+                "x": 322,
+                "y": 852
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Vanessa Nzeh, MD, of the Verywell Family Review Board",
+            "location": {
+                "x": 49,
+                "y": 957
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Kristin McGee",
+            "location": {
+                "x": 322,
+                "y": 957
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Rachel Goldman",
+            "location": {
+                "x": 49,
+                "y": 1064
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "John Honerkamp",
+            "location": {
+                "x": 322,
+                "y": 1064
+            },
+            "size": {
+                "height": 87,
+                "width": 87
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Recipe Nutrition Calculator",
+            "location": {
+                "x": 72,
+                "y": 1308
+            },
+            "size": {
+                "height": 93,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Daily Calorie Need Calculator",
+            "location": {
+                "x": 373,
+                "y": 1303
+            },
+            "size": {
+                "height": 102,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Body Fat Percentage Calculator",
+            "location": {
+                "x": 72,
+                "y": 1446
+            },
+            "size": {
+                "height": 102,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Calories Burned by Activity",
+            "location": {
+                "x": 373,
+                "y": 1438
+            },
+            "size": {
+                "height": 118,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Daily Calories Burned",
+            "location": {
+                "x": 72,
+                "y": 1622
+            },
+            "size": {
+                "height": 77,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Walking and Running Pace Calculator",
+            "location": {
+                "x": 373,
+                "y": 1589
+            },
+            "size": {
+                "height": 144,
+                "width": 70
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Peloton",
+            "location": {
+                "x": 33,
+                "y": 2326
+            },
+            "size": {
+                "height": 217,
+                "width": 217
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "best yoga mats",
+            "location": {
+                "x": 275,
+                "y": 2326
+            },
+            "size": {
+                "height": 217,
+                "width": 217
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Commerce Photo Composite",
+            "location": {
+                "x": 518,
+                "y": 2326
+            },
+            "size": {
+                "height": 217,
+                "width": 217
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "best adjustable dumbbells",
+            "location": {
+                "x": 760,
+                "y": 2326
+            },
+            "size": {
+                "height": 217,
+                "width": 217
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "The 10 Best Sports Bras for Large Breasts of 2022",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Ryka Women's Devotion Plus 3 Walking Shoe",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The 10 Best WomenâÃÃ´s Running Shoes for Plantar Fasciitis of 2022",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Best Compression Socks",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Woman Choosing Probiotic Supplement",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "The 8 Best Food Scales of 2022",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Best Vegan Protein Powders",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Best Salmon Delivery Services of 2022",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "2021 Best Healthcare Consumer Media Brand",
+            "location": {
+                "x": 32,
+                "y": 2760
+            },
+            "size": {
+                "height": 32,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2020 World Changing Ideas",
+            "location": {
+                "x": 274,
+                "y": 2760
+            },
+            "size": {
+                "height": 32,
+                "width": 200
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2020 Trailblazer Award",
+            "location": {
+                "x": 516,
+                "y": 2760
+            },
+            "size": {
+                "height": 32,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2019 Best Consumer Health Website",
+            "location": {
+                "x": 759,
+                "y": 2760
+            },
+            "size": {
+                "height": 32,
+                "width": 200
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "Search",
+            "type": "text",
+            "location": {
+                "x": 195,
+                "y": 95
+            },
+            "size": {
+                "height": 43,
+                "width": 633
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "Enter your email",
+            "type": "email",
+            "location": {
+                "x": 32,
+                "y": 3047
+            },
+            "size": {
+                "height": 42,
+                "width": 235
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "colors": [
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            250,
+            248,
+            246
+        ],
+        [
+            0,
+            4,
+            11
+        ]
+    ],
+    "desc": "Verywell Fit is your trusted source for information on eating well and exercising. Let our expert advice, creative workouts, and delicious recipes inspire you. ",
+    "navbar": "",
+    "text": "Verywell Fit\nFitness\nNutrition\nNews\nWhat to Buy\nTools\nAbout Us\nSearch\nTrusted nutrition and fitness information when you need it most.\nKnow more, be healthier.\n150 Million\nReaders Helped Each Year\n250\nExpert Writers\n180+\nEvidence-Based Topics\nBest Knee Pain Exercises\nThe Best Joggers for Women of 2022\n6 Tips to Help Your Holiday Eating Patterns Feel More Balanced\nTRENDING\n20 Cardio Exercises Everyone Can Do at Home\n11 Chair Exercises for Seniors\n9 Vitamins and Minerals That Aid Sports Recovery\nHow Often Should You Replace Your Yoga Mat?\nOUR REVIEW BOARD\nMarisa Moore, MBA, RDN, LD\nRegistered Dietitian\nErin Pereira, PT, DPT\nPhysical Therapist\nVanessa Nzeh, MD\nInternal Medicine Physician\nKristin McGee, CPT\nYoga and Pilates Instructor\nRachel Goldman, Ph.D, FTOS\nLicensed Psychologist\nJohn Honerkamp\nRunning Coach\nOur team of board-certified physicians and healthcare professionals ensure our content is accurate, up-to-date, and inclusive.\nMEET THE TEAM\nTOOLS AND RESOURCES\nRecipe Nutrition Calculator\nDaily Calorie Need Calculator\nBody Fat Percentage Calculator\nCalories Burned by Activity\nDaily Calories Burned\nWalking and Running Pace Calculator\nLearn the Science Behind Popular Diets and Trends\nMediterranean Diet\nDASH Diet\nVegan Diet\nOUR PROMISE\nOur content empowers you wherever you are on your healthy living journey.\nREAD ABOUT OUR PROCESS\nWritten by nutrition and fitness experts and journalists\nFact-checked with science-backed research\nReviewed by physicians, registered dietitians, and fitness professionals\nUpdated to reflect the latest information\nEXPLORE THE BEST PRODUCTS\nFitness Equipment\nApparel & Shoes\nNutrition\nThe 12 Best Exercise Bikes of 2021\nThe 8 Best Yoga Mats of 2022, Tested and Reviewed\nThe 11 Best Massage Guns of 2022\nThe 7 Best Adjustable Dumbbells of 2022, Tested and Reviewed\nRECENT AWARDS\n2021 Best Healthcare Consumer Media Brand\n2020 World Changing Ideas\n2020 Trailblazer Award\n2019 Best Consumer Health Website\nVerywell Fit\nDaily Healthy Eating and Fitness Tips to Your Inbox\nSIGN UP\nFitness\nNutrition\nWhat to Buy\nNews\nMeet Our Review Board\nAbout Us\nEditorial Process\nDiversity Pledge\nPrivacy Policy\nIn the News\nAdvertise\nTerms of Use\nCareers\nContact\nDo Not Sell My Personal Information\nFollow Us\nfacebook\nflipboard\nVerywell Health\nVerywell Mind\nVerywell Family\nVerywell Fit's content is for informational and educational purposes only. Our website is not intended to be a substitute for professional medical advice, diagnosis, or treatment.\nⒸ 2022 Dotdash Media, Inc. — All rights reserved\nVerywell Fit is part of the Dotdash Meredith publishing family.",
+    "font": "\"Montserrat SemiBold\", Verdana, Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 977,
+                "y": 28
+            },
+            "size": {
+                "height": 42,
+                "width": 0
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "Search",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 955,
+                "y": 65
+            },
+            "size": {
+                "height": 22,
+                "width": 22
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 166,
+                "y": 95
+            },
+            "size": {
+                "height": 43,
+                "width": 29
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(223, 51, 28, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 16,
+                "width": 58
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "SIGN UP",
+            "bg-color": "rgba(223, 51, 28, 1)",
+            "location": {
+                "x": 266,
+                "y": 3047
+            },
+            "size": {
+                "height": 42,
+                "width": 96
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(244, 244, 244, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(21, 19, 29, 1)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "text": "",
+            "bg-color": "rgba(0, 0, 0, 0)",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ]
+}

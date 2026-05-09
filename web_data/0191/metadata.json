@@ -1,0 +1,372 @@
+{
+    "title": "Magazines, Flyers, Posters, & More Print or Digital Publishing | MagCloud",
+    "url": "magcloud.com",
+    "full_url": "https://www.magcloud.com/",
+    "images": [
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 995,
+                "y": 642
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 995,
+                "y": 687
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Pinterest",
+            "location": {
+                "x": 995,
+                "y": 732
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Instagram",
+            "location": {
+                "x": 995,
+                "y": 777
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 1
+            },
+            "is_displayed": false
+        },
+        {
+            "alt": "Magcloud",
+            "location": {
+                "x": 100,
+                "y": 0
+            },
+            "size": {
+                "height": 89,
+                "width": 89
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "standard magazine",
+            "location": {
+                "x": 84,
+                "y": 999
+            },
+            "size": {
+                "height": 420,
+                "width": 420
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "tabloid format",
+            "location": {
+                "x": 504,
+                "y": 999
+            },
+            "size": {
+                "height": 210,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "flyer format",
+            "location": {
+                "x": 715,
+                "y": 999
+            },
+            "size": {
+                "height": 210,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "poster format",
+            "location": {
+                "x": 610,
+                "y": 1233
+            },
+            "size": {
+                "height": 210,
+                "width": 210
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "She Said",
+            "location": {
+                "x": 135,
+                "y": 2830
+            },
+            "size": {
+                "height": 212,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "2017 Core Magazine ",
+            "location": {
+                "x": 336,
+                "y": 2841
+            },
+            "size": {
+                "height": 175,
+                "width": 135
+            },
+            "position": {
+                "horizontal": -1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "48 Hours In NYC!!",
+            "location": {
+                "x": 538,
+                "y": 2789
+            },
+            "size": {
+                "height": 175,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "McCutcheon Construction Kitchen 2017",
+            "location": {
+                "x": 740,
+                "y": 2815
+            },
+            "size": {
+                "height": 175,
+                "width": 135
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Facebook",
+            "location": {
+                "x": 770,
+                "y": 3939
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Twitter",
+            "location": {
+                "x": 830,
+                "y": 3939
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 1,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Pinterest",
+            "location": {
+                "x": 889,
+                "y": 3939
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        },
+        {
+            "alt": "Instagram",
+            "location": {
+                "x": 948,
+                "y": 3939
+            },
+            "size": {
+                "height": 40,
+                "width": 40
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ],
+    "inputs": [
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 1015,
+                "y": 23
+            },
+            "size": {
+                "height": 23,
+                "width": 14
+            },
+            "position": {
+                "horizontal": 2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        },
+        {
+            "desc": "",
+            "type": "text",
+            "location": {
+                "x": 0,
+                "y": 0
+            },
+            "size": {
+                "height": 0,
+                "width": 0
+            },
+            "position": {
+                "horizontal": -2,
+                "vertical": -2
+            },
+            "is_displayed": false
+        }
+    ],
+    "colors": [
+        [
+            236,
+            230,
+            225
+        ],
+        [
+            255,
+            255,
+            255
+        ],
+        [
+            248,
+            248,
+            248
+        ]
+    ],
+    "desc": "Make newsstand-quality magazines, flyers, posters, pamphlets, and more. Create print and digital versions using Adobe InDesign and Photoshop with our custom publishing platform.",
+    "navbar": "",
+    "text": "Create.\nSell.\nDistribute.\n\nGET STARTED\nBring Your Business to Life\nMagCloud has a format for all of your business and personal publishing needs. From single-sheet to multi-page magazines and brochures, choose from a range of formats including Magazine, Digest, Square, or extra-large Tabloid and Poster formats.\nMagazine\nTabloid\nFlyer\nPoster\nSEE ALL FORMATS\nSell your publication .cls-1, .cls-2 { fill: none; stroke: #ff1c1c; stroke-linecap: round; stroke-linejoin: round; } .cls-1 { stroke-width: 1.65px; } .cls-2 { stroke-width: 1.65px; }\nSell Your Publication\nWhen you upload a publication to Magcloud, you have the option to sell it online through your own Magcloud storefront. Add your own customer-facing markup, ship worldwide, and even send direct mail right from your dashboard.\nLEARN ABOUT SELLING\nFeatured Publications\nVIEW ALL\nShe Said\nby Hall Kent\n2017 Core Magazine\nby M CH\n48 Hours In NYC!!\nby _From_Dade Ivan\nMcCutcheon Construction Kitchen 2017\nby toy kern\nReady to create your project?\n© 2022 RPI Print, Inc.\nFORMATS CREATE SELL SHOP BLOG HELP TERMS PRIVACY SITEMAP\nThis site uses cookies. Continuing to use this site without changing your cookie settings means that you consent to those cookies.\nLearn more How to turn off cookies OKAY, GOT IT",
+    "font": "Helvetica, Arial, sans-serif",
+    "buttons": [
+        {
+            "text": "SEE ALL FORMATS",
+            "bg-color": "rgba(255, 255, 255, 1)",
+            "location": {
+                "x": 372,
+                "y": 1527
+            },
+            "size": {
+                "height": 52,
+                "width": 266
+            },
+            "position": {
+                "horizontal": 0,
+                "vertical": 2
+            },
+            "is_displayed": true
+        }
+    ]
+}
